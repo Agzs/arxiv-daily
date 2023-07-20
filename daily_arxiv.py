@@ -342,7 +342,7 @@ def json_to_md(filename,md_filename,
             
             #Add: back to top
             if use_b2t:
-                top_info = f"#Updated on {DateNow}"
+                top_info = f"#updated on {DateNow}"
                 top_info = top_info.replace(' ','-').replace('.','')
                 f.write(f"<p align=right>(<a href={top_info}>back to top</a>)</p>\n\n")
             
