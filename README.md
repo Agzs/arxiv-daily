@@ -207,12 +207,12 @@
 
 <p align=right>(<a href=#updated-on-20230719>back to top</a>)</p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/Vincentqyw/arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/Vincentqyw/arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/Vincentqyw/arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/Vincentqyw/arxiv-daily/issues
+[contributors-shield]: https://img.shields.io/github/contributors/agzs/arxiv-daily.svg?style=for-the-badge
+[contributors-url]: https://github.com/agzs/arxiv-daily/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/agzs/arxiv-daily.svg?style=for-the-badge
+[forks-url]: https://github.com/agzs/arxiv-daily/network/members
+[stars-shield]: https://img.shields.io/github/stars/agzs/arxiv-daily.svg?style=for-the-badge
+[stars-url]: https://github.com/agzs/arxiv-daily/stargazers
+[issues-shield]: https://img.shields.io/github/issues/agzs/arxiv-daily.svg?style=for-the-badge
+[issues-url]: https://github.com/agzs/arxiv-daily/issues
 

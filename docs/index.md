@@ -190,12 +190,12 @@ layout: default
 |**2023-05-26**|**Location-aware Verification for Autonomous Truck Platooning Based on Blockchain and Zero-knowledge Proof**|Wanxin Li et.al.|[2305.16868](http://arxiv.org/abs/2305.16868)|null|
 |**2023-05-17**|**Towards Data Redaction in Bitcoin**|Vincenzo Botta et.al.|[2305.10075](http://arxiv.org/abs/2305.10075)|null|
 
-[contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/arxiv-daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/Vincentqyw/arxiv-daily/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/arxiv-daily.svg?style=for-the-badge
-[forks-url]: https://github.com/Vincentqyw/arxiv-daily/network/members
-[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/arxiv-daily.svg?style=for-the-badge
-[stars-url]: https://github.com/Vincentqyw/arxiv-daily/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/arxiv-daily.svg?style=for-the-badge
-[issues-url]: https://github.com/Vincentqyw/arxiv-daily/issues
+[contributors-shield]: https://img.shields.io/github/contributors/agzs/arxiv-daily.svg?style=for-the-badge
+[contributors-url]: https://github.com/agzs/arxiv-daily/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/agzs/arxiv-daily.svg?style=for-the-badge
+[forks-url]: https://github.com/agzs/arxiv-daily/network/members
+[stars-shield]: https://img.shields.io/github/stars/agzs/arxiv-daily.svg?style=for-the-badge
+[stars-url]: https://github.com/agzs/arxiv-daily/stargazers
+[issues-shield]: https://img.shields.io/github/issues/agzs/arxiv-daily.svg?style=for-the-badge
+[issues-url]: https://github.com/agzs/arxiv-daily/issues
 
