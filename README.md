@@ -156,6 +156,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**Blockchain-Based Federated Learning: Incentivizing Data Sharing and Penalizing Dishonest Behavior**|Amir Jaberzadeh et.al.|[2307.10492](http://arxiv.org/abs/2307.10492)|null|
 |**2023-07-18**|**Need-driven decision-making and prototyping for DLT: Framework and web-based tool**|Tomas Bueno Momčilović et.al.|[2307.09188](http://arxiv.org/abs/2307.09188)|null|
 |**2023-07-18**|**A Federated learning model for Electric Energy management using Blockchain Technology**|Muhammad Shoaib Farooq et.al.|[2307.09080](http://arxiv.org/abs/2307.09080)|null|
 |**2023-07-18**|**CONTRACTFIX: A Framework for Automatically Fixing Vulnerabilities in Smart Contracts**|Pengcheng Fang et.al.|[2307.08912](http://arxiv.org/abs/2307.08912)|null|
