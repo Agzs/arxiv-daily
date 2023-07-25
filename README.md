@@ -156,6 +156,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-23**|**On the (De)centralization of FruitChains**|Aikaterini-Panagiota Stouka et.al.|[2307.12422](http://arxiv.org/abs/2307.12422)|null|
+|**2023-07-23**|**Content Censorship in the InterPlanetary File System**|Srivatsan Sridhar et.al.|[2307.12212](http://arxiv.org/abs/2307.12212)|null|
+|**2023-07-22**|**Blockchain-based Cloud Data Deduplication Scheme with Fair Incentives**|Mallikarjun Reddy Dorsala et.al.|[2307.12052](http://arxiv.org/abs/2307.12052)|null|
 |**2023-07-19**|**Blockchain-Based Federated Learning: Incentivizing Data Sharing and Penalizing Dishonest Behavior**|Amir Jaberzadeh et.al.|[2307.10492](http://arxiv.org/abs/2307.10492)|null|
 |**2023-07-18**|**Need-driven decision-making and prototyping for DLT: Framework and web-based tool**|Tomas Bueno Momčilović et.al.|[2307.09188](http://arxiv.org/abs/2307.09188)|null|
 |**2023-07-18**|**A Federated learning model for Electric Energy management using Blockchain Technology**|Muhammad Shoaib Farooq et.al.|[2307.09080](http://arxiv.org/abs/2307.09080)|null|
