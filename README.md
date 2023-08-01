@@ -184,6 +184,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-29**|**Blockchain-empowered Federated Learning for Healthcare Metaverses: User-centric Incentive Mechanism with Optimal Data Freshness**|Jiawen Kang et.al.|[2307.15975](http://arxiv.org/abs/2307.15975)|null|
 |**2023-07-05**|**A Cross-Chain Query Language for Application-Level Interoperability Between Open and Permissionless Blockchains**|Felix Härer et.al.|[2307.00951](http://arxiv.org/abs/2307.00951)|null|
 |**2023-06-20**|**CroCoDai: A Stablecoin for Cross-Chain Commerce**|Daniël Reijsbergen et.al.|[2306.09754](http://arxiv.org/abs/2306.09754)|null|
 |**2023-06-16**|**PIEChain -- A Practical Blockchain Interoperability Framework**|Daniël Reijsbergen et.al.|[2306.09735](http://arxiv.org/abs/2306.09735)|null|
@@ -201,6 +202,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-30**|**zkDL: Efficient Zero-Knowledge Proofs of Deep Learning Training**|Haochen Sun et.al.|[2307.16273](http://arxiv.org/abs/2307.16273)|null|
+|**2023-07-30**|**Blockchain-based Decentralized Identity Management for Healthcare Systems**|Arnaf Aziz Torongo et.al.|[2307.16239](http://arxiv.org/abs/2307.16239)|null|
 |**2023-07-17**|**RYDE: A Digital Signature Scheme based on Rank-Syndrome-Decoding Problem with MPCitH Paradigm**|Loïc Bidoux et.al.|[2307.08726](http://arxiv.org/abs/2307.08726)|null|
 |**2023-07-17**|**MIRA: a Digital Signature Scheme based on the MinRank problem and the MPC-in-the-Head paradigm**|Nicolas Aragon et.al.|[2307.08575](http://arxiv.org/abs/2307.08575)|null|
 |**2023-07-12**|**Deploying ZKP Frameworks with Real-World Data: Challenges and Proposed Solutions**|Piergiuseppe Mallozzi et.al.|[2307.06408](http://arxiv.org/abs/2307.06408)|null|
