@@ -142,6 +142,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-01**|**Game Theoretic Modelling of a Ransom and Extortion Attack on Ethereum Validators**|Alpesh Bhudia et.al.|[2308.00590](http://arxiv.org/abs/2308.00590)|null|
 |**2023-07-27**|**Self-stabilizing Byzantine-tolerant Recycling**|Chryssis Georgiou et.al.|[2307.14801](http://arxiv.org/abs/2307.14801)|null|
 |**2023-07-27**|**Smart Contract Migration: Security Analysis and Recommendations from Ethereum to Arbitrum**|Xueyan Tang et.al.|[2307.14773](http://arxiv.org/abs/2307.14773)|null|
 |**2023-07-23**|**On the (De)centralization of FruitChains**|Aikaterini-Panagiota Stouka et.al.|[2307.12422](http://arxiv.org/abs/2307.12422)|null|
