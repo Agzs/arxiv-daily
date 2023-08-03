@@ -142,6 +142,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-02**|**Stake Your Claim: Zero-Trust Validator Deployment Leveraging NFTs and Smart Contracts in Proof-of-Stake Networks**|Scott Seidenberger et.al.|[2308.01158](http://arxiv.org/abs/2308.01158)|null|
 |**2023-08-01**|**Game Theoretic Modelling of a Ransom and Extortion Attack on Ethereum Validators**|Alpesh Bhudia et.al.|[2308.00590](http://arxiv.org/abs/2308.00590)|null|
 |**2023-07-27**|**Self-stabilizing Byzantine-tolerant Recycling**|Chryssis Georgiou et.al.|[2307.14801](http://arxiv.org/abs/2307.14801)|null|
 |**2023-07-27**|**Smart Contract Migration: Security Analysis and Recommendations from Ethereum to Arbitrum**|Xueyan Tang et.al.|[2307.14773](http://arxiv.org/abs/2307.14773)|null|
@@ -185,6 +186,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-02**|**Evaluate and Guard the Wisdom of Crowds: Zero Knowledge Proofs for Crowdsourcing Truth Inference**|Xuanming Liu et.al.|[2308.00985](http://arxiv.org/abs/2308.00985)|null|
 |**2023-07-30**|**zkDL: Efficient Zero-Knowledge Proofs of Deep Learning Training**|Haochen Sun et.al.|[2307.16273](http://arxiv.org/abs/2307.16273)|null|
 |**2023-07-30**|**Blockchain-based Decentralized Identity Management for Healthcare Systems**|Arnaf Aziz Torongo et.al.|[2307.16239](http://arxiv.org/abs/2307.16239)|null|
 |**2023-07-17**|**RYDE: A Digital Signature Scheme based on Rank-Syndrome-Decoding Problem with MPCitH Paradigm**|Loïc Bidoux et.al.|[2307.08726](http://arxiv.org/abs/2307.08726)|null|
