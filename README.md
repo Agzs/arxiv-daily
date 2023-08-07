@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.06
+## Updated on 2023.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -93,7 +93,7 @@
 |**2023-04-13**|**EF/CF: High Performance Smart Contract Fuzzing for Exploit Generation**|Michael Rodler et.al.|[2304.06341](http://arxiv.org/abs/2304.06341)|**[link](https://github.com/uni-due-syssec/efcf-framework)**|
 |**2023-04-11**|**Analyzing the Impact of Elusive Faults on Blockchain Reliability**|Fernando Richter Vidal et.al.|[2304.05520](http://arxiv.org/abs/2304.05520)|null|
 
-<p align=right>(<a href=#updated-on-20230806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20230807>back to top</a>)</p>
 
 ## CrossChain
 
@@ -115,7 +115,7 @@
 |**2022-10-28**|**SoK: Not Quite Water Under the Bridge: Review of Cross-Chain Bridge Hacks**|Sung-Shine Lee et.al.|[2210.16209](http://arxiv.org/abs/2210.16209)|null|
 |**2022-10-24**|**SurferMonkey: A Decentralized Anonymous Blockchain Intercommunication System via Zero Knowledge Proofs**|Miguel Díaz Montiel et.al.|[2210.13242](http://arxiv.org/abs/2210.13242)|null|
 
-<p align=right>(<a href=#updated-on-20230806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20230807>back to top</a>)</p>
 
 ## Zero-Knowledge Proof
 
@@ -150,7 +150,7 @@
 |**2023-02-16**|**Practically Efficient Secure Computation of Rank-based Statistics Over Distributed Datasets**|Nan Wang et.al.|[2302.08121](http://arxiv.org/abs/2302.08121)|null|
 |**2023-02-16**|**Physical Zero-Knowledge Proof for Ball Sort Puzzle**|Suthee Ruangwises et.al.|[2302.07251](http://arxiv.org/abs/2302.07251)|null|
 
-<p align=right>(<a href=#updated-on-20230806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20230807>back to top</a>)</p>
 
 ## blockchain
 
@@ -180,7 +180,7 @@
 |**2023-06-26**|**A Framework for Securing Health Information Using Blockchain in Cloud Hosted Cyber Physical Systems**|Aisha Banu et.al.|[2306.17084](http://arxiv.org/abs/2306.17084)|null|
 |**2023-06-27**|**Blockchain technology research and application: a systematic literature review and future trends**|Min An et.al.|[2306.14802](http://arxiv.org/abs/2306.14802)|null|
 
-<p align=right>(<a href=#updated-on-20230806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20230807>back to top</a>)</p>
 
 ## crosschain
 
@@ -198,7 +198,7 @@
 |**2023-05-16**|**CREPE: Can Vision-Language Foundation Models Reason Compositionally?**|Zixian Ma et.al.|[2212.07796](http://arxiv.org/abs/2212.07796)|**[link](https://github.com/raivnlab/crepe)**|
 |**2022-12-14**|**Cross-Channel: Scalable Off-Chain Channels Supporting Fair and Atomic Cross-Chain Operations**|Yihao Guo et.al.|[2212.07265](http://arxiv.org/abs/2212.07265)|null|
 
-<p align=right>(<a href=#updated-on-20230806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20230807>back to top</a>)</p>
 
 ## zero-knowledge-proof
 
@@ -210,7 +210,7 @@
 |**2023-07-17**|**RYDE: A Digital Signature Scheme based on Rank-Syndrome-Decoding Problem with MPCitH Paradigm**|Loïc Bidoux et.al.|[2307.08726](http://arxiv.org/abs/2307.08726)|null|
 |**2023-07-17**|**MIRA: a Digital Signature Scheme based on the MinRank problem and the MPC-in-the-Head paradigm**|Nicolas Aragon et.al.|[2307.08575](http://arxiv.org/abs/2307.08575)|null|
 |**2023-07-12**|**Deploying ZKP Frameworks with Real-World Data: Challenges and Proposed Solutions**|Piergiuseppe Mallozzi et.al.|[2307.06408](http://arxiv.org/abs/2307.06408)|null|
-|**2023-07-11**|**Accelerating Secure and Verifiable Data Deletion in Cloud Storage via SGX and Blockchain**|Xiangman Li et.al.|[2307.04316](http://arxiv.org/abs/2307.04316)|null|
+|**2023-08-04**|**Accelerating Secure and Verifiable Data Deletion in Cloud Storage via SGX and Blockchain**|Xiangman Li et.al.|[2307.04316](http://arxiv.org/abs/2307.04316)|null|
 |**2023-06-12**|**From Portfolio Optimization to Quantum Blockchain and Security: A Systematic Review of Quantum Computing in Finance**|Abha Naik et.al.|[2307.01155](http://arxiv.org/abs/2307.01155)|null|
 |**2023-07-02**|**zkFi: Privacy-Preserving and Regulation Compliant Transactions using Zero Knowledge Proofs**|Naveen Sahu et.al.|[2307.00521](http://arxiv.org/abs/2307.00521)|null|
 |**2023-06-21**|**A Survey of Multivariate Polynomial Commitment Schemes**|Ihyun Nam et.al.|[2306.11383](http://arxiv.org/abs/2306.11383)|null|
@@ -220,7 +220,7 @@
 |**2023-05-26**|**Location-aware Verification for Autonomous Truck Platooning Based on Blockchain and Zero-knowledge Proof**|Wanxin Li et.al.|[2305.16868](http://arxiv.org/abs/2305.16868)|null|
 |**2023-05-17**|**Towards Data Redaction in Bitcoin**|Vincenzo Botta et.al.|[2305.10075](http://arxiv.org/abs/2305.10075)|null|
 
-<p align=right>(<a href=#updated-on-20230806>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20230807>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/agzs/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/agzs/arxiv-daily/graphs/contributors

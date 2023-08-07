@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.06
+## Updated on 2023.08.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Blockchain
@@ -192,7 +192,7 @@ layout: default
 |**2023-07-17**|**RYDE: A Digital Signature Scheme based on Rank-Syndrome-Decoding Problem with MPCitH Paradigm**|Loïc Bidoux et.al.|[2307.08726](http://arxiv.org/abs/2307.08726)|null|
 |**2023-07-17**|**MIRA: a Digital Signature Scheme based on the MinRank problem and the MPC-in-the-Head paradigm**|Nicolas Aragon et.al.|[2307.08575](http://arxiv.org/abs/2307.08575)|null|
 |**2023-07-12**|**Deploying ZKP Frameworks with Real-World Data: Challenges and Proposed Solutions**|Piergiuseppe Mallozzi et.al.|[2307.06408](http://arxiv.org/abs/2307.06408)|null|
-|**2023-07-11**|**Accelerating Secure and Verifiable Data Deletion in Cloud Storage via SGX and Blockchain**|Xiangman Li et.al.|[2307.04316](http://arxiv.org/abs/2307.04316)|null|
+|**2023-08-04**|**Accelerating Secure and Verifiable Data Deletion in Cloud Storage via SGX and Blockchain**|Xiangman Li et.al.|[2307.04316](http://arxiv.org/abs/2307.04316)|null|
 |**2023-06-12**|**From Portfolio Optimization to Quantum Blockchain and Security: A Systematic Review of Quantum Computing in Finance**|Abha Naik et.al.|[2307.01155](http://arxiv.org/abs/2307.01155)|null|
 |**2023-07-02**|**zkFi: Privacy-Preserving and Regulation Compliant Transactions using Zero Knowledge Proofs**|Naveen Sahu et.al.|[2307.00521](http://arxiv.org/abs/2307.00521)|null|
 |**2023-06-21**|**A Survey of Multivariate Polynomial Commitment Schemes**|Ihyun Nam et.al.|[2306.11383](http://arxiv.org/abs/2306.11383)|null|
