@@ -142,6 +142,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-09**|**Fairness Notions in DAG-based DLTs**|Mayank Raikwar et.al.|[2308.04831](http://arxiv.org/abs/2308.04831)|null|
+|**2023-08-09**|**Appending Data to Blockchain is not Sufficient for Non-repudiation of Receipt**|Valentin Zieglmeier et.al.|[2308.04781](http://arxiv.org/abs/2308.04781)|null|
+|**2023-08-05**|**Quarks: A Secure and Decentralized Blockchain-Based Messaging Network**|Mirza Kamrul Bashar Shuhan et.al.|[2308.04452](http://arxiv.org/abs/2308.04452)|null|
 |**2023-08-08**|**An Ethereum-based Product Identification System for Anti-counterfeits**|Shashank Gupta et.al.|[2308.04006](http://arxiv.org/abs/2308.04006)|null|
 |**2023-08-07**|**ForensiBlock: A Provenance-Driven Blockchain Framework for Data Forensics and Auditability**|Asma Jodeiri Akbarfam et.al.|[2308.03927](http://arxiv.org/abs/2308.03927)|null|
 |**2023-07-25**|**Towards Integrated Traffic Control with Operating Decentralized Autonomous Organization**|Shengyue Yao et.al.|[2308.03769](http://arxiv.org/abs/2308.03769)|null|
