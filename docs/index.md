@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.13
+## Updated on 2023.08.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -29,7 +29,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-04**|**BlockChain I/O: Enabling Cross-Chain Commerce**|Anwitaman Datta et.al.|[2308.02163](http://arxiv.org/abs/2308.02163)|null|
+|**2023-08-11**|**BlockChain I/O: Enabling Cross-Chain Commerce**|Anwitaman Datta et.al.|[2308.02163](http://arxiv.org/abs/2308.02163)|null|
 |**2023-07-29**|**Blockchain-empowered Federated Learning for Healthcare Metaverses: User-centric Incentive Mechanism with Optimal Data Freshness**|Jiawen Kang et.al.|[2307.15975](http://arxiv.org/abs/2307.15975)|null|
 |**2023-07-05**|**A Cross-Chain Query Language for Application-Level Interoperability Between Open and Permissionless Blockchains**|Felix Härer et.al.|[2307.00951](http://arxiv.org/abs/2307.00951)|null|
 |**2023-06-20**|**CroCoDai: A Stablecoin for Cross-Chain Commerce**|Daniël Reijsbergen et.al.|[2306.09754](http://arxiv.org/abs/2306.09754)|null|
