@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-11**|**Decentralised Governance for Foundation Model based Systems: Exploring the Role of Blockchain in Responsible AI**|Yue Liu et.al.|[2308.05962](http://arxiv.org/abs/2308.05962)|null|
 |**2023-08-09**|**Fairness Notions in DAG-based DLTs**|Mayank Raikwar et.al.|[2308.04831](http://arxiv.org/abs/2308.04831)|null|
 |**2023-08-09**|**Appending Data to Blockchain is not Sufficient for Non-repudiation of Receipt**|Valentin Zieglmeier et.al.|[2308.04781](http://arxiv.org/abs/2308.04781)|null|
 |**2023-08-05**|**Quarks: A Secure and Decentralized Blockchain-Based Messaging Network**|Mirza Kamrul Bashar Shuhan et.al.|[2308.04452](http://arxiv.org/abs/2308.04452)|null|
