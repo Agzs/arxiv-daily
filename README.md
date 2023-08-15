@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-12**|**A First Study of MEV on an Up-and-Coming Blockchain: Algorand**|Burak Öz et.al.|[2308.06513](http://arxiv.org/abs/2308.06513)|null|
 |**2023-08-11**|**Decentralised Governance for Foundation Model based Systems: Exploring the Role of Blockchain in Responsible AI**|Yue Liu et.al.|[2308.05962](http://arxiv.org/abs/2308.05962)|null|
 |**2023-08-09**|**Fairness Notions in DAG-based DLTs**|Mayank Raikwar et.al.|[2308.04831](http://arxiv.org/abs/2308.04831)|null|
 |**2023-08-09**|**Appending Data to Blockchain is not Sufficient for Non-repudiation of Receipt**|Valentin Zieglmeier et.al.|[2308.04781](http://arxiv.org/abs/2308.04781)|null|
@@ -54,6 +55,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-14**|**Reinforcing Security and Usability of Crypto-Wallet with Post-Quantum Cryptography and Zero-Knowledge Proof**|Yathin Kethepalli et.al.|[2308.07309](http://arxiv.org/abs/2308.07309)|null|
 |**2023-08-02**|**Evaluate and Guard the Wisdom of Crowds: Zero Knowledge Proofs for Crowdsourcing Truth Inference**|Xuanming Liu et.al.|[2308.00985](http://arxiv.org/abs/2308.00985)|null|
 |**2023-07-30**|**zkDL: Efficient Zero-Knowledge Proofs of Deep Learning Training**|Haochen Sun et.al.|[2307.16273](http://arxiv.org/abs/2307.16273)|null|
 |**2023-07-30**|**Blockchain-based Decentralized Identity Management for Healthcare Systems**|Arnaf Aziz Torongo et.al.|[2307.16239](http://arxiv.org/abs/2307.16239)|null|
