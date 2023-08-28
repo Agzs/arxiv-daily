@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**DAG-ACFL: Asynchronous Clustered Federated Learning based on DAG-DLT**|Xiaofeng Xue et.al.|[2308.13158](http://arxiv.org/abs/2308.13158)|null|
 |**2023-08-24**|**A Blockchain based Fund Management System for Construction Projects -- A Comprehensive Case Study in Xiong'an New Area China**|Wenlue Song et.al.|[2308.12834](http://arxiv.org/abs/2308.12834)|null|
 |**2023-08-23**|**Evolution of ESG-focused DLT Research: An NLP Analysis of the Literature**|Walter Hernandez et.al.|[2308.12420](http://arxiv.org/abs/2308.12420)|null|
 |**2023-08-21**|**PrAIoritize: Learning to Prioritize Smart Contract Bugs and Vulnerabilities**|Majd Soud et.al.|[2308.11082](http://arxiv.org/abs/2308.11082)|null|
