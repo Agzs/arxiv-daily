@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-29**|**Trustless Privacy-Preserving Data Aggregation on Ethereum with Hypercube Network Topology**|Goshgar Ismayilov et.al.|[2308.15267](http://arxiv.org/abs/2308.15267)|null|
+|**2023-08-29**|**PTTS: Zero-Knowledge Proof-based Private Token Transfer System on Ethereum Blockchain and its Network Flow Based Balance Range Privacy Attack Analysis**|Goshgar Ismayilov et.al.|[2308.15139](http://arxiv.org/abs/2308.15139)|null|
 |**2023-08-25**|**DAG-ACFL: Asynchronous Clustered Federated Learning based on DAG-DLT**|Xiaofeng Xue et.al.|[2308.13158](http://arxiv.org/abs/2308.13158)|null|
 |**2023-08-24**|**A Blockchain based Fund Management System for Construction Projects -- A Comprehensive Case Study in Xiong'an New Area China**|Wenlue Song et.al.|[2308.12834](http://arxiv.org/abs/2308.12834)|null|
 |**2023-08-23**|**Evolution of ESG-focused DLT Research: An NLP Analysis of the Literature**|Walter Hernandez et.al.|[2308.12420](http://arxiv.org/abs/2308.12420)|null|
@@ -63,6 +65,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-29**|**Trustless Privacy-Preserving Data Aggregation on Ethereum with Hypercube Network Topology**|Goshgar Ismayilov et.al.|[2308.15267](http://arxiv.org/abs/2308.15267)|null|
+|**2023-08-29**|**State of the Art Report: Verified Computation**|Jim Woodcock et.al.|[2308.15191](http://arxiv.org/abs/2308.15191)|null|
+|**2023-08-29**|**PTTS: Zero-Knowledge Proof-based Private Token Transfer System on Ethereum Blockchain and its Network Flow Based Balance Range Privacy Attack Analysis**|Goshgar Ismayilov et.al.|[2308.15139](http://arxiv.org/abs/2308.15139)|null|
+|**2023-08-29**|**FedChain: An Efficient and Secure Consensus Protocol based on Proof of Useful Federated Learning for Blockchain**|Peiran Wang et.al.|[2308.15095](http://arxiv.org/abs/2308.15095)|null|
 |**2023-08-29**|**Reinforcing Security and Usability of Crypto-Wallet with Post-Quantum Cryptography and Zero-Knowledge Proof**|Yathin Kethepalli et.al.|[2308.07309](http://arxiv.org/abs/2308.07309)|null|
 |**2023-08-02**|**Evaluate and Guard the Wisdom of Crowds: Zero Knowledge Proofs for Crowdsourcing Truth Inference**|Xuanming Liu et.al.|[2308.00985](http://arxiv.org/abs/2308.00985)|null|
 |**2023-07-30**|**zkDL: Efficient Zero-Knowledge Proofs of Deep Learning Training**|Haochen Sun et.al.|[2307.16273](http://arxiv.org/abs/2307.16273)|null|
