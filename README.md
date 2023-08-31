@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-30**|**AI-powered Fraud Detection in Decentralized Finance: A Project Life Cycle Perspective**|Bingqiao Luo et.al.|[2308.15992](http://arxiv.org/abs/2308.15992)|null|
+|**2023-08-30**|**Securing Blockchain Systems: A Novel Collaborative Learning Framework to Detect Attacks in Transactions and Smart Contracts**|Tran Viet Khoa et.al.|[2308.15804](http://arxiv.org/abs/2308.15804)|null|
 |**2023-08-29**|**Trustless Privacy-Preserving Data Aggregation on Ethereum with Hypercube Network Topology**|Goshgar Ismayilov et.al.|[2308.15267](http://arxiv.org/abs/2308.15267)|null|
 |**2023-08-29**|**PTTS: Zero-Knowledge Proof-based Private Token Transfer System on Ethereum Blockchain and its Network Flow Based Balance Range Privacy Attack Analysis**|Goshgar Ismayilov et.al.|[2308.15139](http://arxiv.org/abs/2308.15139)|null|
 |**2023-08-25**|**DAG-ACFL: Asynchronous Clustered Federated Learning based on DAG-DLT**|Xiaofeng Xue et.al.|[2308.13158](http://arxiv.org/abs/2308.13158)|null|
@@ -47,7 +49,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-08-28**|**Improving antibody language models with native pairing**|Sarah M. Burbach et.al.|[2308.14300](http://arxiv.org/abs/2308.14300)|null|
+|**2023-08-28**|**Improving antibody language models with native pairing**|Sarah M. Burbach et.al.|[2308.14300](http://arxiv.org/abs/2308.14300)|**[link](https://github.com/brineylab/balm-paper)**|
 |**2023-08-11**|**BlockChain I/O: Enabling Cross-Chain Commerce**|Anwitaman Datta et.al.|[2308.02163](http://arxiv.org/abs/2308.02163)|null|
 |**2023-07-29**|**Blockchain-empowered Federated Learning for Healthcare Metaverses: User-centric Incentive Mechanism with Optimal Data Freshness**|Jiawen Kang et.al.|[2307.15975](http://arxiv.org/abs/2307.15975)|null|
 |**2023-07-05**|**A Cross-Chain Query Language for Application-Level Interoperability Between Open and Permissionless Blockchains**|Felix Härer et.al.|[2307.00951](http://arxiv.org/abs/2307.00951)|null|
