@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-05**|**Empirical Review of Smart Contract and DeFi Security: Vulnerability Detection and Automated Repair**|Peng Qian et.al.|[2309.02391](http://arxiv.org/abs/2309.02391)|null|
+|**2023-09-03**|**Digital Twins and Blockchain for IoT Management**|Mayra Samaniego et.al.|[2309.01042](http://arxiv.org/abs/2309.01042)|null|
 |**2023-08-31**|**Proof of Deep Learning: Approaches, Challenges, and Future Directions**|Mahmoud Salhab et.al.|[2308.16730](http://arxiv.org/abs/2308.16730)|null|
 |**2023-08-31**|**Improving Robustness and Accuracy of Ponzi Scheme Detection on Ethereum Using Time-Dependent Features**|Phuong Duy Huynh et.al.|[2308.16391](http://arxiv.org/abs/2308.16391)|null|
 |**2023-09-02**|**AI-powered Fraud Detection in Decentralized Finance: A Project Life Cycle Perspective**|Bingqiao Luo et.al.|[2308.15992](http://arxiv.org/abs/2308.15992)|null|
@@ -69,6 +71,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-04**|**Synchro: Block-generation Protocol to Synchronously Process Cross-shard Transactions in State Sharding**|Takaki Asanuma et.al.|[2309.01332](http://arxiv.org/abs/2309.01332)|null|
 |**2023-08-29**|**Trustless Privacy-Preserving Data Aggregation on Ethereum with Hypercube Network Topology**|Goshgar Ismayilov et.al.|[2308.15267](http://arxiv.org/abs/2308.15267)|null|
 |**2023-08-29**|**State of the Art Report: Verified Computation**|Jim Woodcock et.al.|[2308.15191](http://arxiv.org/abs/2308.15191)|null|
 |**2023-08-29**|**PTTS: Zero-Knowledge Proof-based Private Token Transfer System on Ethereum Blockchain and its Network Flow Based Balance Range Privacy Attack Analysis**|Goshgar Ismayilov et.al.|[2308.15139](http://arxiv.org/abs/2308.15139)|null|
