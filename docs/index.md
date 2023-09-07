@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**A Peer-to-Peer Energy Trading Framework in Distribution Systems Considering Network Constraints**|Saeed Nasiri et.al.|[2309.03132](http://arxiv.org/abs/2309.03132)|null|
+|**2023-09-06**|**Fuzz on the Beach: Fuzzing Solana Smart Contracts**|Sven Smolka et.al.|[2309.03006](http://arxiv.org/abs/2309.03006)|null|
 |**2023-09-06**|**Empirical Review of Smart Contract and DeFi Security: Vulnerability Detection and Automated Repair**|Peng Qian et.al.|[2309.02391](http://arxiv.org/abs/2309.02391)|null|
 |**2023-09-03**|**Digital Twins and Blockchain for IoT Management**|Mayra Samaniego et.al.|[2309.01042](http://arxiv.org/abs/2309.01042)|null|
 |**2023-08-31**|**Proof of Deep Learning: Approaches, Challenges, and Future Directions**|Mahmoud Salhab et.al.|[2308.16730](http://arxiv.org/abs/2308.16730)|null|
