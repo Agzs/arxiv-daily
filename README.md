@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-08**|**Data-Flow-Based Normalization Generation Algorithm of R1CS for Zero-Knowledge Proof**|henhao Shi et.al.|[2309.04274](http://arxiv.org/abs/2309.04274)|null|
 |**2023-09-06**|**A Peer-to-Peer Energy Trading Framework in Distribution Systems Considering Network Constraints**|Saeed Nasiri et.al.|[2309.03132](http://arxiv.org/abs/2309.03132)|null|
 |**2023-09-06**|**Fuzz on the Beach: Fuzzing Solana Smart Contracts**|Sven Smolka et.al.|[2309.03006](http://arxiv.org/abs/2309.03006)|null|
 |**2023-09-06**|**Empirical Review of Smart Contract and DeFi Security: Vulnerability Detection and Automated Repair**|Peng Qian et.al.|[2309.02391](http://arxiv.org/abs/2309.02391)|null|
@@ -73,6 +74,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-08**|**Data-Flow-Based Normalization Generation Algorithm of R1CS for Zero-Knowledge Proof**|henhao Shi et.al.|[2309.04274](http://arxiv.org/abs/2309.04274)|null|
 |**2023-09-04**|**Synchro: Block-generation Protocol to Synchronously Process Cross-shard Transactions in State Sharding**|Takaki Asanuma et.al.|[2309.01332](http://arxiv.org/abs/2309.01332)|null|
 |**2023-08-29**|**Trustless Privacy-Preserving Data Aggregation on Ethereum with Hypercube Network Topology**|Goshgar Ismayilov et.al.|[2308.15267](http://arxiv.org/abs/2308.15267)|null|
 |**2023-08-29**|**State of the Art Report: Verified Computation**|Jim Woodcock et.al.|[2308.15191](http://arxiv.org/abs/2308.15191)|null|
