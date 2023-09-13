@@ -67,6 +67,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**Verifiable Fairness: Privacy-preserving Computation of Fairness for Machine Learning Systems**|Ehsan Toreini et.al.|[2309.06061](http://arxiv.org/abs/2309.06061)|null|
 |**2023-09-08**|**Data-Flow-Based Normalization Generation Algorithm of R1CS for Zero-Knowledge Proof**|henhao Shi et.al.|[2309.04274](http://arxiv.org/abs/2309.04274)|null|
 |**2023-09-04**|**Synchro: Block-generation Protocol to Synchronously Process Cross-shard Transactions in State Sharding**|Takaki Asanuma et.al.|[2309.01332](http://arxiv.org/abs/2309.01332)|null|
 |**2023-08-29**|**Trustless Privacy-Preserving Data Aggregation on Ethereum with Hypercube Network Topology**|Goshgar Ismayilov et.al.|[2308.15267](http://arxiv.org/abs/2308.15267)|null|
