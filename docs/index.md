@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.18
+## Updated on 2023.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -20,7 +20,7 @@ layout: default
 |**2023-09-14**|**Almost sure one-endedness of a random graph model of distributed ledgers**|Ken R. Duffy et.al.|[2309.07774](http://arxiv.org/abs/2309.07774)|null|
 |**2023-09-11**|**Advancing Federated Learning in 6G: A Trusted Architecture with Graph-based Analysis**|Wenxuan Ye et.al.|[2309.05525](http://arxiv.org/abs/2309.05525)|null|
 |**2023-09-14**|**When ChatGPT Meets Smart Contract Vulnerability Detection: How Far Are We?**|Chong Chen et.al.|[2309.05520](http://arxiv.org/abs/2309.05520)|null|
-|**2023-09-08**|**Data-Flow-Based Normalization Generation Algorithm of R1CS for Zero-Knowledge Proof**|henhao Shi et.al.|[2309.04274](http://arxiv.org/abs/2309.04274)|null|
+|**2023-09-16**|**Data-Flow-Based Normalization Generation Algorithm of R1CS for Zero-Knowledge Proof**|Chenhao Shi et.al.|[2309.04274](http://arxiv.org/abs/2309.04274)|null|
 |**2023-09-06**|**A Peer-to-Peer Energy Trading Framework in Distribution Systems Considering Network Constraints**|Saeed Nasiri et.al.|[2309.03132](http://arxiv.org/abs/2309.03132)|null|
 |**2023-09-06**|**Fuzz on the Beach: Fuzzing Solana Smart Contracts**|Sven Smolka et.al.|[2309.03006](http://arxiv.org/abs/2309.03006)|null|
 |**2023-09-06**|**Empirical Review of Smart Contract and DeFi Security: Vulnerability Detection and Automated Repair**|Peng Qian et.al.|[2309.02391](http://arxiv.org/abs/2309.02391)|null|
@@ -74,7 +74,7 @@ layout: default
 |**2023-09-15**|**Verifiable Privacy-Preserving Computing**|Tariq Bontekoe et.al.|[2309.08248](http://arxiv.org/abs/2309.08248)|null|
 |**2023-09-13**|**ZKROWNN: Zero Knowledge Right of Ownership for Neural Networks**|Nojan Sheybani et.al.|[2309.06779](http://arxiv.org/abs/2309.06779)|null|
 |**2023-09-12**|**Verifiable Fairness: Privacy-preserving Computation of Fairness for Machine Learning Systems**|Ehsan Toreini et.al.|[2309.06061](http://arxiv.org/abs/2309.06061)|null|
-|**2023-09-08**|**Data-Flow-Based Normalization Generation Algorithm of R1CS for Zero-Knowledge Proof**|henhao Shi et.al.|[2309.04274](http://arxiv.org/abs/2309.04274)|null|
+|**2023-09-16**|**Data-Flow-Based Normalization Generation Algorithm of R1CS for Zero-Knowledge Proof**|Chenhao Shi et.al.|[2309.04274](http://arxiv.org/abs/2309.04274)|null|
 |**2023-09-04**|**Synchro: Block-generation Protocol to Synchronously Process Cross-shard Transactions in State Sharding**|Takaki Asanuma et.al.|[2309.01332](http://arxiv.org/abs/2309.01332)|null|
 |**2023-08-29**|**Trustless Privacy-Preserving Data Aggregation on Ethereum with Hypercube Network Topology**|Goshgar Ismayilov et.al.|[2308.15267](http://arxiv.org/abs/2308.15267)|null|
 |**2023-08-29**|**State of the Art Report: Verified Computation**|Jim Woodcock et.al.|[2308.15191](http://arxiv.org/abs/2308.15191)|null|
