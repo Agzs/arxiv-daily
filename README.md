@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**Identifying Vulnerabilities in Smart Contracts using Interval Analysis**|Ştefan-Claudiu Susan et.al.|[2309.13805](http://arxiv.org/abs/2309.13805)|null|
+|**2023-09-23**|**Consensus Algorithms of Distributed Ledger Technology -- A Comprehensive Analysis**|Ahmad J. Alkhodair et.al.|[2309.13498](http://arxiv.org/abs/2309.13498)|null|
 |**2023-09-20**|**Is Ethereum Proof of Stake Sustainable? $-$ Considering from the Perspective of Competition Among Smart Contract Platforms $-$**|Kenji Saito et.al.|[2309.11394](http://arxiv.org/abs/2309.11394)|null|
 |**2023-09-20**|**Lazy Contracts: Alleviating High Gas Costs by Secure and Trustless Off-chain Execution of Smart Contracts**|Soroush Farokhnia et.al.|[2309.11317](http://arxiv.org/abs/2309.11317)|null|
 |**2023-09-19**|**DeFi composability as MEV non-interference**|Massimo Bartoletti et.al.|[2309.10781](http://arxiv.org/abs/2309.10781)|null|
@@ -67,6 +69,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**Automated Market Makers for Cross-chain DeFi and Sharded Blockchains**|Mohsen Pourpouneh et.al.|[2309.14290](http://arxiv.org/abs/2309.14290)|null|
 |**2023-08-28**|**Improving antibody language models with native pairing**|Sarah M. Burbach et.al.|[2308.14300](http://arxiv.org/abs/2308.14300)|**[link](https://github.com/brineylab/balm-paper)**|
 |**2023-08-11**|**BlockChain I/O: Enabling Cross-Chain Commerce**|Anwitaman Datta et.al.|[2308.02163](http://arxiv.org/abs/2308.02163)|null|
 |**2023-07-29**|**Blockchain-empowered Federated Learning for Healthcare Metaverses: User-centric Incentive Mechanism with Optimal Data Freshness**|Jiawen Kang et.al.|[2307.15975](http://arxiv.org/abs/2307.15975)|null|
