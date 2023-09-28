@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.27
+## Updated on 2023.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -63,7 +63,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-25**|**Automated Market Makers for Cross-chain DeFi and Sharded Blockchains**|Mohsen Pourpouneh et.al.|[2309.14290](http://arxiv.org/abs/2309.14290)|null|
+|**2023-09-27**|**Automated Market Makers for Cross-chain DeFi and Sharded Blockchains**|Mohsen Pourpouneh et.al.|[2309.14290](http://arxiv.org/abs/2309.14290)|null|
 |**2023-08-28**|**Improving antibody language models with native pairing**|Sarah M. Burbach et.al.|[2308.14300](http://arxiv.org/abs/2308.14300)|**[link](https://github.com/brineylab/balm-paper)**|
 |**2023-08-11**|**BlockChain I/O: Enabling Cross-Chain Commerce**|Anwitaman Datta et.al.|[2308.02163](http://arxiv.org/abs/2308.02163)|null|
 |**2023-07-29**|**Blockchain-empowered Federated Learning for Healthcare Metaverses: User-centric Incentive Mechanism with Optimal Data Freshness**|Jiawen Kang et.al.|[2307.15975](http://arxiv.org/abs/2307.15975)|null|
