@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-28**|**Assessing the Solvency of Virtual Asset Service Providers: Are Current Standards Sufficient?**|Pietro Saggese et.al.|[2309.16408](http://arxiv.org/abs/2309.16408)|null|
+|**2023-09-27**|**Older LGBT+ and Blockchain in Healthcare: A Value Sensitive Design Perspective**|Adam Poulsen et.al.|[2309.15876](http://arxiv.org/abs/2309.15876)|null|
 |**2023-09-25**|**DECORAIT -- DECentralized Opt-in/out Registry for AI Training**|Kar Balan et.al.|[2309.14400](http://arxiv.org/abs/2309.14400)|null|
 |**2023-09-25**|**Identifying Vulnerabilities in Smart Contracts using Interval Analysis**|Ştefan-Claudiu Susan et.al.|[2309.13805](http://arxiv.org/abs/2309.13805)|null|
 |**2023-09-23**|**Consensus Algorithms of Distributed Ledger Technology -- A Comprehensive Analysis**|Ahmad J. Alkhodair et.al.|[2309.13498](http://arxiv.org/abs/2309.13498)|null|
