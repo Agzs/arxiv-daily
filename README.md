@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-02**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|null|
 |**2023-09-29**|**Scalable Performance Evaluation of Byzantine Fault-Tolerant Systems Using Network Simulation**|Christian Berger et.al.|[2309.17245](http://arxiv.org/abs/2309.17245)|null|
 |**2023-09-29**|**Secure-by-design smart contract based on dataflow implementations**|Simone Casale Brunet et.al.|[2309.17200](http://arxiv.org/abs/2309.17200)|null|
 |**2023-09-28**|**Assessing the Solvency of Virtual Asset Service Providers: Are Current Standards Sufficient?**|Pietro Saggese et.al.|[2309.16408](http://arxiv.org/abs/2309.16408)|null|
