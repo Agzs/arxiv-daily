@@ -14,8 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-02**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|null|
-|**2023-09-29**|**Scalable Performance Evaluation of Byzantine Fault-Tolerant Systems Using Network Simulation**|Christian Berger et.al.|[2309.17245](http://arxiv.org/abs/2309.17245)|null|
+|**2023-10-04**|**Dissecting Smart Contract Languages: A Survey**|Majd Soud et.al.|[2310.02799](http://arxiv.org/abs/2310.02799)|null|
+|**2023-10-03**|**MindTheDApp: A Toolchain for Complex Network-Driven Structural Analysis of Ethereum-based Decentralised Applications**|Giacomo Ibba et.al.|[2310.02408](http://arxiv.org/abs/2310.02408)|null|
+|**2023-10-02**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|**[link](https://github.com/git-disl/gptlens)**|
+|**2023-09-29**|**Scalable Performance Evaluation of Byzantine Fault-Tolerant Systems Using Network Simulation**|Christian Berger et.al.|[2309.17245](http://arxiv.org/abs/2309.17245)|**[link](https://github.com/delphi-bft/tool)**|
 |**2023-10-04**|**Secure-by-design smart contract based on dataflow implementations**|Simone Casale-Brunet et.al.|[2309.17200](http://arxiv.org/abs/2309.17200)|null|
 |**2023-09-28**|**Assessing the Solvency of Virtual Asset Service Providers: Are Current Standards Sufficient?**|Pietro Saggese et.al.|[2309.16408](http://arxiv.org/abs/2309.16408)|null|
 |**2023-09-27**|**Older LGBT+ and Blockchain in Healthcare: A Value Sensitive Design Perspective**|Adam Poulsen et.al.|[2309.15876](http://arxiv.org/abs/2309.15876)|null|
@@ -68,6 +70,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-03**|**Shared Sequencing and Latency Competition as a Noisy Contest**|Akaki Mamageishvili et.al.|[2310.02390](http://arxiv.org/abs/2310.02390)|null|
 |**2023-09-27**|**Automated Market Makers for Cross-chain DeFi and Sharded Blockchains**|Mohsen Pourpouneh et.al.|[2309.14290](http://arxiv.org/abs/2309.14290)|null|
 |**2023-08-28**|**Improving antibody language models with native pairing**|Sarah M. Burbach et.al.|[2308.14300](http://arxiv.org/abs/2308.14300)|**[link](https://github.com/brineylab/balm-paper)**|
 |**2023-08-11**|**BlockChain I/O: Enabling Cross-Chain Commerce**|Anwitaman Datta et.al.|[2308.02163](http://arxiv.org/abs/2308.02163)|null|
@@ -85,6 +88,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**zkFL: Zero-Knowledge Proof-based Gradient Aggregation for Federated Learning**|Zhipeng Wang et.al.|[2310.02554](http://arxiv.org/abs/2310.02554)|null|
 |**2023-09-15**|**Verifiable Privacy-Preserving Computing**|Tariq Bontekoe et.al.|[2309.08248](http://arxiv.org/abs/2309.08248)|null|
 |**2023-09-13**|**ZKROWNN: Zero Knowledge Right of Ownership for Neural Networks**|Nojan Sheybani et.al.|[2309.06779](http://arxiv.org/abs/2309.06779)|null|
 |**2023-09-12**|**Verifiable Fairness: Privacy-preserving Computation of Fairness for Machine Learning Systems**|Ehsan Toreini et.al.|[2309.06061](http://arxiv.org/abs/2309.06061)|null|
