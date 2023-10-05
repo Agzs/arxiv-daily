@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.04
+## Updated on 2023.10.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-02**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|null|
 |**2023-09-29**|**Scalable Performance Evaluation of Byzantine Fault-Tolerant Systems Using Network Simulation**|Christian Berger et.al.|[2309.17245](http://arxiv.org/abs/2309.17245)|null|
-|**2023-09-29**|**Secure-by-design smart contract based on dataflow implementations**|Simone Casale Brunet et.al.|[2309.17200](http://arxiv.org/abs/2309.17200)|null|
+|**2023-10-04**|**Secure-by-design smart contract based on dataflow implementations**|Simone Casale-Brunet et.al.|[2309.17200](http://arxiv.org/abs/2309.17200)|null|
 |**2023-09-28**|**Assessing the Solvency of Virtual Asset Service Providers: Are Current Standards Sufficient?**|Pietro Saggese et.al.|[2309.16408](http://arxiv.org/abs/2309.16408)|null|
 |**2023-09-27**|**Older LGBT+ and Blockchain in Healthcare: A Value Sensitive Design Perspective**|Adam Poulsen et.al.|[2309.15876](http://arxiv.org/abs/2309.15876)|null|
 |**2023-09-25**|**DECORAIT -- DECentralized Opt-in/out Registry for AI Training**|Kar Balan et.al.|[2309.14400](http://arxiv.org/abs/2309.14400)|null|
