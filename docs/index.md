@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.08
+## Updated on 2023.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-04**|**Dissecting Smart Contract Languages: A Survey**|Majd Soud et.al.|[2310.02799](http://arxiv.org/abs/2310.02799)|null|
+|**2023-10-06**|**Dissecting Smart Contract Languages: A Survey**|Majd Soud et.al.|[2310.02799](http://arxiv.org/abs/2310.02799)|null|
 |**2023-10-03**|**MindTheDApp: A Toolchain for Complex Network-Driven Structural Analysis of Ethereum-based Decentralised Applications**|Giacomo Ibba et.al.|[2310.02408](http://arxiv.org/abs/2310.02408)|null|
 |**2023-10-02**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|**[link](https://github.com/git-disl/gptlens)**|
 |**2023-09-29**|**Scalable Performance Evaluation of Byzantine Fault-Tolerant Systems Using Network Simulation**|Christian Berger et.al.|[2309.17245](http://arxiv.org/abs/2309.17245)|**[link](https://github.com/delphi-bft/tool)**|
