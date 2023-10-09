@@ -88,6 +88,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**Kick Bad Guys Out! Zero-Knowledge-Proof-Based Anomaly Detection in Federated Learning**|Shanshan Han et.al.|[2310.04055](http://arxiv.org/abs/2310.04055)|null|
 |**2023-10-04**|**zkFL: Zero-Knowledge Proof-based Gradient Aggregation for Federated Learning**|Zhipeng Wang et.al.|[2310.02554](http://arxiv.org/abs/2310.02554)|null|
 |**2023-09-15**|**Verifiable Privacy-Preserving Computing**|Tariq Bontekoe et.al.|[2309.08248](http://arxiv.org/abs/2309.08248)|null|
 |**2023-09-13**|**ZKROWNN: Zero Knowledge Right of Ownership for Neural Networks**|Nojan Sheybani et.al.|[2309.06779](http://arxiv.org/abs/2309.06779)|null|
