@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-08**|**Blockchain-Envisioned Disaster Relief Networks: Architecture, Opportunities, and Open Issues**|Yuntao Wang et.al.|[2310.05180](http://arxiv.org/abs/2310.05180)|null|
+|**2023-10-08**|**Optimizing Large Language Models to Expedite the Development of Smart Contracts**|Nii Osae Osae Dade et.al.|[2310.05178](http://arxiv.org/abs/2310.05178)|null|
+|**2023-10-08**|**CO-ASnet :A Smart Contract Architecture Design based on Blockchain Technology with Active Sensor Networks**|Feng Liu et.al.|[2310.05070](http://arxiv.org/abs/2310.05070)|null|
 |**2023-10-06**|**Dissecting Smart Contract Languages: A Survey**|Majd Soud et.al.|[2310.02799](http://arxiv.org/abs/2310.02799)|null|
 |**2023-10-03**|**MindTheDApp: A Toolchain for Complex Network-Driven Structural Analysis of Ethereum-based Decentralised Applications**|Giacomo Ibba et.al.|[2310.02408](http://arxiv.org/abs/2310.02408)|null|
 |**2023-10-02**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|**[link](https://github.com/git-disl/gptlens)**|
