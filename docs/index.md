@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**Tag Your Fish in the Broken Net: A Responsible Web Framework for Protecting Online Privacy and Copyright**|Dawen Zhang et.al.|[2310.07915](http://arxiv.org/abs/2310.07915)|null|
 |**2023-10-08**|**Blockchain-Envisioned Disaster Relief Networks: Architecture, Opportunities, and Open Issues**|Yuntao Wang et.al.|[2310.05180](http://arxiv.org/abs/2310.05180)|null|
 |**2023-10-08**|**Optimizing Large Language Models to Expedite the Development of Smart Contracts**|Nii Osae Osae Dade et.al.|[2310.05178](http://arxiv.org/abs/2310.05178)|null|
 |**2023-10-08**|**CO-ASnet :A Smart Contract Architecture Design based on Blockchain Technology with Active Sensor Networks**|Feng Liu et.al.|[2310.05070](http://arxiv.org/abs/2310.05070)|null|
