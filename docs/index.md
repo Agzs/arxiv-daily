@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.16
+## Updated on 2023.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-13**|**HybridChain: Fast, Accurate, and Secure Transaction Processing with Distributed Learning**|Amirhossein Taherpour et.al.|[2310.08839](http://arxiv.org/abs/2310.08839)|null|
 |**2023-10-11**|**Tag Your Fish in the Broken Net: A Responsible Web Framework for Protecting Online Privacy and Copyright**|Dawen Zhang et.al.|[2310.07915](http://arxiv.org/abs/2310.07915)|null|
 |**2023-10-08**|**Blockchain-Envisioned Disaster Relief Networks: Architecture, Opportunities, and Open Issues**|Yuntao Wang et.al.|[2310.05180](http://arxiv.org/abs/2310.05180)|null|
 |**2023-10-08**|**Optimizing Large Language Models to Expedite the Development of Smart Contracts**|Nii Osae Osae Dade et.al.|[2310.05178](http://arxiv.org/abs/2310.05178)|null|
@@ -92,7 +93,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-11**|**Unclonable Non-Interactive Zero-Knowledge**|Ruta Jawale et.al.|[2310.07118](http://arxiv.org/abs/2310.07118)|null|
+|**2023-10-13**|**An Intrinsic Integrity-Driven Rating Model for a Sustainable Reputation System**|H. Wen et.al.|[2310.09143](http://arxiv.org/abs/2310.09143)|null|
+|**2023-10-12**|**Unclonable Non-Interactive Zero-Knowledge**|Ruta Jawale et.al.|[2310.07118](http://arxiv.org/abs/2310.07118)|null|
 |**2023-10-06**|**Kick Bad Guys Out! Zero-Knowledge-Proof-Based Anomaly Detection in Federated Learning**|Shanshan Han et.al.|[2310.04055](http://arxiv.org/abs/2310.04055)|null|
 |**2023-10-04**|**zkFL: Zero-Knowledge Proof-based Gradient Aggregation for Federated Learning**|Zhipeng Wang et.al.|[2310.02554](http://arxiv.org/abs/2310.02554)|null|
 |**2023-09-15**|**Verifiable Privacy-Preserving Computing**|Tariq Bontekoe et.al.|[2309.08248](http://arxiv.org/abs/2309.08248)|null|
