@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Bridging BRC-20 to Ethereum**|Guangsheng Yu et.al.|[2310.10065](http://arxiv.org/abs/2310.10065)|null|
 |**2023-10-13**|**HybridChain: Fast, Accurate, and Secure Transaction Processing with Distributed Learning**|Amirhossein Taherpour et.al.|[2310.08839](http://arxiv.org/abs/2310.08839)|null|
 |**2023-10-11**|**Tag Your Fish in the Broken Net: A Responsible Web Framework for Protecting Online Privacy and Copyright**|Dawen Zhang et.al.|[2310.07915](http://arxiv.org/abs/2310.07915)|null|
 |**2023-10-08**|**Blockchain-Envisioned Disaster Relief Networks: Architecture, Opportunities, and Open Issues**|Yuntao Wang et.al.|[2310.05180](http://arxiv.org/abs/2310.05180)|null|
@@ -82,6 +83,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Towards Scalable Cross-Chain Messaging**|Joao Otavio Chervinski et.al.|[2310.10016](http://arxiv.org/abs/2310.10016)|null|
 |**2023-10-03**|**Shared Sequencing and Latency Competition as a Noisy Contest**|Akaki Mamageishvili et.al.|[2310.02390](http://arxiv.org/abs/2310.02390)|null|
 |**2023-09-27**|**Automated Market Makers for Cross-chain DeFi and Sharded Blockchains**|Mohsen Pourpouneh et.al.|[2309.14290](http://arxiv.org/abs/2309.14290)|null|
 |**2023-08-28**|**Improving antibody language models with native pairing**|Sarah M. Burbach et.al.|[2308.14300](http://arxiv.org/abs/2308.14300)|**[link](https://github.com/brineylab/balm-paper)**|
