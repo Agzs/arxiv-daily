@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.17
+## Updated on 2023.10.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,7 +27,7 @@
 |**2023-10-08**|**CO-ASnet :A Smart Contract Architecture Design based on Blockchain Technology with Active Sensor Networks**|Feng Liu et.al.|[2310.05070](http://arxiv.org/abs/2310.05070)|null|
 |**2023-10-06**|**Dissecting Smart Contract Languages: A Survey**|Majd Soud et.al.|[2310.02799](http://arxiv.org/abs/2310.02799)|null|
 |**2023-10-03**|**MindTheDApp: A Toolchain for Complex Network-Driven Structural Analysis of Ethereum-based Decentralised Applications**|Giacomo Ibba et.al.|[2310.02408](http://arxiv.org/abs/2310.02408)|null|
-|**2023-10-02**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|**[link](https://github.com/git-disl/gptlens)**|
+|**2023-10-16**|**Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives**|Sihao Hu et.al.|[2310.01152](http://arxiv.org/abs/2310.01152)|**[link](https://github.com/git-disl/gptlens)**|
 |**2023-09-29**|**Scalable Performance Evaluation of Byzantine Fault-Tolerant Systems Using Network Simulation**|Christian Berger et.al.|[2309.17245](http://arxiv.org/abs/2309.17245)|**[link](https://github.com/delphi-bft/tool)**|
 |**2023-10-04**|**Secure-by-design smart contract based on dataflow implementations**|Simone Casale-Brunet et.al.|[2309.17200](http://arxiv.org/abs/2309.17200)|null|
 |**2023-09-28**|**Assessing the Solvency of Virtual Asset Service Providers: Are Current Standards Sufficient?**|Pietro Saggese et.al.|[2309.16408](http://arxiv.org/abs/2309.16408)|null|
@@ -77,7 +77,7 @@
 |**2023-08-01**|**Game Theoretic Modelling of a Ransom and Extortion Attack on Ethereum Validators**|Alpesh Bhudia et.al.|[2308.00590](http://arxiv.org/abs/2308.00590)|null|
 |**2023-07-27**|**Self-stabilizing Byzantine-tolerant Recycling**|Chryssis Georgiou et.al.|[2307.14801](http://arxiv.org/abs/2307.14801)|null|
 
-<p align=right>(<a href=#updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231018>back to top</a>)</p>
 
 ## crosschain
 
@@ -98,7 +98,7 @@
 |**2023-04-20**|**Analyzing the Performance of the Inter-Blockchain Communication Protocol**|Joao Otavio Chervinski et.al.|[2303.10844](http://arxiv.org/abs/2303.10844)|**[link](https://github.com/joaotav/ibc-benchmarking)**|
 |**2023-01-14**|**The Design Principle of Blockchain: An Initiative for the SoK of SoKs**|Luyao Sunshine Zhang et.al.|[2301.00479](http://arxiv.org/abs/2301.00479)|**[link](https://github.com/sunshineluyao/design-principle-blockchain)**|
 
-<p align=right>(<a href=#updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231018>back to top</a>)</p>
 
 ## zero-knowledge-proof
 
@@ -107,7 +107,7 @@
 |**2023-10-13**|**An Intrinsic Integrity-Driven Rating Model for a Sustainable Reputation System**|H. Wen et.al.|[2310.09143](http://arxiv.org/abs/2310.09143)|null|
 |**2023-10-12**|**Unclonable Non-Interactive Zero-Knowledge**|Ruta Jawale et.al.|[2310.07118](http://arxiv.org/abs/2310.07118)|null|
 |**2023-10-06**|**Kick Bad Guys Out! Zero-Knowledge-Proof-Based Anomaly Detection in Federated Learning**|Shanshan Han et.al.|[2310.04055](http://arxiv.org/abs/2310.04055)|null|
-|**2023-10-04**|**zkFL: Zero-Knowledge Proof-based Gradient Aggregation for Federated Learning**|Zhipeng Wang et.al.|[2310.02554](http://arxiv.org/abs/2310.02554)|null|
+|**2023-10-17**|**zkFL: Zero-Knowledge Proof-based Gradient Aggregation for Federated Learning**|Zhipeng Wang et.al.|[2310.02554](http://arxiv.org/abs/2310.02554)|null|
 |**2023-09-15**|**Verifiable Privacy-Preserving Computing**|Tariq Bontekoe et.al.|[2309.08248](http://arxiv.org/abs/2309.08248)|null|
 |**2023-09-13**|**ZKROWNN: Zero Knowledge Right of Ownership for Neural Networks**|Nojan Sheybani et.al.|[2309.06779](http://arxiv.org/abs/2309.06779)|null|
 |**2023-09-12**|**Verifiable Fairness: Privacy-preserving Computation of Fairness for Machine Learning Systems**|Ehsan Toreini et.al.|[2309.06061](http://arxiv.org/abs/2309.06061)|null|
@@ -129,7 +129,7 @@
 |**2023-07-02**|**zkFi: Privacy-Preserving and Regulation Compliant Transactions using Zero Knowledge Proofs**|Naveen Sahu et.al.|[2307.00521](http://arxiv.org/abs/2307.00521)|null|
 |**2023-06-21**|**A Survey of Multivariate Polynomial Commitment Schemes**|Ihyun Nam et.al.|[2306.11383](http://arxiv.org/abs/2306.11383)|null|
 
-<p align=right>(<a href=#updated-on-20231017>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231018>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/agzs/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/agzs/arxiv-daily/graphs/contributors
