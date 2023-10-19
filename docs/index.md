@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.18
+## Updated on 2023.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-16**|**Understanding and managing blockchain protocol risks**|Alex Nathan et.al.|[2310.10797](http://arxiv.org/abs/2310.10797)|null|
 |**2023-10-16**|**Bridging BRC-20 to Ethereum**|Guangsheng Yu et.al.|[2310.10065](http://arxiv.org/abs/2310.10065)|null|
 |**2023-10-13**|**HybridChain: Fast, Accurate, and Secure Transaction Processing with Distributed Learning**|Amirhossein Taherpour et.al.|[2310.08839](http://arxiv.org/abs/2310.08839)|null|
 |**2023-10-11**|**Tag Your Fish in the Broken Net: A Responsible Web Framework for Protecting Online Privacy and Copyright**|Dawen Zhang et.al.|[2310.07915](http://arxiv.org/abs/2310.07915)|null|
