@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**Zero-Knowledge Proofs for Questionnaire Result Verification in Smart Contracts**|Carlos Efrain Quintero-Narvaez et.al.|[2310.13618](http://arxiv.org/abs/2310.13618)|null|
 |**2023-10-18**|**Building Random, Fair, and Verifiable Games on Blockchain. Raffle smart contract designs on Sui Network**|Eason Chen et.al.|[2310.12305](http://arxiv.org/abs/2310.12305)|null|
 |**2023-10-16**|**Understanding and managing blockchain protocol risks**|Alex Nathan et.al.|[2310.10797](http://arxiv.org/abs/2310.10797)|null|
 |**2023-10-16**|**Bridging BRC-20 to Ethereum**|Guangsheng Yu et.al.|[2310.10065](http://arxiv.org/abs/2310.10065)|null|
@@ -78,6 +79,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**Wave-like Tunneling of Phonons Dominates Glass-like Thermal Transport in Quasi-1D Copper Halide CsCu2I3**|Jiongzhi Zheng et.al.|[2310.13680](http://arxiv.org/abs/2310.13680)|null|
+|**2023-10-20**|**X-Type Antiferromagnets**|Shui-Sen Zhang et.al.|[2310.13271](http://arxiv.org/abs/2310.13271)|null|
 |**2023-10-16**|**Towards Scalable Cross-Chain Messaging**|Joao Otavio Chervinski et.al.|[2310.10016](http://arxiv.org/abs/2310.10016)|null|
 |**2023-10-03**|**Shared Sequencing and Latency Competition as a Noisy Contest**|Akaki Mamageishvili et.al.|[2310.02390](http://arxiv.org/abs/2310.02390)|null|
 |**2023-09-27**|**Automated Market Makers for Cross-chain DeFi and Sharded Blockchains**|Mohsen Pourpouneh et.al.|[2309.14290](http://arxiv.org/abs/2309.14290)|null|
@@ -97,6 +100,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**Zero-Knowledge Proofs for Questionnaire Result Verification in Smart Contracts**|Carlos Efrain Quintero-Narvaez et.al.|[2310.13618](http://arxiv.org/abs/2310.13618)|null|
 |**2023-10-18**|**Building Random, Fair, and Verifiable Games on Blockchain. Raffle smart contract designs on Sui Network**|Eason Chen et.al.|[2310.12305](http://arxiv.org/abs/2310.12305)|null|
 |**2023-10-13**|**An Intrinsic Integrity-Driven Rating Model for a Sustainable Reputation System**|H. Wen et.al.|[2310.09143](http://arxiv.org/abs/2310.09143)|null|
 |**2023-10-12**|**Unclonable Non-Interactive Zero-Knowledge**|Ruta Jawale et.al.|[2310.07118](http://arxiv.org/abs/2310.07118)|null|
