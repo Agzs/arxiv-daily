@@ -19,8 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-21**|**GPTutor: an open-source AI pair programming tool alternative to Copilot**|Eason Chen et.al.|[2310.13896](http://arxiv.org/abs/2310.13896)|null|
 |**2023-10-20**|**Zero-Knowledge Proofs for Questionnaire Result Verification in Smart Contracts**|Carlos Efrain Quintero-Narvaez et.al.|[2310.13618](http://arxiv.org/abs/2310.13618)|null|
-|**2023-10-18**|**Building Random, Fair, and Verifiable Games on Blockchain. Raffle smart contract designs on Sui Network**|Eason Chen et.al.|[2310.12305](http://arxiv.org/abs/2310.12305)|null|
+|**2023-10-23**|**Building Random, Fair, and Verifiable Games on Blockchain. Raffle smart contract designs on Sui Network**|Eason Chen et.al.|[2310.12305](http://arxiv.org/abs/2310.12305)|null|
 |**2023-10-16**|**Understanding and managing blockchain protocol risks**|Alex Nathan et.al.|[2310.10797](http://arxiv.org/abs/2310.10797)|null|
 |**2023-10-16**|**Bridging BRC-20 to Ethereum**|Guangsheng Yu et.al.|[2310.10065](http://arxiv.org/abs/2310.10065)|null|
 |**2023-10-13**|**HybridChain: Fast, Accurate, and Secure Transaction Processing with Distributed Learning**|Amirhossein Taherpour et.al.|[2310.08839](http://arxiv.org/abs/2310.08839)|null|
@@ -109,8 +110,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Zero-knowledge Proof Meets Machine Learning in Verifiability: A Survey**|Zhibo Xing et.al.|[2310.14848](http://arxiv.org/abs/2310.14848)|null|
 |**2023-10-20**|**Zero-Knowledge Proofs for Questionnaire Result Verification in Smart Contracts**|Carlos Efrain Quintero-Narvaez et.al.|[2310.13618](http://arxiv.org/abs/2310.13618)|null|
-|**2023-10-18**|**Building Random, Fair, and Verifiable Games on Blockchain. Raffle smart contract designs on Sui Network**|Eason Chen et.al.|[2310.12305](http://arxiv.org/abs/2310.12305)|null|
+|**2023-10-23**|**Building Random, Fair, and Verifiable Games on Blockchain. Raffle smart contract designs on Sui Network**|Eason Chen et.al.|[2310.12305](http://arxiv.org/abs/2310.12305)|null|
 |**2023-10-13**|**An Intrinsic Integrity-Driven Rating Model for a Sustainable Reputation System**|H. Wen et.al.|[2310.09143](http://arxiv.org/abs/2310.09143)|null|
 |**2023-10-12**|**Unclonable Non-Interactive Zero-Knowledge**|Ruta Jawale et.al.|[2310.07118](http://arxiv.org/abs/2310.07118)|null|
 |**2023-10-06**|**Kick Bad Guys Out! Zero-Knowledge-Proof-Based Anomaly Detection in Federated Learning**|Shanshan Han et.al.|[2310.04055](http://arxiv.org/abs/2310.04055)|null|
