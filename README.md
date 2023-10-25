@@ -110,6 +110,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-24**|**Redactable Signature Schemes and Zero-knowledge Proofs: A comparative examination for applications in Decentralized Digital Identity Systems**|Bryan Kumara et.al.|[2310.15934](http://arxiv.org/abs/2310.15934)|null|
 |**2023-10-23**|**Zero-knowledge Proof Meets Machine Learning in Verifiability: A Survey**|Zhibo Xing et.al.|[2310.14848](http://arxiv.org/abs/2310.14848)|null|
 |**2023-10-20**|**Zero-Knowledge Proofs for Questionnaire Result Verification in Smart Contracts**|Carlos Efrain Quintero-Narvaez et.al.|[2310.13618](http://arxiv.org/abs/2310.13618)|null|
 |**2023-10-23**|**Building Random, Fair, and Verifiable Games on Blockchain. Raffle smart contract designs on Sui Network**|Eason Chen et.al.|[2310.12305](http://arxiv.org/abs/2310.12305)|null|
