@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-24**|**Multilayer Environment and Toolchain for Holistic NetwOrk Design and Analysis**|Filip Rezabek et.al.|[2310.16190](http://arxiv.org/abs/2310.16190)|null|
 |**2023-10-25**|**GPTutor: an open-source AI pair programming tool alternative to Copilot**|Eason Chen et.al.|[2310.13896](http://arxiv.org/abs/2310.13896)|null|
 |**2023-10-20**|**Zero-Knowledge Proofs for Questionnaire Result Verification in Smart Contracts**|Carlos Efrain Quintero-Narvaez et.al.|[2310.13618](http://arxiv.org/abs/2310.13618)|null|
 |**2023-10-23**|**Building Random, Fair, and Verifiable Games on Blockchain. Raffle smart contract designs on Sui Network**|Eason Chen et.al.|[2310.12305](http://arxiv.org/abs/2310.12305)|null|
