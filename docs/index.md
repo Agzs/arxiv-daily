@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**A Comparative Evaluation of Automated Analysis Tools for Solidity Smart Contracts**|Zhiyuan Wei et.al.|[2310.20212](http://arxiv.org/abs/2310.20212)|null|
 |**2023-10-29**|**Open Problems in DAOs**|Joshua Z. Tan et.al.|[2310.19201](http://arxiv.org/abs/2310.19201)|null|
 |**2023-10-29**|**Securing Refugee Identity: A Literature Review on Blockchain-based Smart Contract**|Md Taimur Ahad et.al.|[2310.19018](http://arxiv.org/abs/2310.19018)|null|
 |**2023-10-28**|**FinBTech: Blockchain-Based Video and Voice Authentication System for Enhanced Security in Financial Transactions Utilizing FaceNet512 and Gaussian Mixture Models**|Prof N. Jeenath Laila et.al.|[2310.18668](http://arxiv.org/abs/2310.18668)|null|
@@ -85,6 +86,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-30**|**FoodFresh: Multi-Chain Design for an Inter-Institutional Food Supply Chain Network**|Philipp Stangl et.al.|[2310.19461](http://arxiv.org/abs/2310.19461)|null|
 |**2023-10-20**|**Wave-like Tunneling of Phonons Dominates Glass-like Thermal Transport in Quasi-1D Copper Halide CsCu2I3**|Jiongzhi Zheng et.al.|[2310.13680](http://arxiv.org/abs/2310.13680)|null|
 |**2023-10-20**|**X-Type Antiferromagnets**|Shui-Sen Zhang et.al.|[2310.13271](http://arxiv.org/abs/2310.13271)|null|
 |**2023-10-16**|**Towards Scalable Cross-Chain Messaging**|Joao Otavio Chervinski et.al.|[2310.10016](http://arxiv.org/abs/2310.10016)|null|
@@ -106,6 +108,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-30**|**Incorporating Zero-Knowledge Succinct Non-interactive Argument of Knowledge for Blockchain-based Identity Management with off-chain computations**|Pranay Kothari et.al.|[2310.19452](http://arxiv.org/abs/2310.19452)|null|
 |**2023-10-24**|**Redactable Signature Schemes and Zero-knowledge Proofs: A comparative examination for applications in Decentralized Digital Identity Systems**|Bryan Kumara et.al.|[2310.15934](http://arxiv.org/abs/2310.15934)|null|
 |**2023-10-23**|**Zero-knowledge Proof Meets Machine Learning in Verifiability: A Survey**|Zhibo Xing et.al.|[2310.14848](http://arxiv.org/abs/2310.14848)|null|
 |**2023-10-20**|**Zero-Knowledge Proofs for Questionnaire Result Verification in Smart Contracts**|Carlos Efrain Quintero-Narvaez et.al.|[2310.13618](http://arxiv.org/abs/2310.13618)|null|
