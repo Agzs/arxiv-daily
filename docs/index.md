@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**smart contract, security, vulnerabilities, attacks, defenses**|Zhiyuan Wei et.al.|[2311.00270](http://arxiv.org/abs/2311.00270)|null|
 |**2023-11-01**|**A Comparative Evaluation of Automated Analysis Tools for Solidity Smart Contracts**|Zhiyuan Wei et.al.|[2310.20212](http://arxiv.org/abs/2310.20212)|null|
 |**2023-10-29**|**Open Problems in DAOs**|Joshua Z. Tan et.al.|[2310.19201](http://arxiv.org/abs/2310.19201)|null|
 |**2023-10-29**|**Securing Refugee Identity: A Literature Review on Blockchain-based Smart Contract**|Md Taimur Ahad et.al.|[2310.19018](http://arxiv.org/abs/2310.19018)|null|
@@ -108,6 +109,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**Towards Universal Atomic Composability: A Formal Model for Multi-Rollup Environments on Ethereum**|Dipankar Sarkar et.al.|[2311.00422](http://arxiv.org/abs/2311.00422)|null|
 |**2023-10-30**|**Incorporating Zero-Knowledge Succinct Non-interactive Argument of Knowledge for Blockchain-based Identity Management with off-chain computations**|Pranay Kothari et.al.|[2310.19452](http://arxiv.org/abs/2310.19452)|null|
 |**2023-10-24**|**Redactable Signature Schemes and Zero-knowledge Proofs: A comparative examination for applications in Decentralized Digital Identity Systems**|Bryan Kumara et.al.|[2310.15934](http://arxiv.org/abs/2310.15934)|null|
 |**2023-10-23**|**Zero-knowledge Proof Meets Machine Learning in Verifiability: A Survey**|Zhibo Xing et.al.|[2310.14848](http://arxiv.org/abs/2310.14848)|null|
