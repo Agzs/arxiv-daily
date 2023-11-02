@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.01
+## Updated on 2023.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-31**|**A Comparative Evaluation of Automated Analysis Tools for Solidity Smart Contracts**|Zhiyuan Wei et.al.|[2310.20212](http://arxiv.org/abs/2310.20212)|null|
+|**2023-11-01**|**A Comparative Evaluation of Automated Analysis Tools for Solidity Smart Contracts**|Zhiyuan Wei et.al.|[2310.20212](http://arxiv.org/abs/2310.20212)|null|
 |**2023-10-29**|**Open Problems in DAOs**|Joshua Z. Tan et.al.|[2310.19201](http://arxiv.org/abs/2310.19201)|null|
 |**2023-10-29**|**Securing Refugee Identity: A Literature Review on Blockchain-based Smart Contract**|Md Taimur Ahad et.al.|[2310.19018](http://arxiv.org/abs/2310.19018)|null|
 |**2023-10-28**|**FinBTech: Blockchain-Based Video and Voice Authentication System for Enhanced Security in Financial Transactions Utilizing FaceNet512 and Gaussian Mixture Models**|Prof N. Jeenath Laila et.al.|[2310.18668](http://arxiv.org/abs/2310.18668)|null|
