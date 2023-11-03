@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**A Comprehensive Study of Governance Issues in Decentralized Finance Applications**|Wei Ma et.al.|[2311.01433](http://arxiv.org/abs/2311.01433)|null|
+|**2023-11-02**|**Analysis of Information Propagation in Ethereum Network Using Combined Graph Attention Network and Reinforcement Learning to Optimize Network Efficiency and Scalability**|Stefan Kambiz Behfar et.al.|[2311.01406](http://arxiv.org/abs/2311.01406)|null|
 |**2023-11-02**|**Survey on Quality Assurance of Smart Contracts**|Zhiyuan Wei et.al.|[2311.00270](http://arxiv.org/abs/2311.00270)|null|
 |**2023-11-02**|**A Comparative Evaluation of Automated Analysis Tools for Solidity Smart Contracts**|Zhiyuan Wei et.al.|[2310.20212](http://arxiv.org/abs/2310.20212)|null|
 |**2023-10-29**|**Open Problems in DAOs**|Joshua Z. Tan et.al.|[2310.19201](http://arxiv.org/abs/2310.19201)|null|
