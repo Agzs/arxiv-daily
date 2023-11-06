@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-03**|**Architecture of Smart Certificates for Web3 Applications Against Cyberthreats in Financial Industry**|Stefan Kambiz Behfar et.al.|[2311.01956](http://arxiv.org/abs/2311.01956)|null|
 |**2023-11-02**|**A Comprehensive Study of Governance Issues in Decentralized Finance Applications**|Wei Ma et.al.|[2311.01433](http://arxiv.org/abs/2311.01433)|null|
 |**2023-11-02**|**Analysis of Information Propagation in Ethereum Network Using Combined Graph Attention Network and Reinforcement Learning to Optimize Network Efficiency and Scalability**|Stefan Kambiz Behfar et.al.|[2311.01406](http://arxiv.org/abs/2311.01406)|null|
 |**2023-11-02**|**Survey on Quality Assurance of Smart Contracts**|Zhiyuan Wei et.al.|[2311.00270](http://arxiv.org/abs/2311.00270)|**[link](https://github.com/bit-smartcontract-analysis/smartcontract-benchmark)**|
@@ -89,7 +90,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-30**|**FoodFresh: Multi-Chain Design for an Inter-Institutional Food Supply Chain Network**|Philipp Stangl et.al.|[2310.19461](http://arxiv.org/abs/2310.19461)|null|
+|**2023-11-03**|**FoodFresh: Multi-Chain Design for an Inter-Institutional Food Supply Chain Network**|Philipp Stangl et.al.|[2310.19461](http://arxiv.org/abs/2310.19461)|null|
 |**2023-10-20**|**Wave-like Tunneling of Phonons Dominates Glass-like Thermal Transport in Quasi-1D Copper Halide CsCu2I3**|Jiongzhi Zheng et.al.|[2310.13680](http://arxiv.org/abs/2310.13680)|null|
 |**2023-10-20**|**X-Type Antiferromagnets**|Shui-Sen Zhang et.al.|[2310.13271](http://arxiv.org/abs/2310.13271)|null|
 |**2023-10-16**|**Towards Scalable Cross-Chain Messaging**|Joao Otavio Chervinski et.al.|[2310.10016](http://arxiv.org/abs/2310.10016)|null|
