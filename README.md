@@ -22,6 +22,7 @@
 |**2023-11-03**|**Architecture of Smart Certificates for Web3 Applications Against Cyberthreats in Financial Industry**|Stefan Kambiz Behfar et.al.|[2311.01956](http://arxiv.org/abs/2311.01956)|null|
 |**2023-11-02**|**A Comprehensive Study of Governance Issues in Decentralized Finance Applications**|Wei Ma et.al.|[2311.01433](http://arxiv.org/abs/2311.01433)|null|
 |**2023-11-02**|**Analysis of Information Propagation in Ethereum Network Using Combined Graph Attention Network and Reinforcement Learning to Optimize Network Efficiency and Scalability**|Stefan Kambiz Behfar et.al.|[2311.01406](http://arxiv.org/abs/2311.01406)|null|
+|**2023-11-04**|**Towards Universal Atomic Composability: A Formal Model for Multi-Rollup Environments on Ethereum**|Dipankar Sarkar et.al.|[2311.00422](http://arxiv.org/abs/2311.00422)|null|
 |**2023-11-02**|**Survey on Quality Assurance of Smart Contracts**|Zhiyuan Wei et.al.|[2311.00270](http://arxiv.org/abs/2311.00270)|**[link](https://github.com/bit-smartcontract-analysis/smartcontract-benchmark)**|
 |**2023-11-02**|**A Comparative Evaluation of Automated Analysis Tools for Solidity Smart Contracts**|Zhiyuan Wei et.al.|[2310.20212](http://arxiv.org/abs/2310.20212)|**[link](https://github.com/bit-smartcontract-analysis/smartcontract-benchmark)**|
 |**2023-10-29**|**Open Problems in DAOs**|Joshua Z. Tan et.al.|[2310.19201](http://arxiv.org/abs/2310.19201)|null|
@@ -121,7 +122,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-01**|**Towards Universal Atomic Composability: A Formal Model for Multi-Rollup Environments on Ethereum**|Dipankar Sarkar et.al.|[2311.00422](http://arxiv.org/abs/2311.00422)|null|
+|**2023-11-04**|**Towards Universal Atomic Composability: A Formal Model for Multi-Rollup Environments on Ethereum**|Dipankar Sarkar et.al.|[2311.00422](http://arxiv.org/abs/2311.00422)|null|
 |**2023-10-30**|**Incorporating Zero-Knowledge Succinct Non-interactive Argument of Knowledge for Blockchain-based Identity Management with off-chain computations**|Pranay Kothari et.al.|[2310.19452](http://arxiv.org/abs/2310.19452)|null|
 |**2023-10-24**|**Redactable Signature Schemes and Zero-knowledge Proofs: A comparative examination for applications in Decentralized Digital Identity Systems**|Bryan Kumara et.al.|[2310.15934](http://arxiv.org/abs/2310.15934)|null|
 |**2023-10-23**|**Zero-knowledge Proof Meets Machine Learning in Verifiability: A Survey**|Zhibo Xing et.al.|[2310.14848](http://arxiv.org/abs/2310.14848)|null|
