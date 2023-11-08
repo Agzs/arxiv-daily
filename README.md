@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-06**|**DonationChain: A New Platform for Blockchain-Based Donation-Tracking System**|Chaimaa Nari et.al.|[2311.03573](http://arxiv.org/abs/2311.03573)|null|
+|**2023-11-06**|**DAO Decentralization: Voting-Bloc Entropy, Bribery, and Dark DAOs**|James Austgen et.al.|[2311.03530](http://arxiv.org/abs/2311.03530)|null|
+|**2023-11-06**|**Fluid limit of a model for distributed ledger with random delay**|Jiewei Feng et.al.|[2311.03475](http://arxiv.org/abs/2311.03475)|null|
 |**2023-11-03**|**Architecture of Smart Certificates for Web3 Applications Against Cyberthreats in Financial Industry**|Stefan Kambiz Behfar et.al.|[2311.01956](http://arxiv.org/abs/2311.01956)|null|
 |**2023-11-02**|**A Comprehensive Study of Governance Issues in Decentralized Finance Applications**|Wei Ma et.al.|[2311.01433](http://arxiv.org/abs/2311.01433)|null|
 |**2023-11-02**|**Analysis of Information Propagation in Ethereum Network Using Combined Graph Attention Network and Reinforcement Learning to Optimize Network Efficiency and Scalability**|Stefan Kambiz Behfar et.al.|[2311.01406](http://arxiv.org/abs/2311.01406)|null|
@@ -104,7 +107,7 @@
 |**2023-10-16**|**Towards Scalable Cross-Chain Messaging**|Joao Otavio Chervinski et.al.|[2310.10016](http://arxiv.org/abs/2310.10016)|null|
 |**2023-10-03**|**Shared Sequencing and Latency Competition as a Noisy Contest**|Akaki Mamageishvili et.al.|[2310.02390](http://arxiv.org/abs/2310.02390)|null|
 |**2023-09-27**|**Automated Market Makers for Cross-chain DeFi and Sharded Blockchains**|Mohsen Pourpouneh et.al.|[2309.14290](http://arxiv.org/abs/2309.14290)|null|
-|**2023-08-28**|**Improving antibody language models with native pairing**|Sarah M. Burbach et.al.|[2308.14300](http://arxiv.org/abs/2308.14300)|**[link](https://github.com/brineylab/balm-paper)**|
+|**2023-11-07**|**Improving antibody language models with native pairing**|Sarah M. Burbach et.al.|[2308.14300](http://arxiv.org/abs/2308.14300)|**[link](https://github.com/brineylab/balm-paper)**|
 |**2023-08-11**|**BlockChain I/O: Enabling Cross-Chain Commerce**|Anwitaman Datta et.al.|[2308.02163](http://arxiv.org/abs/2308.02163)|null|
 |**2023-07-29**|**Blockchain-empowered Federated Learning for Healthcare Metaverses: User-centric Incentive Mechanism with Optimal Data Freshness**|Jiawen Kang et.al.|[2307.15975](http://arxiv.org/abs/2307.15975)|null|
 |**2023-09-22**|**A Cross-Chain Query Language for Application-Level Interoperability Between Open and Permissionless Blockchains**|Felix Härer et.al.|[2307.00951](http://arxiv.org/abs/2307.00951)|null|
