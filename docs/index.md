@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-08**|**A Framework for Programmability in Digital Currency**|Nikhil George et.al.|[2311.04874](http://arxiv.org/abs/2311.04874)|null|
 |**2023-11-06**|**DonationChain: A New Platform for Blockchain-Based Donation-Tracking System**|Chaimaa Nari et.al.|[2311.03573](http://arxiv.org/abs/2311.03573)|null|
 |**2023-11-06**|**DAO Decentralization: Voting-Bloc Entropy, Bribery, and Dark DAOs**|James Austgen et.al.|[2311.03530](http://arxiv.org/abs/2311.03530)|null|
 |**2023-11-06**|**Fluid limit of a model for distributed ledger with random delay**|Jiewei Feng et.al.|[2311.03475](http://arxiv.org/abs/2311.03475)|null|
