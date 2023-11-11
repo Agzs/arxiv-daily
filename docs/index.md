@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.10
+## Updated on 2023.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-08**|**A Framework for Programmability in Digital Currency**|Nikhil George et.al.|[2311.04874](http://arxiv.org/abs/2311.04874)|null|
 |**2023-11-06**|**DonationChain: A New Platform for Blockchain-Based Donation-Tracking System**|Chaimaa Nari et.al.|[2311.03573](http://arxiv.org/abs/2311.03573)|null|
-|**2023-11-06**|**DAO Decentralization: Voting-Bloc Entropy, Bribery, and Dark DAOs**|James Austgen et.al.|[2311.03530](http://arxiv.org/abs/2311.03530)|null|
+|**2023-11-06**|**DAO Decentralization: Voting-Bloc Entropy, Bribery, and Dark DAOs**|James Austgen et.al.|[2311.03530](http://arxiv.org/abs/2311.03530)|**[link](https://github.com/dao-decentralization/dark-dao)**|
 |**2023-11-06**|**Fluid limit of a model for distributed ledger with random delay**|Jiewei Feng et.al.|[2311.03475](http://arxiv.org/abs/2311.03475)|null|
 |**2023-11-03**|**Architecture of Smart Certificates for Web3 Applications Against Cyberthreats in Financial Industry**|Stefan Kambiz Behfar et.al.|[2311.01956](http://arxiv.org/abs/2311.01956)|null|
 |**2023-11-02**|**A Comprehensive Study of Governance Issues in Decentralized Finance Applications**|Wei Ma et.al.|[2311.01433](http://arxiv.org/abs/2311.01433)|null|
