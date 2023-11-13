@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**Deep Learning meets Blockchain for Automated and Secure Access Control**|Asma Jodeiri Akbarfam et.al.|[2311.06236](http://arxiv.org/abs/2311.06236)|null|
 |**2023-11-08**|**A Framework for Programmability in Digital Currency**|Nikhil George et.al.|[2311.04874](http://arxiv.org/abs/2311.04874)|null|
 |**2023-11-06**|**DonationChain: A New Platform for Blockchain-Based Donation-Tracking System**|Chaimaa Nari et.al.|[2311.03573](http://arxiv.org/abs/2311.03573)|null|
 |**2023-11-06**|**DAO Decentralization: Voting-Bloc Entropy, Bribery, and Dark DAOs**|James Austgen et.al.|[2311.03530](http://arxiv.org/abs/2311.03530)|**[link](https://github.com/dao-decentralization/dark-dao)**|
@@ -97,7 +98,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-11-09**|**Intermediating DFMM Asset (IDA)**|Arman Abgaryan et.al.|[2311.05234](http://arxiv.org/abs/2311.05234)|null|
 |**2023-11-03**|**FoodFresh: Multi-Chain Design for an Inter-Institutional Food Supply Chain Network**|Philipp Stangl et.al.|[2310.19461](http://arxiv.org/abs/2310.19461)|null|
-|**2023-10-20**|**Wave-like Tunneling of Phonons Dominates Glass-like Thermal Transport in Quasi-1D Copper Halide CsCu2I3**|Jiongzhi Zheng et.al.|[2310.13680](http://arxiv.org/abs/2310.13680)|null|
+|**2023-11-10**|**Wave-like Tunneling of Phonons Dominates Glass-like Thermal Transport in Quasi-1D Copper Halide CsCu2I3**|Jiongzhi Zheng et.al.|[2310.13680](http://arxiv.org/abs/2310.13680)|null|
 |**2023-10-20**|**X-Type Antiferromagnets**|Shui-Sen Zhang et.al.|[2310.13271](http://arxiv.org/abs/2310.13271)|null|
 |**2023-10-16**|**Towards Scalable Cross-Chain Messaging**|Joao Otavio Chervinski et.al.|[2310.10016](http://arxiv.org/abs/2310.10016)|null|
 |**2023-10-03**|**Shared Sequencing and Latency Competition as a Noisy Contest**|Akaki Mamageishvili et.al.|[2310.02390](http://arxiv.org/abs/2310.02390)|null|
