@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-12**|**Centralised or Decentralised? Data Analysis of Transaction Network of Hedera Hashgraph**|Lucas Amherd et.al.|[2311.06865](http://arxiv.org/abs/2311.06865)|null|
 |**2023-11-10**|**Deep Learning meets Blockchain for Automated and Secure Access Control**|Asma Jodeiri Akbarfam et.al.|[2311.06236](http://arxiv.org/abs/2311.06236)|null|
 |**2023-11-08**|**A Framework for Programmability in Digital Currency**|Nikhil George et.al.|[2311.04874](http://arxiv.org/abs/2311.04874)|null|
 |**2023-11-06**|**DonationChain: A New Platform for Blockchain-Based Donation-Tracking System**|Chaimaa Nari et.al.|[2311.03573](http://arxiv.org/abs/2311.03573)|null|
