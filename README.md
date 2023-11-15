@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**Aid Nexus : A Blockchain Based Financial Distribution System**|Md. Raisul Hasan Shahrukh et.al.|[2311.08372](http://arxiv.org/abs/2311.08372)|null|
 |**2023-11-12**|**Centralised or Decentralised? Data Analysis of Transaction Network of Hedera Hashgraph**|Lucas Amherd et.al.|[2311.06865](http://arxiv.org/abs/2311.06865)|null|
 |**2023-11-10**|**Deep Learning meets Blockchain for Automated and Secure Access Control**|Asma Jodeiri Akbarfam et.al.|[2311.06236](http://arxiv.org/abs/2311.06236)|null|
 |**2023-11-08**|**A Framework for Programmability in Digital Currency**|Nikhil George et.al.|[2311.04874](http://arxiv.org/abs/2311.04874)|null|
@@ -129,6 +130,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**SeDe: Balancing Blockchain Privacy and Regulatory Compliance by Selective De-Anonymization**|Naveen Sahu et.al.|[2311.08167](http://arxiv.org/abs/2311.08167)|null|
 |**2023-11-04**|**Towards Universal Atomic Composability: A Formal Model for Multi-Rollup Environments on Ethereum**|Dipankar Sarkar et.al.|[2311.00422](http://arxiv.org/abs/2311.00422)|null|
 |**2023-10-30**|**Incorporating Zero-Knowledge Succinct Non-interactive Argument of Knowledge for Blockchain-based Identity Management with off-chain computations**|Pranay Kothari et.al.|[2310.19452](http://arxiv.org/abs/2310.19452)|null|
 |**2023-10-24**|**Redactable Signature Schemes and Zero-knowledge Proofs: A comparative examination for applications in Decentralized Digital Identity Systems**|Bryan Kumara et.al.|[2310.15934](http://arxiv.org/abs/2310.15934)|null|
