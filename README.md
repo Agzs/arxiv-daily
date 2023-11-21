@@ -108,6 +108,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-12**|**Arguably Adequate Aqueduct Algorithm: Crossing A Bridge-Less Block-Chain Chasm**|Ravi Kashyap et.al.|[2311.10717](http://arxiv.org/abs/2311.10717)|null|
 |**2023-11-09**|**Intermediating DFMM Asset (IDA)**|Arman Abgaryan et.al.|[2311.05234](http://arxiv.org/abs/2311.05234)|null|
 |**2023-11-03**|**FoodFresh: Multi-Chain Design for an Inter-Institutional Food Supply Chain Network**|Philipp Stangl et.al.|[2310.19461](http://arxiv.org/abs/2310.19461)|null|
 |**2023-11-10**|**Wave-like Tunneling of Phonons Dominates Glass-like Thermal Transport in Quasi-1D Copper Halide CsCu2I3**|Jiongzhi Zheng et.al.|[2310.13680](http://arxiv.org/abs/2310.13680)|null|
