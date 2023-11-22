@@ -20,7 +20,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-11-17**|**Decentralized Energy Marketplace via NFTs and AI-based Agents**|Rasoul Nikbakht et.al.|[2311.10406](http://arxiv.org/abs/2311.10406)|**[link](https://github.com/rasoulnik/dem)**|
-|**2023-11-17**|**Automatic Smart Contract Comment Generation via Large Language Models and In-Context Learning**|Junjie Zhao et.al.|[2311.10388](http://arxiv.org/abs/2311.10388)|null|
+|**2023-11-17**|**Automatic Smart Contract Comment Generation via Large Language Models and In-Context Learning**|Junjie Zhao et.al.|[2311.10388](http://arxiv.org/abs/2311.10388)|**[link](https://github.com/jun-jie-zhao/sccllm)**|
 |**2023-11-14**|**A New Paradigm in Blockchain-based Financial Aid Distribution**|Md. Raisul Hasan Shahrukh et.al.|[2311.08494](http://arxiv.org/abs/2311.08494)|null|
 |**2023-11-14**|**Aid Nexus : A Blockchain Based Financial Distribution System**|Md. Raisul Hasan Shahrukh et.al.|[2311.08372](http://arxiv.org/abs/2311.08372)|null|
 |**2023-11-12**|**Centralised or Decentralised? Data Analysis of Transaction Network of Hedera Hashgraph**|Lucas Amherd et.al.|[2311.06865](http://arxiv.org/abs/2311.06865)|null|
