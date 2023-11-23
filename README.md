@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-22**|**Gradual Verification for Smart Contracts**|Haojia Sun et.al.|[2311.13351](http://arxiv.org/abs/2311.13351)|null|
 |**2023-11-17**|**Decentralized Energy Marketplace via NFTs and AI-based Agents**|Rasoul Nikbakht et.al.|[2311.10406](http://arxiv.org/abs/2311.10406)|**[link](https://github.com/rasoulnik/dem)**|
 |**2023-11-17**|**Automatic Smart Contract Comment Generation via Large Language Models and In-Context Learning**|Junjie Zhao et.al.|[2311.10388](http://arxiv.org/abs/2311.10388)|**[link](https://github.com/jun-jie-zhao/sccllm)**|
 |**2023-11-14**|**A New Paradigm in Blockchain-based Financial Aid Distribution**|Md. Raisul Hasan Shahrukh et.al.|[2311.08494](http://arxiv.org/abs/2311.08494)|null|
@@ -134,6 +135,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-21**|**zkTax: A pragmatic way to support zero-knowledge tax disclosures**|Alex Berke et.al.|[2311.13008](http://arxiv.org/abs/2311.13008)|null|
 |**2023-11-15**|**Formal Verification of Zero-Knowledge Circuits**|Alessandro Coglio et.al.|[2311.08858](http://arxiv.org/abs/2311.08858)|null|
 |**2023-11-16**|**SeDe: Balancing Blockchain Privacy and Regulatory Compliance by Selective De-Anonymization**|Naveen Sahu et.al.|[2311.08167](http://arxiv.org/abs/2311.08167)|null|
 |**2023-11-04**|**Towards Universal Atomic Composability: A Formal Model for Multi-Rollup Environments on Ethereum**|Dipankar Sarkar et.al.|[2311.00422](http://arxiv.org/abs/2311.00422)|null|
