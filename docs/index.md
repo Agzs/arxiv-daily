@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.25
+## Updated on 2023.11.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -126,7 +126,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-21**|**zkTax: A pragmatic way to support zero-knowledge tax disclosures**|Alex Berke et.al.|[2311.13008](http://arxiv.org/abs/2311.13008)|null|
+|**2023-11-21**|**zkTax: A pragmatic way to support zero-knowledge tax disclosures**|Alex Berke et.al.|[2311.13008](http://arxiv.org/abs/2311.13008)|**[link](https://github.com/tobinsouth/zktax)**|
 |**2023-11-15**|**Formal Verification of Zero-Knowledge Circuits**|Alessandro Coglio et.al.|[2311.08858](http://arxiv.org/abs/2311.08858)|null|
 |**2023-11-16**|**SeDe: Balancing Blockchain Privacy and Regulatory Compliance by Selective De-Anonymization**|Naveen Sahu et.al.|[2311.08167](http://arxiv.org/abs/2311.08167)|null|
 |**2023-11-04**|**Towards Universal Atomic Composability: A Formal Model for Multi-Rollup Environments on Ethereum**|Dipankar Sarkar et.al.|[2311.00422](http://arxiv.org/abs/2311.00422)|null|
