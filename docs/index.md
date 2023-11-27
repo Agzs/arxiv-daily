@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-23**|**Process-Commutative Distributed Objects: From Cryptocurrencies to Byzantine-Fault-Tolerant CRDTs**|Davide Frey et.al.|[2311.13936](http://arxiv.org/abs/2311.13936)|null|
+|**2023-11-22**|**VINCY: A Smart-contract based Data Integrity and Validation Tooling for Automated Vehicle Incident Investigation**|André Budel et.al.|[2311.13728](http://arxiv.org/abs/2311.13728)|null|
 |**2023-11-22**|**Gradual Verification for Smart Contracts**|Haojia Sun et.al.|[2311.13351](http://arxiv.org/abs/2311.13351)|null|
 |**2023-11-17**|**Decentralized Energy Marketplace via NFTs and AI-based Agents**|Rasoul Nikbakht et.al.|[2311.10406](http://arxiv.org/abs/2311.10406)|**[link](https://github.com/rasoulnik/dem)**|
 |**2023-11-17**|**Automatic Smart Contract Comment Generation via Large Language Models and In-Context Learning**|Junjie Zhao et.al.|[2311.10388](http://arxiv.org/abs/2311.10388)|**[link](https://github.com/jun-jie-zhao/sccllm)**|
