@@ -105,6 +105,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-29**|**Eden: An Ultra Fast, Provably Secure, and Fully Decentralized Blockchain Interoperability Protocol**|Ke Liang et.al.|[2311.17454](http://arxiv.org/abs/2311.17454)|null|
 |**2023-09-12**|**Arguably Adequate Aqueduct Algorithm: Crossing A Bridge-Less Block-Chain Chasm**|Ravi Kashyap et.al.|[2311.10717](http://arxiv.org/abs/2311.10717)|null|
 |**2023-11-09**|**Intermediating DFMM Asset (IDA)**|Arman Abgaryan et.al.|[2311.05234](http://arxiv.org/abs/2311.05234)|null|
 |**2023-11-03**|**FoodFresh: Multi-Chain Design for an Inter-Institutional Food Supply Chain Network**|Philipp Stangl et.al.|[2310.19461](http://arxiv.org/abs/2310.19461)|null|
