@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-30**|**Decentralized Deepfake Detection Network using Blockchain Technology**|Dipankar Sarkar et.al.|[2311.18545](http://arxiv.org/abs/2311.18545)|null|
 |**2023-11-27**|**VeryFL: A Verify Federated Learning Framework Embedded with Blockchain**|Yihao Li et.al.|[2311.15617](http://arxiv.org/abs/2311.15617)|**[link](https://github.com/gtmllab/veryfl)**|
 |**2023-11-23**|**Process-Commutative Distributed Objects: From Cryptocurrencies to Byzantine-Fault-Tolerant CRDTs**|Davide Frey et.al.|[2311.13936](http://arxiv.org/abs/2311.13936)|null|
 |**2023-11-22**|**VINCY: A Smart-contract based Data Integrity and Validation Tooling for Automated Vehicle Incident Investigation**|André Budel et.al.|[2311.13728](http://arxiv.org/abs/2311.13728)|null|
@@ -139,6 +140,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-30**|**Unconditionally Secure Commitments with Quantum Auxiliary Inputs**|Tomoyuki Morimae et.al.|[2311.18566](http://arxiv.org/abs/2311.18566)|null|
 |**2023-11-26**|**Secure and Verifiable Data Collaboration with Low-Cost Zero-Knowledge Proofs**|Yizheng Zhu et.al.|[2311.15310](http://arxiv.org/abs/2311.15310)|null|
 |**2023-11-21**|**zkTax: A pragmatic way to support zero-knowledge tax disclosures**|Alex Berke et.al.|[2311.13008](http://arxiv.org/abs/2311.13008)|**[link](https://github.com/tobinsouth/zktax)**|
 |**2023-11-15**|**Formal Verification of Zero-Knowledge Circuits**|Alessandro Coglio et.al.|[2311.08858](http://arxiv.org/abs/2311.08858)|null|
