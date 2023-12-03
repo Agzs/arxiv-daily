@@ -167,6 +167,21 @@ layout: default
 |**2023-07-02**|**zkFi: Privacy-Preserving and Regulation Compliant Transactions using Zero Knowledge Proofs**|Naveen Sahu et.al.|[2307.00521](http://arxiv.org/abs/2307.00521)|null|
 |**2023-06-21**|**A Survey of Multivariate Polynomial Commitment Schemes**|Ihyun Nam et.al.|[2306.11383](http://arxiv.org/abs/2306.11383)|null|
 
+## secureaggregation
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-30**|**VREM-FL: Mobility-Aware Computation-Scheduling Co-Design for Vehicular Federated Learning**|Luca Ballotta et.al.|[2311.18741](http://arxiv.org/abs/2311.18741)|null|
+|**2023-11-30**|**Communication-Efficient Heterogeneous Federated Learning with Generalized Heavy-Ball Momentum**|Riccardo Zaccone et.al.|[2311.18578](http://arxiv.org/abs/2311.18578)|null|
+|**2023-11-30**|**FediOS: Decoupling Orthogonal Subspaces for Personalization in Feature-skew Federated Learning**|Lingzhi Gao et.al.|[2311.18559](http://arxiv.org/abs/2311.18559)|null|
+|**2023-11-30**|**Data-Agnostic Model Poisoning against Federated Learning: A Graph Autoencoder Approach**|Kai Li et.al.|[2311.18498](http://arxiv.org/abs/2311.18498)|null|
+|**2023-11-30**|**Unveiling Backdoor Risks Brought by Foundation Models in Heterogeneous Federated Learning**|Xi Li et.al.|[2311.18350](http://arxiv.org/abs/2311.18350)|null|
+|**2023-11-30**|**Toward the Tradeoffs between Privacy, Fairness and Utility in Federated Learning**|Kangkang Sun et.al.|[2311.18190](http://arxiv.org/abs/2311.18190)|null|
+|**2023-11-29**|**Mixed-Precision Quantization for Federated Learning on Resource-Constrained Heterogeneous Devices**|Huancheng Chen et.al.|[2311.18129](http://arxiv.org/abs/2311.18129)|null|
+|**2023-11-29**|**CommunityAI: Towards Community-based Federated Learning**|Ilir Murturi et.al.|[2311.17958](http://arxiv.org/abs/2311.17958)|null|
+|**2023-11-29**|**Addressing Membership Inference Attack in Federated Learning with Model Compression**|Gergely Dániel Németh et.al.|[2311.17750](http://arxiv.org/abs/2311.17750)|**[link](https://github.com/negedng/ma-fl-mia)**|
+|**2023-11-30**|**Grounding Foundation Models through Federated Transfer Learning: A General Framework**|Yan Kang et.al.|[2311.17431](http://arxiv.org/abs/2311.17431)|null|
+
 [contributors-shield]: https://img.shields.io/github/contributors/agzs/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/agzs/arxiv-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/agzs/arxiv-daily.svg?style=for-the-badge
