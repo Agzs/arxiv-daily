@@ -12,6 +12,7 @@
     <li><a href=#blockchain>blockchain</a></li>
     <li><a href=#crosschain>crosschain</a></li>
     <li><a href=#zero-knowledge-proof>zero-knowledge-proof</a></li>
+    <li><a href=#secureaggregation>secureaggregation</a></li>
   </ol>
 </details>
 

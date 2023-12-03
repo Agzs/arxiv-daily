@@ -28,6 +28,8 @@ keywords:
         filters: ["Atomic Swap", "interoperability", "cross-chain", "cross chain", "cross blockchain"]
     "zero-knowledge-proof":
         filters: ["Zero-Knowledge Proof", "Zero Knowledge Proof", "zk-SNARK"]
+    "secureaggregation":
+        filters: ["Secure Aggregation", "Federated Learning", "Privacy Preserving"]
     # "Applied Cryptography":
     #     filters: ["", ""]
     
