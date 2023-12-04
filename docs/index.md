@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Efficient and Secure Energy Trading with Electric Vehicles and Distributed Ledger Technology**|Conor Mullaney et.al.|[2312.00587](http://arxiv.org/abs/2312.00587)|null|
+|**2023-12-01**|**Unveiling the Landscape of Smart Contract Vulnerabilities: A Detailed Examination and Codification of Vulnerabilities in Prominent Blockchains**|Oualid Zaazaa et.al.|[2312.00499](http://arxiv.org/abs/2312.00499)|null|
+|**2023-11-20**|**DeFi Security: Turning The Weakest Link Into The Strongest Attraction**|Ravi Kashyap et.al.|[2312.00033](http://arxiv.org/abs/2312.00033)|null|
 |**2023-11-30**|**Decentralized Deepfake Detection Network using Blockchain Technology**|Dipankar Sarkar et.al.|[2311.18545](http://arxiv.org/abs/2311.18545)|null|
 |**2023-11-27**|**VeryFL: A Verify Federated Learning Framework Embedded with Blockchain**|Yihao Li et.al.|[2311.15617](http://arxiv.org/abs/2311.15617)|**[link](https://github.com/gtmllab/veryfl)**|
 |**2023-11-23**|**Process-Commutative Distributed Objects: From Cryptocurrencies to Byzantine-Fault-Tolerant CRDTs**|Davide Frey et.al.|[2311.13936](http://arxiv.org/abs/2311.13936)|null|
@@ -131,6 +134,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-30**|**SPAM: Secure & Private Aircraft Management**|Yaman Jandali et.al.|[2312.00245](http://arxiv.org/abs/2312.00245)|null|
 |**2023-11-30**|**Unconditionally Secure Commitments with Quantum Auxiliary Inputs**|Tomoyuki Morimae et.al.|[2311.18566](http://arxiv.org/abs/2311.18566)|null|
 |**2023-11-26**|**Secure and Verifiable Data Collaboration with Low-Cost Zero-Knowledge Proofs**|Yizheng Zhu et.al.|[2311.15310](http://arxiv.org/abs/2311.15310)|null|
 |**2023-11-21**|**zkTax: A pragmatic way to support zero-knowledge tax disclosures**|Alex Berke et.al.|[2311.13008](http://arxiv.org/abs/2311.13008)|**[link](https://github.com/tobinsouth/zktax)**|
@@ -171,6 +175,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Hashmarks: Privacy-Preserving Benchmarks for High-Stakes AI Evaluation**|Paul Bricman et.al.|[2312.00645](http://arxiv.org/abs/2312.00645)|null|
+|**2023-12-01**|**Efficient and Secure Energy Trading with Electric Vehicles and Distributed Ledger Technology**|Conor Mullaney et.al.|[2312.00587](http://arxiv.org/abs/2312.00587)|null|
+|**2023-11-30**|**FedEmb: A Vertical and Hybrid Federated Learning Algorithm using Network And Feature Embedding Aggregation**|Fanfei Meng et.al.|[2312.00102](http://arxiv.org/abs/2312.00102)|null|
 |**2023-11-30**|**VREM-FL: Mobility-Aware Computation-Scheduling Co-Design for Vehicular Federated Learning**|Luca Ballotta et.al.|[2311.18741](http://arxiv.org/abs/2311.18741)|null|
 |**2023-11-30**|**Communication-Efficient Heterogeneous Federated Learning with Generalized Heavy-Ball Momentum**|Riccardo Zaccone et.al.|[2311.18578](http://arxiv.org/abs/2311.18578)|null|
 |**2023-11-30**|**FediOS: Decoupling Orthogonal Subspaces for Personalization in Feature-skew Federated Learning**|Lingzhi Gao et.al.|[2311.18559](http://arxiv.org/abs/2311.18559)|null|
