@@ -14,10 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-02**|**Decentralized Finance: Protocols, Risks, and Governance**|Agostino Capponi et.al.|[2312.01018](http://arxiv.org/abs/2312.01018)|null|
+|**2023-12-01**|**Lennard Jones Token: a blockchain solution to scientific data curation**|Brian H. Lee et.al.|[2312.00902](http://arxiv.org/abs/2312.00902)|null|
 |**2023-12-01**|**Efficient and Secure Energy Trading with Electric Vehicles and Distributed Ledger Technology**|Conor Mullaney et.al.|[2312.00587](http://arxiv.org/abs/2312.00587)|null|
 |**2023-12-01**|**Unveiling the Landscape of Smart Contract Vulnerabilities: A Detailed Examination and Codification of Vulnerabilities in Prominent Blockchains**|Oualid Zaazaa et.al.|[2312.00499](http://arxiv.org/abs/2312.00499)|null|
 |**2023-11-20**|**DeFi Security: Turning The Weakest Link Into The Strongest Attraction**|Ravi Kashyap et.al.|[2312.00033](http://arxiv.org/abs/2312.00033)|null|
-|**2023-11-30**|**Decentralized Deepfake Detection Network using Blockchain Technology**|Dipankar Sarkar et.al.|[2311.18545](http://arxiv.org/abs/2311.18545)|null|
+|**2023-12-01**|**Decentralized Deepfake Detection Blockchain Network using Dynamic Algorithm management**|Dipankar Sarkar et.al.|[2311.18545](http://arxiv.org/abs/2311.18545)|null|
 |**2023-11-27**|**VeryFL: A Verify Federated Learning Framework Embedded with Blockchain**|Yihao Li et.al.|[2311.15617](http://arxiv.org/abs/2311.15617)|**[link](https://github.com/gtmllab/veryfl)**|
 |**2023-11-23**|**Process-Commutative Distributed Objects: From Cryptocurrencies to Byzantine-Fault-Tolerant CRDTs**|Davide Frey et.al.|[2311.13936](http://arxiv.org/abs/2311.13936)|null|
 |**2023-11-22**|**VINCY: A Smart-contract based Data Integrity and Validation Tooling for Automated Vehicle Incident Investigation**|André Budel et.al.|[2311.13728](http://arxiv.org/abs/2311.13728)|null|
@@ -175,6 +177,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Hot PATE: Private Aggregation of Distributions for Diverse Task**|Edith Cohen et.al.|[2312.02132](http://arxiv.org/abs/2312.02132)|null|
+|**2023-12-04**|**Mitigating Data Injection Attacks on Federated Learning**|Or Shalom et.al.|[2312.02102](http://arxiv.org/abs/2312.02102)|null|
+|**2023-12-04**|**Federated Learning is Better with Non-Homomorphic Encryption**|Konstantin Burlachenko et.al.|[2312.02074](http://arxiv.org/abs/2312.02074)|null|
+|**2023-12-04**|**Heroes: Lightweight Federated Learning with Neural Composition and Adaptive Local Update in Heterogeneous Edge Networks**|Jiaming Yan et.al.|[2312.01617](http://arxiv.org/abs/2312.01617)|null|
+|**2023-12-03**|**Unlocking the Potential of Federated Learning: The Symphony of Dataset Distillation via Deep Generative Latents**|Yuqi Jia et.al.|[2312.01537](http://arxiv.org/abs/2312.01537)|**[link](https://github.com/feddg23/feddg-main)**|
+|**2023-12-02**|**Strategic Data Revocation in Federated Unlearning**|Ningning Ding et.al.|[2312.01235](http://arxiv.org/abs/2312.01235)|null|
+|**2023-12-02**|**Distributed Bayesian Estimation in Sensor Networks: Consensus on Marginal Densities**|Parth Paritosh et.al.|[2312.01227](http://arxiv.org/abs/2312.01227)|null|
+|**2023-12-02**|**PAC Privacy Preserving Diffusion Models**|Qipan Xu et.al.|[2312.01201](http://arxiv.org/abs/2312.01201)|null|
+|**2023-12-02**|**Here Is Not There: Measuring Entailment-Based Trajectory Similarity for Location-Privacy Protection and Beyond**|Zilong Liu et.al.|[2312.01151](http://arxiv.org/abs/2312.01151)|null|
+|**2023-12-02**|**PROFL: A Privacy-Preserving Federated Learning Method with Stringent Defense Against Poisoning Attacks**|Yisheng Zhong et.al.|[2312.01045](http://arxiv.org/abs/2312.01045)|null|
 |**2023-12-01**|**Hashmarks: Privacy-Preserving Benchmarks for High-Stakes AI Evaluation**|Paul Bricman et.al.|[2312.00645](http://arxiv.org/abs/2312.00645)|null|
 |**2023-12-01**|**Efficient and Secure Energy Trading with Electric Vehicles and Distributed Ledger Technology**|Conor Mullaney et.al.|[2312.00587](http://arxiv.org/abs/2312.00587)|null|
 |**2023-11-30**|**FedEmb: A Vertical and Hybrid Federated Learning Algorithm using Network And Feature Embedding Aggregation**|Fanfei Meng et.al.|[2312.00102](http://arxiv.org/abs/2312.00102)|null|
