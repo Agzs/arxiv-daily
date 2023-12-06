@@ -189,6 +189,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**Think Twice Before Selection: Federated Evidential Active Learning for Medical Image Analysis with Domain Shifts**|Jiayi Chen et.al.|[2312.02567](http://arxiv.org/abs/2312.02567)|null|
+|**2023-12-05**|**Towards Fast and Stable Federated Learning: Confronting Heterogeneity via Knowledge Anchor**|Jinqian Chen et.al.|[2312.02416](http://arxiv.org/abs/2312.02416)|**[link](https://github.com/J1nqianChen/FedKA)**|
+|**2023-12-04**|**FLea: Improving federated learning on scarce and label-skewed data via privacy-preserving feature augmentation**|Tong Xia et.al.|[2312.02327](http://arxiv.org/abs/2312.02327)|null|
+|**2023-12-04**|**Federated Active Learning for Target Domain Generalisation**|Razvan Caramalau et.al.|[2312.02247](http://arxiv.org/abs/2312.02247)|**[link](https://github.com/razvancaramalau/fedalv)**|
 |**2023-12-04**|**Hot PATE: Private Aggregation of Distributions for Diverse Task**|Edith Cohen et.al.|[2312.02132](http://arxiv.org/abs/2312.02132)|null|
 |**2023-12-04**|**Mitigating Data Injection Attacks on Federated Learning**|Or Shalom et.al.|[2312.02102](http://arxiv.org/abs/2312.02102)|null|
 |**2023-12-04**|**Federated Learning is Better with Non-Homomorphic Encryption**|Konstantin Burlachenko et.al.|[2312.02074](http://arxiv.org/abs/2312.02074)|null|
