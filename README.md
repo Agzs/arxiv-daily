@@ -189,6 +189,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**Fed-urlBERT: Client-side Lightweight Federated Transformers for URL Threat Analysis**|Yujie Li et.al.|[2312.03636](http://arxiv.org/abs/2312.03636)|null|
+|**2023-12-06**|**Privacy-Preserving Task-Oriented Semantic Communications Against Model Inversion Attacks**|Yanhu Wang et.al.|[2312.03252](http://arxiv.org/abs/2312.03252)|null|
+|**2023-12-06**|**Who Leaked the Model? Tracking IP Infringers in Accountable Federated Learning**|Shuyang Yu et.al.|[2312.03205](http://arxiv.org/abs/2312.03205)|null|
+|**2023-12-05**|**The Landscape of Modern Machine Learning: A Review of Machine, Distributed and Federated Learning**|Omer Subasi et.al.|[2312.03120](http://arxiv.org/abs/2312.03120)|null|
 |**2023-12-05**|**Think Twice Before Selection: Federated Evidential Active Learning for Medical Image Analysis with Domain Shifts**|Jiayi Chen et.al.|[2312.02567](http://arxiv.org/abs/2312.02567)|null|
 |**2023-12-05**|**Towards Fast and Stable Federated Learning: Confronting Heterogeneity via Knowledge Anchor**|Jinqian Chen et.al.|[2312.02416](http://arxiv.org/abs/2312.02416)|**[link](https://github.com/J1nqianChen/FedKA)**|
 |**2023-12-04**|**FLea: Improving federated learning on scarce and label-skewed data via privacy-preserving feature augmentation**|Tong Xia et.al.|[2312.02327](http://arxiv.org/abs/2312.02327)|null|
