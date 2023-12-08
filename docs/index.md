@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-07**|**MuFuzz: Sequence-Aware Mutation and Seed Mask Guidance for Blockchain Smart Contract Fuzzing**|Peng Qian et.al.|[2312.04512](http://arxiv.org/abs/2312.04512)|null|
+|**2023-12-07**|**Contract Wallet Using Emails**|Sora Suegami et.al.|[2312.04173](http://arxiv.org/abs/2312.04173)|null|
 |**2023-12-02**|**Decentralized Finance: Protocols, Risks, and Governance**|Agostino Capponi et.al.|[2312.01018](http://arxiv.org/abs/2312.01018)|null|
 |**2023-12-01**|**Lennard Jones Token: a blockchain solution to scientific data curation**|Brian H. Lee et.al.|[2312.00902](http://arxiv.org/abs/2312.00902)|null|
 |**2023-12-01**|**Efficient and Secure Energy Trading with Electric Vehicles and Distributed Ledger Technology**|Conor Mullaney et.al.|[2312.00587](http://arxiv.org/abs/2312.00587)|null|
@@ -136,6 +138,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-07**|**Contract Wallet Using Emails**|Sora Suegami et.al.|[2312.04173](http://arxiv.org/abs/2312.04173)|null|
 |**2023-11-30**|**SPAM: Secure & Private Aircraft Management**|Yaman Jandali et.al.|[2312.00245](http://arxiv.org/abs/2312.00245)|null|
 |**2023-11-30**|**Unconditionally Secure Commitments with Quantum Auxiliary Inputs**|Tomoyuki Morimae et.al.|[2311.18566](http://arxiv.org/abs/2311.18566)|null|
 |**2023-11-26**|**Secure and Verifiable Data Collaboration with Low-Cost Zero-Knowledge Proofs**|Yizheng Zhu et.al.|[2311.15310](http://arxiv.org/abs/2311.15310)|null|
@@ -177,6 +180,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-07**|**Coordination-free Decentralised Federated Learning on Complex Networks: Overcoming Heterogeneity**|Lorenzo Valerio et.al.|[2312.04504](http://arxiv.org/abs/2312.04504)|null|
+|**2023-12-07**|**Privacy-preserving quantum federated learning via gradient hiding**|Changhao Li et.al.|[2312.04447](http://arxiv.org/abs/2312.04447)|null|
+|**2023-12-07**|**FreqFed: A Frequency Analysis-Based Approach for Mitigating Poisoning Attacks in Federated Learning**|Hossein Fereidooni et.al.|[2312.04432](http://arxiv.org/abs/2312.04432)|null|
+|**2023-12-07**|**Developing Elementary Federated Learning Algorithms Leveraging the ChatGPT**|Miroslav Popovic et.al.|[2312.04412](http://arxiv.org/abs/2312.04412)|null|
+|**2023-12-07**|**On the Impact of Multi-dimensional Local Differential Privacy on Fairness**|karima Makhlouf et.al.|[2312.04404](http://arxiv.org/abs/2312.04404)|null|
+|**2023-12-07**|**Factor-Assisted Federated Learning for Personalized Optimization with Heterogeneous Data**|Feifei Wang et.al.|[2312.04281](http://arxiv.org/abs/2312.04281)|null|
+|**2023-12-07**|**Improving Communication Efficiency of Federated Distillation via Accumulating Local Updates**|Zhiyuan Wu et.al.|[2312.04166](http://arxiv.org/abs/2312.04166)|null|
+|**2023-12-07**|**A Novel Federated Learning-based Intrusion Detection System for Flying Ad Hoc Networks**|Ozlem Ceviz et.al.|[2312.04135](http://arxiv.org/abs/2312.04135)|null|
+|**2023-12-07**|**Identity-Obscured Neural Radiance Fields: Privacy-Preserving 3D Facial Reconstruction**|Jiayi Kong et.al.|[2312.04106](http://arxiv.org/abs/2312.04106)|null|
+|**2023-12-06**|**A Masked Pruning Approach for Dimensionality Reduction in Communication-Efficient Federated Learning Systems**|Tamir L. S. Gez et.al.|[2312.03889](http://arxiv.org/abs/2312.03889)|null|
 |**2023-12-06**|**Fed-urlBERT: Client-side Lightweight Federated Transformers for URL Threat Analysis**|Yujie Li et.al.|[2312.03636](http://arxiv.org/abs/2312.03636)|null|
 |**2023-12-06**|**Privacy-Preserving Task-Oriented Semantic Communications Against Model Inversion Attacks**|Yanhu Wang et.al.|[2312.03252](http://arxiv.org/abs/2312.03252)|null|
 |**2023-12-06**|**Who Leaked the Model? Tracking IP Infringers in Accountable Federated Learning**|Shuyang Yu et.al.|[2312.03205](http://arxiv.org/abs/2312.03205)|null|
