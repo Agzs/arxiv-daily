@@ -190,7 +190,7 @@ layout: default
 |**2023-12-07**|**A Novel Federated Learning-based Intrusion Detection System for Flying Ad Hoc Networks**|Ozlem Ceviz et.al.|[2312.04135](http://arxiv.org/abs/2312.04135)|null|
 |**2023-12-07**|**Identity-Obscured Neural Radiance Fields: Privacy-Preserving 3D Facial Reconstruction**|Jiayi Kong et.al.|[2312.04106](http://arxiv.org/abs/2312.04106)|null|
 |**2023-12-06**|**A Masked Pruning Approach for Dimensionality Reduction in Communication-Efficient Federated Learning Systems**|Tamir L. S. Gez et.al.|[2312.03889](http://arxiv.org/abs/2312.03889)|null|
-|**2023-12-06**|**Fed-urlBERT: Client-side Lightweight Federated Transformers for URL Threat Analysis**|Yujie Li et.al.|[2312.03636](http://arxiv.org/abs/2312.03636)|null|
+|**2023-12-06**|**Fed-urlBERT: Client-side Lightweight Federated Transformers for URL Threat Analysis**|Yujie Li et.al.|[2312.03636](http://arxiv.org/abs/2312.03636)|**[link](https://github.com/davidup1/fedurlbert)**|
 |**2023-12-06**|**Privacy-Preserving Task-Oriented Semantic Communications Against Model Inversion Attacks**|Yanhu Wang et.al.|[2312.03252](http://arxiv.org/abs/2312.03252)|null|
 |**2023-12-06**|**Who Leaked the Model? Tracking IP Infringers in Accountable Federated Learning**|Shuyang Yu et.al.|[2312.03205](http://arxiv.org/abs/2312.03205)|null|
 |**2023-12-05**|**The Landscape of Modern Machine Learning: A Review of Machine, Distributed and Federated Learning**|Omer Subasi et.al.|[2312.03120](http://arxiv.org/abs/2312.03120)|null|
