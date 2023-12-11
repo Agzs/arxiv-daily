@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.10
+## Updated on 2023.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-07**|**MuFuzz: Sequence-Aware Mutation and Seed Mask Guidance for Blockchain Smart Contract Fuzzing**|Peng Qian et.al.|[2312.04512](http://arxiv.org/abs/2312.04512)|null|
+|**2023-12-07**|**MuFuzz: Sequence-Aware Mutation and Seed Mask Guidance for Blockchain Smart Contract Fuzzing**|Peng Qian et.al.|[2312.04512](http://arxiv.org/abs/2312.04512)|**[link](https://github.com/messi-q/mufuzz)**|
 |**2023-12-07**|**Contract Wallet Using Emails**|Sora Suegami et.al.|[2312.04173](http://arxiv.org/abs/2312.04173)|null|
 |**2023-12-02**|**Decentralized Finance: Protocols, Risks, and Governance**|Agostino Capponi et.al.|[2312.01018](http://arxiv.org/abs/2312.01018)|null|
 |**2023-12-01**|**Lennard Jones Token: a blockchain solution to scientific data curation**|Brian H. Lee et.al.|[2312.00902](http://arxiv.org/abs/2312.00902)|null|
