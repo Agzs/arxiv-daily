@@ -14,10 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**Trusting a Smart Contract Means Trusting Its Owners: Understanding Centralization Risk**|Metin Lamby et.al.|[2312.06510](http://arxiv.org/abs/2312.06510)|null|
+|**2023-12-09**|**FLoW3 -- Web3 Empowered Federated Learning**|Venkata Raghava Kurada et.al.|[2312.05459](http://arxiv.org/abs/2312.05459)|null|
 |**2023-12-08**|**Achieving Consensus on Spectrum Usage in the Presence of Faults**|Arman Mollakhani et.al.|[2312.05213](http://arxiv.org/abs/2312.05213)|null|
 |**2023-12-08**|**Distributed Autonomous Organizations as Public Services Supplying Platform**|Giovanni De Gasperis et.al.|[2312.05189](http://arxiv.org/abs/2312.05189)|null|
 |**2023-12-01**|**zkFDL: An efficient and privacy-preserving decentralized federated learning with zero knowledge proof**|Mojtaba Ahmadi et.al.|[2312.04579](http://arxiv.org/abs/2312.04579)|null|
-|**2023-12-07**|**MuFuzz: Sequence-Aware Mutation and Seed Mask Guidance for Blockchain Smart Contract Fuzzing**|Peng Qian et.al.|[2312.04512](http://arxiv.org/abs/2312.04512)|**[link](https://github.com/messi-q/mufuzz)**|
+|**2023-12-10**|**MuFuzz: Sequence-Aware Mutation and Seed Mask Guidance for Blockchain Smart Contract Fuzzing**|Peng Qian et.al.|[2312.04512](http://arxiv.org/abs/2312.04512)|**[link](https://github.com/messi-q/mufuzz)**|
 |**2023-12-07**|**Contract Wallet Using Emails**|Sora Suegami et.al.|[2312.04173](http://arxiv.org/abs/2312.04173)|null|
 |**2023-12-02**|**Decentralized Finance: Protocols, Risks, and Governance**|Agostino Capponi et.al.|[2312.01018](http://arxiv.org/abs/2312.01018)|null|
 |**2023-12-01**|**Lennard Jones Token: a blockchain solution to scientific data curation**|Brian H. Lee et.al.|[2312.00902](http://arxiv.org/abs/2312.00902)|null|
@@ -184,6 +186,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**Point Transformer with Federated Learning for Predicting Breast Cancer HER2 Status from Hematoxylin and Eosin-Stained Whole Slide Images**|Bao Li et.al.|[2312.06454](http://arxiv.org/abs/2312.06454)|null|
+|**2023-12-11**|**Federated Full-Parameter Tuning of Billion-Sized Language Models with Communication Cost under 18 Kilobytes**|Zhen Qin et.al.|[2312.06353](http://arxiv.org/abs/2312.06353)|null|
+|**2023-12-11**|**Exploiting Label Skews in Federated Learning with Model Concatenation**|Yiqun Diao et.al.|[2312.06290](http://arxiv.org/abs/2312.06290)|**[link](https://github.com/sjtudyq/fedconcat)**|
+|**2023-12-11**|**Federated Multilinear Principal Component Analysis with Applications in Prognostics**|Chengyu Zhou et.al.|[2312.06050](http://arxiv.org/abs/2312.06050)|null|
+|**2023-12-10**|**Fake It Till Make It: Federated Learning with Consensus-Oriented Generation**|Rui Ye et.al.|[2312.05966](http://arxiv.org/abs/2312.05966)|null|
+|**2023-12-10**|**Federated Learning Empowered by Generative Content**|Rui Ye et.al.|[2312.05807](http://arxiv.org/abs/2312.05807)|null|
+|**2023-12-10**|**FedASMU: Efficient Asynchronous Federated Learning with Dynamic Staleness-aware Model Update**|Ji Liu et.al.|[2312.05770](http://arxiv.org/abs/2312.05770)|null|
+|**2023-12-10**|**QMGeo: Differentially Private Federated Learning via Stochastic Quantization with Mixed Truncated Geometric Distribution**|Zixi Wang et.al.|[2312.05761](http://arxiv.org/abs/2312.05761)|null|
+|**2023-12-10**|**Beyond Gradient and Priors in Privacy Attacks: Leveraging Pooler Layer Inputs of Language Models in Federated Learning**|Jianwei Li et.al.|[2312.05720](http://arxiv.org/abs/2312.05720)|null|
+|**2023-12-09**|**Privacy Preserving Multi-Agent Reinforcement Learning in Supply Chains**|Ananta Mukherjee et.al.|[2312.05686](http://arxiv.org/abs/2312.05686)|null|
 |**2023-12-08**|**Topology-Based Reconstruction Prevention for Decentralised Learning**|Florine W. Dekker et.al.|[2312.05248](http://arxiv.org/abs/2312.05248)|null|
 |**2023-12-08**|**A Privacy-Preserving Framework for Cloud-Based HVAC Control**|Zhenan Feng et.al.|[2312.05183](http://arxiv.org/abs/2312.05183)|null|
 |**2023-12-08**|**On the Inadequacy of Similarity-based Privacy Metrics: Reconstruction Attacks against "Truly Anonymous Synthetic Data''**|Georgi Ganev et.al.|[2312.05114](http://arxiv.org/abs/2312.05114)|null|
