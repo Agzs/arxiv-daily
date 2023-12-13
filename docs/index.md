@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.12
+## Updated on 2023.12.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -186,7 +186,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-11**|**Point Transformer with Federated Learning for Predicting Breast Cancer HER2 Status from Hematoxylin and Eosin-Stained Whole Slide Images**|Bao Li et.al.|[2312.06454](http://arxiv.org/abs/2312.06454)|null|
+|**2023-12-11**|**Point Transformer with Federated Learning for Predicting Breast Cancer HER2 Status from Hematoxylin and Eosin-Stained Whole Slide Images**|Bao Li et.al.|[2312.06454](http://arxiv.org/abs/2312.06454)|**[link](https://github.com/boyden/pointtransformerfl)**|
 |**2023-12-11**|**Federated Full-Parameter Tuning of Billion-Sized Language Models with Communication Cost under 18 Kilobytes**|Zhen Qin et.al.|[2312.06353](http://arxiv.org/abs/2312.06353)|null|
 |**2023-12-11**|**Exploiting Label Skews in Federated Learning with Model Concatenation**|Yiqun Diao et.al.|[2312.06290](http://arxiv.org/abs/2312.06290)|**[link](https://github.com/sjtudyq/fedconcat)**|
 |**2023-12-11**|**Federated Multilinear Principal Component Analysis with Applications in Prognostics**|Chengyu Zhou et.al.|[2312.06050](http://arxiv.org/abs/2312.06050)|null|
