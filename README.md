@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-10**|**On the Use of Smart Hybrid Contracts to Provide Flexibility in Algorithmic Governance**|Carlos Molina-Jimenez et.al.|[2312.07565](http://arxiv.org/abs/2312.07565)|null|
 |**2023-12-12**|**Transformation rules for the decentralization of a blockchain-extended global process model**|Julius Köpke et.al.|[2312.07388](http://arxiv.org/abs/2312.07388)|null|
 |**2023-12-11**|**Trusting a Smart Contract Means Trusting Its Owners: Understanding Centralization Risk**|Metin Lamby et.al.|[2312.06510](http://arxiv.org/abs/2312.06510)|null|
 |**2023-12-09**|**FLoW3 -- Web3 Empowered Federated Learning**|Venkata Raghava Kurada et.al.|[2312.05459](http://arxiv.org/abs/2312.05459)|null|
@@ -154,6 +155,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**Zero-Knowledge Proof of Traffic: A Deterministic and Privacy-Preserving Cross Verification Mechanism for Cooperative Perception Data**|Ye Tao et.al.|[2312.07948](http://arxiv.org/abs/2312.07948)|null|
 |**2023-12-01**|**zkFDL: An efficient and privacy-preserving decentralized federated learning with zero knowledge proof**|Mojtaba Ahmadi et.al.|[2312.04579](http://arxiv.org/abs/2312.04579)|null|
 |**2023-12-07**|**Contract Wallet Using Emails**|Sora Suegami et.al.|[2312.04173](http://arxiv.org/abs/2312.04173)|null|
 |**2023-11-30**|**SPAM: Secure & Private Aircraft Management**|Yaman Jandali et.al.|[2312.00245](http://arxiv.org/abs/2312.00245)|null|
@@ -199,6 +201,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-13**|**Venn: Resource Management Across Federated Learning Jobs**|Jiachen Liu et.al.|[2312.08298](http://arxiv.org/abs/2312.08298)|null|
+|**2023-12-13**|**Differential Privacy Preserving Quantum Computing via Projection Operator Measurements**|Yuqing Li et.al.|[2312.08210](http://arxiv.org/abs/2312.08210)|null|
+|**2023-12-13**|**Privacy-Preserving Distributed Optimisation using Stochastic PDMM**|Sebastian O. Jordan et.al.|[2312.08144](http://arxiv.org/abs/2312.08144)|null|
+|**2023-12-13**|**An Incentive Mechanism for Federated Learning Based on Multiple Resource Exchange**|Ruonan Dong et.al.|[2312.08096](http://arxiv.org/abs/2312.08096)|null|
+|**2023-12-13**|**On the privacy of federated Clustering: A Cryptographic View**|Qiongxiu Li et.al.|[2312.07992](http://arxiv.org/abs/2312.07992)|null|
+|**2023-12-13**|**Topology-Dependent Privacy Bound For Decentralized Federated Learning**|Qiongxiu Li et.al.|[2312.07956](http://arxiv.org/abs/2312.07956)|null|
+|**2023-12-13**|**Zero-Knowledge Proof of Traffic: A Deterministic and Privacy-Preserving Cross Verification Mechanism for Cooperative Perception Data**|Ye Tao et.al.|[2312.07948](http://arxiv.org/abs/2312.07948)|null|
+|**2023-12-13**|**Adaptive Differentially Quantized Subspace Perturbation (ADQSP): A Unified Framework for Privacy-Preserving Distributed Average Consensus**|Qiongxiu Li et.al.|[2312.07947](http://arxiv.org/abs/2312.07947)|null|
 |**2023-12-12**|**Ensemble Federated Learning: an approach for collaborative pneumonia diagnosis**|Alhassan Mabrouk et.al.|[2312.07428](http://arxiv.org/abs/2312.07428)|null|
 |**2023-12-12**|**Privacy-Aware Energy Consumption Modeling of Connected Battery Electric Vehicles using Federated Learning**|Sen Yan et.al.|[2312.07371](http://arxiv.org/abs/2312.07371)|null|
 |**2023-12-12**|**Language-Guided Transformer for Federated Multi-Label Classification**|I-Jieh Liu et.al.|[2312.07165](http://arxiv.org/abs/2312.07165)|**[link](https://github.com/jack24658735/fedlgt)**|
