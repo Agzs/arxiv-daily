@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-14**|**Gas Cost Analysis of Proxy and Diamond Patterns: Towards Trusted Smart Contract Engineering in EVM Blockchains**|Benedetti Anto et.al.|[2312.08945](http://arxiv.org/abs/2312.08945)|null|
 |**2023-12-10**|**On the Use of Smart Hybrid Contracts to Provide Flexibility in Algorithmic Governance**|Carlos Molina-Jimenez et.al.|[2312.07565](http://arxiv.org/abs/2312.07565)|null|
 |**2023-12-12**|**Transformation rules for the decentralization of a blockchain-extended global process model**|Julius Köpke et.al.|[2312.07388](http://arxiv.org/abs/2312.07388)|null|
 |**2023-12-11**|**Trusting a Smart Contract Means Trusting Its Owners: Understanding Centralization Risk**|Metin Lamby et.al.|[2312.06510](http://arxiv.org/abs/2312.06510)|null|
@@ -201,6 +202,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-14**|**Greedy Shapley Client Selection for Communication-Efficient Federated Learning**|Pranava Singhal et.al.|[2312.09108](http://arxiv.org/abs/2312.09108)|**[link](https://github.com/pringlesinghal/greedyfed)**|
+|**2023-12-14**|**A Framework for Exploring Federated Community Detection**|William Leeney et.al.|[2312.09023](http://arxiv.org/abs/2312.09023)|null|
+|**2023-12-14**|**FedSSA: Semantic Similarity-based Aggregation for Efficient Model-Heterogeneous Personalized Federated Learning**|Liping Yi et.al.|[2312.09006](http://arxiv.org/abs/2312.09006)|null|
+|**2023-12-14**|**Detection and Defense of Unlearnable Examples**|Yifan Zhu et.al.|[2312.08898](http://arxiv.org/abs/2312.08898)|**[link](https://github.com/hala64/udp)**|
+|**2023-12-14**|**Enabling End-to-End Secure Federated Learning in Biomedical Research on Heterogeneous Computing Environments with APPFLx**|Trung-Hieu Hoang et.al.|[2312.08701](http://arxiv.org/abs/2312.08701)|null|
+|**2023-12-14**|**Data and Model Poisoning Backdoor Attacks on Wireless Federated Learning, and the Defense Mechanisms: A Comprehensive Survey**|Yichen Wan et.al.|[2312.08667](http://arxiv.org/abs/2312.08667)|null|
+|**2023-12-14**|**CLIP-guided Federated Learning on Heterogeneous and Long-Tailed Data**|Jiangming Shi et.al.|[2312.08648](http://arxiv.org/abs/2312.08648)|**[link](https://github.com/shijiangming1/clip2fl)**|
+|**2023-12-14**|**Federated Learning for Wireless Applications: A Prototype**|Varun Laxman Muttepawar et.al.|[2312.08577](http://arxiv.org/abs/2312.08577)|null|
+|**2023-12-13**|**Contractive error feedback for gradient compression**|Bingcong Li et.al.|[2312.08538](http://arxiv.org/abs/2312.08538)|null|
 |**2023-12-13**|**Venn: Resource Management Across Federated Learning Jobs**|Jiachen Liu et.al.|[2312.08298](http://arxiv.org/abs/2312.08298)|null|
 |**2023-12-13**|**Differential Privacy Preserving Quantum Computing via Projection Operator Measurements**|Yuqing Li et.al.|[2312.08210](http://arxiv.org/abs/2312.08210)|null|
 |**2023-12-13**|**Privacy-Preserving Distributed Optimisation using Stochastic PDMM**|Sebastian O. Jordan et.al.|[2312.08144](http://arxiv.org/abs/2312.08144)|null|
