@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.16
+## Updated on 2023.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -208,7 +208,7 @@ layout: default
 |**2023-12-13**|**Zero-Knowledge Proof of Traffic: A Deterministic and Privacy-Preserving Cross Verification Mechanism for Cooperative Perception Data**|Ye Tao et.al.|[2312.07948](http://arxiv.org/abs/2312.07948)|null|
 |**2023-12-13**|**Adaptive Differentially Quantized Subspace Perturbation (ADQSP): A Unified Framework for Privacy-Preserving Distributed Average Consensus**|Qiongxiu Li et.al.|[2312.07947](http://arxiv.org/abs/2312.07947)|null|
 |**2023-12-12**|**Ensemble Federated Learning: an approach for collaborative pneumonia diagnosis**|Alhassan Mabrouk et.al.|[2312.07428](http://arxiv.org/abs/2312.07428)|null|
-|**2023-12-12**|**Privacy-Aware Energy Consumption Modeling of Connected Battery Electric Vehicles using Federated Learning**|Sen Yan et.al.|[2312.07371](http://arxiv.org/abs/2312.07371)|null|
+|**2023-12-12**|**Privacy-Aware Energy Consumption Modeling of Connected Battery Electric Vehicles using Federated Learning**|Sen Yan et.al.|[2312.07371](http://arxiv.org/abs/2312.07371)|**[link](https://github.com/sfiessential/fedbev)**|
 |**2023-12-12**|**Language-Guided Transformer for Federated Multi-Label Classification**|I-Jieh Liu et.al.|[2312.07165](http://arxiv.org/abs/2312.07165)|**[link](https://github.com/jack24658735/fedlgt)**|
 |**2023-12-12**|**Efficient Cross-Domain Federated Learning by MixStyle Approximation**|Manuel Röder et.al.|[2312.07064](http://arxiv.org/abs/2312.07064)|null|
 |**2023-12-12**|**Layered Randomized Quantization for Communication-Efficient and Privacy-Preserving Distributed Learning**|Guangfeng Yan et.al.|[2312.07060](http://arxiv.org/abs/2312.07060)|null|
