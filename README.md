@@ -61,7 +61,7 @@
 |**2023-10-28**|**FinBTech: Blockchain-Based Video and Voice Authentication System for Enhanced Security in Financial Transactions Utilizing FaceNet512 and Gaussian Mixture Models**|Prof N. Jeenath Laila et.al.|[2310.18668](http://arxiv.org/abs/2310.18668)|null|
 |**2023-10-27**|**Sui Lutris: A Blockchain Combining Broadcast and Consensus**|Same Blackshear et.al.|[2310.18042](http://arxiv.org/abs/2310.18042)|null|
 |**2023-10-26**|**Multilayer Environment and Toolchain for Holistic NetwOrk Design and Analysis**|Filip Rezabek et.al.|[2310.16190](http://arxiv.org/abs/2310.16190)|null|
-|**2023-10-25**|**GPTutor: an open-source AI pair programming tool alternative to Copilot**|Eason Chen et.al.|[2310.13896](http://arxiv.org/abs/2310.13896)|null|
+|**2023-10-25**|**GPTutor: an open-source AI pair programming tool alternative to Copilot**|Eason Chen et.al.|[2310.13896](http://arxiv.org/abs/2310.13896)|**[link](https://github.com/gptutor/gptutor-extension)**|
 |**2023-10-20**|**Zero-Knowledge Proofs for Questionnaire Result Verification in Smart Contracts**|Carlos Efrain Quintero-Narvaez et.al.|[2310.13618](http://arxiv.org/abs/2310.13618)|null|
 |**2023-10-26**|**Building Random, Fair, and Verifiable Games on Blockchain. Raffle smart contract designs on Sui Network**|Eason Chen et.al.|[2310.12305](http://arxiv.org/abs/2310.12305)|**[link](https://github.com/bucket-protocol/raffle-paper)**|
 |**2023-10-16**|**Understanding and managing blockchain protocol risks**|Alex Nathan et.al.|[2310.10797](http://arxiv.org/abs/2310.10797)|null|
@@ -186,7 +186,7 @@
 |**2023-08-29**|**FedChain: An Efficient and Secure Consensus Protocol based on Proof of Useful Federated Learning for Blockchain**|Peiran Wang et.al.|[2308.15095](http://arxiv.org/abs/2308.15095)|null|
 |**2023-08-29**|**Reinforcing Security and Usability of Crypto-Wallet with Post-Quantum Cryptography and Zero-Knowledge Proof**|Yathin Kethepalli et.al.|[2308.07309](http://arxiv.org/abs/2308.07309)|null|
 |**2023-08-02**|**Evaluate and Guard the Wisdom of Crowds: Zero Knowledge Proofs for Crowdsourcing Truth Inference**|Xuanming Liu et.al.|[2308.00985](http://arxiv.org/abs/2308.00985)|null|
-|**2023-07-30**|**zkDL: Efficient Zero-Knowledge Proofs of Deep Learning Training**|Haochen Sun et.al.|[2307.16273](http://arxiv.org/abs/2307.16273)|null|
+|**2023-07-30**|**zkDL: Efficient Zero-Knowledge Proofs of Deep Learning Training**|Haochen Sun et.al.|[2307.16273](http://arxiv.org/abs/2307.16273)|**[link](https://github.com/jvhs0706/zkdl-train)**|
 |**2023-07-30**|**Blockchain-based Decentralized Identity Management for Healthcare Systems**|Arnaf Aziz Torongo et.al.|[2307.16239](http://arxiv.org/abs/2307.16239)|null|
 |**2023-07-17**|**RYDE: A Digital Signature Scheme based on Rank-Syndrome-Decoding Problem with MPCitH Paradigm**|Loïc Bidoux et.al.|[2307.08726](http://arxiv.org/abs/2307.08726)|null|
 |**2023-07-17**|**MIRA: a Digital Signature Scheme based on the MinRank problem and the MPC-in-the-Head paradigm**|Nicolas Aragon et.al.|[2307.08575](http://arxiv.org/abs/2307.08575)|null|
@@ -227,7 +227,7 @@
 |**2023-12-12**|**Task-Agnostic Privacy-Preserving Representation Learning for Federated Learning Against Attribute Inference Attacks**|Caridad Arroyo Arevalo et.al.|[2312.06989](http://arxiv.org/abs/2312.06989)|null|
 |**2023-12-12**|**Feature Norm Regularized Federated Learning: Transforming Skewed Distributions into Global Insights**|Ke Hu et.al.|[2312.06951](http://arxiv.org/abs/2312.06951)|null|
 |**2023-12-11**|**Point Transformer with Federated Learning for Predicting Breast Cancer HER2 Status from Hematoxylin and Eosin-Stained Whole Slide Images**|Bao Li et.al.|[2312.06454](http://arxiv.org/abs/2312.06454)|**[link](https://github.com/boyden/pointtransformerfl)**|
-|**2023-12-11**|**Federated Full-Parameter Tuning of Billion-Sized Language Models with Communication Cost under 18 Kilobytes**|Zhen Qin et.al.|[2312.06353](http://arxiv.org/abs/2312.06353)|null|
+|**2023-12-11**|**Federated Full-Parameter Tuning of Billion-Sized Language Models with Communication Cost under 18 Kilobytes**|Zhen Qin et.al.|[2312.06353](http://arxiv.org/abs/2312.06353)|**[link](https://github.com/zhenqincn/fedkseed)**|
 |**2023-12-11**|**Exploiting Label Skews in Federated Learning with Model Concatenation**|Yiqun Diao et.al.|[2312.06290](http://arxiv.org/abs/2312.06290)|**[link](https://github.com/sjtudyq/fedconcat)**|
 |**2023-12-11**|**Federated Multilinear Principal Component Analysis with Applications in Prognostics**|Chengyu Zhou et.al.|[2312.06050](http://arxiv.org/abs/2312.06050)|null|
 |**2023-12-10**|**Fake It Till Make It: Federated Learning with Consensus-Oriented Generation**|Rui Ye et.al.|[2312.05966](http://arxiv.org/abs/2312.05966)|null|
