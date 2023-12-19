@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.18
+## Updated on 2023.12.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**Directed Acyclic Graph Based Blockchain Systems**|Anand Devarajan et.al.|[2312.09816](http://arxiv.org/abs/2312.09816)|null|
+|**2023-12-15**|**When Contracts Meets Crypto: Exploring Developers' Struggles with Ethereum Cryptographic APIs**|Jiashuo Zhang et.al.|[2312.09685](http://arxiv.org/abs/2312.09685)|null|
 |**2023-12-14**|**Gas Cost Analysis of Proxy and Diamond Patterns: Towards Trusted Smart Contract Engineering in EVM Blockchains**|Benedetti Anto et.al.|[2312.08945](http://arxiv.org/abs/2312.08945)|null|
 |**2023-12-10**|**On the Use of Smart Hybrid Contracts to Provide Flexibility in Algorithmic Governance**|Carlos Molina-Jimenez et.al.|[2312.07565](http://arxiv.org/abs/2312.07565)|null|
 |**2023-12-12**|**Transformation rules for the decentralization of a blockchain-extended global process model**|Julius Köpke et.al.|[2312.07388](http://arxiv.org/abs/2312.07388)|null|
@@ -190,7 +192,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-14**|**Greedy Shapley Client Selection for Communication-Efficient Federated Learning**|Pranava Singhal et.al.|[2312.09108](http://arxiv.org/abs/2312.09108)|**[link](https://github.com/pringlesinghal/greedyfed)**|
+|**2023-12-15**|**Dynamic Heterogeneous Federated Learning with Multi-Level Prototypes**|Shunxin Guo et.al.|[2312.09881](http://arxiv.org/abs/2312.09881)|null|
+|**2023-12-15**|**Calibrated One Round Federated Learning with Bayesian Inference in the Predictive Space**|Mohsin Hasan et.al.|[2312.09817](http://arxiv.org/abs/2312.09817)|**[link](https://github.com/hasanmohsin/betapredbayes_fl)**|
+|**2023-12-15**|**Greedy Shapley Client Selection for Communication-Efficient Federated Learning**|Pranava Singhal et.al.|[2312.09108](http://arxiv.org/abs/2312.09108)|**[link](https://github.com/pringlesinghal/greedyfed)**|
 |**2023-12-14**|**A Framework for Exploring Federated Community Detection**|William Leeney et.al.|[2312.09023](http://arxiv.org/abs/2312.09023)|null|
 |**2023-12-14**|**FedSSA: Semantic Similarity-based Aggregation for Efficient Model-Heterogeneous Personalized Federated Learning**|Liping Yi et.al.|[2312.09006](http://arxiv.org/abs/2312.09006)|null|
 |**2023-12-14**|**Detection and Defense of Unlearnable Examples**|Yifan Zhu et.al.|[2312.08898](http://arxiv.org/abs/2312.08898)|**[link](https://github.com/hala64/udp)**|
