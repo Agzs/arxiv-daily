@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.19
+## Updated on 2023.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**Healthcare Policy Compliance: A Blockchain Smart Contract-Based Approach**|Md Al Amin et.al.|[2312.10214](http://arxiv.org/abs/2312.10214)|null|
 |**2023-12-15**|**Directed Acyclic Graph Based Blockchain Systems**|Anand Devarajan et.al.|[2312.09816](http://arxiv.org/abs/2312.09816)|null|
 |**2023-12-15**|**When Contracts Meets Crypto: Exploring Developers' Struggles with Ethereum Cryptographic APIs**|Jiashuo Zhang et.al.|[2312.09685](http://arxiv.org/abs/2312.09685)|null|
 |**2023-12-14**|**Gas Cost Analysis of Proxy and Diamond Patterns: Towards Trusted Smart Contract Engineering in EVM Blockchains**|Benedetti Anto et.al.|[2312.08945](http://arxiv.org/abs/2312.08945)|null|
@@ -148,6 +149,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-17**|**HE-DKSAP: Privacy-Preserving Stealth Address Protocol via Additively Homomorphic Encryption**|Yuping Yan et.al.|[2312.10698](http://arxiv.org/abs/2312.10698)|null|
 |**2023-12-13**|**Zero-Knowledge Proof of Traffic: A Deterministic and Privacy-Preserving Cross Verification Mechanism for Cooperative Perception Data**|Ye Tao et.al.|[2312.07948](http://arxiv.org/abs/2312.07948)|null|
 |**2023-12-01**|**zkFDL: An efficient and privacy-preserving decentralized federated learning with zero knowledge proof**|Mojtaba Ahmadi et.al.|[2312.04579](http://arxiv.org/abs/2312.04579)|null|
 |**2023-12-07**|**Contract Wallet Using Emails**|Sora Suegami et.al.|[2312.04173](http://arxiv.org/abs/2312.04173)|null|
@@ -192,6 +194,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-17**|**Federated learning with differential privacy and an untrusted aggregator**|Kunlong Liu et.al.|[2312.10789](http://arxiv.org/abs/2312.10789)|null|
+|**2023-12-17**|**HE-DKSAP: Privacy-Preserving Stealth Address Protocol via Additively Homomorphic Encryption**|Yuping Yan et.al.|[2312.10698](http://arxiv.org/abs/2312.10698)|null|
+|**2023-12-17**|**FedMKGC: Privacy-Preserving Federated Multilingual Knowledge Graph Completion**|Wei Tang et.al.|[2312.10645](http://arxiv.org/abs/2312.10645)|null|
+|**2023-12-16**|**Value of Information and Timing-aware Scheduling for Federated Learning**|Muhammad Azeem Khan et.al.|[2312.10512](http://arxiv.org/abs/2312.10512)|null|
+|**2023-12-16**|**Take History as a Mirror in Heterogeneous Federated Learning**|Xiaorui Jiang et.al.|[2312.10425](http://arxiv.org/abs/2312.10425)|null|
+|**2023-12-16**|**Towards Reliable Participation in UAV-Enabled Federated Edge Learning on Non-IID Data**|Youssra Cheriguene et.al.|[2312.10411](http://arxiv.org/abs/2312.10411)|null|
+|**2023-12-16**|**PPIDSG: A Privacy-Preserving Image Distribution Sharing Scheme with GAN in Federated Learning**|Yuting Ma et.al.|[2312.10380](http://arxiv.org/abs/2312.10380)|**[link](https://github.com/ytingma/ppidsg)**|
+|**2023-12-16**|**Federated Learning with Instance-Dependent Noisy Labels**|Lei Wang et.al.|[2312.10324](http://arxiv.org/abs/2312.10324)|null|
+|**2023-12-15**|**Vertical Federated Alzheimer's Detection on Multimodal Data**|Paul K. Mandal et.al.|[2312.10237](http://arxiv.org/abs/2312.10237)|null|
+|**2023-12-15**|**Resilient Federated Learning under Byzantine Attack in Distributed Nonconvex Optimization with 2-f Redundancy**|Amit Dutta et.al.|[2312.10189](http://arxiv.org/abs/2312.10189)|null|
 |**2023-12-15**|**Dynamic Heterogeneous Federated Learning with Multi-Level Prototypes**|Shunxin Guo et.al.|[2312.09881](http://arxiv.org/abs/2312.09881)|null|
 |**2023-12-15**|**Calibrated One Round Federated Learning with Bayesian Inference in the Predictive Space**|Mohsin Hasan et.al.|[2312.09817](http://arxiv.org/abs/2312.09817)|**[link](https://github.com/hasanmohsin/betapredbayes_fl)**|
 |**2023-12-15**|**Greedy Shapley Client Selection for Communication-Efficient Federated Learning**|Pranava Singhal et.al.|[2312.09108](http://arxiv.org/abs/2312.09108)|**[link](https://github.com/pringlesinghal/greedyfed)**|

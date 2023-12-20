@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.19
+## Updated on 2023.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Healthcare Policy Compliance: A Blockchain Smart Contract-Based Approach**|Md Al Amin et.al.|[2312.10214](http://arxiv.org/abs/2312.10214)|null|
 |**2023-12-15**|**Directed Acyclic Graph Based Blockchain Systems**|Anand Devarajan et.al.|[2312.09816](http://arxiv.org/abs/2312.09816)|null|
 |**2023-12-15**|**When Contracts Meets Crypto: Exploring Developers' Struggles with Ethereum Cryptographic APIs**|Jiashuo Zhang et.al.|[2312.09685](http://arxiv.org/abs/2312.09685)|null|
 |**2023-12-14**|**Gas Cost Analysis of Proxy and Diamond Patterns: Towards Trusted Smart Contract Engineering in EVM Blockchains**|Benedetti Anto et.al.|[2312.08945](http://arxiv.org/abs/2312.08945)|null|
@@ -125,7 +126,7 @@
 |**2023-08-01**|**Game Theoretic Modelling of a Ransom and Extortion Attack on Ethereum Validators**|Alpesh Bhudia et.al.|[2308.00590](http://arxiv.org/abs/2308.00590)|null|
 |**2023-07-27**|**Self-stabilizing Byzantine-tolerant Recycling**|Chryssis Georgiou et.al.|[2307.14801](http://arxiv.org/abs/2307.14801)|null|
 
-<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231220>back to top</a>)</p>
 
 ## crosschain
 
@@ -152,12 +153,13 @@
 |**2023-04-20**|**Analyzing the Performance of the Inter-Blockchain Communication Protocol**|Joao Otavio Chervinski et.al.|[2303.10844](http://arxiv.org/abs/2303.10844)|**[link](https://github.com/joaotav/ibc-benchmarking)**|
 |**2023-01-14**|**The Design Principle of Blockchain: An Initiative for the SoK of SoKs**|Luyao Sunshine Zhang et.al.|[2301.00479](http://arxiv.org/abs/2301.00479)|**[link](https://github.com/sunshineluyao/design-principle-blockchain)**|
 
-<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231220>back to top</a>)</p>
 
 ## zero-knowledge-proof
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-17**|**HE-DKSAP: Privacy-Preserving Stealth Address Protocol via Additively Homomorphic Encryption**|Yuping Yan et.al.|[2312.10698](http://arxiv.org/abs/2312.10698)|null|
 |**2023-12-13**|**Zero-Knowledge Proof of Traffic: A Deterministic and Privacy-Preserving Cross Verification Mechanism for Cooperative Perception Data**|Ye Tao et.al.|[2312.07948](http://arxiv.org/abs/2312.07948)|null|
 |**2023-12-01**|**zkFDL: An efficient and privacy-preserving decentralized federated learning with zero knowledge proof**|Mojtaba Ahmadi et.al.|[2312.04579](http://arxiv.org/abs/2312.04579)|null|
 |**2023-12-07**|**Contract Wallet Using Emails**|Sora Suegami et.al.|[2312.04173](http://arxiv.org/abs/2312.04173)|null|
@@ -198,12 +200,22 @@
 |**2023-07-02**|**zkFi: Privacy-Preserving and Regulation Compliant Transactions using Zero Knowledge Proofs**|Naveen Sahu et.al.|[2307.00521](http://arxiv.org/abs/2307.00521)|null|
 |**2023-06-21**|**A Survey of Multivariate Polynomial Commitment Schemes**|Ihyun Nam et.al.|[2306.11383](http://arxiv.org/abs/2306.11383)|null|
 
-<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231220>back to top</a>)</p>
 
 ## secureaggregation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-17**|**Federated learning with differential privacy and an untrusted aggregator**|Kunlong Liu et.al.|[2312.10789](http://arxiv.org/abs/2312.10789)|null|
+|**2023-12-17**|**HE-DKSAP: Privacy-Preserving Stealth Address Protocol via Additively Homomorphic Encryption**|Yuping Yan et.al.|[2312.10698](http://arxiv.org/abs/2312.10698)|null|
+|**2023-12-17**|**FedMKGC: Privacy-Preserving Federated Multilingual Knowledge Graph Completion**|Wei Tang et.al.|[2312.10645](http://arxiv.org/abs/2312.10645)|null|
+|**2023-12-16**|**Value of Information and Timing-aware Scheduling for Federated Learning**|Muhammad Azeem Khan et.al.|[2312.10512](http://arxiv.org/abs/2312.10512)|null|
+|**2023-12-16**|**Take History as a Mirror in Heterogeneous Federated Learning**|Xiaorui Jiang et.al.|[2312.10425](http://arxiv.org/abs/2312.10425)|null|
+|**2023-12-16**|**Towards Reliable Participation in UAV-Enabled Federated Edge Learning on Non-IID Data**|Youssra Cheriguene et.al.|[2312.10411](http://arxiv.org/abs/2312.10411)|null|
+|**2023-12-16**|**PPIDSG: A Privacy-Preserving Image Distribution Sharing Scheme with GAN in Federated Learning**|Yuting Ma et.al.|[2312.10380](http://arxiv.org/abs/2312.10380)|**[link](https://github.com/ytingma/ppidsg)**|
+|**2023-12-16**|**Federated Learning with Instance-Dependent Noisy Labels**|Lei Wang et.al.|[2312.10324](http://arxiv.org/abs/2312.10324)|null|
+|**2023-12-15**|**Vertical Federated Alzheimer's Detection on Multimodal Data**|Paul K. Mandal et.al.|[2312.10237](http://arxiv.org/abs/2312.10237)|null|
+|**2023-12-15**|**Resilient Federated Learning under Byzantine Attack in Distributed Nonconvex Optimization with 2-f Redundancy**|Amit Dutta et.al.|[2312.10189](http://arxiv.org/abs/2312.10189)|null|
 |**2023-12-15**|**Dynamic Heterogeneous Federated Learning with Multi-Level Prototypes**|Shunxin Guo et.al.|[2312.09881](http://arxiv.org/abs/2312.09881)|null|
 |**2023-12-15**|**Calibrated One Round Federated Learning with Bayesian Inference in the Predictive Space**|Mohsin Hasan et.al.|[2312.09817](http://arxiv.org/abs/2312.09817)|**[link](https://github.com/hasanmohsin/betapredbayes_fl)**|
 |**2023-12-15**|**Greedy Shapley Client Selection for Communication-Efficient Federated Learning**|Pranava Singhal et.al.|[2312.09108](http://arxiv.org/abs/2312.09108)|**[link](https://github.com/pringlesinghal/greedyfed)**|
@@ -290,7 +302,7 @@
 |**2023-11-29**|**Addressing Membership Inference Attack in Federated Learning with Model Compression**|Gergely Dániel Németh et.al.|[2311.17750](http://arxiv.org/abs/2311.17750)|**[link](https://github.com/negedng/ma-fl-mia)**|
 |**2023-11-30**|**Grounding Foundation Models through Federated Transfer Learning: A General Framework**|Yan Kang et.al.|[2311.17431](http://arxiv.org/abs/2311.17431)|null|
 
-<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231220>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/agzs/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/agzs/arxiv-daily/graphs/contributors
