@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**FairFlow Protocol: Equitable Maximal Extractable Value (MEV) mitigation in Ethereum**|Dipankar Sarkar et.al.|[2312.12654](http://arxiv.org/abs/2312.12654)|null|
 |**2023-12-15**|**Healthcare Policy Compliance: A Blockchain Smart Contract-Based Approach**|Md Al Amin et.al.|[2312.10214](http://arxiv.org/abs/2312.10214)|null|
 |**2023-12-15**|**Directed Acyclic Graph Based Blockchain Systems**|Anand Devarajan et.al.|[2312.09816](http://arxiv.org/abs/2312.09816)|null|
 |**2023-12-15**|**When Contracts Meets Crypto: Exploring Developers' Struggles with Ethereum Cryptographic APIs**|Jiashuo Zhang et.al.|[2312.09685](http://arxiv.org/abs/2312.09685)|null|
@@ -132,10 +133,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**SoK: Security of Cross-chain Bridges: Attack Surfaces, Defenses, and Open Problems**|Mengya Zhang et.al.|[2312.12573](http://arxiv.org/abs/2312.12573)|null|
 |**2023-11-29**|**Eden: An Ultra Fast, Provably Secure, and Fully Decentralized Blockchain Interoperability Protocol**|Ke Liang et.al.|[2311.17454](http://arxiv.org/abs/2311.17454)|null|
 |**2023-09-12**|**Arguably Adequate Aqueduct Algorithm: Crossing A Bridge-Less Block-Chain Chasm**|Ravi Kashyap et.al.|[2311.10717](http://arxiv.org/abs/2311.10717)|null|
 |**2023-11-09**|**Intermediating DFMM Asset (IDA)**|Arman Abgaryan et.al.|[2311.05234](http://arxiv.org/abs/2311.05234)|null|
-|**2023-11-03**|**FoodFresh: Multi-Chain Design for an Inter-Institutional Food Supply Chain Network**|Philipp Stangl et.al.|[2310.19461](http://arxiv.org/abs/2310.19461)|null|
+|**2023-12-20**|**FoodFresh: Multi-Chain Design for an Inter-Institutional Food Supply Chain Network**|Philipp Stangl et.al.|[2310.19461](http://arxiv.org/abs/2310.19461)|null|
 |**2023-11-10**|**Wave-like Tunneling of Phonons Dominates Glass-like Thermal Transport in Quasi-1D Copper Halide CsCu2I3**|Jiongzhi Zheng et.al.|[2310.13680](http://arxiv.org/abs/2310.13680)|null|
 |**2023-10-20**|**X-Type Antiferromagnets**|Shui-Sen Zhang et.al.|[2310.13271](http://arxiv.org/abs/2310.13271)|null|
 |**2023-10-16**|**Towards Scalable Cross-Chain Messaging**|Joao Otavio Chervinski et.al.|[2310.10016](http://arxiv.org/abs/2310.10016)|null|
@@ -206,6 +208,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-20**|**Enhancing Neural Training via a Correlated Dynamics Model**|Jonathan Brokman et.al.|[2312.13247](http://arxiv.org/abs/2312.13247)|null|
+|**2023-12-20**|**DXP: Billing Data Preparation for Big Data Analytics**|Luca Gagliardelli et.al.|[2312.12902](http://arxiv.org/abs/2312.12902)|null|
+|**2023-12-20**|**DynamiQS: Quantum Secure Authentication for Dynamic Charging of Electric Vehicles**|Tommaso Bianchi et.al.|[2312.12879](http://arxiv.org/abs/2312.12879)|null|
+|**2023-12-20**|**Federated Learning While Providing Model as a Service: Joint Training and Inference Optimization**|Pengchao Han et.al.|[2312.12863](http://arxiv.org/abs/2312.12863)|null|
+|**2023-12-20**|**FedA3I: Annotation Quality-Aware Aggregation for Federated Medical Image Segmentation Against Heterogeneous Annotation Noise**|Nannan Wu et.al.|[2312.12838](http://arxiv.org/abs/2312.12838)|null|
+|**2023-12-20**|**FedSODA: Federated Cross-assessment and Dynamic Aggregation for Histopathology Segmentation**|Yuan Zhang et.al.|[2312.12824](http://arxiv.org/abs/2312.12824)|null|
+|**2023-12-20**|**Federated Learning with Extremely Noisy Clients via Negative Distillation**|Yang Lu et.al.|[2312.12703](http://arxiv.org/abs/2312.12703)|**[link](https://github.com/linchen99/fedned)**|
+|**2023-12-19**|**On the Role of Server Momentum in Federated Learning**|Jianhui Sun et.al.|[2312.12670](http://arxiv.org/abs/2312.12670)|null|
+|**2023-12-19**|**Incremental Semi-supervised Federated Learning for Health Inference via Mobile Sensing**|Guimin Dong et.al.|[2312.12666](http://arxiv.org/abs/2312.12666)|null|
+|**2023-12-19**|**Blood Glucose Level Prediction: A Graph-based Explainable Method with Federated Learning**|Chengzhe Piao et.al.|[2312.12541](http://arxiv.org/abs/2312.12541)|null|
 |**2023-12-17**|**Federated learning with differential privacy and an untrusted aggregator**|Kunlong Liu et.al.|[2312.10789](http://arxiv.org/abs/2312.10789)|null|
 |**2023-12-17**|**HE-DKSAP: Privacy-Preserving Stealth Address Protocol via Additively Homomorphic Encryption**|Yuping Yan et.al.|[2312.10698](http://arxiv.org/abs/2312.10698)|null|
 |**2023-12-17**|**FedMKGC: Privacy-Preserving Federated Multilingual Knowledge Graph Completion**|Wei Tang et.al.|[2312.10645](http://arxiv.org/abs/2312.10645)|null|
