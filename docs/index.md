@@ -196,6 +196,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**Fed-CO $_{2}$ : Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning**|Zhongyi Cai et.al.|[2312.13923](http://arxiv.org/abs/2312.13923)|null|
+|**2023-12-21**|**Sparse Training for Federated Learning with Regularized Error Correction**|Ran Greidi et.al.|[2312.13795](http://arxiv.org/abs/2312.13795)|null|
+|**2023-12-21**|**ProvFL: Client-Driven Interpretability of Global Model Predictions in Federated Learning**|Waris Gill et.al.|[2312.13632](http://arxiv.org/abs/2312.13632)|null|
+|**2023-12-21**|**Topology Learning for Heterogeneous Decentralized Federated Learning over Unreliable D2D Networks**|Zheshun Wu et.al.|[2312.13611](http://arxiv.org/abs/2312.13611)|null|
+|**2023-12-21**|**Hierarchical Optimization of Metaheuristic Algorithms and Federated Learning for Enhanced Capacity Management and Load Balancing in HetNets**|Saimin Chen Zhang et.al.|[2312.13592](http://arxiv.org/abs/2312.13592)|null|
+|**2023-12-21**|**Multimodal Federated Learning with Missing Modality via Prototype Mask and Contrast**|Guangyin Bao et.al.|[2312.13508](http://arxiv.org/abs/2312.13508)|null|
+|**2023-12-21**|**Federated Continual Novel Class Learning**|Lixu Wang et.al.|[2312.13500](http://arxiv.org/abs/2312.13500)|null|
+|**2023-12-20**|**Efficient Communication in Federated Learning Using Floating-Point Lossy Compression**|Grant Wilkins et.al.|[2312.13461](http://arxiv.org/abs/2312.13461)|null|
+|**2023-12-20**|**Multi-Model Wireless Federated Learning with Downlink Beamforming**|Chong Zhang et.al.|[2312.13424](http://arxiv.org/abs/2312.13424)|null|
+|**2023-12-20**|**Enhancing Trade-offs in Privacy, Utility, and Computational Efficiency through MUltistage Sampling Technique (MUST)**|Xingyuan Zhao et.al.|[2312.13389](http://arxiv.org/abs/2312.13389)|null|
 |**2023-12-20**|**Enhancing Neural Training via a Correlated Dynamics Model**|Jonathan Brokman et.al.|[2312.13247](http://arxiv.org/abs/2312.13247)|null|
 |**2023-12-20**|**DXP: Billing Data Preparation for Big Data Analytics**|Luca Gagliardelli et.al.|[2312.12902](http://arxiv.org/abs/2312.12902)|null|
 |**2023-12-20**|**DynamiQS: Quantum Secure Authentication for Dynamic Charging of Electric Vehicles**|Tommaso Bianchi et.al.|[2312.12879](http://arxiv.org/abs/2312.12879)|null|
