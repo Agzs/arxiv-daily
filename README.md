@@ -208,6 +208,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-22**|**Balancing Energy Efficiency and Distributional Robustness in Over-the-Air Federated Learning**|Mohamed Badi et.al.|[2312.14638](http://arxiv.org/abs/2312.14638)|null|
+|**2023-12-22**|**Towards more sustainable enterprise data and application management with cross silo Federated Learning and Analytics**|Hongliu Cao et.al.|[2312.14628](http://arxiv.org/abs/2312.14628)|null|
+|**2023-12-22**|**Accelerated Convergence of Stochastic Heavy Ball Method under Anisotropic Gradient Noise**|Rui Pan et.al.|[2312.14567](http://arxiv.org/abs/2312.14567)|null|
+|**2023-12-22**|**An effective and efficient green federated learning method for one-layer neural networks**|Oscar Fontenla-Romero et.al.|[2312.14528](http://arxiv.org/abs/2312.14528)|null|
+|**2023-12-22**|**Federated Learning via Input-Output Collaborative Distillation**|Xuan Gong et.al.|[2312.14478](http://arxiv.org/abs/2312.14478)|**[link](https://github.com/lsl001006/fediod)**|
+|**2023-12-22**|**A Generalized Shuffle Framework for Privacy Amplification: Strengthening Privacy Guarantees and Enhancing Utility**|E Chen et.al.|[2312.14388](http://arxiv.org/abs/2312.14388)|null|
+|**2023-12-22**|**Federated Learning with Projected Trajectory Regularization**|Tiejin Chen et.al.|[2312.14380](http://arxiv.org/abs/2312.14380)|null|
+|**2023-12-21**|**Federated Quantum Long Short-term Memory (FedQLSTM)**|Mahdi Chehimi et.al.|[2312.14309](http://arxiv.org/abs/2312.14309)|null|
+|**2023-12-21**|**HElium: A Language and Compiler for Fully Homomorphic Encryption with Support for Proxy Re-Encryption**|Mirko Günther et.al.|[2312.14250](http://arxiv.org/abs/2312.14250)|null|
 |**2023-12-21**|**Fed-CO $_{2}$ : Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning**|Zhongyi Cai et.al.|[2312.13923](http://arxiv.org/abs/2312.13923)|null|
 |**2023-12-21**|**Sparse Training for Federated Learning with Regularized Error Correction**|Ran Greidi et.al.|[2312.13795](http://arxiv.org/abs/2312.13795)|null|
 |**2023-12-21**|**ProvFL: Client-Driven Interpretability of Global Model Predictions in Federated Learning**|Waris Gill et.al.|[2312.13632](http://arxiv.org/abs/2312.13632)|null|
