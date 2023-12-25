@@ -263,7 +263,7 @@
 |**2023-12-12**|**Efficient Cross-Domain Federated Learning by MixStyle Approximation**|Manuel Röder et.al.|[2312.07064](http://arxiv.org/abs/2312.07064)|null|
 |**2023-12-12**|**Layered Randomized Quantization for Communication-Efficient and Privacy-Preserving Distributed Learning**|Guangfeng Yan et.al.|[2312.07060](http://arxiv.org/abs/2312.07060)|null|
 |**2023-12-12**|**Task-Agnostic Privacy-Preserving Representation Learning for Federated Learning Against Attribute Inference Attacks**|Caridad Arroyo Arevalo et.al.|[2312.06989](http://arxiv.org/abs/2312.06989)|null|
-|**2023-12-12**|**Feature Norm Regularized Federated Learning: Transforming Skewed Distributions into Global Insights**|Ke Hu et.al.|[2312.06951](http://arxiv.org/abs/2312.06951)|null|
+|**2023-12-12**|**Feature Norm Regularized Federated Learning: Transforming Skewed Distributions into Global Insights**|Ke Hu et.al.|[2312.06951](http://arxiv.org/abs/2312.06951)|**[link](https://github.com/LonelyMoonDesert/FNR-FL)**|
 |**2023-12-11**|**Point Transformer with Federated Learning for Predicting Breast Cancer HER2 Status from Hematoxylin and Eosin-Stained Whole Slide Images**|Bao Li et.al.|[2312.06454](http://arxiv.org/abs/2312.06454)|**[link](https://github.com/boyden/pointtransformerfl)**|
 |**2023-12-11**|**Federated Full-Parameter Tuning of Billion-Sized Language Models with Communication Cost under 18 Kilobytes**|Zhen Qin et.al.|[2312.06353](http://arxiv.org/abs/2312.06353)|**[link](https://github.com/zhenqincn/fedkseed)**|
 |**2023-12-11**|**Exploiting Label Skews in Federated Learning with Model Concatenation**|Yiqun Diao et.al.|[2312.06290](http://arxiv.org/abs/2312.06290)|**[link](https://github.com/sjtudyq/fedconcat)**|
