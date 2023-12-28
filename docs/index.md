@@ -7,13 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.27
+## Updated on 2023.12.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-24**|**Blockchain Smart Contract Threat Detection Technology Based on Symbolic Execution**|Chang Chu et.al.|[2312.15392](http://arxiv.org/abs/2312.15392)|null|
 |**2023-12-19**|**FairFlow Protocol: Equitable Maximal Extractable Value (MEV) mitigation in Ethereum**|Dipankar Sarkar et.al.|[2312.12654](http://arxiv.org/abs/2312.12654)|null|
 |**2023-12-15**|**Healthcare Policy Compliance: A Blockchain Smart Contract-Based Approach**|Md Al Amin et.al.|[2312.10214](http://arxiv.org/abs/2312.10214)|null|
 |**2023-12-15**|**Directed Acyclic Graph Based Blockchain Systems**|Anand Devarajan et.al.|[2312.09816](http://arxiv.org/abs/2312.09816)|null|
@@ -196,6 +197,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-26**|**Federated Hyperdimensional Computing**|Kazim Ergun et.al.|[2312.15966](http://arxiv.org/abs/2312.15966)|null|
+|**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926](http://arxiv.org/abs/2312.15926)|null|
+|**2023-12-25**|**Efficient Conformal Prediction under Data Heterogeneity**|Vincent Plassier et.al.|[2312.15799](http://arxiv.org/abs/2312.15799)|null|
+|**2023-12-25**|**Towards Real-World Blind Face Restoration with Generative Diffusion Prior**|Xiaoxu Chen et.al.|[2312.15736](http://arxiv.org/abs/2312.15736)|null|
+|**2023-12-25**|**Federated learning-outcome prediction with multi-layer privacy protection**|Yupei Zhang et.al.|[2312.15608](http://arxiv.org/abs/2312.15608)|null|
+|**2023-12-25**|**Privacy-Preserving Neural Graph Databases**|Qi Hu et.al.|[2312.15591](http://arxiv.org/abs/2312.15591)|null|
+|**2023-12-24**|**Deep Convolutional Neural Networks for Short-Term Multi-Energy Demand Prediction of Integrated Energy Systems**|Corneliu Arsene et.al.|[2312.15497](http://arxiv.org/abs/2312.15497)|null|
+|**2023-12-24**|**FedDMF: Privacy-Preserving User Attribute Prediction using Deep Matrix Factorization**|Ming Cheung et.al.|[2312.15420](http://arxiv.org/abs/2312.15420)|null|
+|**2023-12-24**|**An Empirical Study of Efficiency and Privacy of Federated Learning Algorithms**|Sofia Zahri et.al.|[2312.15375](http://arxiv.org/abs/2312.15375)|null|
+|**2023-12-23**|**Cooperative Federated Learning over Ground-to-Satellite Integrated Networks: Joint Local Computation and Data Offloading**|Dong-Jun Han et.al.|[2312.15361](http://arxiv.org/abs/2312.15361)|null|
 |**2023-12-22**|**Balancing Energy Efficiency and Distributional Robustness in Over-the-Air Federated Learning**|Mohamed Badi et.al.|[2312.14638](http://arxiv.org/abs/2312.14638)|null|
 |**2023-12-22**|**Towards more sustainable enterprise data and application management with cross silo Federated Learning and Analytics**|Hongliu Cao et.al.|[2312.14628](http://arxiv.org/abs/2312.14628)|**[link](https://github.com/azure-samples/azure-ml-federated-learning)**|
 |**2023-12-22**|**Accelerated Convergence of Stochastic Heavy Ball Method under Anisotropic Gradient Noise**|Rui Pan et.al.|[2312.14567](http://arxiv.org/abs/2312.14567)|null|
