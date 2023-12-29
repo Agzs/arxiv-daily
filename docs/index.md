@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.28
+## Updated on 2023.12.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -200,7 +200,7 @@ layout: default
 |**2023-12-26**|**Federated Hyperdimensional Computing**|Kazim Ergun et.al.|[2312.15966](http://arxiv.org/abs/2312.15966)|null|
 |**2023-12-26**|**FedMS: Federated Learning with Mixture of Sparsely Activated Foundations Models**|Panlong Wu et.al.|[2312.15926](http://arxiv.org/abs/2312.15926)|null|
 |**2023-12-25**|**Efficient Conformal Prediction under Data Heterogeneity**|Vincent Plassier et.al.|[2312.15799](http://arxiv.org/abs/2312.15799)|null|
-|**2023-12-25**|**Towards Real-World Blind Face Restoration with Generative Diffusion Prior**|Xiaoxu Chen et.al.|[2312.15736](http://arxiv.org/abs/2312.15736)|null|
+|**2023-12-25**|**Towards Real-World Blind Face Restoration with Generative Diffusion Prior**|Xiaoxu Chen et.al.|[2312.15736](http://arxiv.org/abs/2312.15736)|**[link](https://github.com/chenxx89/bfrffusion)**|
 |**2023-12-25**|**Federated learning-outcome prediction with multi-layer privacy protection**|Yupei Zhang et.al.|[2312.15608](http://arxiv.org/abs/2312.15608)|null|
 |**2023-12-25**|**Privacy-Preserving Neural Graph Databases**|Qi Hu et.al.|[2312.15591](http://arxiv.org/abs/2312.15591)|null|
 |**2023-12-24**|**Deep Convolutional Neural Networks for Short-Term Multi-Energy Demand Prediction of Integrated Energy Systems**|Corneliu Arsene et.al.|[2312.15497](http://arxiv.org/abs/2312.15497)|null|
