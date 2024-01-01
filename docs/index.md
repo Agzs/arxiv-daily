@@ -118,7 +118,7 @@ layout: default
 |**2023-08-05**|**Quarks: A Secure and Decentralized Blockchain-Based Messaging Network**|Mirza Kamrul Bashar Shuhan et.al.|[2308.04452](http://arxiv.org/abs/2308.04452)|null|
 |**2023-08-08**|**An Ethereum-based Product Identification System for Anti-counterfeits**|Shashank Gupta et.al.|[2308.04006](http://arxiv.org/abs/2308.04006)|null|
 |**2023-08-07**|**ForensiBlock: A Provenance-Driven Blockchain Framework for Data Forensics and Auditability**|Asma Jodeiri Akbarfam et.al.|[2308.03927](http://arxiv.org/abs/2308.03927)|null|
-|**2023-08-07**|**When GPT Meets Program Analysis: Towards Intelligent Detection of Smart Contract Logic Vulnerabilities in GPTScan**|Yuqiang Sun et.al.|[2308.03314](http://arxiv.org/abs/2308.03314)|null|
+|**2023-08-07**|**When GPT Meets Program Analysis: Towards Intelligent Detection of Smart Contract Logic Vulnerabilities in GPTScan**|Yuqiang Sun et.al.|[2308.03314](http://arxiv.org/abs/2308.03314)|**[link](https://github.com/metatrustlabs/falcon-metatrust)**|
 |**2023-08-19**|**An Empirical Study of AI-based Smart Contract Creation**|Rabimba Karanjai et.al.|[2308.02955](http://arxiv.org/abs/2308.02955)|null|
 |**2023-08-02**|**Stake Your Claim: Zero-Trust Validator Deployment Leveraging NFTs and Smart Contracts in Proof-of-Stake Networks**|Scott Seidenberger et.al.|[2308.01158](http://arxiv.org/abs/2308.01158)|null|
 |**2023-08-01**|**Game Theoretic Modelling of a Ransom and Extortion Attack on Ethereum Validators**|Alpesh Bhudia et.al.|[2308.00590](http://arxiv.org/abs/2308.00590)|null|
@@ -227,7 +227,7 @@ layout: default
 |**2023-12-22**|**Federated Learning with Projected Trajectory Regularization**|Tiejin Chen et.al.|[2312.14380](http://arxiv.org/abs/2312.14380)|null|
 |**2023-12-21**|**Federated Quantum Long Short-term Memory (FedQLSTM)**|Mahdi Chehimi et.al.|[2312.14309](http://arxiv.org/abs/2312.14309)|null|
 |**2023-12-21**|**HElium: A Language and Compiler for Fully Homomorphic Encryption with Support for Proxy Re-Encryption**|Mirko Günther et.al.|[2312.14250](http://arxiv.org/abs/2312.14250)|null|
-|**2023-12-21**|**Fed-CO $_{2}$ : Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning**|Zhongyi Cai et.al.|[2312.13923](http://arxiv.org/abs/2312.13923)|null|
+|**2023-12-21**|**Fed-CO $_{2}$ : Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning**|Zhongyi Cai et.al.|[2312.13923](http://arxiv.org/abs/2312.13923)|**[link](https://github.com/zhyczy/fed-co2)**|
 |**2023-12-21**|**Sparse Training for Federated Learning with Regularized Error Correction**|Ran Greidi et.al.|[2312.13795](http://arxiv.org/abs/2312.13795)|null|
 |**2023-12-21**|**ProvFL: Client-Driven Interpretability of Global Model Predictions in Federated Learning**|Waris Gill et.al.|[2312.13632](http://arxiv.org/abs/2312.13632)|null|
 |**2023-12-21**|**Topology Learning for Heterogeneous Decentralized Federated Learning over Unreliable D2D Networks**|Zheshun Wu et.al.|[2312.13611](http://arxiv.org/abs/2312.13611)|null|
@@ -236,7 +236,7 @@ layout: default
 |**2023-12-21**|**Federated Continual Novel Class Learning**|Lixu Wang et.al.|[2312.13500](http://arxiv.org/abs/2312.13500)|null|
 |**2023-12-20**|**Efficient Communication in Federated Learning Using Floating-Point Lossy Compression**|Grant Wilkins et.al.|[2312.13461](http://arxiv.org/abs/2312.13461)|null|
 |**2023-12-20**|**Multi-Model Wireless Federated Learning with Downlink Beamforming**|Chong Zhang et.al.|[2312.13424](http://arxiv.org/abs/2312.13424)|null|
-|**2023-12-20**|**Enhancing Trade-offs in Privacy, Utility, and Computational Efficiency through MUltistage Sampling Technique (MUST)**|Xingyuan Zhao et.al.|[2312.13389](http://arxiv.org/abs/2312.13389)|null|
+|**2023-12-20**|**Enhancing Trade-offs in Privacy, Utility, and Computational Efficiency through MUltistage Sampling Technique (MUST)**|Xingyuan Zhao et.al.|[2312.13389](http://arxiv.org/abs/2312.13389)|**[link](https://github.com/zhao-xingyuan/must)**|
 |**2023-12-20**|**Enhancing Neural Training via a Correlated Dynamics Model**|Jonathan Brokman et.al.|[2312.13247](http://arxiv.org/abs/2312.13247)|null|
 |**2023-12-20**|**DXP: Billing Data Preparation for Big Data Analytics**|Luca Gagliardelli et.al.|[2312.12902](http://arxiv.org/abs/2312.12902)|null|
 |**2023-12-20**|**DynamiQS: Quantum Secure Authentication for Dynamic Charging of Electric Vehicles**|Tommaso Bianchi et.al.|[2312.12879](http://arxiv.org/abs/2312.12879)|null|
