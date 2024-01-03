@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-01**|**Automated Invariant Generation for Solidity Smart Contracts**|Ye Liu et.al.|[2401.00650](http://arxiv.org/abs/2401.00650)|null|
+|**2023-12-30**|**Addressing Trust Challenges in Blockchain Oracles Using Asymmetric Byzantine Quorums**|Fahad Rahman et.al.|[2401.00175](http://arxiv.org/abs/2401.00175)|null|
+|**2023-12-30**|**Realizing Open and Decentralized Marketplace for Exchanging Data of Expected IoT Behaviors**|Song Guo et.al.|[2401.00141](http://arxiv.org/abs/2401.00141)|null|
 |**2023-12-28**|**ANKA: A Decentralized Blockchain-based Energy Marketplace for Battery-powered Devices**|Burak Can Sahin et.al.|[2312.16870](http://arxiv.org/abs/2312.16870)|null|
 |**2023-12-27**|**Vulnerability Scanners for Ethereum Smart Contracts: A Large-Scale Study**|Christoph Sendner et.al.|[2312.16533](http://arxiv.org/abs/2312.16533)|null|
 |**2023-12-24**|**Blockchain Smart Contract Threat Detection Technology Based on Symbolic Execution**|Chang Chu et.al.|[2312.15392](http://arxiv.org/abs/2312.15392)|null|
@@ -211,6 +214,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**Efficient Sparse Least Absolute Deviation Regression with Differential Privacy**|Weidong Liu et.al.|[2401.01294](http://arxiv.org/abs/2401.01294)|null|
+|**2024-01-02**|**PPBFL: A Privacy Protected Blockchain-based Federated Learning Model**|Yang Li et.al.|[2401.01204](http://arxiv.org/abs/2401.01204)|null|
+|**2024-01-02**|**FedQV: Leveraging Quadratic Voting in Federated Learning**|Tianyue Chu et.al.|[2401.01168](http://arxiv.org/abs/2401.01168)|null|
+|**2024-01-02**|**Privacy Preserving Personal Assistant with On-Device Diarization and Spoken Dialogue System for Home and Beyond**|Gérard Chollet et.al.|[2401.01146](http://arxiv.org/abs/2401.01146)|null|
+|**2024-01-01**|**Facebook Report on Privacy of fNIRS data**|Md Imran Hossen et.al.|[2401.00973](http://arxiv.org/abs/2401.00973)|null|
+|**2024-01-01**|**Data Augmentation Techniques for Cross-Domain WiFi CSI-based Human Activity Recognition**|Julian Strohmayer et.al.|[2401.00964](http://arxiv.org/abs/2401.00964)|null|
+|**2024-01-01**|**A review on different techniques used to combat the non-IID and heterogeneous nature of data in FL**|Venkataraman Natarajan Iyer et.al.|[2401.00809](http://arxiv.org/abs/2401.00809)|null|
+|**2024-01-01**|**Privacy-Preserving Data in IoT-based Cloud Systems: A Comprehensive Survey with AI Integration**|D. Dhinakaran et.al.|[2401.00794](http://arxiv.org/abs/2401.00794)|null|
+|**2024-01-01**|**SecFormer: Towards Fast and Accurate Privacy-Preserving Inference for Large Language Models**|Jinglong Luo et.al.|[2401.00793](http://arxiv.org/abs/2401.00793)|null|
+|**2024-01-01**|**Communication-Efficient Federated Learning for LEO Constellations Integrated with HAPs Using Hybrid NOMA-OFDM**|Mohamed Elmahallawy et.al.|[2401.00685](http://arxiv.org/abs/2401.00685)|null|
 |**2023-12-29**|**Differentially Private Low-Rank Adaptation of Large Language Model Using Federated Learning**|Xiao-Yang Liu et.al.|[2312.17493](http://arxiv.org/abs/2312.17493)|null|
 |**2023-12-29**|**LEFL: Low Entropy Client Sampling in Federated Learning**|Waqwoya Abebe et.al.|[2312.17430](http://arxiv.org/abs/2312.17430)|null|
 |**2023-12-28**|**Securing NextG Systems against Poisoning Attacks on Federated Learning: A Game-Theoretic Solution**|Yalin E. Sagduyu et.al.|[2312.17164](http://arxiv.org/abs/2312.17164)|null|
