@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-03**|**Architectural Design for Secure Smart Contract Development**|Myles Lewis et.al.|[2401.01891](http://arxiv.org/abs/2401.01891)|null|
 |**2024-01-01**|**Automated Invariant Generation for Solidity Smart Contracts**|Ye Liu et.al.|[2401.00650](http://arxiv.org/abs/2401.00650)|null|
 |**2023-12-30**|**Addressing Trust Challenges in Blockchain Oracles Using Asymmetric Byzantine Quorums**|Fahad Rahman et.al.|[2401.00175](http://arxiv.org/abs/2401.00175)|null|
 |**2023-12-30**|**Realizing Open and Decentralized Marketplace for Exchanging Data of Expected IoT Behaviors**|Song Guo et.al.|[2401.00141](http://arxiv.org/abs/2401.00141)|null|
@@ -157,6 +158,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-06**|**The Boomerang protocol: A Decentralised Privacy-Preserving Verifiable Incentive Protocol**|Ralph Ankele et.al.|[2401.01353](http://arxiv.org/abs/2401.01353)|null|
 |**2023-12-17**|**HE-DKSAP: Privacy-Preserving Stealth Address Protocol via Additively Homomorphic Encryption**|Yuping Yan et.al.|[2312.10698](http://arxiv.org/abs/2312.10698)|null|
 |**2023-12-13**|**Zero-Knowledge Proof of Traffic: A Deterministic and Privacy-Preserving Cross Verification Mechanism for Cooperative Perception Data**|Ye Tao et.al.|[2312.07948](http://arxiv.org/abs/2312.07948)|null|
 |**2023-12-01**|**zkFDL: An efficient and privacy-preserving decentralized federated learning with zero knowledge proof**|Mojtaba Ahmadi et.al.|[2312.04579](http://arxiv.org/abs/2312.04579)|null|
@@ -202,6 +204,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-03**|**Step length measurement in the wild using FMCW radar**|Parthipan Siva et.al.|[2401.01868](http://arxiv.org/abs/2401.01868)|null|
+|**2024-01-03**|**Will 6G be Semantic Communications? Opportunities and Challenges from Task Oriented and Secure Communications to Integrated Sensing**|Yalin E. Sagduyu et.al.|[2401.01531](http://arxiv.org/abs/2401.01531)|null|
+|**2024-01-03**|**Free Lunch for Federated Remote Sensing Target Fine-Grained Classification: A Parameter-Efficient Framework**|Shengchao Chen et.al.|[2401.01493](http://arxiv.org/abs/2401.01493)|null|
+|**2024-01-02**|**Hierarchical Over-the-Air Federated Learning with Awareness of Interference and Data Heterogeneity**|Seyed Mohammad Azimi-Abarghouyi et.al.|[2401.01442](http://arxiv.org/abs/2401.01442)|null|
+|**2024-01-02**|**Multiple Access Techniques for Intelligent and Multi-Functional 6G: Tutorial, Survey, and Outlook**|Bruno Clerckx et.al.|[2401.01433](http://arxiv.org/abs/2401.01433)|null|
 |**2024-01-02**|**Efficient Sparse Least Absolute Deviation Regression with Differential Privacy**|Weidong Liu et.al.|[2401.01294](http://arxiv.org/abs/2401.01294)|null|
 |**2024-01-02**|**PPBFL: A Privacy Protected Blockchain-based Federated Learning Model**|Yang Li et.al.|[2401.01204](http://arxiv.org/abs/2401.01204)|null|
 |**2024-01-02**|**FedQV: Leveraging Quadratic Voting in Federated Learning**|Tianyue Chu et.al.|[2401.01168](http://arxiv.org/abs/2401.01168)|null|
