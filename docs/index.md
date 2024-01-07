@@ -18,7 +18,7 @@ layout: default
 |**2024-01-03**|**Architectural Design for Secure Smart Contract Development**|Myles Lewis et.al.|[2401.01891](http://arxiv.org/abs/2401.01891)|null|
 |**2024-01-01**|**Automated Invariant Generation for Solidity Smart Contracts**|Ye Liu et.al.|[2401.00650](http://arxiv.org/abs/2401.00650)|null|
 |**2023-12-30**|**Addressing Trust Challenges in Blockchain Oracles Using Asymmetric Byzantine Quorums**|Fahad Rahman et.al.|[2401.00175](http://arxiv.org/abs/2401.00175)|null|
-|**2023-12-30**|**Realizing Open and Decentralized Marketplace for Exchanging Data of Expected IoT Behaviors**|Song Guo et.al.|[2401.00141](http://arxiv.org/abs/2401.00141)|null|
+|**2023-12-30**|**Realizing Open and Decentralized Marketplace for Exchanging Data of Expected IoT Behaviors**|Song Guo et.al.|[2401.00141](http://arxiv.org/abs/2401.00141)|**[link](https://github.com/song-guo/sharemud)**|
 |**2023-12-28**|**ANKA: A Decentralized Blockchain-based Energy Marketplace for Battery-powered Devices**|Burak Can Sahin et.al.|[2312.16870](http://arxiv.org/abs/2312.16870)|null|
 |**2023-12-27**|**Vulnerability Scanners for Ethereum Smart Contracts: A Large-Scale Study**|Christoph Sendner et.al.|[2312.16533](http://arxiv.org/abs/2312.16533)|null|
 |**2023-12-24**|**Blockchain Smart Contract Threat Detection Technology Based on Symbolic Execution**|Chang Chu et.al.|[2312.15392](http://arxiv.org/abs/2312.15392)|null|
