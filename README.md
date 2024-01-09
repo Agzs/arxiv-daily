@@ -170,6 +170,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-06**|**Zero-Knowledge Proof in NuLink**|Pawn et.al.|[2401.03118](http://arxiv.org/abs/2401.03118)|null|
 |**2024-01-05**|**Towards a zk-SNARK compiler for Wolfram language**|Armando Cruz et.al.|[2401.02935](http://arxiv.org/abs/2401.02935)|null|
 |**2023-12-06**|**The Boomerang protocol: A Decentralised Privacy-Preserving Verifiable Incentive Protocol**|Ralph Ankele et.al.|[2401.01353](http://arxiv.org/abs/2401.01353)|null|
 |**2023-12-17**|**HE-DKSAP: Privacy-Preserving Stealth Address Protocol via Additively Homomorphic Encryption**|Yuping Yan et.al.|[2312.10698](http://arxiv.org/abs/2312.10698)|null|
@@ -219,6 +220,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-08**|**Federated Analytics for 6G Networks: Applications, Challenges, and Opportunities**|Juan Marcelo Parra-Ullauri et.al.|[2401.03878](http://arxiv.org/abs/2401.03878)|null|
+|**2024-01-08**|**Optimal Differentially Private PCA and Estimation for Spiked Covariance Matrices**|T. Tony Cai et.al.|[2401.03820](http://arxiv.org/abs/2401.03820)|null|
+|**2024-01-08**|**Towards Efficient Communication Federated Recommendation System via Low-rank Training**|Ngoc-Hieu Nguyen et.al.|[2401.03748](http://arxiv.org/abs/2401.03748)|null|
+|**2024-01-08**|**Logits Poisoning Attack in Federated Distillation**|Yuhan Tang et.al.|[2401.03685](http://arxiv.org/abs/2401.03685)|null|
+|**2024-01-07**|**Multi-Modal Federated Learning for Cancer Staging over Non-IID Datasets with Unbalanced Modalities**|Kasra Borazjani et.al.|[2401.03609](http://arxiv.org/abs/2401.03609)|null|
+|**2024-01-07**|**GLOCALFAIR: Jointly Improving Global and Local Group Fairness in Federated Learning**|Syed Irfan Ali Meerza et.al.|[2401.03562](http://arxiv.org/abs/2401.03562)|null|
+|**2024-01-07**|**Improving Transferability of Network Intrusion Detection in a Federated Learning Setup**|Shreya Ghosh et.al.|[2401.03560](http://arxiv.org/abs/2401.03560)|**[link](https://github.com/ghosh64/transferability)**|
+|**2024-01-07**|**Privacy-Preserving in Blockchain-based Federated Learning Systems**|Sameera K. M. et.al.|[2401.03552](http://arxiv.org/abs/2401.03552)|null|
+|**2024-01-06**|**Convergence Rate Maximization for Split Learning-based Control of EMG Prosthetic Devices**|Matea Marinova et.al.|[2401.03233](http://arxiv.org/abs/2401.03233)|null|
+|**2024-01-06**|**FedTGP: Trainable Global Prototypes with Adaptive-Margin-Enhanced Contrastive Learning for Data and Model Heterogeneity in Federated Learning**|Jianqing Zhang et.al.|[2401.03230](http://arxiv.org/abs/2401.03230)|**[link](https://github.com/tsingz0/fedtgp)**|
 |**2024-01-05**|**Lotto: Secure Participant Selection against Adversarial Servers in Federated Learning**|Zhifeng Jiang et.al.|[2401.02880](http://arxiv.org/abs/2401.02880)|**[link](https://github.com/samuelgong/lotto)**|
 |**2024-01-05**|**Fairness-Aware Job Scheduling for Multi-Job Federated Learning**|Yuxin Shi et.al.|[2401.02740](http://arxiv.org/abs/2401.02740)|null|
 |**2024-01-05**|**FedNS: A Fast Sketching Newton-Type Algorithm for Federated Learning**|Jian Li et.al.|[2401.02734](http://arxiv.org/abs/2401.02734)|**[link](https://github.com/superlj666/fedns)**|
