@@ -163,7 +163,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-06**|**Zero-Knowledge Proof in NuLink**|Pawn et.al.|[2401.03118](http://arxiv.org/abs/2401.03118)|null|
 |**2024-01-05**|**Towards a zk-SNARK compiler for Wolfram language**|Armando Cruz et.al.|[2401.02935](http://arxiv.org/abs/2401.02935)|null|
-|**2023-12-06**|**The Boomerang protocol: A Decentralised Privacy-Preserving Verifiable Incentive Protocol**|Ralph Ankele et.al.|[2401.01353](http://arxiv.org/abs/2401.01353)|null|
+|**2024-01-09**|**The Boomerang protocol: A Decentralised Privacy-Preserving Verifiable Incentive Protocol**|Ralph Ankele et.al.|[2401.01353](http://arxiv.org/abs/2401.01353)|null|
 |**2023-12-17**|**HE-DKSAP: Privacy-Preserving Stealth Address Protocol via Additively Homomorphic Encryption**|Yuping Yan et.al.|[2312.10698](http://arxiv.org/abs/2312.10698)|null|
 |**2023-12-13**|**Zero-Knowledge Proof of Traffic: A Deterministic and Privacy-Preserving Cross Verification Mechanism for Cooperative Perception Data**|Ye Tao et.al.|[2312.07948](http://arxiv.org/abs/2312.07948)|null|
 |**2023-12-01**|**zkFDL: An efficient and privacy-preserving decentralized federated learning with zero knowledge proof**|Mojtaba Ahmadi et.al.|[2312.04579](http://arxiv.org/abs/2312.04579)|null|
@@ -209,10 +209,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-10**|**Strategic Client Selection to Address Non-IIDness in HAPS-enabled FL Networks**|Amin Farajzadeh et.al.|[2401.05308](http://arxiv.org/abs/2401.05308)|null|
+|**2024-01-10**|**Federated Unlearning: A Survey on Methods, Design Guidelines, and Evaluation Metrics**|Nicolò Romandini et.al.|[2401.05146](http://arxiv.org/abs/2401.05146)|null|
+|**2024-01-10**|**Efficient Fine-Tuning with Domain Adaptation for Privacy-Preserving Vision Transformer**|Teru Nagamori et.al.|[2401.05126](http://arxiv.org/abs/2401.05126)|null|
+|**2024-01-10**|**AdaFed: Fair Federated Learning via Adaptive Common Descent Direction**|Shayan Mohajer Hamidi et.al.|[2401.04993](http://arxiv.org/abs/2401.04993)|null|
+|**2024-01-10**|**Learning-Based Difficulty Calibration for Enhanced Membership Inference Attacks**|Haonan Shi et.al.|[2401.04929](http://arxiv.org/abs/2401.04929)|**[link](https://github.com/horanshi/ldc-mia)**|
+|**2024-01-10**|**Relaxed Contrastive Learning for Federated Learning**|Seonguk Seo et.al.|[2401.04928](http://arxiv.org/abs/2401.04928)|null|
 |**2024-01-09**|**A Survey on Efficient Federated Learning Methods for Foundation Model Training**|Herbert Woisetschläger et.al.|[2401.04472](http://arxiv.org/abs/2401.04472)|null|
 |**2024-01-09**|**Privacy-Preserving Sequential Recommendation with Collaborative Confusion**|Wei Wang et.al.|[2401.04423](http://arxiv.org/abs/2401.04423)|null|
 |**2024-01-09**|**Private Fine-tuning of Large Language Models with Zeroth-order Optimization**|Xinyu Tang et.al.|[2401.04343](http://arxiv.org/abs/2401.04343)|null|
-|**2024-01-09**|**Deep Efficient Private Neighbor Generation for Subgraph Federated Learning**|Ke Zhang et.al.|[2401.04336](http://arxiv.org/abs/2401.04336)|null|
+|**2024-01-10**|**Deep Efficient Private Neighbor Generation for Subgraph Federated Learning**|Ke Zhang et.al.|[2401.04336](http://arxiv.org/abs/2401.04336)|null|
 |**2024-01-09**|**Renyi Differential Privacy in the Shuffle Model: Enhanced Amplification Bounds**|E Chen et.al.|[2401.04306](http://arxiv.org/abs/2401.04306)|null|
 |**2024-01-08**|**Federated Analytics for 6G Networks: Applications, Challenges, and Opportunities**|Juan Marcelo Parra-Ullauri et.al.|[2401.03878](http://arxiv.org/abs/2401.03878)|null|
 |**2024-01-08**|**Optimal Differentially Private PCA and Estimation for Spiked Covariance Matrices**|T. Tony Cai et.al.|[2401.03820](http://arxiv.org/abs/2401.03820)|null|
