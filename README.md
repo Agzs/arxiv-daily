@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**Safeguarding DeFi Smart Contracts against Oracle Deviations**|Xun Deng et.al.|[2401.06044](http://arxiv.org/abs/2401.06044)|null|
+|**2024-01-11**|**SoK: Analysis techniques for WebAssembly**|Håkon Harnes et.al.|[2401.05943](http://arxiv.org/abs/2401.05943)|null|
 |**2024-01-09**|**Expiring Assets in Automated Market Makers**|Kenan Wood et.al.|[2401.04289](http://arxiv.org/abs/2401.04289)|null|
 |**2024-01-05**|**An Analysis of Avalanche Consensus**|Ignacio Amores-Sesar et.al.|[2401.02811](http://arxiv.org/abs/2401.02811)|null|
 |**2024-01-03**|**DApps Ecosystems: Mapping the Network Structure of Smart Contract Interactions**|Sabrina Aufiero et.al.|[2401.01991](http://arxiv.org/abs/2401.01991)|null|
@@ -221,6 +223,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-11**|**Inferring Intentions to Speak Using Accelerometer Data In-the-Wild**|Litian Li et.al.|[2401.05849](http://arxiv.org/abs/2401.05849)|null|
+|**2024-01-11**|**Privacy Analysis of Affine Transformations in Cloud-based MPC: Vulnerability to Side-knowledge**|Teimour Hosseinalizadeh et.al.|[2401.05835](http://arxiv.org/abs/2401.05835)|null|
+|**2024-01-10**|**Brave: Byzantine-Resilient and Privacy-Preserving Peer-to-Peer Federated Learning**|Zhangchen Xu et.al.|[2401.05562](http://arxiv.org/abs/2401.05562)|null|
 |**2024-01-10**|**Strategic Client Selection to Address Non-IIDness in HAPS-enabled FL Networks**|Amin Farajzadeh et.al.|[2401.05308](http://arxiv.org/abs/2401.05308)|null|
 |**2024-01-10**|**Federated Unlearning: A Survey on Methods, Design Guidelines, and Evaluation Metrics**|Nicolò Romandini et.al.|[2401.05146](http://arxiv.org/abs/2401.05146)|null|
 |**2024-01-10**|**Efficient Fine-Tuning with Domain Adaptation for Privacy-Preserving Vision Transformer**|Teru Nagamori et.al.|[2401.05126](http://arxiv.org/abs/2401.05126)|null|
