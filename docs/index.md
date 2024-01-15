@@ -211,6 +211,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-12**|**Intelligent Data-Driven Architectural Features Orchestration for Network Slicing**|Rodrigo Moreira et.al.|[2401.06538](http://arxiv.org/abs/2401.06538)|null|
+|**2024-01-12**|**Heterogeneous Low-Rank Approximation for Federated Fine-tuning of On-Device Foundation Models**|Yae Jee Cho et.al.|[2401.06432](http://arxiv.org/abs/2401.06432)|null|
+|**2024-01-11**|**FedTabDiff: Federated Learning of Diffusion Probabilistic Models for Synthetic Mixed-Type Tabular Data Generation**|Timur Sattarov et.al.|[2401.06263](http://arxiv.org/abs/2401.06263)|**[link](https://github.com/sattarov/fedtabdiff)**|
+|**2024-01-11**|**Decentralized Gossip Mutual Learning (GML) for automatic head and neck tumor segmentation**|Jingyun Chen et.al.|[2401.06180](http://arxiv.org/abs/2401.06180)|null|
 |**2024-01-11**|**Inferring Intentions to Speak Using Accelerometer Data In-the-Wild**|Litian Li et.al.|[2401.05849](http://arxiv.org/abs/2401.05849)|null|
 |**2024-01-11**|**Privacy Analysis of Affine Transformations in Cloud-based MPC: Vulnerability to Side-knowledge**|Teimour Hosseinalizadeh et.al.|[2401.05835](http://arxiv.org/abs/2401.05835)|null|
 |**2024-01-10**|**Brave: Byzantine-Resilient and Privacy-Preserving Peer-to-Peer Federated Learning**|Zhangchen Xu et.al.|[2401.05562](http://arxiv.org/abs/2401.05562)|null|
