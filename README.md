@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-15**|**Impermanent Loss Conditions: An Analysis of Decentralized Exchange Platforms**|Matthias Hafner et.al.|[2401.07689](http://arxiv.org/abs/2401.07689)|null|
+|**2024-01-14**|**LookAhead: Preventing DeFi Attacks via Unveiling Adversarial Contracts**|Shoupeng Ren et.al.|[2401.07261](http://arxiv.org/abs/2401.07261)|null|
 |**2024-01-11**|**Safeguarding DeFi Smart Contracts against Oracle Deviations**|Xun Deng et.al.|[2401.06044](http://arxiv.org/abs/2401.06044)|null|
 |**2024-01-11**|**SoK: Analysis techniques for WebAssembly**|Håkon Harnes et.al.|[2401.05943](http://arxiv.org/abs/2401.05943)|null|
 |**2024-01-09**|**Expiring Assets in Automated Market Makers**|Kenan Wood et.al.|[2401.04289](http://arxiv.org/abs/2401.04289)|null|
@@ -173,6 +175,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**On Cryptographic Mechanisms for the Selective Disclosure of Verifiable Credentials**|Andrea Flamini et.al.|[2401.08196](http://arxiv.org/abs/2401.08196)|null|
 |**2024-01-06**|**Zero-Knowledge Proof in NuLink**|Pawn et.al.|[2401.03118](http://arxiv.org/abs/2401.03118)|null|
 |**2024-01-05**|**Towards a zk-SNARK compiler for Wolfram language**|Armando Cruz et.al.|[2401.02935](http://arxiv.org/abs/2401.02935)|null|
 |**2024-01-09**|**The Boomerang protocol: A Decentralised Privacy-Preserving Verifiable Incentive Protocol**|Ralph Ankele et.al.|[2401.01353](http://arxiv.org/abs/2401.01353)|null|
@@ -223,6 +226,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**Personalized Federated Learning of Probabilistic Models: A PAC-Bayesian Approach**|Mahrokh Ghoddousi Boroujeni et.al.|[2401.08351](http://arxiv.org/abs/2401.08351)|null|
+|**2024-01-16**|**Learn What You Need in Personalized Federated Learning**|Kexin Lv et.al.|[2401.08327](http://arxiv.org/abs/2401.08327)|**[link](https://github.com/kelenlv/learn2pfed)**|
+|**2024-01-16**|**Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning**|Yu Jiang et.al.|[2401.08216](http://arxiv.org/abs/2401.08216)|null|
+|**2024-01-16**|**Over-the-Air Federated Learning with Phase Noise: Analysis and Countermeasures**|Martin Dahl et.al.|[2401.08183](http://arxiv.org/abs/2401.08183)|null|
+|**2024-01-16**|**Differentially Private Sliced Inverse Regression: Minimax Optimality and Algorithm**|Xintao Xia et.al.|[2401.08150](http://arxiv.org/abs/2401.08150)|null|
+|**2024-01-15**|**Vertical Federated Image Segmentation**|Paul K. Mandal et.al.|[2401.07931](http://arxiv.org/abs/2401.07931)|null|
+|**2024-01-15**|**Joint Probability Selection and Power Allocation for Federated Learning**|Ouiame Marnissi et.al.|[2401.07756](http://arxiv.org/abs/2401.07756)|null|
+|**2024-01-15**|**FedRFQ: Prototype-Based Federated Learning with Reduced Redundancy, Minimal Failure, and Enhanced Quality**|Biwei Yan et.al.|[2401.07558](http://arxiv.org/abs/2401.07558)|null|
+|**2024-01-15**|**Low-Rank Gradient Compression with Error Feedback for MIMO Wireless Federated Learning**|Mingzhao Guo et.al.|[2401.07496](http://arxiv.org/abs/2401.07496)|null|
+|**2024-01-15**|**Quantum Privacy Aggregation of Teacher Ensembles (QPATE) for Privacy-preserving Quantum Machine Learning**|William Watkins et.al.|[2401.07464](http://arxiv.org/abs/2401.07464)|null|
 |**2024-01-12**|**Intelligent Data-Driven Architectural Features Orchestration for Network Slicing**|Rodrigo Moreira et.al.|[2401.06538](http://arxiv.org/abs/2401.06538)|null|
 |**2024-01-12**|**Heterogeneous Low-Rank Approximation for Federated Fine-tuning of On-Device Foundation Models**|Yae Jee Cho et.al.|[2401.06432](http://arxiv.org/abs/2401.06432)|null|
 |**2024-01-11**|**FedTabDiff: Federated Learning of Diffusion Probabilistic Models for Synthetic Mixed-Type Tabular Data Generation**|Timur Sattarov et.al.|[2401.06263](http://arxiv.org/abs/2401.06263)|**[link](https://github.com/sattarov/fedtabdiff)**|
