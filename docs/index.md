@@ -214,6 +214,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**Risk-Aware Accelerated Wireless Federated Learning with Heterogeneous Clients**|Mohamed Ads et.al.|[2401.09267](http://arxiv.org/abs/2401.09267)|null|
+|**2024-01-17**|**A GAN-based data poisoning framework against anomaly detection in vertical federated learning**|Xiaolin Chen et.al.|[2401.08984](http://arxiv.org/abs/2401.08984)|null|
+|**2024-01-17**|**FedLoGe: Joint Local and Generic Federated Learning under Long-tailed Data**|Zikai Xiao et.al.|[2401.08977](http://arxiv.org/abs/2401.08977)|null|
+|**2024-01-16**|**Foundation Models in Augmentative and Alternative Communication: Opportunities and Challenges**|Ambra Di Paola et.al.|[2401.08866](http://arxiv.org/abs/2401.08866)|null|
+|**2024-01-16**|**HierSFL: Local Differential Privacy-aided Split Federated Learning in Mobile Edge Computing**|Minh K. Quan et.al.|[2401.08723](http://arxiv.org/abs/2401.08723)|null|
+|**2024-01-16**|**ADVENT: Attack/Anomaly Detection in VANETs**|Hamideh Baharlouei et.al.|[2401.08564](http://arxiv.org/abs/2401.08564)|null|
+|**2024-01-16**|**Security and Privacy Issues and Solutions in Federated Learning for Digital Healthcare**|Hyejun Jeong et.al.|[2401.08458](http://arxiv.org/abs/2401.08458)|null|
 |**2024-01-16**|**Personalized Federated Learning of Probabilistic Models: A PAC-Bayesian Approach**|Mahrokh Ghoddousi Boroujeni et.al.|[2401.08351](http://arxiv.org/abs/2401.08351)|null|
 |**2024-01-16**|**Learn What You Need in Personalized Federated Learning**|Kexin Lv et.al.|[2401.08327](http://arxiv.org/abs/2401.08327)|**[link](https://github.com/kelenlv/learn2pfed)**|
 |**2024-01-16**|**Towards Efficient and Certified Recovery from Poisoning Attacks in Federated Learning**|Yu Jiang et.al.|[2401.08216](http://arxiv.org/abs/2401.08216)|null|
