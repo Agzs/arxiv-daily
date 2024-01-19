@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-14**|**A Framework for Agricultural Food Supply Chain using Blockchain**|Sudarssan N et.al.|[2401.09476](http://arxiv.org/abs/2401.09476)|null|
 |**2024-01-15**|**Impermanent Loss Conditions: An Analysis of Decentralized Exchange Platforms**|Matthias Hafner et.al.|[2401.07689](http://arxiv.org/abs/2401.07689)|null|
 |**2024-01-14**|**LookAhead: Preventing DeFi Attacks via Unveiling Adversarial Contracts**|Shoupeng Ren et.al.|[2401.07261](http://arxiv.org/abs/2401.07261)|null|
 |**2024-01-11**|**Safeguarding DeFi Smart Contracts against Oracle Deviations**|Xun Deng et.al.|[2401.06044](http://arxiv.org/abs/2401.06044)|null|
@@ -165,6 +166,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**Experimental Implementation of A Quantum Zero-Knowledge Proof for User Authentication**|Marta I. Garcia-Cid et.al.|[2401.09521](http://arxiv.org/abs/2401.09521)|null|
 |**2024-01-16**|**On Cryptographic Mechanisms for the Selective Disclosure of Verifiable Credentials**|Andrea Flamini et.al.|[2401.08196](http://arxiv.org/abs/2401.08196)|null|
 |**2024-01-06**|**Zero-Knowledge Proof in NuLink**|Pawn et.al.|[2401.03118](http://arxiv.org/abs/2401.03118)|null|
 |**2024-01-05**|**Towards a zk-SNARK compiler for Wolfram language**|Armando Cruz et.al.|[2401.02935](http://arxiv.org/abs/2401.02935)|null|
@@ -214,9 +216,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-18**|**Communication-Efficient Personalized Federated Learning for Speech-to-Text Tasks**|Yichao Du et.al.|[2401.10070](http://arxiv.org/abs/2401.10070)|null|
+|**2024-01-18**|**FLex&Chill: Improving Local Federated Learning Training with Logit Chilling**|Kichang Lee et.al.|[2401.09986](http://arxiv.org/abs/2401.09986)|null|
+|**2024-01-18**|**Cooperative Edge Caching Based on Elastic Federated and Multi-Agent Deep Reinforcement Learning in Next-Generation Network**|Qiong Wu et.al.|[2401.09886](http://arxiv.org/abs/2401.09886)|**[link](https://github.com/qiongwu86/edge-caching-based-on-multi-agent-deep-reinforcement-learning-and-federated-learning)**|
+|**2024-01-18**|**Mobility Accelerates Learning: Convergence Analysis on Hierarchical Federated Learning in Vehicular Networks**|Tan Chen et.al.|[2401.09656](http://arxiv.org/abs/2401.09656)|null|
+|**2024-01-17**|**MedBlindTuner: Towards Privacy-preserving Fine-tuning on Biomedical Images with Transformers and Fully Homomorphic Encryption**|Prajwal Panzade et.al.|[2401.09604](http://arxiv.org/abs/2401.09604)|**[link](https://github.com/prajwalpanzade/medblindtuner)**|
+|**2024-01-17**|**Technical Report: On the Convergence of Gossip Learning in the Presence of Node Inaccessibility**|Tian Liu et.al.|[2401.09498](http://arxiv.org/abs/2401.09498)|null|
 |**2024-01-17**|**Risk-Aware Accelerated Wireless Federated Learning with Heterogeneous Clients**|Mohamed Ads et.al.|[2401.09267](http://arxiv.org/abs/2401.09267)|null|
 |**2024-01-17**|**A GAN-based data poisoning framework against anomaly detection in vertical federated learning**|Xiaolin Chen et.al.|[2401.08984](http://arxiv.org/abs/2401.08984)|null|
-|**2024-01-17**|**FedLoGe: Joint Local and Generic Federated Learning under Long-tailed Data**|Zikai Xiao et.al.|[2401.08977](http://arxiv.org/abs/2401.08977)|null|
+|**2024-01-17**|**FedLoGe: Joint Local and Generic Federated Learning under Long-tailed Data**|Zikai Xiao et.al.|[2401.08977](http://arxiv.org/abs/2401.08977)|**[link](https://github.com/zackzikaixiao/fedloge)**|
 |**2024-01-16**|**Foundation Models in Augmentative and Alternative Communication: Opportunities and Challenges**|Ambra Di Paola et.al.|[2401.08866](http://arxiv.org/abs/2401.08866)|null|
 |**2024-01-16**|**HierSFL: Local Differential Privacy-aided Split Federated Learning in Mobile Edge Computing**|Minh K. Quan et.al.|[2401.08723](http://arxiv.org/abs/2401.08723)|null|
 |**2024-01-16**|**ADVENT: Attack/Anomaly Detection in VANETs**|Hamideh Baharlouei et.al.|[2401.08564](http://arxiv.org/abs/2401.08564)|null|
