@@ -337,7 +337,7 @@ layout: default
 |**2023-12-20**|**DXP: Billing Data Preparation for Big Data Analytics**|Luca Gagliardelli et.al.|[2312.12902](http://arxiv.org/abs/2312.12902)|null|
 |**2023-12-20**|**DynamiQS: Quantum Secure Authentication for Dynamic Charging of Electric Vehicles**|Tommaso Bianchi et.al.|[2312.12879](http://arxiv.org/abs/2312.12879)|null|
 |**2023-12-20**|**Federated Learning While Providing Model as a Service: Joint Training and Inference Optimization**|Pengchao Han et.al.|[2312.12863](http://arxiv.org/abs/2312.12863)|null|
-|**2023-12-20**|**FedA3I: Annotation Quality-Aware Aggregation for Federated Medical Image Segmentation Against Heterogeneous Annotation Noise**|Nannan Wu et.al.|[2312.12838](http://arxiv.org/abs/2312.12838)|null|
+|**2023-12-20**|**FedA3I: Annotation Quality-Aware Aggregation for Federated Medical Image Segmentation Against Heterogeneous Annotation Noise**|Nannan Wu et.al.|[2312.12838](http://arxiv.org/abs/2312.12838)|**[link](https://github.com/wnn2000/fedaaai)**|
 |**2023-12-20**|**FedSODA: Federated Cross-assessment and Dynamic Aggregation for Histopathology Segmentation**|Yuan Zhang et.al.|[2312.12824](http://arxiv.org/abs/2312.12824)|null|
 |**2023-12-20**|**Federated Learning with Extremely Noisy Clients via Negative Distillation**|Yang Lu et.al.|[2312.12703](http://arxiv.org/abs/2312.12703)|**[link](https://github.com/linchen99/fedned)**|
 |**2023-12-19**|**On the Role of Server Momentum in Federated Learning**|Jianhui Sun et.al.|[2312.12670](http://arxiv.org/abs/2312.12670)|null|
