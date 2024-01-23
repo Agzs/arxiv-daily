@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-22**|**Monitoring the Future of Smart Contracts**|Margarita Capretto et.al.|[2401.12093](http://arxiv.org/abs/2401.12093)|null|
+|**2024-01-20**|**LLM4Fuzz: Guided Fuzzing of Smart Contracts with Large Language Models**|Chaofan Shou et.al.|[2401.11108](http://arxiv.org/abs/2401.11108)|null|
 |**2024-01-14**|**A Framework for Agricultural Food Supply Chain using Blockchain**|Sudarssan N et.al.|[2401.09476](http://arxiv.org/abs/2401.09476)|null|
 |**2024-01-15**|**Impermanent Loss Conditions: An Analysis of Decentralized Exchange Platforms**|Matthias Hafner et.al.|[2401.07689](http://arxiv.org/abs/2401.07689)|null|
 |**2024-01-14**|**LookAhead: Preventing DeFi Attacks via Unveiling Adversarial Contracts**|Shoupeng Ren et.al.|[2401.07261](http://arxiv.org/abs/2401.07261)|null|
@@ -176,6 +178,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-22**|**zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials**|Foteini Baldimtsi et.al.|[2401.11735](http://arxiv.org/abs/2401.11735)|null|
 |**2024-01-17**|**Experimental Implementation of A Quantum Zero-Knowledge Proof for User Authentication**|Marta I. Garcia-Cid et.al.|[2401.09521](http://arxiv.org/abs/2401.09521)|null|
 |**2024-01-16**|**On Cryptographic Mechanisms for the Selective Disclosure of Verifiable Credentials**|Andrea Flamini et.al.|[2401.08196](http://arxiv.org/abs/2401.08196)|null|
 |**2024-01-06**|**Zero-Knowledge Proof in NuLink**|Pawn et.al.|[2401.03118](http://arxiv.org/abs/2401.03118)|null|
@@ -228,6 +231,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-22**|**Personalized Over-the-Air Federated Learning with Personalized Reconfigurable Intelligent Surfaces**|Jiayu Mao et.al.|[2401.12149](http://arxiv.org/abs/2401.12149)|null|
+|**2024-01-22**|**NEUROSEC: FPGA-Based Neuromorphic Audio Security**|Murat Isik et.al.|[2401.12055](http://arxiv.org/abs/2401.12055)|null|
+|**2024-01-22**|**TurboSVM-FL: Boosting Federated Learning through SVM Aggregation for Lazy Clients**|Mengdi Wang et.al.|[2401.12012](http://arxiv.org/abs/2401.12012)|**[link](https://github.com/kasneci-lab/turbosvm-fl)**|
+|**2024-01-22**|**Effective Intrusion Detection in Heterogeneous Internet-of-Things Networks via Ensemble Knowledge Distillation-based Federated Learning**|Jiyuan Shen et.al.|[2401.11968](http://arxiv.org/abs/2401.11968)|null|
+|**2024-01-22**|**Privacy-Preserving Data Fusion for Traffic State Estimation: A Vertical Federated Learning Approach**|Qiqing Wang et.al.|[2401.11836](http://arxiv.org/abs/2401.11836)|null|
+|**2024-01-22**|**AdaFGL: A New Paradigm for Federated Node Classification with Topology Heterogeneity**|Xunkai Li et.al.|[2401.11750](http://arxiv.org/abs/2401.11750)|null|
+|**2024-01-22**|**GI-PIP: Do We Require Impractical Auxiliary Dataset for Gradient Inversion Attacks?**|Yu sun et.al.|[2401.11748](http://arxiv.org/abs/2401.11748)|**[link](https://github.com/D1aoBoomm/GI-PIP)**|
+|**2024-01-22**|**Attention on Personalized Clinical Decision Support System: Federated Learning Approach**|Chu Myaet Thwal et.al.|[2401.11736](http://arxiv.org/abs/2401.11736)|null|
+|**2024-01-22**|**zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials**|Foteini Baldimtsi et.al.|[2401.11735](http://arxiv.org/abs/2401.11735)|null|
+|**2024-01-22**|**OnDev-LCT: On-Device Lightweight Convolutional Transformers towards federated learning**|Chu Myaet Thwal et.al.|[2401.11652](http://arxiv.org/abs/2401.11652)|null|
 |**2024-01-19**|**Starlit: Privacy-Preserving Federated Learning to Enhance Financial Fraud Detection**|Aydin Abadi et.al.|[2401.10765](http://arxiv.org/abs/2401.10765)|null|
 |**2024-01-19**|**Budgeted Online Model Selection and Fine-Tuning via Federated Learning**|Pouya M. Ghari et.al.|[2401.10478](http://arxiv.org/abs/2401.10478)|null|
 |**2024-01-18**|**Differentially Private and Adversarially Robust Machine Learning: An Empirical Evaluation**|Janvi Thakkar et.al.|[2401.10405](http://arxiv.org/abs/2401.10405)|null|
