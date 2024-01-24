@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**Heterogeneity- and homophily-induced vulnerability of a P2P network formation model: the IOTA auto-peering protocol**|Yu Gao et.al.|[2401.12633](http://arxiv.org/abs/2401.12633)|null|
+|**2024-01-22**|**A Security Risk Assessment Method for Distributed Ledger Technology (DLT) based Applications: Three Industry Case Studies**|Elena Baninemeh et.al.|[2401.12358](http://arxiv.org/abs/2401.12358)|null|
 |**2024-01-22**|**Monitoring the Future of Smart Contracts**|Margarita Capretto et.al.|[2401.12093](http://arxiv.org/abs/2401.12093)|null|
 |**2024-01-20**|**LLM4Fuzz: Guided Fuzzing of Smart Contracts with Large Language Models**|Chaofan Shou et.al.|[2401.11108](http://arxiv.org/abs/2401.11108)|null|
 |**2024-01-14**|**A Framework for Agricultural Food Supply Chain using Blockchain**|Sudarssan N et.al.|[2401.09476](http://arxiv.org/abs/2401.09476)|null|
@@ -219,6 +221,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**FedRSU: Federated Learning for Scene Flow Estimation on Roadside Units**|Shaoheng Fang et.al.|[2401.12862](http://arxiv.org/abs/2401.12862)|null|
+|**2024-01-23**|**Towards Privacy-, Budget-, and Deadline-Aware Service Optimization for Large Medical Image Processing across Hybrid Clouds**|Yuandou Wang et.al.|[2401.12597](http://arxiv.org/abs/2401.12597)|null|
+|**2024-01-23**|**Secure Federated Learning Approaches to Diagnosing COVID-19**|Rittika Adhikari et.al.|[2401.12438](http://arxiv.org/abs/2401.12438)|null|
+|**2024-01-23**|**Wasserstein Differential Privacy**|Chengyi Yang et.al.|[2401.12436](http://arxiv.org/abs/2401.12436)|**[link](https://github.com/hifipsysta/wdp)**|
+|**2024-01-22**|**A Learning-based Declarative Privacy-Preserving Framework for Federated Data Management**|Hong Guan et.al.|[2401.12393](http://arxiv.org/abs/2401.12393)|null|
+|**2024-01-22**|**Efficient Collaborations through Weight-Driven Coalition Dynamics in Federated Learning Systems**|Mohammed El Hanjri et.al.|[2401.12356](http://arxiv.org/abs/2401.12356)|null|
 |**2024-01-22**|**Personalized Over-the-Air Federated Learning with Personalized Reconfigurable Intelligent Surfaces**|Jiayu Mao et.al.|[2401.12149](http://arxiv.org/abs/2401.12149)|null|
 |**2024-01-22**|**NEUROSEC: FPGA-Based Neuromorphic Audio Security**|Murat Isik et.al.|[2401.12055](http://arxiv.org/abs/2401.12055)|null|
 |**2024-01-22**|**TurboSVM-FL: Boosting Federated Learning through SVM Aggregation for Lazy Clients**|Mengdi Wang et.al.|[2401.12012](http://arxiv.org/abs/2401.12012)|**[link](https://github.com/kasneci-lab/turbosvm-fl)**|
