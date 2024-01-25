@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-24**|**Real-time Risk Metrics for Programmatic Stablecoin Crypto Asset-Liability Management (CALM)**|Marcel Bluhm et.al.|[2401.13399](http://arxiv.org/abs/2401.13399)|null|
 |**2024-01-23**|**Heterogeneity- and homophily-induced vulnerability of a P2P network formation model: the IOTA auto-peering protocol**|Yu Gao et.al.|[2401.12633](http://arxiv.org/abs/2401.12633)|null|
 |**2024-01-22**|**A Security Risk Assessment Method for Distributed Ledger Technology (DLT) based Applications: Three Industry Case Studies**|Elena Baninemeh et.al.|[2401.12358](http://arxiv.org/abs/2401.12358)|null|
 |**2024-01-22**|**Monitoring the Future of Smart Contracts**|Margarita Capretto et.al.|[2401.12093](http://arxiv.org/abs/2401.12093)|null|
@@ -233,6 +234,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-24**|**Federated learning with distributed fixed design quantum chips and quantum channels**|Ammar Daskin et.al.|[2401.13421](http://arxiv.org/abs/2401.13421)|null|
+|**2024-01-24**|**Privacy-Preserving Face Recognition in Hybrid Frequency-Color Domain**|Dong Han et.al.|[2401.13386](http://arxiv.org/abs/2401.13386)|null|
+|**2024-01-24**|**Mitigating System Bias in Resource Constrained Asynchronous Federated Learning Systems**|Jikun Gao et.al.|[2401.13366](http://arxiv.org/abs/2401.13366)|null|
+|**2024-01-24**|**Past, Present, Future: A Comprehensive Exploration of AI Use Cases in the UMBRELLA IoT Testbed**|Peizheng Li et.al.|[2401.13346](http://arxiv.org/abs/2401.13346)|null|
+|**2024-01-24**|**Generating Synthetic Health Sensor Data for Privacy-Preserving Wearable Stress Detection**|Lucas Lange et.al.|[2401.13327](http://arxiv.org/abs/2401.13327)|**[link](https://github.com/luckyos-code/privacy-preserving-smartwatch-health-data-generation-using-dp-gans)**|
+|**2024-01-24**|**How to Collaborate: Towards Maximizing the Generalization Performance in Cross-Silo Federated Learning**|Yuchang Sun et.al.|[2401.13236](http://arxiv.org/abs/2401.13236)|null|
+|**2024-01-24**|**On Principled Local Optimization Methods for Federated Learning**|Honglin Yuan et.al.|[2401.13216](http://arxiv.org/abs/2401.13216)|null|
+|**2024-01-23**|**Viewport Prediction, Bitrate Selection, and Beamforming Design for THz-Enabled 360-Degree Video Streaming**|Mehdi Setayesh et.al.|[2401.13114](http://arxiv.org/abs/2401.13114)|null|
 |**2024-01-23**|**FedRSU: Federated Learning for Scene Flow Estimation on Roadside Units**|Shaoheng Fang et.al.|[2401.12862](http://arxiv.org/abs/2401.12862)|null|
 |**2024-01-23**|**Towards Privacy-, Budget-, and Deadline-Aware Service Optimization for Large Medical Image Processing across Hybrid Clouds**|Yuandou Wang et.al.|[2401.12597](http://arxiv.org/abs/2401.12597)|null|
 |**2024-01-23**|**Secure Federated Learning Approaches to Diagnosing COVID-19**|Rittika Adhikari et.al.|[2401.12438](http://arxiv.org/abs/2401.12438)|null|
