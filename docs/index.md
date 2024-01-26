@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**CHIRON: Accelerating Node Synchronization without Security Trade-offs in Distributed Ledgers**|Ray Neiheiser et.al.|[2401.14278](http://arxiv.org/abs/2401.14278)|null|
 |**2024-01-24**|**Real-time Risk Metrics for Programmatic Stablecoin Crypto Asset-Liability Management (CALM)**|Marcel Bluhm et.al.|[2401.13399](http://arxiv.org/abs/2401.13399)|null|
 |**2024-01-23**|**Heterogeneity- and homophily-induced vulnerability of a P2P network formation model: the IOTA auto-peering protocol**|Yu Gao et.al.|[2401.12633](http://arxiv.org/abs/2401.12633)|null|
 |**2024-01-22**|**A Security Risk Assessment Method for Distributed Ledger Technology (DLT) based Applications: Three Industry Case Studies**|Elena Baninemeh et.al.|[2401.12358](http://arxiv.org/abs/2401.12358)|null|
@@ -222,6 +223,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**Communication-Efficient Federated Learning through Adaptive Weight Clustering and Server-Side Distillation**|Vasileios Tsouvalas. Aaqib Saeed et.al.|[2401.14211](http://arxiv.org/abs/2401.14211)|null|
+|**2024-01-25**|**Model CBOR Serialization for Federated Learning**|Koen Zandberg et.al.|[2401.14056](http://arxiv.org/abs/2401.14056)|null|
+|**2024-01-25**|**The Risk of Federated Learning to Skew Fine-Tuning Features and Underperform Out-of-Distribution Robustness**|Mengyao Du et.al.|[2401.14027](http://arxiv.org/abs/2401.14027)|null|
+|**2024-01-25**|**Cross-Modal Prototype based Multimodal Federated Learning under Severely Missing Modality**|Huy Q. Le et.al.|[2401.13898](http://arxiv.org/abs/2401.13898)|null|
+|**2024-01-24**|**A V2X-based Privacy Preserving Federated Measuring and Learning System**|Levente Alekszejenkó et.al.|[2401.13848](http://arxiv.org/abs/2401.13848)|**[link](https://github.com/alelevente/felesh)**|
+|**2024-01-24**|**Inference Attacks Against Face Recognition Model without Classification Layers**|Yuanqing Huang et.al.|[2401.13719](http://arxiv.org/abs/2401.13719)|null|
 |**2024-01-24**|**Federated learning with distributed fixed design quantum chips and quantum channels**|Ammar Daskin et.al.|[2401.13421](http://arxiv.org/abs/2401.13421)|null|
 |**2024-01-24**|**Privacy-Preserving Face Recognition in Hybrid Frequency-Color Domain**|Dong Han et.al.|[2401.13386](http://arxiv.org/abs/2401.13386)|null|
 |**2024-01-24**|**Mitigating System Bias in Resource Constrained Asynchronous Federated Learning Systems**|Jikun Gao et.al.|[2401.13366](http://arxiv.org/abs/2401.13366)|null|
