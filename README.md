@@ -269,7 +269,7 @@
 |**2024-01-19**|**Budgeted Online Model Selection and Fine-Tuning via Federated Learning**|Pouya M. Ghari et.al.|[2401.10478](http://arxiv.org/abs/2401.10478)|null|
 |**2024-01-18**|**Differentially Private and Adversarially Robust Machine Learning: An Empirical Evaluation**|Janvi Thakkar et.al.|[2401.10405](http://arxiv.org/abs/2401.10405)|null|
 |**2024-01-18**|**Vulnerabilities of Foundation Model Integrated Federated Learning Under Adversarial Threats**|Chen Wu et.al.|[2401.10375](http://arxiv.org/abs/2401.10375)|null|
-|**2024-01-18**|**Hierarchical Federated Learning in Multi-hop Cluster-Based VANETs**|M. Saeid HaghighiFard et.al.|[2401.10361](http://arxiv.org/abs/2401.10361)|null|
+|**2024-01-18**|**Hierarchical Federated Learning in Multi-hop Cluster-Based VANETs**|M. Saeid HaghighiFard et.al.|[2401.10361](http://arxiv.org/abs/2401.10361)|**[link](https://github.com/saeedhaghighi/vanet)**|
 |**2024-01-18**|**Communication-Efficient Personalized Federated Learning for Speech-to-Text Tasks**|Yichao Du et.al.|[2401.10070](http://arxiv.org/abs/2401.10070)|null|
 |**2024-01-18**|**FLex&Chill: Improving Local Federated Learning Training with Logit Chilling**|Kichang Lee et.al.|[2401.09986](http://arxiv.org/abs/2401.09986)|null|
 |**2024-01-18**|**Cooperative Edge Caching Based on Elastic Federated and Multi-Agent Deep Reinforcement Learning in Next-Generation Network**|Qiong Wu et.al.|[2401.09886](http://arxiv.org/abs/2401.09886)|**[link](https://github.com/qiongwu86/edge-caching-based-on-multi-agent-deep-reinforcement-learning-and-federated-learning)**|
@@ -313,7 +313,7 @@
 |**2024-01-09**|**Renyi Differential Privacy in the Shuffle Model: Enhanced Amplification Bounds**|E Chen et.al.|[2401.04306](http://arxiv.org/abs/2401.04306)|null|
 |**2024-01-08**|**Federated Analytics for 6G Networks: Applications, Challenges, and Opportunities**|Juan Marcelo Parra-Ullauri et.al.|[2401.03878](http://arxiv.org/abs/2401.03878)|null|
 |**2024-01-08**|**Optimal Differentially Private PCA and Estimation for Spiked Covariance Matrices**|T. Tony Cai et.al.|[2401.03820](http://arxiv.org/abs/2401.03820)|null|
-|**2024-01-08**|**Towards Efficient Communication Federated Recommendation System via Low-rank Training**|Ngoc-Hieu Nguyen et.al.|[2401.03748](http://arxiv.org/abs/2401.03748)|null|
+|**2024-01-08**|**Towards Efficient Communication Federated Recommendation System via Low-rank Training**|Ngoc-Hieu Nguyen et.al.|[2401.03748](http://arxiv.org/abs/2401.03748)|**[link](https://github.com/nnhieu/colr-fedrec)**|
 |**2024-01-08**|**Logits Poisoning Attack in Federated Distillation**|Yuhan Tang et.al.|[2401.03685](http://arxiv.org/abs/2401.03685)|null|
 |**2024-01-07**|**Multi-Modal Federated Learning for Cancer Staging over Non-IID Datasets with Unbalanced Modalities**|Kasra Borazjani et.al.|[2401.03609](http://arxiv.org/abs/2401.03609)|**[link](https://github.com/kasraborazjani/dgb-pcw-fl)**|
 |**2024-01-07**|**GLOCALFAIR: Jointly Improving Global and Local Group Fairness in Federated Learning**|Syed Irfan Ali Meerza et.al.|[2401.03562](http://arxiv.org/abs/2401.03562)|null|
