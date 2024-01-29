@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**Automated legal reasoning with discretion to act using s(LAW)**|Joaquín Arias et.al.|[2401.14511](http://arxiv.org/abs/2401.14511)|null|
+|**2024-01-23**|**A Novel Blockchain Based Information Management Framework for Web 3.0**|Md Arif Hassan et.al.|[2401.14420](http://arxiv.org/abs/2401.14420)|null|
 |**2024-01-25**|**CHIRON: Accelerating Node Synchronization without Security Trade-offs in Distributed Ledgers**|Ray Neiheiser et.al.|[2401.14278](http://arxiv.org/abs/2401.14278)|null|
 |**2024-01-24**|**Real-time Risk Metrics for Programmatic Stablecoin Crypto Asset-Liability Management (CALM)**|Marcel Bluhm et.al.|[2401.13399](http://arxiv.org/abs/2401.13399)|null|
 |**2024-01-23**|**Heterogeneity- and homophily-induced vulnerability of a P2P network formation model: the IOTA auto-peering protocol**|Yu Gao et.al.|[2401.12633](http://arxiv.org/abs/2401.12633)|null|
@@ -223,6 +225,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-26**|**P3LS: Partial Least Squares under Privacy Preservation**|Du Nguyen Duy et.al.|[2401.14884](http://arxiv.org/abs/2401.14884)|null|
+|**2024-01-26**|**GuardML: Efficient Privacy-Preserving Machine Learning Services Through Hybrid Homomorphic Encryption**|Eugene Frimpong et.al.|[2401.14840](http://arxiv.org/abs/2401.14840)|null|
+|**2024-01-26**|**Deep Variational Privacy Funnel: General Modeling with Applications in Face Recognition**|Behrooz Razeghi et.al.|[2401.14792](http://arxiv.org/abs/2401.14792)|null|
+|**2024-01-26**|**Prompt-enhanced Federated Content Representation Learning for Cross-domain Recommendation**|Lei Guo et.al.|[2401.14678](http://arxiv.org/abs/2401.14678)|null|
+|**2024-01-26**|**Multi-model learning by sequential reading of untrimmed videos for action recognition**|Kodai Kamiya et.al.|[2401.14675](http://arxiv.org/abs/2401.14675)|null|
+|**2024-01-26**|**Physical Trajectory Inference Attack and Defense in Decentralized POI Recommendation**|Jing Long et.al.|[2401.14583](http://arxiv.org/abs/2401.14583)|null|
+|**2024-01-25**|**Privacy-preserving Quantile Treatment Effect Estimation for Randomized Controlled Trials**|Leon Yao et.al.|[2401.14549](http://arxiv.org/abs/2401.14549)|null|
 |**2024-01-25**|**Communication-Efficient Federated Learning through Adaptive Weight Clustering and Server-Side Distillation**|Vasileios Tsouvalas. Aaqib Saeed et.al.|[2401.14211](http://arxiv.org/abs/2401.14211)|null|
 |**2024-01-25**|**Model CBOR Serialization for Federated Learning**|Koen Zandberg et.al.|[2401.14056](http://arxiv.org/abs/2401.14056)|null|
 |**2024-01-25**|**The Risk of Federated Learning to Skew Fine-Tuning Features and Underperform Out-of-Distribution Robustness**|Mengyao Du et.al.|[2401.14027](http://arxiv.org/abs/2401.14027)|null|
