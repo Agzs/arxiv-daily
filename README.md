@@ -20,6 +20,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**S-HIDRA: A blockchain and SDN domain-based architecture to orchestrate fog computing environments**|carlos Núñez-Gómez et.al.|[2401.16341](http://arxiv.org/abs/2401.16341)|null|
+|**2024-01-29**|**LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning**|Yuqiang Sun et.al.|[2401.16185](http://arxiv.org/abs/2401.16185)|null|
+|**2024-01-29**|**A blockchain-based e-goverment service for Quantity Surveyors**|Ángel F. Alcaide et.al.|[2401.16028](http://arxiv.org/abs/2401.16028)|null|
+|**2024-01-28**|**Generative AI-enabled Blockchain Networks: Fundamentals, Applications, and Case Study**|Cong T. Nguyen et.al.|[2401.15625](http://arxiv.org/abs/2401.15625)|null|
 |**2024-01-25**|**Automated legal reasoning with discretion to act using s(LAW)**|Joaquín Arias et.al.|[2401.14511](http://arxiv.org/abs/2401.14511)|null|
 |**2024-01-23**|**A Novel Blockchain Based Information Management Framework for Web 3.0**|Md Arif Hassan et.al.|[2401.14420](http://arxiv.org/abs/2401.14420)|null|
 |**2024-01-25**|**CHIRON: Accelerating Node Synchronization without Security Trade-offs in Distributed Ledgers**|Ray Neiheiser et.al.|[2401.14278](http://arxiv.org/abs/2401.14278)|null|
@@ -237,6 +241,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**FedFair^3: Unlocking Threefold Fairness in Federated Learning**|Simin Javaherian et.al.|[2401.16350](http://arxiv.org/abs/2401.16350)|null|
+|**2024-01-29**|**Cross-silo Federated Learning with Record-level Personalized Differential Privacy**|Junxu Liu et.al.|[2401.16251](http://arxiv.org/abs/2401.16251)|null|
+|**2024-01-29**|**A Privacy-preserving key transmission protocol to distribute QRNG keys using zk-SNARKs**|David Soler et.al.|[2401.16170](http://arxiv.org/abs/2401.16170)|null|
+|**2024-01-29**|**Federated unsupervised random forest for privacy-preserving patient stratification**|Bastian Pfeifer et.al.|[2401.16094](http://arxiv.org/abs/2401.16094)|null|
+|**2024-01-29**|**EchoPFL: Asynchronous Personalized Federated Learning on Mobile Devices with On-Demand Staleness Control**|Xiaochen Li et.al.|[2401.15960](http://arxiv.org/abs/2401.15960)|null|
+|**2024-01-29**|**Blockchain-enabled Trustworthy Federated Unlearning**|Yijing Lin et.al.|[2401.15917](http://arxiv.org/abs/2401.15917)|null|
+|**2024-01-29**|**Rethinking Personalized Federated Learning with Clustering-based Dynamic Graph Propagation**|Jiaqi Wang et.al.|[2401.15874](http://arxiv.org/abs/2401.15874)|null|
+|**2024-01-28**|**A Parameter Privacy-Preserving Strategy for Mixed-Autonomy Platoon Control**|Jingyuan Zhou et.al.|[2401.15561](http://arxiv.org/abs/2401.15561)|null|
+|**2024-01-28**|**Stitching Satellites to the Edge: Pervasive and Efficient Federated LEO Satellite Learning**|Mohamed Elmahallawy et.al.|[2401.15541](http://arxiv.org/abs/2401.15541)|null|
+|**2024-01-27**|**Decentralized Gossip Mutual Learning (GML) for brain tumor segmentation on multi-parametric MRI**|Jingyun Chen et.al.|[2401.15434](http://arxiv.org/abs/2401.15434)|null|
 |**2024-01-26**|**P3LS: Partial Least Squares under Privacy Preservation**|Du Nguyen Duy et.al.|[2401.14884](http://arxiv.org/abs/2401.14884)|null|
 |**2024-01-26**|**GuardML: Efficient Privacy-Preserving Machine Learning Services Through Hybrid Homomorphic Encryption**|Eugene Frimpong et.al.|[2401.14840](http://arxiv.org/abs/2401.14840)|null|
 |**2024-01-26**|**Deep Variational Privacy Funnel: General Modeling with Applications in Face Recognition**|Behrooz Razeghi et.al.|[2401.14792](http://arxiv.org/abs/2401.14792)|null|
