@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**Quantum-Secure Hybrid Blockchain System for DID-based Verifiable Random Function with NTRU Linkable Ring Signature**|Bong Gon Kim et.al.|[2401.16906](http://arxiv.org/abs/2401.16906)|null|
 |**2024-01-29**|**S-HIDRA: A blockchain and SDN domain-based architecture to orchestrate fog computing environments**|carlos Núñez-Gómez et.al.|[2401.16341](http://arxiv.org/abs/2401.16341)|null|
 |**2024-01-29**|**LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning**|Yuqiang Sun et.al.|[2401.16185](http://arxiv.org/abs/2401.16185)|null|
 |**2024-01-29**|**A blockchain-based e-goverment service for Quantity Surveyors**|Ángel F. Alcaide et.al.|[2401.16028](http://arxiv.org/abs/2401.16028)|null|
@@ -229,8 +230,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**Spectral Co-Distillation for Personalized Federated Learning**|Zihan Chen et.al.|[2401.17124](http://arxiv.org/abs/2401.17124)|null|
+|**2024-01-30**|**Sandi: A System for Accountability and Applications in Direct Communication**|F. Betül Durak et.al.|[2401.16759](http://arxiv.org/abs/2401.16759)|null|
+|**2024-01-30**|**Communication-Efficient Multimodal Federated Learning: Joint Modality and Client Selection**|Liangqi Yuan et.al.|[2401.16685](http://arxiv.org/abs/2401.16685)|null|
+|**2024-01-29**|**PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model**|Abhinav Chakraborty et.al.|[2401.16596](http://arxiv.org/abs/2401.16596)|null|
+|**2024-01-29**|**Data and Physics driven Deep Learning Models for Fast MRI Reconstruction: Fundamentals and Methodologies**|Jiahao Huang et.al.|[2401.16564](http://arxiv.org/abs/2401.16564)|null|
 |**2024-01-29**|**FedFair^3: Unlocking Threefold Fairness in Federated Learning**|Simin Javaherian et.al.|[2401.16350](http://arxiv.org/abs/2401.16350)|null|
-|**2024-01-29**|**Cross-silo Federated Learning with Record-level Personalized Differential Privacy**|Junxu Liu et.al.|[2401.16251](http://arxiv.org/abs/2401.16251)|null|
+|**2024-01-30**|**Cross-silo Federated Learning with Record-level Personalized Differential Privacy**|Junxu Liu et.al.|[2401.16251](http://arxiv.org/abs/2401.16251)|null|
 |**2024-01-29**|**A Privacy-preserving key transmission protocol to distribute QRNG keys using zk-SNARKs**|David Soler et.al.|[2401.16170](http://arxiv.org/abs/2401.16170)|null|
 |**2024-01-29**|**Federated unsupervised random forest for privacy-preserving patient stratification**|Bastian Pfeifer et.al.|[2401.16094](http://arxiv.org/abs/2401.16094)|null|
 |**2024-01-29**|**EchoPFL: Asynchronous Personalized Federated Learning on Mobile Devices with On-Demand Staleness Control**|Xiaochen Li et.al.|[2401.15960](http://arxiv.org/abs/2401.15960)|null|
