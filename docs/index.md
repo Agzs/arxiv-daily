@@ -21,7 +21,7 @@ layout: default
 |**2024-01-28**|**Generative AI-enabled Blockchain Networks: Fundamentals, Applications, and Case Study**|Cong T. Nguyen et.al.|[2401.15625](http://arxiv.org/abs/2401.15625)|null|
 |**2024-01-25**|**Automated legal reasoning with discretion to act using s(LAW)**|Joaquín Arias et.al.|[2401.14511](http://arxiv.org/abs/2401.14511)|null|
 |**2024-01-23**|**A Novel Blockchain Based Information Management Framework for Web 3.0**|Md Arif Hassan et.al.|[2401.14420](http://arxiv.org/abs/2401.14420)|null|
-|**2024-01-25**|**CHIRON: Accelerating Node Synchronization without Security Trade-offs in Distributed Ledgers**|Ray Neiheiser et.al.|[2401.14278](http://arxiv.org/abs/2401.14278)|null|
+|**2024-01-31**|**CHIRON: Accelerating Node Synchronization without Security Trade-offs in Distributed Ledgers**|Ray Neiheiser et.al.|[2401.14278](http://arxiv.org/abs/2401.14278)|null|
 |**2024-01-24**|**Real-time Risk Metrics for Programmatic Stablecoin Crypto Asset-Liability Management (CALM)**|Marcel Bluhm et.al.|[2401.13399](http://arxiv.org/abs/2401.13399)|null|
 |**2024-01-23**|**Heterogeneity- and homophily-induced vulnerability of a P2P network formation model: the IOTA auto-peering protocol**|Yu Gao et.al.|[2401.12633](http://arxiv.org/abs/2401.12633)|null|
 |**2024-01-22**|**A Security Risk Assessment Method for Distributed Ledger Technology (DLT) based Applications: Three Industry Case Studies**|Elena Baninemeh et.al.|[2401.12358](http://arxiv.org/abs/2401.12358)|null|
@@ -230,6 +230,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083](http://arxiv.org/abs/2401.18083)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
+|**2024-01-31**|**Benchmarking Private Population Data Release Mechanisms: Synthetic Data vs. TopDown**|Aadyaa Maddi et.al.|[2401.18024](http://arxiv.org/abs/2401.18024)|null|
+|**2024-01-31**|**Privacy-preserving data release leveraging optimal transport and particle gradient descent**|Konstantin Donhauser et.al.|[2401.17823](http://arxiv.org/abs/2401.17823)|**[link](https://github.com/jaabmar/private-pgd)**|
+|**2024-01-31**|**Logit Poisoning Attack in Distillation-based Federated Learning and its Countermeasures**|Yonghao Yu et.al.|[2401.17746](http://arxiv.org/abs/2401.17746)|null|
+|**2024-01-30**|**Rendering Wireless Environments Useful for Gradient Estimators: A Zero-Order Stochastic Federated Learning Method**|Elissa Mhanna et.al.|[2401.17460](http://arxiv.org/abs/2401.17460)|null|
 |**2024-01-29**|**Spectral Co-Distillation for Personalized Federated Learning**|Zihan Chen et.al.|[2401.17124](http://arxiv.org/abs/2401.17124)|null|
 |**2024-01-30**|**Sandi: A System for Accountability and Applications in Direct Communication**|F. Betül Durak et.al.|[2401.16759](http://arxiv.org/abs/2401.16759)|null|
 |**2024-01-30**|**Communication-Efficient Multimodal Federated Learning: Joint Modality and Client Selection**|Liangqi Yuan et.al.|[2401.16685](http://arxiv.org/abs/2401.16685)|null|
