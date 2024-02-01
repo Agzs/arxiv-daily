@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.31
+## Updated on 2024.02.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -184,7 +184,7 @@ layout: default
 |**2024-01-16**|**On Cryptographic Mechanisms for the Selective Disclosure of Verifiable Credentials**|Andrea Flamini et.al.|[2401.08196](http://arxiv.org/abs/2401.08196)|null|
 |**2024-01-06**|**Zero-Knowledge Proof in NuLink**|Pawn et.al.|[2401.03118](http://arxiv.org/abs/2401.03118)|null|
 |**2024-01-05**|**Towards a zk-SNARK compiler for Wolfram language**|Armando Cruz et.al.|[2401.02935](http://arxiv.org/abs/2401.02935)|null|
-|**2024-01-09**|**The Boomerang protocol: A Decentralised Privacy-Preserving Verifiable Incentive Protocol**|Ralph Ankele et.al.|[2401.01353](http://arxiv.org/abs/2401.01353)|null|
+|**2024-01-09**|**The Boomerang protocol: A Decentralised Privacy-Preserving Verifiable Incentive Protocol**|Ralph Ankele et.al.|[2401.01353](http://arxiv.org/abs/2401.01353)|**[link](https://github.com/brave-experiments/rewards-proof)**|
 |**2023-12-17**|**HE-DKSAP: Privacy-Preserving Stealth Address Protocol via Additively Homomorphic Encryption**|Yuping Yan et.al.|[2312.10698](http://arxiv.org/abs/2312.10698)|null|
 |**2023-12-13**|**Zero-Knowledge Proof of Traffic: A Deterministic and Privacy-Preserving Cross Verification Mechanism for Cooperative Perception Data**|Ye Tao et.al.|[2312.07948](http://arxiv.org/abs/2312.07948)|null|
 |**2023-12-01**|**zkFDL: An efficient and privacy-preserving decentralized federated learning with zero knowledge proof**|Mojtaba Ahmadi et.al.|[2312.04579](http://arxiv.org/abs/2312.04579)|null|
