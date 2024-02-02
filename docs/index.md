@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.01
+## Updated on 2024.02.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -232,7 +232,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083](http://arxiv.org/abs/2401.18083)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
 |**2024-01-31**|**Benchmarking Private Population Data Release Mechanisms: Synthetic Data vs. TopDown**|Aadyaa Maddi et.al.|[2401.18024](http://arxiv.org/abs/2401.18024)|null|
-|**2024-01-31**|**Privacy-preserving data release leveraging optimal transport and particle gradient descent**|Konstantin Donhauser et.al.|[2401.17823](http://arxiv.org/abs/2401.17823)|**[link](https://github.com/jaabmar/private-pgd)**|
+|**2024-01-31**|**Privacy-preserving data release leveraging optimal transport and particle gradient descent**|Konstantin Donhauser et.al.|[2401.17823](http://arxiv.org/abs/2401.17823)|null|
 |**2024-01-31**|**Logit Poisoning Attack in Distillation-based Federated Learning and its Countermeasures**|Yonghao Yu et.al.|[2401.17746](http://arxiv.org/abs/2401.17746)|null|
 |**2024-01-30**|**Rendering Wireless Environments Useful for Gradient Estimators: A Zero-Order Stochastic Federated Learning Method**|Elissa Mhanna et.al.|[2401.17460](http://arxiv.org/abs/2401.17460)|null|
 |**2024-01-29**|**Spectral Co-Distillation for Personalized Federated Learning**|Zihan Chen et.al.|[2401.17124](http://arxiv.org/abs/2401.17124)|null|
