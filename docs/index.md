@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**Towards an autonomous industry 4.0 warehouse: A UAV and blockchain-based system for inventory and traceability applications in big data-driven supply chain management**|Tiago M. Fernandez-Carames et.al.|[2402.00709](http://arxiv.org/abs/2402.00709)|null|
 |**2024-01-30**|**Quantum-Secure Hybrid Blockchain System for DID-based Verifiable Random Function with NTRU Linkable Ring Signature**|Bong Gon Kim et.al.|[2401.16906](http://arxiv.org/abs/2401.16906)|null|
 |**2024-01-29**|**S-HIDRA: A blockchain and SDN domain-based architecture to orchestrate fog computing environments**|carlos Núñez-Gómez et.al.|[2401.16341](http://arxiv.org/abs/2401.16341)|null|
 |**2024-01-29**|**LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning**|Yuqiang Sun et.al.|[2401.16185](http://arxiv.org/abs/2401.16185)|null|
@@ -230,6 +231,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**In-Bed Pose Estimation: A Review**|Ziya Ata Yazıcı et.al.|[2402.00700](http://arxiv.org/abs/2402.00700)|null|
+|**2024-02-01**|**Survey of Privacy Threats and Countermeasures in Federated Learning**|Masahiro Hayashitani et.al.|[2402.00342](http://arxiv.org/abs/2402.00342)|null|
+|**2024-02-01**|**Optimized Parameter Design for Channel State Information-Free Location Spoofing**|Jianxiu Li et.al.|[2402.00329](http://arxiv.org/abs/2402.00329)|null|
+|**2024-02-01**|**Analog-digital Scheduling for Federated Learning: A Communication-Efficient Approach**|Muhammad Faraz Ul Abrar et.al.|[2402.00318](http://arxiv.org/abs/2402.00318)|null|
+|**2024-01-31**|**CNN-FL for Biotechnology Industry Empowered by Internet-of-BioNano Things and Digital Twins**|Mohammad et.al.|[2402.00238](http://arxiv.org/abs/2402.00238)|null|
+|**2024-01-31**|**FedCore: Straggler-Free Federated Learning with Distributed Coresets**|Hongpeng Guo et.al.|[2402.00219](http://arxiv.org/abs/2402.00219)|null|
+|**2024-01-31**|**MP-SL: Multihop Parallel Split Learning**|Joana Tirana et.al.|[2402.00208](http://arxiv.org/abs/2402.00208)|null|
+|**2024-01-31**|**Decentralised, Collaborative, and Privacy-preserving Machine Learning for Multi-Hospital Data**|Congyu Fang et.al.|[2402.00205](http://arxiv.org/abs/2402.00205)|null|
+|**2024-01-31**|**Dataset Condensation Driven Machine Unlearning**|Junaid Iqbal Khan et.al.|[2402.00195](http://arxiv.org/abs/2402.00195)|null|
+|**2024-01-31**|**De-identification is not always enough**|Atiquer Rahman Sarkar et.al.|[2402.00179](http://arxiv.org/abs/2402.00179)|null|
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083](http://arxiv.org/abs/2401.18083)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
 |**2024-01-31**|**Benchmarking Private Population Data Release Mechanisms: Synthetic Data vs. TopDown**|Aadyaa Maddi et.al.|[2401.18024](http://arxiv.org/abs/2401.18024)|null|
 |**2024-01-31**|**Privacy-preserving data release leveraging optimal transport and particle gradient descent**|Konstantin Donhauser et.al.|[2401.17823](http://arxiv.org/abs/2401.17823)|null|
