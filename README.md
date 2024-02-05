@@ -258,7 +258,7 @@
 |**2024-01-31**|**Privacy-preserving data release leveraging optimal transport and particle gradient descent**|Konstantin Donhauser et.al.|[2401.17823](http://arxiv.org/abs/2401.17823)|null|
 |**2024-01-31**|**Logit Poisoning Attack in Distillation-based Federated Learning and its Countermeasures**|Yonghao Yu et.al.|[2401.17746](http://arxiv.org/abs/2401.17746)|null|
 |**2024-01-30**|**Rendering Wireless Environments Useful for Gradient Estimators: A Zero-Order Stochastic Federated Learning Method**|Elissa Mhanna et.al.|[2401.17460](http://arxiv.org/abs/2401.17460)|null|
-|**2024-01-29**|**Spectral Co-Distillation for Personalized Federated Learning**|Zihan Chen et.al.|[2401.17124](http://arxiv.org/abs/2401.17124)|null|
+|**2024-01-29**|**Spectral Co-Distillation for Personalized Federated Learning**|Zihan Chen et.al.|[2401.17124](http://arxiv.org/abs/2401.17124)|**[link](https://github.com/jimmyc96/spectral-dis-fl)**|
 |**2024-01-30**|**Sandi: A System for Accountability and Applications in Direct Communication**|F. Betül Durak et.al.|[2401.16759](http://arxiv.org/abs/2401.16759)|null|
 |**2024-01-30**|**Communication-Efficient Multimodal Federated Learning: Joint Modality and Client Selection**|Liangqi Yuan et.al.|[2401.16685](http://arxiv.org/abs/2401.16685)|null|
 |**2024-01-29**|**PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model**|Abhinav Chakraborty et.al.|[2401.16596](http://arxiv.org/abs/2401.16596)|null|
@@ -276,7 +276,7 @@
 |**2024-01-26**|**P3LS: Partial Least Squares under Privacy Preservation**|Du Nguyen Duy et.al.|[2401.14884](http://arxiv.org/abs/2401.14884)|null|
 |**2024-01-26**|**GuardML: Efficient Privacy-Preserving Machine Learning Services Through Hybrid Homomorphic Encryption**|Eugene Frimpong et.al.|[2401.14840](http://arxiv.org/abs/2401.14840)|null|
 |**2024-01-26**|**Deep Variational Privacy Funnel: General Modeling with Applications in Face Recognition**|Behrooz Razeghi et.al.|[2401.14792](http://arxiv.org/abs/2401.14792)|null|
-|**2024-01-26**|**Prompt-enhanced Federated Content Representation Learning for Cross-domain Recommendation**|Lei Guo et.al.|[2401.14678](http://arxiv.org/abs/2401.14678)|null|
+|**2024-01-26**|**Prompt-enhanced Federated Content Representation Learning for Cross-domain Recommendation**|Lei Guo et.al.|[2401.14678](http://arxiv.org/abs/2401.14678)|**[link](https://github.com/ckano/pfcr)**|
 |**2024-01-26**|**Multi-model learning by sequential reading of untrimmed videos for action recognition**|Kodai Kamiya et.al.|[2401.14675](http://arxiv.org/abs/2401.14675)|null|
 |**2024-01-26**|**Physical Trajectory Inference Attack and Defense in Decentralized POI Recommendation**|Jing Long et.al.|[2401.14583](http://arxiv.org/abs/2401.14583)|null|
 |**2024-01-25**|**Privacy-preserving Quantile Treatment Effect Estimation for Randomized Controlled Trials**|Leon Yao et.al.|[2401.14549](http://arxiv.org/abs/2401.14549)|null|
