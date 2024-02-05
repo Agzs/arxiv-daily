@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-01**|**Towards post-quantum blockchain: A review on blockchain cryptography resistant to quantum computing attacks**|Tiago M. Fernandez-Carames et.al.|[2402.00922](http://arxiv.org/abs/2402.00922)|null|
 |**2024-02-01**|**Towards an autonomous industry 4.0 warehouse: A UAV and blockchain-based system for inventory and traceability applications in big data-driven supply chain management**|Tiago M. Fernandez-Carames et.al.|[2402.00709](http://arxiv.org/abs/2402.00709)|null|
 |**2024-01-30**|**Quantum-Secure Hybrid Blockchain System for DID-based Verifiable Random Function with NTRU Linkable Ring Signature**|Bong Gon Kim et.al.|[2401.16906](http://arxiv.org/abs/2401.16906)|null|
 |**2024-01-29**|**S-HIDRA: A blockchain and SDN domain-based architecture to orchestrate fog computing environments**|carlos Núñez-Gómez et.al.|[2401.16341](http://arxiv.org/abs/2401.16341)|null|
@@ -243,6 +244,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**Privacy-Preserving Distributed Learning for Residential Short-Term Load Forecasting**|Yi Dong et.al.|[2402.01546](http://arxiv.org/abs/2402.01546)|**[link](https://github.com/yingjiewangtony/fl-dl)**|
+|**2024-02-02**|**FedMoE: Data-Level Personalization with Mixture of Experts for Model-Heterogeneous Personalized Federated Learning**|Liping Yi et.al.|[2402.01350](http://arxiv.org/abs/2402.01350)|null|
+|**2024-02-02**|**Training-time Neuron Alignment through Permutation Subspace for Improving Linear Mode Connectivity and Model Fusion**|Zexi Li et.al.|[2402.01342](http://arxiv.org/abs/2402.01342)|null|
+|**2024-02-02**|**Bi-CryptoNets: Leveraging Different-Level Privacy for Encrypted Inference**|Man-Jie Yuan et.al.|[2402.01296](http://arxiv.org/abs/2402.01296)|null|
+|**2024-02-02**|**Spectrum-guided Feature Enhancement Network for Event Person Re-Identification**|Hongchen Tan et.al.|[2402.01269](http://arxiv.org/abs/2402.01269)|null|
+|**2024-02-02**|**HW-SW Optimization of DNNs for Privacy-preserving People Counting on Low-resolution Infrared Arrays**|Matteo Risso et.al.|[2402.01226](http://arxiv.org/abs/2402.01226)|null|
+|**2024-02-02**|**Towards Quantum-Safe Federated Learning via Homomorphic Encryption: Learning with Gradients**|Guangfeng Yan et.al.|[2402.01154](http://arxiv.org/abs/2402.01154)|null|
+|**2024-02-02**|**TransFR: Transferable Federated Recommendation with Pre-trained Language Models**|Honglei Zhang et.al.|[2402.01124](http://arxiv.org/abs/2402.01124)|null|
+|**2024-02-02**|**FedShift: Tackling Dual Heterogeneity Problem of Federated Learning via Weight Shift Aggregation**|Jungwon Seo et.al.|[2402.01070](http://arxiv.org/abs/2402.01070)|null|
+|**2024-02-01**|**Unconditional Latent Diffusion Models Memorize Patient Imaging Data**|Salman Ul Hassan Dar et.al.|[2402.01054](http://arxiv.org/abs/2402.01054)|null|
 |**2024-02-01**|**In-Bed Pose Estimation: A Review**|Ziya Ata Yazıcı et.al.|[2402.00700](http://arxiv.org/abs/2402.00700)|null|
 |**2024-02-01**|**Survey of Privacy Threats and Countermeasures in Federated Learning**|Masahiro Hayashitani et.al.|[2402.00342](http://arxiv.org/abs/2402.00342)|null|
 |**2024-02-01**|**Optimized Parameter Design for Channel State Information-Free Location Spoofing**|Jianxiu Li et.al.|[2402.00329](http://arxiv.org/abs/2402.00329)|null|
