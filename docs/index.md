@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-05**|**Charting The Evolution of Solidity Error Handling**|Charalambos Mitropoulos et.al.|[2402.03186](http://arxiv.org/abs/2402.03186)|null|
+|**2024-02-05**|**Are We There Yet? Unraveling the State-of-the-Art Smart Contract Fuzzers**|Shuohan Wu et.al.|[2402.02973](http://arxiv.org/abs/2402.02973)|null|
+|**2024-02-04**|**A Survey on Blockchain in E-Government Services: Status and Challenges**|Manal Mansour et.al.|[2402.02483](http://arxiv.org/abs/2402.02483)|null|
 |**2024-02-01**|**Towards post-quantum blockchain: A review on blockchain cryptography resistant to quantum computing attacks**|Tiago M. Fernandez-Carames et.al.|[2402.00922](http://arxiv.org/abs/2402.00922)|null|
 |**2024-02-01**|**Towards an autonomous industry 4.0 warehouse: A UAV and blockchain-based system for inventory and traceability applications in big data-driven supply chain management**|Tiago M. Fernandez-Carames et.al.|[2402.00709](http://arxiv.org/abs/2402.00709)|null|
 |**2024-01-30**|**Quantum-Secure Hybrid Blockchain System for DID-based Verifiable Random Function with NTRU Linkable Ring Signature**|Bong Gon Kim et.al.|[2401.16906](http://arxiv.org/abs/2401.16906)|null|
@@ -232,6 +235,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-05**|**Towards Eliminating Hard Label Constraints in Gradient Inversion Attacks**|Yanbo Wang et.al.|[2402.03124](http://arxiv.org/abs/2402.03124)|**[link](https://github.com/ybwang119/label_recovery)**|
+|**2024-02-05**|**UniHENN: Designing More Versatile Homomorphic Encryption-based CNNs without im2col**|Hyunmin Choi et.al.|[2402.03060](http://arxiv.org/abs/2402.03060)|null|
+|**2024-02-05**|**On the Impact of Output Perturbation on Fairness in Binary Linear Classification**|Vitalii Emelianov et.al.|[2402.03011](http://arxiv.org/abs/2402.03011)|null|
+|**2024-02-05**|**Exploring Federated Self-Supervised Learning for General Purpose Audio Understanding**|Yasar Abbas Ur Rehman et.al.|[2402.02889](http://arxiv.org/abs/2402.02889)|null|
+|**2024-02-05**|**Time-Distributed Backdoor Attacks on Federated Spiking Learning**|Gorka Abad et.al.|[2402.02886](http://arxiv.org/abs/2402.02886)|null|
+|**2024-02-05**|**Estimation of conditional average treatment effects on distributed data: A privacy-preserving approach**|Yuji Kawamata et.al.|[2402.02672](http://arxiv.org/abs/2402.02672)|null|
+|**2024-02-04**|**Flexible Non-interactive Short-term Implicit Certificate Generation for VANETs**|Rui Liu et.al.|[2402.02607](http://arxiv.org/abs/2402.02607)|null|
+|**2024-02-04**|**Device Scheduling and Assignment in Hierarchical Federated Learning for Internet of Things**|Tinghao Zhang et.al.|[2402.02506](http://arxiv.org/abs/2402.02506)|null|
+|**2024-02-03**|**Federated Learning with New Knowledge: Fundamentals, Advances, and Futures**|Lixu Wang et.al.|[2402.02268](http://arxiv.org/abs/2402.02268)|null|
+|**2024-02-03**|**Federated Learning with Differential Privacy**|Adrien Banse et.al.|[2402.02230](http://arxiv.org/abs/2402.02230)|null|
 |**2024-02-02**|**Privacy-Preserving Distributed Learning for Residential Short-Term Load Forecasting**|Yi Dong et.al.|[2402.01546](http://arxiv.org/abs/2402.01546)|**[link](https://github.com/yingjiewangtony/fl-dl)**|
 |**2024-02-02**|**FedMoE: Data-Level Personalization with Mixture of Experts for Model-Heterogeneous Personalized Federated Learning**|Liping Yi et.al.|[2402.01350](http://arxiv.org/abs/2402.01350)|null|
 |**2024-02-02**|**Training-time Neuron Alignment through Permutation Subspace for Improving Linear Mode Connectivity and Model Fusion**|Zexi Li et.al.|[2402.01342](http://arxiv.org/abs/2402.01342)|null|
