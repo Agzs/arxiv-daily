@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**Aperiodic two-layer energy management system for community microgrids based on blockchain strategy**|Miguel Gayo Abeleira et.al.|[2402.03880](http://arxiv.org/abs/2402.03880)|null|
+|**2024-02-05**|**A security framework for Ethereum smart contracts**|Antonio López Vivar et.al.|[2402.03555](http://arxiv.org/abs/2402.03555)|null|
 |**2024-02-05**|**Charting The Evolution of Solidity Error Handling**|Charalambos Mitropoulos et.al.|[2402.03186](http://arxiv.org/abs/2402.03186)|null|
 |**2024-02-05**|**Are We There Yet? Unraveling the State-of-the-Art Smart Contract Fuzzers**|Shuohan Wu et.al.|[2402.02973](http://arxiv.org/abs/2402.02973)|null|
 |**2024-02-04**|**A Survey on Blockchain in E-Government Services: Status and Challenges**|Manal Mansour et.al.|[2402.02483](http://arxiv.org/abs/2402.02483)|null|
@@ -194,6 +196,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**Enhanced Security and Efficiency in Blockchain with Aggregated Zero-Knowledge Proof Mechanisms**|Oleksandr Kuznetsov et.al.|[2402.03834](http://arxiv.org/abs/2402.03834)|null|
 |**2024-01-22**|**zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials**|Foteini Baldimtsi et.al.|[2401.11735](http://arxiv.org/abs/2401.11735)|null|
 |**2024-01-17**|**Experimental Implementation of A Quantum Zero-Knowledge Proof for User Authentication**|Marta I. Garcia-Cid et.al.|[2401.09521](http://arxiv.org/abs/2401.09521)|null|
 |**2024-01-16**|**On Cryptographic Mechanisms for the Selective Disclosure of Verifiable Credentials**|Andrea Flamini et.al.|[2401.08196](http://arxiv.org/abs/2401.08196)|null|
@@ -247,6 +250,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**Resource-Aware Hierarchical Federated Learning in Wireless Video Caching Networks**|Md Ferdous Pervej et.al.|[2402.04216](http://arxiv.org/abs/2402.04216)|null|
+|**2024-02-06**|**Expediting In-Network Federated Learning by Voting-Based Consensus Model Compression**|Xiaoxin Su et.al.|[2402.03815](http://arxiv.org/abs/2402.03815)|null|
+|**2024-02-06**|**Fed-CVLC: Compressing Federated Learning Communications with Variable-Length Codes**|Xiaoxin Su et.al.|[2402.03770](http://arxiv.org/abs/2402.03770)|null|
+|**2024-02-06**|**A Survey of Privacy Threats and Defense in Vertical Federated Learning: From Model Life Cycle Perspective**|Lei Yu et.al.|[2402.03688](http://arxiv.org/abs/2402.03688)|null|
+|**2024-02-06**|**Disparate Impact on Group Accuracy of Linearization for Private Inference**|Saswat Das et.al.|[2402.03629](http://arxiv.org/abs/2402.03629)|null|
+|**2024-02-05**|**Fairness and Privacy Guarantees in Federated Contextual Bandits**|Sambhav Solanki et.al.|[2402.03531](http://arxiv.org/abs/2402.03531)|null|
+|**2024-02-05**|**Decentralized Sporadic Federated Learning: A Unified Methodology with Generalized Convergence Guarantees**|Shahryar Zehtabi et.al.|[2402.03448](http://arxiv.org/abs/2402.03448)|null|
 |**2024-02-05**|**Towards Eliminating Hard Label Constraints in Gradient Inversion Attacks**|Yanbo Wang et.al.|[2402.03124](http://arxiv.org/abs/2402.03124)|**[link](https://github.com/ybwang119/label_recovery)**|
 |**2024-02-05**|**UniHENN: Designing More Versatile Homomorphic Encryption-based CNNs without im2col**|Hyunmin Choi et.al.|[2402.03060](http://arxiv.org/abs/2402.03060)|null|
 |**2024-02-05**|**On the Impact of Output Perturbation on Fairness in Binary Linear Classification**|Vitalii Emelianov et.al.|[2402.03011](http://arxiv.org/abs/2402.03011)|null|
