@@ -20,7 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-07**|**Automated Smart Contract Summarization via LLMs**|Yingjie Mao et.al.|[2402.04863](http://arxiv.org/abs/2402.04863)|null|
+|**2024-02-08**|**On Optimizing Deterministic Concurrent Scheduling for Smart Contracts and Blockchains**|Yaron Hay et.al.|[2402.05535](http://arxiv.org/abs/2402.05535)|null|
+|**2024-02-08**|**A Solution for Commercializing, Decentralizing and Storing Electronic Medical Records by Integrating Proxy Re-Encryption, IPFS, and Blockchain**|Phong Tran et.al.|[2402.05498](http://arxiv.org/abs/2402.05498)|null|
+|**2024-02-08**|**Automated Smart Contract Summarization via LLMs**|Yingjie Mao et.al.|[2402.04863](http://arxiv.org/abs/2402.04863)|null|
 |**2024-02-06**|**Aperiodic two-layer energy management system for community microgrids based on blockchain strategy**|Miguel Gayo Abeleira et.al.|[2402.03880](http://arxiv.org/abs/2402.03880)|null|
 |**2024-02-05**|**A security framework for Ethereum smart contracts**|Antonio López Vivar et.al.|[2402.03555](http://arxiv.org/abs/2402.03555)|null|
 |**2024-02-05**|**Charting The Evolution of Solidity Error Handling**|Charalambos Mitropoulos et.al.|[2402.03186](http://arxiv.org/abs/2402.03186)|null|
@@ -251,6 +253,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**On the Convergence of Zeroth-Order Federated Tuning in Large Language Models**|Zhenqing Ling et.al.|[2402.05926](http://arxiv.org/abs/2402.05926)|null|
+|**2024-02-08**|**Federated Offline Reinforcement Learning: Collaborative Single-Policy Coverage Suffices**|Jiin Woo et.al.|[2402.05876](http://arxiv.org/abs/2402.05876)|null|
+|**2024-02-08**|**Privacy-Preserving Synthetic Continual Semantic Segmentation for Robotic Surgery**|Mengya Xu et.al.|[2402.05860](http://arxiv.org/abs/2402.05860)|**[link](https://github.com/xumengyaamy/synthetic_cat_sd)**|
+|**2024-02-08**|**Flashback: Understanding and Mitigating Forgetting in Federated Learning**|Mohammed Aljahdali et.al.|[2402.05558](http://arxiv.org/abs/2402.05558)|null|
+|**2024-02-08**|**Reinforcement Learning as a Catalyst for Robust and Fair Federated Learning: Deciphering the Dynamics of Client Contributions**|Jialuo He et.al.|[2402.05541](http://arxiv.org/abs/2402.05541)|null|
+|**2024-02-08**|**Asynchronous Diffusion Learning with Agent Subsampling and Local Updates**|Elsa Rizk et.al.|[2402.05529](http://arxiv.org/abs/2402.05529)|null|
+|**2024-02-08**|**Version age-based client scheduling policy for federated learning**|Xinyi Hu et.al.|[2402.05407](http://arxiv.org/abs/2402.05407)|null|
+|**2024-02-08**|**Revisiting Early-Learning Regularization When Federated Learning Meets Noisy Labels**|Taehyeon Kim et.al.|[2402.05353](http://arxiv.org/abs/2402.05353)|null|
+|**2024-02-07**|**Examining Modality Incongruity in Multimodal Federated Learning for Medical Vision and Language-based Disease Detection**|Pramit Saha et.al.|[2402.05294](http://arxiv.org/abs/2402.05294)|null|
+|**2024-02-07**|**Enabling Architecture for Distributed Intelligent Network Softwarization for the Internet of Things**|Mohamed Ali Zormati et.al.|[2402.05259](http://arxiv.org/abs/2402.05259)|null|
 |**2024-02-07**|**Federated Learning Can Find Friends That Are Beneficial**|Nazarii Tupitsa et.al.|[2402.05050](http://arxiv.org/abs/2402.05050)|null|
 |**2024-02-07**|**Group Distributionally Robust Dataset Distillation with Risk Minimization**|Saeed Vahidian et.al.|[2402.04676](http://arxiv.org/abs/2402.04676)|null|
 |**2024-02-06**|**Decentralized Blockchain-based Robust Multi-agent Multi-armed Bandit**|Mengfan Xu et.al.|[2402.04417](http://arxiv.org/abs/2402.04417)|null|
