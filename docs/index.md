@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.10
+## Updated on 2024.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -20,7 +20,7 @@ layout: default
 |**2024-02-06**|**Aperiodic two-layer energy management system for community microgrids based on blockchain strategy**|Miguel Gayo Abeleira et.al.|[2402.03880](http://arxiv.org/abs/2402.03880)|null|
 |**2024-02-05**|**A security framework for Ethereum smart contracts**|Antonio López Vivar et.al.|[2402.03555](http://arxiv.org/abs/2402.03555)|null|
 |**2024-02-05**|**Charting The Evolution of Solidity Error Handling**|Charalambos Mitropoulos et.al.|[2402.03186](http://arxiv.org/abs/2402.03186)|null|
-|**2024-02-05**|**Are We There Yet? Unraveling the State-of-the-Art Smart Contract Fuzzers**|Shuohan Wu et.al.|[2402.02973](http://arxiv.org/abs/2402.02973)|null|
+|**2024-02-05**|**Are We There Yet? Unraveling the State-of-the-Art Smart Contract Fuzzers**|Shuohan Wu et.al.|[2402.02973](http://arxiv.org/abs/2402.02973)|**[link](https://github.com/se2023test/scfuzzers)**|
 |**2024-02-04**|**A Survey on Blockchain in E-Government Services: Status and Challenges**|Manal Mansour et.al.|[2402.02483](http://arxiv.org/abs/2402.02483)|null|
 |**2024-02-01**|**Towards post-quantum blockchain: A review on blockchain cryptography resistant to quantum computing attacks**|Tiago M. Fernandez-Carames et.al.|[2402.00922](http://arxiv.org/abs/2402.00922)|null|
 |**2024-02-01**|**Towards an autonomous industry 4.0 warehouse: A UAV and blockchain-based system for inventory and traceability applications in big data-driven supply chain management**|Tiago M. Fernandez-Carames et.al.|[2402.00709](http://arxiv.org/abs/2402.00709)|null|
