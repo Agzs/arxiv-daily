@@ -282,7 +282,7 @@
 |**2024-02-05**|**Estimation of conditional average treatment effects on distributed data: A privacy-preserving approach**|Yuji Kawamata et.al.|[2402.02672](http://arxiv.org/abs/2402.02672)|null|
 |**2024-02-04**|**Flexible Non-interactive Short-term Implicit Certificate Generation for VANETs**|Rui Liu et.al.|[2402.02607](http://arxiv.org/abs/2402.02607)|null|
 |**2024-02-04**|**Device Scheduling and Assignment in Hierarchical Federated Learning for Internet of Things**|Tinghao Zhang et.al.|[2402.02506](http://arxiv.org/abs/2402.02506)|null|
-|**2024-02-03**|**Federated Learning with New Knowledge: Fundamentals, Advances, and Futures**|Lixu Wang et.al.|[2402.02268](http://arxiv.org/abs/2402.02268)|null|
+|**2024-02-03**|**Federated Learning with New Knowledge: Fundamentals, Advances, and Futures**|Lixu Wang et.al.|[2402.02268](http://arxiv.org/abs/2402.02268)|**[link](https://github.com/conditionwang/flnk)**|
 |**2024-02-03**|**Federated Learning with Differential Privacy**|Adrien Banse et.al.|[2402.02230](http://arxiv.org/abs/2402.02230)|null|
 |**2024-02-02**|**Privacy-Preserving Distributed Learning for Residential Short-Term Load Forecasting**|Yi Dong et.al.|[2402.01546](http://arxiv.org/abs/2402.01546)|**[link](https://github.com/yingjiewangtony/fl-dl)**|
 |**2024-02-02**|**FedMoE: Data-Level Personalization with Mixture of Experts for Model-Heterogeneous Personalized Federated Learning**|Liping Yi et.al.|[2402.01350](http://arxiv.org/abs/2402.01350)|null|
