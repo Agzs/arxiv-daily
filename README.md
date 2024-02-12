@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-09**|**Blockchain Bribing Attacks and the Efficacy of Counterincentives**|Dimitris Karakostas et.al.|[2402.06352](http://arxiv.org/abs/2402.06352)|null|
+|**2024-02-08**|**Designing Trustful Cooperation Ecosystems is Key to the New Space Exploration Era**|Renan Lima Baima et.al.|[2402.06036](http://arxiv.org/abs/2402.06036)|null|
+|**2024-02-08**|**Trustful Coopetitive Infrastructures for the New Space Exploration Era**|Renan Lima Baima et.al.|[2402.06014](http://arxiv.org/abs/2402.06014)|null|
 |**2024-02-08**|**On Optimizing Deterministic Concurrent Scheduling for Smart Contracts and Blockchains**|Yaron Hay et.al.|[2402.05535](http://arxiv.org/abs/2402.05535)|null|
 |**2024-02-08**|**A Solution for Commercializing, Decentralizing and Storing Electronic Medical Records by Integrating Proxy Re-Encryption, IPFS, and Blockchain**|Phong Tran et.al.|[2402.05498](http://arxiv.org/abs/2402.05498)|null|
 |**2024-02-08**|**Automated Smart Contract Summarization via LLMs**|Yingjie Mao et.al.|[2402.04863](http://arxiv.org/abs/2402.04863)|null|
@@ -199,6 +202,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-09**|**Trust the Process: Zero-Knowledge Machine Learning to Enhance Trust in Generative AI Interactions**|Bianca-Mihaela Ganescu et.al.|[2402.06414](http://arxiv.org/abs/2402.06414)|null|
 |**2024-02-06**|**Enhanced Security and Efficiency in Blockchain with Aggregated Zero-Knowledge Proof Mechanisms**|Oleksandr Kuznetsov et.al.|[2402.03834](http://arxiv.org/abs/2402.03834)|null|
 |**2024-01-22**|**zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials**|Foteini Baldimtsi et.al.|[2401.11735](http://arxiv.org/abs/2401.11735)|null|
 |**2024-01-17**|**Experimental Implementation of A Quantum Zero-Knowledge Proof for User Authentication**|Marta I. Garcia-Cid et.al.|[2401.09521](http://arxiv.org/abs/2401.09521)|null|
@@ -253,6 +257,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-09**|**You Still See Me: How Data Protection Supports the Architecture of ML Surveillance**|Rui-Jie Yew et.al.|[2402.06609](http://arxiv.org/abs/2402.06609)|null|
+|**2024-02-09**|**RQP-SGD: Differential Private Machine Learning through Noisy SGD and Randomized Quantization**|Ce Feng et.al.|[2402.06606](http://arxiv.org/abs/2402.06606)|null|
+|**2024-02-09**|**Trust the Process: Zero-Knowledge Machine Learning to Enhance Trust in Generative AI Interactions**|Bianca-Mihaela Ganescu et.al.|[2402.06414](http://arxiv.org/abs/2402.06414)|null|
+|**2024-02-09**|**Evaluating Membership Inference Attacks and Defenses in Federated Learning**|Gongxi Zhu et.al.|[2402.06289](http://arxiv.org/abs/2402.06289)|**[link](https://github.com/liar-mask/fedmia)**|
+|**2024-02-09**|**Decentralized Proactive Model Offloading and Resource Allocation for Split and Federated Learning**|Binbin Huang et.al.|[2402.06123](http://arxiv.org/abs/2402.06123)|null|
 |**2024-02-08**|**On the Convergence of Zeroth-Order Federated Tuning in Large Language Models**|Zhenqing Ling et.al.|[2402.05926](http://arxiv.org/abs/2402.05926)|null|
 |**2024-02-08**|**Federated Offline Reinforcement Learning: Collaborative Single-Policy Coverage Suffices**|Jiin Woo et.al.|[2402.05876](http://arxiv.org/abs/2402.05876)|null|
 |**2024-02-08**|**Privacy-Preserving Synthetic Continual Semantic Segmentation for Robotic Surgery**|Mengya Xu et.al.|[2402.05860](http://arxiv.org/abs/2402.05860)|**[link](https://github.com/xumengyaamy/synthetic_cat_sd)**|
