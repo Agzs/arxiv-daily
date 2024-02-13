@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-10**|**HNMblock: Blockchain technology powered Healthcare Network Model for epidemiological monitoring, medical systems security, and wellness**|Naresh Kshetri et.al.|[2402.07054](http://arxiv.org/abs/2402.07054)|null|
+|**2024-02-09**|**Blockchain-based Rental Documentation Management with Audit Support**|João F. Santos et.al.|[2402.06704](http://arxiv.org/abs/2402.06704)|null|
 |**2024-02-09**|**Blockchain Bribing Attacks and the Efficacy of Counterincentives**|Dimitris Karakostas et.al.|[2402.06352](http://arxiv.org/abs/2402.06352)|null|
 |**2024-02-08**|**Designing Trustful Cooperation Ecosystems is Key to the New Space Exploration Era**|Renan Lima Baima et.al.|[2402.06036](http://arxiv.org/abs/2402.06036)|null|
 |**2024-02-08**|**Trustful Coopetitive Infrastructures for the New Space Exploration Era**|Renan Lima Baima et.al.|[2402.06014](http://arxiv.org/abs/2402.06014)|null|
@@ -245,6 +247,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-12**|**Empowering Federated Learning for Massive Models with NVIDIA FLARE**|Holger R. Roth et.al.|[2402.07792](http://arxiv.org/abs/2402.07792)|null|
+|**2024-02-12**|**Privacy-Preserving Gaze Data Streaming in Immersive Interactive Virtual Reality: Robustness and User Experience**|Ethan Wilson et.al.|[2402.07687](http://arxiv.org/abs/2402.07687)|null|
+|**2024-02-12**|**Unveiling Group-Specific Distributed Concept Drift: A Fairness Imperative in Federated Learning**|Teresa Salazar et.al.|[2402.07586](http://arxiv.org/abs/2402.07586)|null|
+|**2024-02-12**|**Differentially Private Decentralized Learning with Random Walks**|Edwige Cyffers et.al.|[2402.07471](http://arxiv.org/abs/2402.07471)|**[link](https://github.com/totilas/dprandomwalk)**|
+|**2024-02-12**|**Anonymizing Test Data in Android: Does It Hurt?**|Elena Masserini et.al.|[2402.07460](http://arxiv.org/abs/2402.07460)|null|
+|**2024-02-12**|**Bayesian Federated Learning Via Expectation Maximization and Turbo Deep Approximate Message Passing**|Wei Xu et.al.|[2402.07366](http://arxiv.org/abs/2402.07366)|null|
+|**2024-02-11**|**Differentially Private Training of Mixture of Experts Models**|Pierre Tholoniat et.al.|[2402.07334](http://arxiv.org/abs/2402.07334)|null|
+|**2024-02-11**|**Training Heterogeneous Client Models using Knowledge Distillation in Serverless Federated Learning**|Mohak Chadha et.al.|[2402.07295](http://arxiv.org/abs/2402.07295)|**[link](https://github.com/serverless-federated-learning/fedless)**|
+|**2024-02-10**|**FedImpro: Measuring and Improving Client Update in Federated Learning**|Zhenheng Tang et.al.|[2402.07011](http://arxiv.org/abs/2402.07011)|null|
+|**2024-02-10**|**Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off**|Yuecheng Li et.al.|[2402.07002](http://arxiv.org/abs/2402.07002)|null|
 |**2024-02-09**|**You Still See Me: How Data Protection Supports the Architecture of ML Surveillance**|Rui-Jie Yew et.al.|[2402.06609](http://arxiv.org/abs/2402.06609)|null|
 |**2024-02-09**|**RQP-SGD: Differential Private Machine Learning through Noisy SGD and Randomized Quantization**|Ce Feng et.al.|[2402.06606](http://arxiv.org/abs/2402.06606)|null|
 |**2024-02-09**|**Trust the Process: Zero-Knowledge Machine Learning to Enhance Trust in Generative AI Interactions**|Bianca-Mihaela Ganescu et.al.|[2402.06414](http://arxiv.org/abs/2402.06414)|null|
