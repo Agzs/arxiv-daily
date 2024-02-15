@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.14
+## Updated on 2024.02.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -170,7 +170,7 @@
 |**2023-08-01**|**Game Theoretic Modelling of a Ransom and Extortion Attack on Ethereum Validators**|Alpesh Bhudia et.al.|[2308.00590](http://arxiv.org/abs/2308.00590)|null|
 |**2023-07-27**|**Self-stabilizing Byzantine-tolerant Recycling**|Chryssis Georgiou et.al.|[2307.14801](http://arxiv.org/abs/2307.14801)|null|
 
-<p align=right>(<a href=#updated-on-20240214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240215>back to top</a>)</p>
 
 ## crosschain
 
@@ -198,7 +198,7 @@
 |**2023-04-20**|**Analyzing the Performance of the Inter-Blockchain Communication Protocol**|Joao Otavio Chervinski et.al.|[2303.10844](http://arxiv.org/abs/2303.10844)|**[link](https://github.com/joaotav/ibc-benchmarking)**|
 |**2023-01-14**|**The Design Principle of Blockchain: An Initiative for the SoK of SoKs**|Luyao Sunshine Zhang et.al.|[2301.00479](http://arxiv.org/abs/2301.00479)|**[link](https://github.com/sunshineluyao/design-principle-blockchain)**|
 
-<p align=right>(<a href=#updated-on-20240214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240215>back to top</a>)</p>
 
 ## zero-knowledge-proof
 
@@ -255,7 +255,7 @@
 |**2023-07-02**|**zkFi: Privacy-Preserving and Regulation Compliant Transactions using Zero Knowledge Proofs**|Naveen Sahu et.al.|[2307.00521](http://arxiv.org/abs/2307.00521)|null|
 |**2023-06-21**|**A Survey of Multivariate Polynomial Commitment Schemes**|Ihyun Nam et.al.|[2306.11383](http://arxiv.org/abs/2306.11383)|null|
 
-<p align=right>(<a href=#updated-on-20240214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240215>back to top</a>)</p>
 
 ## secureaggregation
 
@@ -267,7 +267,7 @@
 |**2024-02-12**|**Privacy-Preserving Gaze Data Streaming in Immersive Interactive Virtual Reality: Robustness and User Experience**|Ethan Wilson et.al.|[2402.07687](http://arxiv.org/abs/2402.07687)|null|
 |**2024-02-12**|**Unveiling Group-Specific Distributed Concept Drift: A Fairness Imperative in Federated Learning**|Teresa Salazar et.al.|[2402.07586](http://arxiv.org/abs/2402.07586)|null|
 |**2024-02-12**|**Differentially Private Decentralized Learning with Random Walks**|Edwige Cyffers et.al.|[2402.07471](http://arxiv.org/abs/2402.07471)|**[link](https://github.com/totilas/dprandomwalk)**|
-|**2024-02-12**|**Anonymizing Test Data in Android: Does It Hurt?**|Elena Masserini et.al.|[2402.07460](http://arxiv.org/abs/2402.07460)|null|
+|**2024-02-12**|**Anonymizing Test Data in Android: Does It Hurt?**|Elena Masserini et.al.|[2402.07460](http://arxiv.org/abs/2402.07460)|**[link](https://gitlab.com/sal-unimib-anonymization/anonymization-android-tool)**|
 |**2024-02-12**|**Bayesian Federated Learning Via Expectation Maximization and Turbo Deep Approximate Message Passing**|Wei Xu et.al.|[2402.07366](http://arxiv.org/abs/2402.07366)|null|
 |**2024-02-11**|**Differentially Private Training of Mixture of Experts Models**|Pierre Tholoniat et.al.|[2402.07334](http://arxiv.org/abs/2402.07334)|null|
 |**2024-02-11**|**Training Heterogeneous Client Models using Knowledge Distillation in Serverless Federated Learning**|Mohak Chadha et.al.|[2402.07295](http://arxiv.org/abs/2402.07295)|**[link](https://github.com/serverless-federated-learning/fedless)**|
@@ -614,7 +614,7 @@
 |**2023-11-29**|**Addressing Membership Inference Attack in Federated Learning with Model Compression**|Gergely Dániel Németh et.al.|[2311.17750](http://arxiv.org/abs/2311.17750)|**[link](https://github.com/negedng/ma-fl-mia)**|
 |**2023-11-30**|**Grounding Foundation Models through Federated Transfer Learning: A General Framework**|Yan Kang et.al.|[2311.17431](http://arxiv.org/abs/2311.17431)|null|
 
-<p align=right>(<a href=#updated-on-20240214>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240215>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/agzs/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/agzs/arxiv-daily/graphs/contributors
