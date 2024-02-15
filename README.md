@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-14**|**Insights and caveats from mining local and global temporal motifs in cryptocurrency transaction networks**|Naomi A. Arnold et.al.|[2402.09272](http://arxiv.org/abs/2402.09272)|null|
+|**2024-02-14**|**Unity is Strength: Enhancing Precision in Reentrancy Vulnerability Detection of Smart Contract Analysis Tools**|Zexu Wang et.al.|[2402.09094](http://arxiv.org/abs/2402.09094)|null|
+|**2024-02-14**|**Teamwork Makes TEE Work: Open and Resilient Remote Attestation on Decentralized Trust**|Xiaolin Zhang et.al.|[2402.08908](http://arxiv.org/abs/2402.08908)|null|
 |**2024-02-10**|**HNMblock: Blockchain technology powered Healthcare Network Model for epidemiological monitoring, medical systems security, and wellness**|Naresh Kshetri et.al.|[2402.07054](http://arxiv.org/abs/2402.07054)|null|
 |**2024-02-09**|**Blockchain-based Rental Documentation Management with Audit Support**|João F. Santos et.al.|[2402.06704](http://arxiv.org/abs/2402.06704)|null|
 |**2024-02-09**|**Blockchain Bribing Attacks and the Efficacy of Counterincentives**|Dimitris Karakostas et.al.|[2402.06352](http://arxiv.org/abs/2402.06352)|null|
@@ -261,6 +264,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-14**|**Only My Model On My Data: A Privacy Preserving Approach Protecting one Model and Deceiving Unauthorized Black-Box Models**|Weiheng Chai et.al.|[2402.09316](http://arxiv.org/abs/2402.09316)|null|
+|**2024-02-14**|**Momentum Approximation in Asynchronous Private Federated Learning**|Tao Yu et.al.|[2402.09247](http://arxiv.org/abs/2402.09247)|null|
+|**2024-02-14**|**Scheduling for On-Board Federated Learning with Satellite Clusters**|Nasrin Razmi et.al.|[2402.09105](http://arxiv.org/abs/2402.09105)|null|
+|**2024-02-14**|**FedSiKD: Clients Similarity and Knowledge Distillation: Addressing Non-i.i.d. and Constraints in Federated Learning**|Yousef Alsenani et.al.|[2402.09095](http://arxiv.org/abs/2402.09095)|**[link](https://github.com/simuenv/fedsikd)**|
+|**2024-02-14**|**I can't see it but I can Fine-tune it: On Encrypted Fine-tuning of Transformers using Fully Homomorphic Encryption**|Prajwal Panzade et.al.|[2402.09059](http://arxiv.org/abs/2402.09059)|null|
+|**2024-02-14**|**Exploring Federated Deep Learning for Standardising Naming Conventions in Radiotherapy Data**|Ali Haidar et.al.|[2402.08999](http://arxiv.org/abs/2402.08999)|null|
+|**2024-02-14**|**Seagull: Privacy preserving network verification system**|Jaber Daneshamooz et.al.|[2402.08956](http://arxiv.org/abs/2402.08956)|null|
+|**2024-02-13**|**FLASH: Federated Learning Across Simultaneous Heterogeneities**|Xiangyu Chang et.al.|[2402.08769](http://arxiv.org/abs/2402.08769)|null|
 |**2024-02-13**|**FedLPS: Heterogeneous Federated Learning for Multiple Tasks with Local Parameter Sharing**|Yongzhe Jia et.al.|[2402.08578](http://arxiv.org/abs/2402.08578)|**[link](https://github.com/jyzgh/fedlps)**|
 |**2024-02-13**|**Privacy-Preserving Language Model Inference with Instance Obfuscation**|Yixiang Yao et.al.|[2402.08227](http://arxiv.org/abs/2402.08227)|null|
 |**2024-02-12**|**Empowering Federated Learning for Massive Models with NVIDIA FLARE**|Holger R. Roth et.al.|[2402.07792](http://arxiv.org/abs/2402.07792)|null|
