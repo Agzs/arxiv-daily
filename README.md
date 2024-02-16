@@ -20,8 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-15**|**Overapproximation of Non-Linear Integer Arithmetic for Smart Contract Verification**|Petra Hozzová et.al.|[2402.10174](http://arxiv.org/abs/2402.10174)|null|
 |**2024-02-14**|**Insights and caveats from mining local and global temporal motifs in cryptocurrency transaction networks**|Naomi A. Arnold et.al.|[2402.09272](http://arxiv.org/abs/2402.09272)|null|
-|**2024-02-14**|**Unity is Strength: Enhancing Precision in Reentrancy Vulnerability Detection of Smart Contract Analysis Tools**|Zexu Wang et.al.|[2402.09094](http://arxiv.org/abs/2402.09094)|null|
+|**2024-02-15**|**Unity is Strength: Enhancing Precision in Reentrancy Vulnerability Detection of Smart Contract Analysis Tools**|Zexu Wang et.al.|[2402.09094](http://arxiv.org/abs/2402.09094)|null|
 |**2024-02-14**|**Teamwork Makes TEE Work: Open and Resilient Remote Attestation on Decentralized Trust**|Xiaolin Zhang et.al.|[2402.08908](http://arxiv.org/abs/2402.08908)|null|
 |**2024-02-10**|**HNMblock: Blockchain technology powered Healthcare Network Model for epidemiological monitoring, medical systems security, and wellness**|Naresh Kshetri et.al.|[2402.07054](http://arxiv.org/abs/2402.07054)|null|
 |**2024-02-09**|**Blockchain-based Rental Documentation Management with Audit Support**|João F. Santos et.al.|[2402.06704](http://arxiv.org/abs/2402.06704)|null|
@@ -264,6 +265,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-15**|**FedAnchor: Enhancing Federated Semi-Supervised Learning with Label Contrastive Loss for Unlabeled Clients**|Xinchi Qiu et.al.|[2402.10191](http://arxiv.org/abs/2402.10191)|null|
+|**2024-02-15**|**A chaotic maps-based privacy-preserving distributed deep learning for incomplete and Non-IID datasets**|Irina Arévalo et.al.|[2402.10145](http://arxiv.org/abs/2402.10145)|null|
+|**2024-02-15**|**Benchmarking federated strategies in Peer-to-Peer Federated learning for biomedical data**|Jose L. Salmeron et.al.|[2402.10135](http://arxiv.org/abs/2402.10135)|null|
+|**2024-02-15**|**A privacy-preserving, distributed and cooperative FCM-based learning approach for Cancer Research**|Jose L. Salmeron et.al.|[2402.10102](http://arxiv.org/abs/2402.10102)|null|
+|**2024-02-15**|**Adaptive Federated Learning in Heterogeneous Wireless Networks with Independent Sampling**|Jiaxiang Geng et.al.|[2402.10097](http://arxiv.org/abs/2402.10097)|null|
+|**2024-02-15**|**FedRDF: A Robust and Dynamic Aggregation Function against Poisoning Attacks in Federated Learning**|Enrique Mármol Campos et.al.|[2402.10082](http://arxiv.org/abs/2402.10082)|null|
+|**2024-02-15**|**Investigation of Federated Learning Algorithms for Retinal Optical Coherence Tomography Image Classification with Statistical Heterogeneity**|Sanskar Amgain et.al.|[2402.10035](http://arxiv.org/abs/2402.10035)|null|
+|**2024-02-15**|**LLM-based Federated Recommendation**|Jujia Zhao et.al.|[2402.09959](http://arxiv.org/abs/2402.09959)|null|
+|**2024-02-15**|**FedLion: Faster Adaptive Federated Optimization with Fewer Communication**|Zhiwei Tang et.al.|[2402.09941](http://arxiv.org/abs/2402.09941)|**[link](https://github.com/tzw1998/fedlion)**|
+|**2024-02-15**|**Towards Federated Learning on the Quantum Internet**|Leo Sünkel et.al.|[2402.09902](http://arxiv.org/abs/2402.09902)|null|
 |**2024-02-14**|**Only My Model On My Data: A Privacy Preserving Approach Protecting one Model and Deceiving Unauthorized Black-Box Models**|Weiheng Chai et.al.|[2402.09316](http://arxiv.org/abs/2402.09316)|null|
 |**2024-02-14**|**Momentum Approximation in Asynchronous Private Federated Learning**|Tao Yu et.al.|[2402.09247](http://arxiv.org/abs/2402.09247)|null|
 |**2024-02-14**|**Scheduling for On-Board Federated Learning with Satellite Clusters**|Nasrin Razmi et.al.|[2402.09105](http://arxiv.org/abs/2402.09105)|null|
