@@ -335,13 +335,13 @@ layout: default
 |**2024-02-01**|**Analog-digital Scheduling for Federated Learning: A Communication-Efficient Approach**|Muhammad Faraz Ul Abrar et.al.|[2402.00318](http://arxiv.org/abs/2402.00318)|null|
 |**2024-01-31**|**CNN-FL for Biotechnology Industry Empowered by Internet-of-BioNano Things and Digital Twins**|Mohammad et.al.|[2402.00238](http://arxiv.org/abs/2402.00238)|null|
 |**2024-01-31**|**FedCore: Straggler-Free Federated Learning with Distributed Coresets**|Hongpeng Guo et.al.|[2402.00219](http://arxiv.org/abs/2402.00219)|**[link](https://github.com/hongpeng-guo/fedcore)**|
-|**2024-01-31**|**MP-SL: Multihop Parallel Split Learning**|Joana Tirana et.al.|[2402.00208](http://arxiv.org/abs/2402.00208)|null|
+|**2024-01-31**|**MP-SL: Multihop Parallel Split Learning**|Joana Tirana et.al.|[2402.00208](http://arxiv.org/abs/2402.00208)|**[link](https://github.com/jtirana98/multihop-federeated-split-learning)**|
 |**2024-01-31**|**Decentralised, Collaborative, and Privacy-preserving Machine Learning for Multi-Hospital Data**|Congyu Fang et.al.|[2402.00205](http://arxiv.org/abs/2402.00205)|**[link](https://github.com/cleverhans-lab/decaph)**|
 |**2024-01-31**|**Dataset Condensation Driven Machine Unlearning**|Junaid Iqbal Khan et.al.|[2402.00195](http://arxiv.org/abs/2402.00195)|null|
 |**2024-01-31**|**De-identification is not always enough**|Atiquer Rahman Sarkar et.al.|[2402.00179](http://arxiv.org/abs/2402.00179)|null|
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083](http://arxiv.org/abs/2401.18083)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
 |**2024-01-31**|**Benchmarking Private Population Data Release Mechanisms: Synthetic Data vs. TopDown**|Aadyaa Maddi et.al.|[2401.18024](http://arxiv.org/abs/2401.18024)|null|
-|**2024-01-31**|**Privacy-preserving data release leveraging optimal transport and particle gradient descent**|Konstantin Donhauser et.al.|[2401.17823](http://arxiv.org/abs/2401.17823)|null|
+|**2024-01-31**|**Privacy-preserving data release leveraging optimal transport and particle gradient descent**|Konstantin Donhauser et.al.|[2401.17823](http://arxiv.org/abs/2401.17823)|**[link](https://github.com/jaabmar/private-pgd)**|
 |**2024-01-31**|**Logit Poisoning Attack in Distillation-based Federated Learning and its Countermeasures**|Yonghao Yu et.al.|[2401.17746](http://arxiv.org/abs/2401.17746)|null|
 |**2024-01-30**|**Rendering Wireless Environments Useful for Gradient Estimators: A Zero-Order Stochastic Federated Learning Method**|Elissa Mhanna et.al.|[2401.17460](http://arxiv.org/abs/2401.17460)|null|
 |**2024-01-29**|**Spectral Co-Distillation for Personalized Federated Learning**|Zihan Chen et.al.|[2401.17124](http://arxiv.org/abs/2401.17124)|**[link](https://github.com/jimmyc96/spectral-dis-fl)**|
@@ -432,7 +432,7 @@ layout: default
 |**2024-01-11**|**Privacy Analysis of Affine Transformations in Cloud-based MPC: Vulnerability to Side-knowledge**|Teimour Hosseinalizadeh et.al.|[2401.05835](http://arxiv.org/abs/2401.05835)|null|
 |**2024-01-10**|**Brave: Byzantine-Resilient and Privacy-Preserving Peer-to-Peer Federated Learning**|Zhangchen Xu et.al.|[2401.05562](http://arxiv.org/abs/2401.05562)|null|
 |**2024-01-10**|**Strategic Client Selection to Address Non-IIDness in HAPS-enabled FL Networks**|Amin Farajzadeh et.al.|[2401.05308](http://arxiv.org/abs/2401.05308)|null|
-|**2024-01-10**|**Federated Unlearning: A Survey on Methods, Design Guidelines, and Evaluation Metrics**|Nicolò Romandini et.al.|[2401.05146](http://arxiv.org/abs/2401.05146)|null|
+|**2024-01-10**|**Federated Unlearning: A Survey on Methods, Design Guidelines, and Evaluation Metrics**|Nicolò Romandini et.al.|[2401.05146](http://arxiv.org/abs/2401.05146)|**[link](https://github.com/alessiomora/unlearning_fl)**|
 |**2024-01-10**|**Efficient Fine-Tuning with Domain Adaptation for Privacy-Preserving Vision Transformer**|Teru Nagamori et.al.|[2401.05126](http://arxiv.org/abs/2401.05126)|null|
 |**2024-01-10**|**AdaFed: Fair Federated Learning via Adaptive Common Descent Direction**|Shayan Mohajer Hamidi et.al.|[2401.04993](http://arxiv.org/abs/2401.04993)|null|
 |**2024-01-10**|**Learning-Based Difficulty Calibration for Enhanced Membership Inference Attacks**|Haonan Shi et.al.|[2401.04929](http://arxiv.org/abs/2401.04929)|**[link](https://github.com/horanshi/ldc-mia)**|
@@ -479,7 +479,7 @@ layout: default
 |**2024-01-01**|**SecFormer: Towards Fast and Accurate Privacy-Preserving Inference for Large Language Models**|Jinglong Luo et.al.|[2401.00793](http://arxiv.org/abs/2401.00793)|null|
 |**2024-01-01**|**Communication-Efficient Federated Learning for LEO Constellations Integrated with HAPs Using Hybrid NOMA-OFDM**|Mohamed Elmahallawy et.al.|[2401.00685](http://arxiv.org/abs/2401.00685)|null|
 |**2023-12-29**|**Differentially Private Low-Rank Adaptation of Large Language Model Using Federated Learning**|Xiao-Yang Liu et.al.|[2312.17493](http://arxiv.org/abs/2312.17493)|null|
-|**2023-12-29**|**LEFL: Low Entropy Client Sampling in Federated Learning**|Waqwoya Abebe et.al.|[2312.17430](http://arxiv.org/abs/2312.17430)|null|
+|**2023-12-29**|**LEFL: Low Entropy Client Sampling in Federated Learning**|Waqwoya Abebe et.al.|[2312.17430](http://arxiv.org/abs/2312.17430)|**[link](https://github.com/wmabebe/lefl)**|
 |**2023-12-28**|**Securing NextG Systems against Poisoning Attacks on Federated Learning: A Game-Theoretic Solution**|Yalin E. Sagduyu et.al.|[2312.17164](http://arxiv.org/abs/2312.17164)|null|
 |**2023-12-28**|**Replica Tree-based Federated Learning using Limited Data**|Ramona Ghilea et.al.|[2312.17159](http://arxiv.org/abs/2312.17159)|null|
 |**2023-12-28**|**FedSDD: Scalable and Diversity-enhanced Distillation for Model Aggregation in Federated Learning**|Ho Man Kwan et.al.|[2312.17029](http://arxiv.org/abs/2312.17029)|null|
