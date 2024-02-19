@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-16**|**Towards benchmarking of Solidity verification tools**|Massimo Bartoletti et.al.|[2402.10750](http://arxiv.org/abs/2402.10750)|null|
 |**2024-02-15**|**Overapproximation of Non-Linear Integer Arithmetic for Smart Contract Verification**|Petra Hozzová et.al.|[2402.10174](http://arxiv.org/abs/2402.10174)|null|
 |**2024-02-14**|**Insights and caveats from mining local and global temporal motifs in cryptocurrency transaction networks**|Naomi A. Arnold et.al.|[2402.09272](http://arxiv.org/abs/2402.09272)|null|
 |**2024-02-15**|**Unity is Strength: Enhancing Precision in Reentrancy Vulnerability Detection of Smart Contract Analysis Tools**|Zexu Wang et.al.|[2402.09094](http://arxiv.org/abs/2402.09094)|null|
@@ -265,6 +266,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-16**|**Differential Private Federated Transfer Learning for Mental Health Monitoring in Everyday Settings: A Case Study on Stress Detection**|Ziyu Wang et.al.|[2402.10862](http://arxiv.org/abs/2402.10862)|null|
+|**2024-02-16**|**FedD2S: Personalized Data-Free Federated Knowledge Distillation**|Kawa Atapour et.al.|[2402.10846](http://arxiv.org/abs/2402.10846)|null|
+|**2024-02-16**|**TernaryVote: Differentially Private, Communication Efficient, and Byzantine Resilient Distributed Optimization on Heterogeneous Data**|Richeng Jin et.al.|[2402.10816](http://arxiv.org/abs/2402.10816)|null|
+|**2024-02-16**|**FedKit: Enabling Cross-Platform Federated Learning for Android and iOS**|Sichang He et.al.|[2402.10464](http://arxiv.org/abs/2402.10464)|**[link](https://github.com/fedcampus/fedkit)**|
+|**2024-02-16**|**Improvising Age Verification Technologies in Canada: Technical, Regulatory and Social Dynamics**|Azfar Adib et.al.|[2402.10388](http://arxiv.org/abs/2402.10388)|null|
+|**2024-02-15**|**SusFL: Energy-Aware Federated Learning-based Monitoring for Sustainable Smart Farms**|Dian Chen et.al.|[2402.10280](http://arxiv.org/abs/2402.10280)|null|
 |**2024-02-15**|**FedAnchor: Enhancing Federated Semi-Supervised Learning with Label Contrastive Loss for Unlabeled Clients**|Xinchi Qiu et.al.|[2402.10191](http://arxiv.org/abs/2402.10191)|null|
 |**2024-02-15**|**A chaotic maps-based privacy-preserving distributed deep learning for incomplete and Non-IID datasets**|Irina Arévalo et.al.|[2402.10145](http://arxiv.org/abs/2402.10145)|null|
 |**2024-02-15**|**Benchmarking federated strategies in Peer-to-Peer Federated learning for biomedical data**|Jose L. Salmeron et.al.|[2402.10135](http://arxiv.org/abs/2402.10135)|null|
