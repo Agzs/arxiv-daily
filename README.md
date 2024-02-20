@@ -20,6 +20,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-19**|**Evaluation of ChatGPT's Smart Contract Auditing Capabilities Based on Chain of Thought**|Yuying Du et.al.|[2402.12023](http://arxiv.org/abs/2402.12023)|null|
+|**2024-02-17**|**Exploring the Emerging Technologies within the Blockchain Landscape**|Mohammad Ali Tareq et.al.|[2402.11290](http://arxiv.org/abs/2402.11290)|null|
+|**2024-02-17**|**Enhancing Security in Blockchain Networks: Anomalies, Frauds, and Advanced Detection Techniques**|Joerg Osterrieder et.al.|[2402.11231](http://arxiv.org/abs/2402.11231)|null|
+|**2024-02-17**|**Analyzing Reward Dynamics and Decentralization in Ethereum 2.0: An Advanced Data Engineering Workflow and Comprehensive Datasets for Proof-of-Stake Incentives**|Tao Yan et.al.|[2402.11170](http://arxiv.org/abs/2402.11170)|**[link](https://github.com/learn-want/ETH2.0-reward)**|
 |**2024-02-16**|**Towards benchmarking of Solidity verification tools**|Massimo Bartoletti et.al.|[2402.10750](http://arxiv.org/abs/2402.10750)|null|
 |**2024-02-15**|**Overapproximation of Non-Linear Integer Arithmetic for Smart Contract Verification**|Petra Hozzová et.al.|[2402.10174](http://arxiv.org/abs/2402.10174)|null|
 |**2024-02-14**|**Insights and caveats from mining local and global temporal motifs in cryptocurrency transaction networks**|Naomi A. Arnold et.al.|[2402.09272](http://arxiv.org/abs/2402.09272)|null|
@@ -209,7 +213,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-13**|**zk-IoT: Securing the Internet of Things with Zero-Knowledge Proofs on Blockchain Platforms**|Gholamreza Ramezan et.al.|[2402.08322](http://arxiv.org/abs/2402.08322)|null|
+|**2024-02-19**|**zk-IoT: Securing the Internet of Things with Zero-Knowledge Proofs on Blockchain Platforms**|Gholamreza Ramezan et.al.|[2402.08322](http://arxiv.org/abs/2402.08322)|null|
 |**2024-02-13**|**On black-box separations of quantum digital signatures from pseudorandom states**|Andrea Coladangelo et.al.|[2402.08194](http://arxiv.org/abs/2402.08194)|null|
 |**2024-02-09**|**Trust the Process: Zero-Knowledge Machine Learning to Enhance Trust in Generative AI Interactions**|Bianca-Mihaela Ganescu et.al.|[2402.06414](http://arxiv.org/abs/2402.06414)|null|
 |**2024-02-06**|**Enhanced Security and Efficiency in Blockchain with Aggregated Zero-Knowledge Proof Mechanisms**|Oleksandr Kuznetsov et.al.|[2402.03834](http://arxiv.org/abs/2402.03834)|null|
@@ -266,6 +270,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-19**|**Is Open-Source There Yet? A Comparative Study on Commercial and Open-Source LLMs in Their Ability to Label Chest X-Ray Reports**|Felix J. Dorfner et.al.|[2402.12298](http://arxiv.org/abs/2402.12298)|null|
+|**2024-02-19**|**Secure Federated Learning Across Heterogeneous Cloud and High-Performance Computing Resources -- A Case Study on Federated Fine-tuning of LLaMA 2**|Zilinghan Li et.al.|[2402.12271](http://arxiv.org/abs/2402.12271)|null|
+|**2024-02-19**|**On the Byzantine-Resilience of Distillation-Based Federated Learning**|Christophe Roux et.al.|[2402.12265](http://arxiv.org/abs/2402.12265)|**[link](https://github.com/zib-iol/feddistill)**|
+|**2024-02-19**|**Federated Bayesian Network Ensembles**|Florian van Daalen et.al.|[2402.12142](http://arxiv.org/abs/2402.12142)|null|
+|**2024-02-19**|**Privacy-Preserving Low-Rank Adaptation for Latent Diffusion Models**|Zihao Luo et.al.|[2402.11989](http://arxiv.org/abs/2402.11989)|**[link](https://github.com/williamluo0/stableprivatelora)**|
+|**2024-02-19**|**Identifying Periods of Cyclical Stress in University Students Using Wearables In-the-Wild**|Peter Neigel et.al.|[2402.11823](http://arxiv.org/abs/2402.11823)|null|
+|**2024-02-18**|**Poisoning Federated Recommender Systems with Fake Users**|Ming Yin et.al.|[2402.11637](http://arxiv.org/abs/2402.11637)|null|
+|**2024-02-18**|**Neuromorphic Face Analysis: a Survey**|Federico Becattini et.al.|[2402.11631](http://arxiv.org/abs/2402.11631)|null|
+|**2024-02-18**|**Publicly auditable privacy-preserving electoral rolls**|Prashant Agrawal et.al.|[2402.11582](http://arxiv.org/abs/2402.11582)|null|
+|**2024-02-18**|**Federated Fine-tuning of Large Language Models under Heterogeneous Language Tasks and Client Resources**|Jiamu Bai et.al.|[2402.11505](http://arxiv.org/abs/2402.11505)|null|
 |**2024-02-16**|**Differential Private Federated Transfer Learning for Mental Health Monitoring in Everyday Settings: A Case Study on Stress Detection**|Ziyu Wang et.al.|[2402.10862](http://arxiv.org/abs/2402.10862)|null|
 |**2024-02-16**|**FedD2S: Personalized Data-Free Federated Knowledge Distillation**|Kawa Atapour et.al.|[2402.10846](http://arxiv.org/abs/2402.10846)|null|
 |**2024-02-16**|**TernaryVote: Differentially Private, Communication Efficient, and Byzantine Resilient Distributed Optimization on Heterogeneous Data**|Richeng Jin et.al.|[2402.10816](http://arxiv.org/abs/2402.10816)|null|
