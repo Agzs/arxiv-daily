@@ -203,6 +203,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**FairProof : Confidential and Certifiable Fairness for Neural Networks**|Chhavi Yadav et.al.|[2402.12572](http://arxiv.org/abs/2402.12572)|null|
 |**2024-02-19**|**zk-IoT: Securing the Internet of Things with Zero-Knowledge Proofs on Blockchain Platforms**|Gholamreza Ramezan et.al.|[2402.08322](http://arxiv.org/abs/2402.08322)|null|
 |**2024-02-13**|**On black-box separations of quantum digital signatures from pseudorandom states**|Andrea Coladangelo et.al.|[2402.08194](http://arxiv.org/abs/2402.08194)|null|
 |**2024-02-09**|**Trust the Process: Zero-Knowledge Machine Learning to Enhance Trust in Generative AI Interactions**|Bianca-Mihaela Ganescu et.al.|[2402.06414](http://arxiv.org/abs/2402.06414)|null|
@@ -258,6 +259,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-20**|**Federated Learning for Iot/Edge/Fog Computing Systems**|Balqees Talal Hasan et.al.|[2402.13029](http://arxiv.org/abs/2402.13029)|null|
+|**2024-02-20**|**Energy-Efficient Wireless Federated Learning via Doubly Adaptive Quantization**|Xuefeng Han et.al.|[2402.12957](http://arxiv.org/abs/2402.12957)|null|
+|**2024-02-20**|**Stochastic Approximation Approach to Federated Machine Learning**|Srihari P V et.al.|[2402.12945](http://arxiv.org/abs/2402.12945)|null|
+|**2024-02-20**|**Fog enabled distributed training architecture for federated learning**|Aditya Kumar et.al.|[2402.12906](http://arxiv.org/abs/2402.12906)|null|
+|**2024-02-20**|**Federated Multi-Task Learning on Non-IID Data Silos: An Experimental Study**|Yuwen Yang et.al.|[2402.12876](http://arxiv.org/abs/2402.12876)|null|
+|**2024-02-20**|**Tackling Byzantine Clients in Federated Learning**|Youssef Allouah et.al.|[2402.12780](http://arxiv.org/abs/2402.12780)|null|
+|**2024-02-20**|**FGAD: Self-boosted Knowledge Distillation for An Effective Federated Graph Anomaly Detection Framework**|Jinyu Cai et.al.|[2402.12761](http://arxiv.org/abs/2402.12761)|null|
+|**2024-02-19**|**Hierarchical Bayes Approach to Personalized Federated Unsupervised Learning**|Kaan Ozkara et.al.|[2402.12537](http://arxiv.org/abs/2402.12537)|null|
 |**2024-02-19**|**Is Open-Source There Yet? A Comparative Study on Commercial and Open-Source LLMs in Their Ability to Label Chest X-Ray Reports**|Felix J. Dorfner et.al.|[2402.12298](http://arxiv.org/abs/2402.12298)|null|
 |**2024-02-19**|**Secure Federated Learning Across Heterogeneous Cloud and High-Performance Computing Resources -- A Case Study on Federated Fine-tuning of LLaMA 2**|Zilinghan Li et.al.|[2402.12271](http://arxiv.org/abs/2402.12271)|null|
 |**2024-02-19**|**On the Byzantine-Resilience of Distillation-Based Federated Learning**|Christophe Roux et.al.|[2402.12265](http://arxiv.org/abs/2402.12265)|**[link](https://github.com/zib-iol/feddistill)**|
