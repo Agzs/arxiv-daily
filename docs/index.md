@@ -203,6 +203,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-21**|**ModSRAM: Algorithm-Hardware Co-Design for Large Number Modular Multiplication in SRAM**|Jonathan Ku et.al.|[2402.14152](http://arxiv.org/abs/2402.14152)|null|
 |**2024-02-19**|**FairProof : Confidential and Certifiable Fairness for Neural Networks**|Chhavi Yadav et.al.|[2402.12572](http://arxiv.org/abs/2402.12572)|null|
 |**2024-02-19**|**zk-IoT: Securing the Internet of Things with Zero-Knowledge Proofs on Blockchain Platforms**|Gholamreza Ramezan et.al.|[2402.08322](http://arxiv.org/abs/2402.08322)|null|
 |**2024-02-13**|**On black-box separations of quantum digital signatures from pseudorandom states**|Andrea Coladangelo et.al.|[2402.08194](http://arxiv.org/abs/2402.08194)|null|
@@ -259,6 +260,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-22**|**Federated Complex Qeury Answering**|Qi Hu et.al.|[2402.14609](http://arxiv.org/abs/2402.14609)|null|
+|**2024-02-22**|**Federated Learning on Transcriptomic Data: Model Quality and Performance Trade-Offs**|Anika Hannemann et.al.|[2402.14527](http://arxiv.org/abs/2402.14527)|**[link](https://github.com/leoseg/benchmarkingfederated)**|
+|**2024-02-21**|**Protect and Extend -- Using GANs for Synthetic Data Generation of Time-Series Medical Records**|Navid Ashrafi et.al.|[2402.14042](http://arxiv.org/abs/2402.14042)|null|
 |**2024-02-21**|**FedADMM-InSa: An Inexact and Self-Adaptive ADMM for Federated Learning**|Yongcun Song et.al.|[2402.13989](http://arxiv.org/abs/2402.13989)|null|
 |**2024-02-21**|**On the Conflict of Robustness and Learning in Collaborative Machine Learning**|Mathilde Raynal et.al.|[2402.13700](http://arxiv.org/abs/2402.13700)|null|
 |**2024-02-21**|**Privacy-Preserving Instructions for Aligning Large Language Models**|Da Yu et.al.|[2402.13659](http://arxiv.org/abs/2402.13659)|null|
