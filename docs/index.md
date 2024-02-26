@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-23**|**A Blockchain-Enabled Framework of UAV Coordination for Post-Disaster Networks**|Sana Hafeez et.al.|[2402.15331](http://arxiv.org/abs/2402.15331)|null|
+|**2024-02-22**|**BIONIB: Blockchain-based IoT using Novelty Index in Bridge Health Monitoring**|Divija Swetha Gadiraju et.al.|[2402.14902](http://arxiv.org/abs/2402.14902)|null|
 |**2024-02-19**|**Evaluation of ChatGPT's Smart Contract Auditing Capabilities Based on Chain of Thought**|Yuying Du et.al.|[2402.12023](http://arxiv.org/abs/2402.12023)|null|
 |**2024-02-17**|**Exploring the Emerging Technologies within the Blockchain Landscape**|Mohammad Ali Tareq et.al.|[2402.11290](http://arxiv.org/abs/2402.11290)|null|
 |**2024-02-17**|**Enhancing Security in Blockchain Networks: Anomalies, Frauds, and Advanced Detection Techniques**|Joerg Osterrieder et.al.|[2402.11231](http://arxiv.org/abs/2402.11231)|null|
@@ -203,6 +205,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-23**|**SoK: What don't we know? Understanding Security Vulnerabilities in SNARKs**|Stefanos Chaliasos et.al.|[2402.15293](http://arxiv.org/abs/2402.15293)|null|
+|**2024-02-23**|**Chu-ko-nu: A Reliable, Efficient, and Anonymously Authentication-Enabled Realization for Multi-Round Secure Aggregation in Federated Learning**|Kaiping Cui et.al.|[2402.15111](http://arxiv.org/abs/2402.15111)|null|
 |**2024-02-21**|**ModSRAM: Algorithm-Hardware Co-Design for Large Number Modular Multiplication in SRAM**|Jonathan Ku et.al.|[2402.14152](http://arxiv.org/abs/2402.14152)|null|
 |**2024-02-19**|**FairProof : Confidential and Certifiable Fairness for Neural Networks**|Chhavi Yadav et.al.|[2402.12572](http://arxiv.org/abs/2402.12572)|null|
 |**2024-02-19**|**zk-IoT: Securing the Internet of Things with Zero-Knowledge Proofs on Blockchain Platforms**|Gholamreza Ramezan et.al.|[2402.08322](http://arxiv.org/abs/2402.08322)|null|
@@ -260,6 +264,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-23**|**A Bargaining-based Approach for Feature Trading in Vertical Federated Learning**|Yue Cui et.al.|[2402.15247](http://arxiv.org/abs/2402.15247)|null|
+|**2024-02-23**|**Platforms for Efficient and Incentive-Aware Collaboration**|Nika Haghtalab et.al.|[2402.15169](http://arxiv.org/abs/2402.15169)|null|
+|**2024-02-23**|**Convergence Analysis of Split Federated Learning on Heterogeneous Data**|Pengchao Han et.al.|[2402.15166](http://arxiv.org/abs/2402.15166)|null|
+|**2024-02-23**|**Chu-ko-nu: A Reliable, Efficient, and Anonymously Authentication-Enabled Realization for Multi-Round Secure Aggregation in Federated Learning**|Kaiping Cui et.al.|[2402.15111](http://arxiv.org/abs/2402.15111)|null|
+|**2024-02-23**|**Enhancing One-Shot Federated Learning Through Data and Ensemble Co-Boosting**|Rong Dai et.al.|[2402.15070](http://arxiv.org/abs/2402.15070)|**[link](https://github.com/rong-dai/co-boosting)**|
+|**2024-02-22**|**opp/ai: Optimistic Privacy-Preserving AI on Blockchain**|Cathie So et.al.|[2402.15006](http://arxiv.org/abs/2402.15006)|null|
+|**2024-02-22**|**Privacy-Enhancing Collaborative Information Sharing through Federated Learning -- A Case of the Insurance Industry**|Panyi Dong et.al.|[2402.14983](http://arxiv.org/abs/2402.14983)|null|
+|**2024-02-22**|**Federated Fairness without Access to Sensitive Groups**|Afroditi Papadaki et.al.|[2402.14929](http://arxiv.org/abs/2402.14929)|null|
+|**2024-02-22**|**Efficient Unbiased Sparsification**|Leighton Barnes et.al.|[2402.14925](http://arxiv.org/abs/2402.14925)|null|
+|**2024-02-22**|**Practical Insights into Knowledge Distillation for Pre-Trained Models**|Norah Alballa et.al.|[2402.14922](http://arxiv.org/abs/2402.14922)|null|
 |**2024-02-22**|**Federated Complex Qeury Answering**|Qi Hu et.al.|[2402.14609](http://arxiv.org/abs/2402.14609)|null|
 |**2024-02-22**|**Federated Learning on Transcriptomic Data: Model Quality and Performance Trade-Offs**|Anika Hannemann et.al.|[2402.14527](http://arxiv.org/abs/2402.14527)|**[link](https://github.com/leoseg/benchmarkingfederated)**|
 |**2024-02-21**|**Protect and Extend -- Using GANs for Synthetic Data Generation of Time-Series Medical Records**|Navid Ashrafi et.al.|[2402.14042](http://arxiv.org/abs/2402.14042)|null|
