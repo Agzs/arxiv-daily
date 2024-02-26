@@ -282,7 +282,7 @@ layout: default
 |**2024-02-19**|**Identifying Periods of Cyclical Stress in University Students Using Wearables In-the-Wild**|Peter Neigel et.al.|[2402.11823](http://arxiv.org/abs/2402.11823)|null|
 |**2024-02-18**|**Poisoning Federated Recommender Systems with Fake Users**|Ming Yin et.al.|[2402.11637](http://arxiv.org/abs/2402.11637)|null|
 |**2024-02-18**|**Neuromorphic Face Analysis: a Survey**|Federico Becattini et.al.|[2402.11631](http://arxiv.org/abs/2402.11631)|null|
-|**2024-02-18**|**Publicly auditable privacy-preserving electoral rolls**|Prashant Agrawal et.al.|[2402.11582](http://arxiv.org/abs/2402.11582)|null|
+|**2024-02-18**|**Publicly auditable privacy-preserving electoral rolls**|Prashant Agrawal et.al.|[2402.11582](http://arxiv.org/abs/2402.11582)|**[link](https://github.com/agrawalprash/secure-electoral-roll)**|
 |**2024-02-18**|**Federated Fine-tuning of Large Language Models under Heterogeneous Language Tasks and Client Resources**|Jiamu Bai et.al.|[2402.11505](http://arxiv.org/abs/2402.11505)|null|
 |**2024-02-16**|**Differential Private Federated Transfer Learning for Mental Health Monitoring in Everyday Settings: A Case Study on Stress Detection**|Ziyu Wang et.al.|[2402.10862](http://arxiv.org/abs/2402.10862)|null|
 |**2024-02-16**|**FedD2S: Personalized Data-Free Federated Knowledge Distillation**|Kawa Atapour et.al.|[2402.10846](http://arxiv.org/abs/2402.10846)|null|
@@ -312,7 +312,7 @@ layout: default
 |**2024-02-13**|**Privacy-Preserving Language Model Inference with Instance Obfuscation**|Yixiang Yao et.al.|[2402.08227](http://arxiv.org/abs/2402.08227)|null|
 |**2024-02-12**|**Empowering Federated Learning for Massive Models with NVIDIA FLARE**|Holger R. Roth et.al.|[2402.07792](http://arxiv.org/abs/2402.07792)|null|
 |**2024-02-12**|**Privacy-Preserving Gaze Data Streaming in Immersive Interactive Virtual Reality: Robustness and User Experience**|Ethan Wilson et.al.|[2402.07687](http://arxiv.org/abs/2402.07687)|null|
-|**2024-02-12**|**Unveiling Group-Specific Distributed Concept Drift: A Fairness Imperative in Federated Learning**|Teresa Salazar et.al.|[2402.07586](http://arxiv.org/abs/2402.07586)|null|
+|**2024-02-12**|**Unveiling Group-Specific Distributed Concept Drift: A Fairness Imperative in Federated Learning**|Teresa Salazar et.al.|[2402.07586](http://arxiv.org/abs/2402.07586)|**[link](https://github.com/teresalazar13/fairfeddrift)**|
 |**2024-02-12**|**Differentially Private Decentralized Learning with Random Walks**|Edwige Cyffers et.al.|[2402.07471](http://arxiv.org/abs/2402.07471)|**[link](https://github.com/totilas/dprandomwalk)**|
 |**2024-02-12**|**Anonymizing Test Data in Android: Does It Hurt?**|Elena Masserini et.al.|[2402.07460](http://arxiv.org/abs/2402.07460)|**[link](https://gitlab.com/sal-unimib-anonymization/anonymization-android-tool)**|
 |**2024-02-12**|**Bayesian Federated Learning Via Expectation Maximization and Turbo Deep Approximate Message Passing**|Wei Xu et.al.|[2402.07366](http://arxiv.org/abs/2402.07366)|null|
