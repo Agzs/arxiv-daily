@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-24**|**BETA-UAV: Blockchain-based Efficient Authentication for Secure UAV Communication**|Sana Hafeez et.al.|[2402.15817](http://arxiv.org/abs/2402.15817)|null|
 |**2024-02-23**|**A Blockchain-Enabled Framework of UAV Coordination for Post-Disaster Networks**|Sana Hafeez et.al.|[2402.15331](http://arxiv.org/abs/2402.15331)|null|
 |**2024-02-22**|**BIONIB: Blockchain-based IoT using Novelty Index in Bridge Health Monitoring**|Divija Swetha Gadiraju et.al.|[2402.14902](http://arxiv.org/abs/2402.14902)|null|
 |**2024-02-19**|**Evaluation of ChatGPT's Smart Contract Auditing Capabilities Based on Chain of Thought**|Yuying Du et.al.|[2402.12023](http://arxiv.org/abs/2402.12023)|null|
@@ -264,6 +265,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Decentralized Federated Unlearning on Blockchain**|Xiao Liu et.al.|[2402.16294](http://arxiv.org/abs/2402.16294)|null|
+|**2024-02-26**|**Watch Your Head: Assembling Projection Heads to Save the Reliability of Federated Models**|Jinqian Chen et.al.|[2402.16255](http://arxiv.org/abs/2402.16255)|null|
+|**2024-02-25**|**Distribution-Free Fair Federated Learning with Small Samples**|Qichuan Yin et.al.|[2402.16158](http://arxiv.org/abs/2402.16158)|null|
+|**2024-02-25**|**Bayesian Neural Network For Personalized Federated Learning Parameter Selection**|Mengen Luo et.al.|[2402.16091](http://arxiv.org/abs/2402.16091)|null|
+|**2024-02-25**|**How to Privately Tune Hyperparameters in Federated Learning? Insights from a Benchmark Study**|Natalija Mitic et.al.|[2402.16087](http://arxiv.org/abs/2402.16087)|null|
+|**2024-02-25**|**FedFDP: Federated Learning with Fairness and Differential Privacy**|Xinpeng Ling et.al.|[2402.16028](http://arxiv.org/abs/2402.16028)|null|
+|**2024-02-25**|**CoDream: Exchanging dreams instead of models for federated aggregation with heterogeneous models**|Abhishek Singh et.al.|[2402.15968](http://arxiv.org/abs/2402.15968)|null|
+|**2024-02-24**|**ESFL: Efficient Split Federated Learning over Resource-Constrained Heterogeneous Wireless Devices**|Guangyu Zhu et.al.|[2402.15903](http://arxiv.org/abs/2402.15903)|null|
+|**2024-02-24**|**Differentially Private Bayesian Persuasion**|Yuqi Pan et.al.|[2402.15872](http://arxiv.org/abs/2402.15872)|null|
+|**2024-02-24**|**FedMM: Federated Multi-Modal Learning with Modality Heterogeneity in Computational Pathology**|Yuanzhe Peng et.al.|[2402.15858](http://arxiv.org/abs/2402.15858)|null|
 |**2024-02-23**|**A Bargaining-based Approach for Feature Trading in Vertical Federated Learning**|Yue Cui et.al.|[2402.15247](http://arxiv.org/abs/2402.15247)|null|
 |**2024-02-23**|**Platforms for Efficient and Incentive-Aware Collaboration**|Nika Haghtalab et.al.|[2402.15169](http://arxiv.org/abs/2402.15169)|null|
 |**2024-02-23**|**Convergence Analysis of Split Federated Learning on Heterogeneous Data**|Pengchao Han et.al.|[2402.15166](http://arxiv.org/abs/2402.15166)|null|
