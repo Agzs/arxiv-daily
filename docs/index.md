@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Securing OPEN-RAN Equipment Using Blockchain-Based Supply Chain Verification**|Ali Mehrban et.al.|[2402.17632](http://arxiv.org/abs/2402.17632)|null|
+|**2024-02-27**|**PureLottery: Fair and Bias-Resistant Leader Election with a Novel Single-Elimination Tournament Algorithm**|Jonas Ballweg et.al.|[2402.17459](http://arxiv.org/abs/2402.17459)|null|
+|**2024-02-26**|**Multichain Taprootized Atomic Swaps: Introducing Untraceability through Zero-Knowledge Proofs**|Oleksandr Kurbatov et.al.|[2402.16735](http://arxiv.org/abs/2402.16735)|**[link](https://github.com/distributed-lab/taprootized-atomic-swaps)**|
 |**2024-02-24**|**BETA-UAV: Blockchain-based Efficient Authentication for Secure UAV Communication**|Sana Hafeez et.al.|[2402.15817](http://arxiv.org/abs/2402.15817)|null|
 |**2024-02-23**|**A Blockchain-Enabled Framework of UAV Coordination for Post-Disaster Networks**|Sana Hafeez et.al.|[2402.15331](http://arxiv.org/abs/2402.15331)|null|
 |**2024-02-22**|**BIONIB: Blockchain-based IoT using Novelty Index in Bridge Health Monitoring**|Divija Swetha Gadiraju et.al.|[2402.14902](http://arxiv.org/abs/2402.14902)|null|
@@ -180,6 +183,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Multichain Taprootized Atomic Swaps: Introducing Untraceability through Zero-Knowledge Proofs**|Oleksandr Kurbatov et.al.|[2402.16735](http://arxiv.org/abs/2402.16735)|**[link](https://github.com/distributed-lab/taprootized-atomic-swaps)**|
 |**2023-12-19**|**SoK: Security of Cross-chain Bridges: Attack Surfaces, Defenses, and Open Problems**|Mengya Zhang et.al.|[2312.12573](http://arxiv.org/abs/2312.12573)|null|
 |**2023-11-29**|**Eden: An Ultra Fast, Provably Secure, and Fully Decentralized Blockchain Interoperability Protocol**|Ke Liang et.al.|[2311.17454](http://arxiv.org/abs/2311.17454)|null|
 |**2023-09-12**|**Arguably Adequate Aqueduct Algorithm: Crossing A Bridge-Less Block-Chain Chasm**|Ravi Kashyap et.al.|[2311.10717](http://arxiv.org/abs/2311.10717)|null|
@@ -206,6 +210,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Multichain Taprootized Atomic Swaps: Introducing Untraceability through Zero-Knowledge Proofs**|Oleksandr Kurbatov et.al.|[2402.16735](http://arxiv.org/abs/2402.16735)|**[link](https://github.com/distributed-lab/taprootized-atomic-swaps)**|
 |**2024-02-23**|**SoK: What don't we know? Understanding Security Vulnerabilities in SNARKs**|Stefanos Chaliasos et.al.|[2402.15293](http://arxiv.org/abs/2402.15293)|null|
 |**2024-02-23**|**Chu-ko-nu: A Reliable, Efficient, and Anonymously Authentication-Enabled Realization for Multi-Round Secure Aggregation in Federated Learning**|Kaiping Cui et.al.|[2402.15111](http://arxiv.org/abs/2402.15111)|null|
 |**2024-02-21**|**ModSRAM: Algorithm-Hardware Co-Design for Large Number Modular Multiplication in SRAM**|Jonathan Ku et.al.|[2402.14152](http://arxiv.org/abs/2402.14152)|null|
@@ -265,6 +270,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**$ζ$ -QVAE: A Quantum Variational Autoencoder utilizing Regularized Mixed-state Latent Representations**|Gaoyuan Wang et.al.|[2402.17749](http://arxiv.org/abs/2402.17749)|null|
+|**2024-02-27**|**Federated Learning for Estimating Heterogeneous Treatment Effects**|Disha Makhija et.al.|[2402.17705](http://arxiv.org/abs/2402.17705)|null|
+|**2024-02-27**|**FedLPPA: Learning Personalized Prompt and Aggregation for Federated Weakly-supervised Medical Image Segmentation**|Li Lin et.al.|[2402.17502](http://arxiv.org/abs/2402.17502)|null|
+|**2024-02-27**|**A Scalable Multi-Layered Blockchain Architecture for Enhanced EHR Sharing and Drug Supply Chain Management**|Reza Javan et.al.|[2402.17342](http://arxiv.org/abs/2402.17342)|**[link](https://github.com/rezajavan/Extend_HLF_testnetwork)**|
+|**2024-02-27**|**FedBRB: An Effective Solution to the Small-to-Large Scenario in Device-Heterogeneity Federated Learning**|Ziyue Xu et.al.|[2402.17202](http://arxiv.org/abs/2402.17202)|null|
+|**2024-02-27**|**Privacy-Preserving Map-Free Exploration for Confirming the Absence of a Radioactive Source**|Eric Lepowsky et.al.|[2402.17130](http://arxiv.org/abs/2402.17130)|null|
+|**2024-02-26**|**FedReview: A Review Mechanism for Rejecting Poisoned Updates in Federated Learning**|Tianhang Zheng et.al.|[2402.16934](http://arxiv.org/abs/2402.16934)|null|
 |**2024-02-26**|**Decentralized Federated Unlearning on Blockchain**|Xiao Liu et.al.|[2402.16294](http://arxiv.org/abs/2402.16294)|null|
 |**2024-02-26**|**Watch Your Head: Assembling Projection Heads to Save the Reliability of Federated Models**|Jinqian Chen et.al.|[2402.16255](http://arxiv.org/abs/2402.16255)|null|
 |**2024-02-25**|**Distribution-Free Fair Federated Learning with Small Samples**|Qichuan Yin et.al.|[2402.16158](http://arxiv.org/abs/2402.16158)|null|
