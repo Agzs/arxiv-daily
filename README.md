@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**Ruledger: Ensuring Execution Integrity in Trigger-Action IoT Platforms**|Jingwen Fan et.al.|[2402.19011](http://arxiv.org/abs/2402.19011)|null|
 |**2024-02-27**|**SmartQC: An Extensible DLT-Based Framework for Trusted Data Workflows in Smart Manufacturing**|Alan McGibney et.al.|[2402.17868](http://arxiv.org/abs/2402.17868)|null|
 |**2024-02-27**|**Securing OPEN-RAN Equipment Using Blockchain-Based Supply Chain Verification**|Ali Mehrban et.al.|[2402.17632](http://arxiv.org/abs/2402.17632)|null|
 |**2024-02-27**|**PureLottery: Fair and Bias-Resistant Leader Election with a Novel Single-Elimination Tournament Algorithm**|Jonas Ballweg et.al.|[2402.17459](http://arxiv.org/abs/2402.17459)|null|
@@ -283,6 +284,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**FedStruct: Federated Decoupled Learning over Interconnected Graphs**|Javad Aliakbari et.al.|[2402.19163](http://arxiv.org/abs/2402.19163)|null|
+|**2024-02-29**|**CollaFuse: Navigating Limited Resources and Privacy in Collaborative Generative AI**|Domenique Zipperling et.al.|[2402.19105](http://arxiv.org/abs/2402.19105)|null|
+|**2024-02-29**|**RobWE: Robust Watermark Embedding for Personalized Federated Learning Model Ownership Protection**|Yang Xu et.al.|[2402.19054](http://arxiv.org/abs/2402.19054)|null|
+|**2024-02-29**|**SPriFed-OMP: A Differentially Private Federated Learning Algorithm for Sparse Basis Recovery**|Ajinkya Kiran Mulay et.al.|[2402.19016](http://arxiv.org/abs/2402.19016)|null|
+|**2024-02-29**|**PrivatEyes: Appearance-based Gaze Estimation Using Federated Secure Multi-Party Computation**|Mayar Elfares et.al.|[2402.18970](http://arxiv.org/abs/2402.18970)|null|
+|**2024-02-29**|**Improving Group Connectivity for Generalization of Federated Deep Learning**|Zexi Li et.al.|[2402.18949](http://arxiv.org/abs/2402.18949)|null|
+|**2024-02-29**|**Uncertainty-Based Extensible Codebook for Discrete Federated Learning in Heterogeneous Data Silos**|Tianyi Zhang et.al.|[2402.18888](http://arxiv.org/abs/2402.18888)|**[link](https://github.com/destiny301/uefl)**|
+|**2024-02-29**|**Privacy-Preserving Autoencoder for Collaborative Object Detection**|Bardia Azizian et.al.|[2402.18864](http://arxiv.org/abs/2402.18864)|null|
 |**2024-02-28**|**Energy-Aware Heterogeneous Federated Learning via Approximate Systolic DNN Accelerators**|Kilian Pfeiffer et.al.|[2402.18569](http://arxiv.org/abs/2402.18569)|null|
 |**2024-02-28**|**HyperFedNet: Communication-Efficient Personalized Federated Learning Via Hypernetwork**|Xingyun Chen et.al.|[2402.18445](http://arxiv.org/abs/2402.18445)|null|
 |**2024-02-27**|**FedUV: Uniformity and Variance for Heterogeneous Federated Learning**|Ha Min Son et.al.|[2402.18372](http://arxiv.org/abs/2402.18372)|null|
