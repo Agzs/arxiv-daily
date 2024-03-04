@@ -278,7 +278,7 @@ layout: default
 |**2024-02-29**|**SPriFed-OMP: A Differentially Private Federated Learning Algorithm for Sparse Basis Recovery**|Ajinkya Kiran Mulay et.al.|[2402.19016](http://arxiv.org/abs/2402.19016)|null|
 |**2024-02-29**|**PrivatEyes: Appearance-based Gaze Estimation Using Federated Secure Multi-Party Computation**|Mayar Elfares et.al.|[2402.18970](http://arxiv.org/abs/2402.18970)|null|
 |**2024-02-29**|**Improving Group Connectivity for Generalization of Federated Deep Learning**|Zexi Li et.al.|[2402.18949](http://arxiv.org/abs/2402.18949)|null|
-|**2024-02-29**|**Uncertainty-Based Extensible Codebook for Discrete Federated Learning in Heterogeneous Data Silos**|Tianyi Zhang et.al.|[2402.18888](http://arxiv.org/abs/2402.18888)|**[link](https://github.com/destiny301/uefl)**|
+|**2024-03-01**|**Uncertainty-Based Extensible Codebook for Discrete Federated Learning in Heterogeneous Data Silos**|Tianyi Zhang et.al.|[2402.18888](http://arxiv.org/abs/2402.18888)|**[link](https://github.com/destiny301/uefl)**|
 |**2024-02-29**|**Privacy-Preserving Autoencoder for Collaborative Object Detection**|Bardia Azizian et.al.|[2402.18864](http://arxiv.org/abs/2402.18864)|null|
 |**2024-02-28**|**Energy-Aware Heterogeneous Federated Learning via Approximate Systolic DNN Accelerators**|Kilian Pfeiffer et.al.|[2402.18569](http://arxiv.org/abs/2402.18569)|null|
 |**2024-02-28**|**HyperFedNet: Communication-Efficient Personalized Federated Learning Via Hypernetwork**|Xingyun Chen et.al.|[2402.18445](http://arxiv.org/abs/2402.18445)|null|
