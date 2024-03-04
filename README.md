@@ -303,13 +303,13 @@
 |**2024-02-27**|**FedLPPA: Learning Personalized Prompt and Aggregation for Federated Weakly-supervised Medical Image Segmentation**|Li Lin et.al.|[2402.17502](http://arxiv.org/abs/2402.17502)|null|
 |**2024-02-27**|**A Scalable Multi-Layered Blockchain Architecture for Enhanced EHR Sharing and Drug Supply Chain Management**|Reza Javan et.al.|[2402.17342](http://arxiv.org/abs/2402.17342)|**[link](https://github.com/rezajavan/Extend_HLF_testnetwork)**|
 |**2024-02-27**|**FedBRB: An Effective Solution to the Small-to-Large Scenario in Device-Heterogeneity Federated Learning**|Ziyue Xu et.al.|[2402.17202](http://arxiv.org/abs/2402.17202)|null|
-|**2024-02-27**|**Privacy-Preserving Map-Free Exploration for Confirming the Absence of a Radioactive Source**|Eric Lepowsky et.al.|[2402.17130](http://arxiv.org/abs/2402.17130)|null|
+|**2024-02-27**|**Privacy-Preserving Map-Free Exploration for Confirming the Absence of a Radioactive Source**|Eric Lepowsky et.al.|[2402.17130](http://arxiv.org/abs/2402.17130)|**[link](https://github.com/elepowsky/verification)**|
 |**2024-02-26**|**FedReview: A Review Mechanism for Rejecting Poisoned Updates in Federated Learning**|Tianhang Zheng et.al.|[2402.16934](http://arxiv.org/abs/2402.16934)|null|
 |**2024-02-26**|**Decentralized Federated Unlearning on Blockchain**|Xiao Liu et.al.|[2402.16294](http://arxiv.org/abs/2402.16294)|null|
 |**2024-02-26**|**Watch Your Head: Assembling Projection Heads to Save the Reliability of Federated Models**|Jinqian Chen et.al.|[2402.16255](http://arxiv.org/abs/2402.16255)|null|
 |**2024-02-25**|**Distribution-Free Fair Federated Learning with Small Samples**|Qichuan Yin et.al.|[2402.16158](http://arxiv.org/abs/2402.16158)|null|
 |**2024-02-25**|**Bayesian Neural Network For Personalized Federated Learning Parameter Selection**|Mengen Luo et.al.|[2402.16091](http://arxiv.org/abs/2402.16091)|null|
-|**2024-02-25**|**How to Privately Tune Hyperparameters in Federated Learning? Insights from a Benchmark Study**|Natalija Mitic et.al.|[2402.16087](http://arxiv.org/abs/2402.16087)|null|
+|**2024-02-25**|**How to Privately Tune Hyperparameters in Federated Learning? Insights from a Benchmark Study**|Natalija Mitic et.al.|[2402.16087](http://arxiv.org/abs/2402.16087)|**[link](https://github.com/sinemsav/hyperparams)**|
 |**2024-02-25**|**FedFDP: Federated Learning with Fairness and Differential Privacy**|Xinpeng Ling et.al.|[2402.16028](http://arxiv.org/abs/2402.16028)|null|
 |**2024-02-25**|**CoDream: Exchanging dreams instead of models for federated aggregation with heterogeneous models**|Abhishek Singh et.al.|[2402.15968](http://arxiv.org/abs/2402.15968)|null|
 |**2024-02-24**|**ESFL: Efficient Split Federated Learning over Resource-Constrained Heterogeneous Wireless Devices**|Guangyu Zhu et.al.|[2402.15903](http://arxiv.org/abs/2402.15903)|null|
@@ -338,7 +338,7 @@
 |**2024-02-20**|**Federated Multi-Task Learning on Non-IID Data Silos: An Experimental Study**|Yuwen Yang et.al.|[2402.12876](http://arxiv.org/abs/2402.12876)|null|
 |**2024-02-20**|**Tackling Byzantine Clients in Federated Learning**|Youssef Allouah et.al.|[2402.12780](http://arxiv.org/abs/2402.12780)|null|
 |**2024-02-20**|**FGAD: Self-boosted Knowledge Distillation for An Effective Federated Graph Anomaly Detection Framework**|Jinyu Cai et.al.|[2402.12761](http://arxiv.org/abs/2402.12761)|null|
-|**2024-02-19**|**Hierarchical Bayes Approach to Personalized Federated Unsupervised Learning**|Kaan Ozkara et.al.|[2402.12537](http://arxiv.org/abs/2402.12537)|null|
+|**2024-02-19**|**Hierarchical Bayes Approach to Personalized Federated Unsupervised Learning**|Kaan Ozkara et.al.|[2402.12537](http://arxiv.org/abs/2402.12537)|**[link](https://github.com/kazkara/adept)**|
 |**2024-02-19**|**Is Open-Source There Yet? A Comparative Study on Commercial and Open-Source LLMs in Their Ability to Label Chest X-Ray Reports**|Felix J. Dorfner et.al.|[2402.12298](http://arxiv.org/abs/2402.12298)|null|
 |**2024-02-19**|**Secure Federated Learning Across Heterogeneous Cloud and High-Performance Computing Resources -- A Case Study on Federated Fine-tuning of LLaMA 2**|Zilinghan Li et.al.|[2402.12271](http://arxiv.org/abs/2402.12271)|null|
 |**2024-02-19**|**On the Byzantine-Resilience of Distillation-Based Federated Learning**|Christophe Roux et.al.|[2402.12265](http://arxiv.org/abs/2402.12265)|**[link](https://github.com/zib-iol/feddistill)**|
@@ -468,7 +468,7 @@
 |**2024-01-26**|**Multi-model learning by sequential reading of untrimmed videos for action recognition**|Kodai Kamiya et.al.|[2401.14675](http://arxiv.org/abs/2401.14675)|null|
 |**2024-01-26**|**Physical Trajectory Inference Attack and Defense in Decentralized POI Recommendation**|Jing Long et.al.|[2401.14583](http://arxiv.org/abs/2401.14583)|null|
 |**2024-01-25**|**Privacy-preserving Quantile Treatment Effect Estimation for Randomized Controlled Trials**|Leon Yao et.al.|[2401.14549](http://arxiv.org/abs/2401.14549)|null|
-|**2024-01-25**|**Communication-Efficient Federated Learning through Adaptive Weight Clustering and Server-Side Distillation**|Vasileios Tsouvalas. Aaqib Saeed et.al.|[2401.14211](http://arxiv.org/abs/2401.14211)|null|
+|**2024-01-25**|**Communication-Efficient Federated Learning through Adaptive Weight Clustering and Server-Side Distillation**|Vasileios Tsouvalas. Aaqib Saeed et.al.|[2401.14211](http://arxiv.org/abs/2401.14211)|**[link](https://github.com/FederatedML/FedCompress)**|
 |**2024-01-25**|**Model CBOR Serialization for Federated Learning**|Koen Zandberg et.al.|[2401.14056](http://arxiv.org/abs/2401.14056)|null|
 |**2024-01-25**|**The Risk of Federated Learning to Skew Fine-Tuning Features and Underperform Out-of-Distribution Robustness**|Mengyao Du et.al.|[2401.14027](http://arxiv.org/abs/2401.14027)|null|
 |**2024-01-25**|**Cross-Modal Prototype based Multimodal Federated Learning under Severely Missing Modality**|Huy Q. Le et.al.|[2401.13898](http://arxiv.org/abs/2401.13898)|null|
