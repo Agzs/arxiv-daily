@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-02**|**Characterizing Ethereum Upgradable Smart Contracts and Their Security Implications**|Xiaofan Li et.al.|[2403.01290](http://arxiv.org/abs/2403.01290)|null|
+|**2024-03-02**|**Evault for legal records**|Anas S et.al.|[2403.01186](http://arxiv.org/abs/2403.01186)|null|
+|**2024-03-01**|**Autonomous Strike UAVs for Counterterrorism Missions: Challenges and Preliminary Solutions**|Meshari Aljohani et.al.|[2403.01022](http://arxiv.org/abs/2403.01022)|null|
+|**2024-02-29**|**The Constitutions of Web3**|Joshua Z. Tan et.al.|[2403.00081](http://arxiv.org/abs/2403.00081)|null|
+|**2024-02-28**|**Auditable Homomorphic-based Decentralized Collaborative AI with Attribute-based Differential Privacy**|Lo-Yao Yeh et.al.|[2403.00023](http://arxiv.org/abs/2403.00023)|null|
 |**2024-02-29**|**Ruledger: Ensuring Execution Integrity in Trigger-Action IoT Platforms**|Jingwen Fan et.al.|[2402.19011](http://arxiv.org/abs/2402.19011)|null|
 |**2024-02-27**|**SmartQC: An Extensible DLT-Based Framework for Trusted Data Workflows in Smart Manufacturing**|Alan McGibney et.al.|[2402.17868](http://arxiv.org/abs/2402.17868)|null|
 |**2024-02-27**|**Securing OPEN-RAN Equipment Using Blockchain-Based Supply Chain Verification**|Ali Mehrban et.al.|[2402.17632](http://arxiv.org/abs/2402.17632)|null|
@@ -185,6 +190,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-01**|**SoK: Cross-Chain Bridging Architectural Design Flaws and Mitigations**|Jakob Svennevik Notland et.al.|[2403.00405](http://arxiv.org/abs/2403.00405)|null|
 |**2024-02-26**|**Multichain Taprootized Atomic Swaps: Introducing Untraceability through Zero-Knowledge Proofs**|Oleksandr Kurbatov et.al.|[2402.16735](http://arxiv.org/abs/2402.16735)|**[link](https://github.com/distributed-lab/taprootized-atomic-swaps)**|
 |**2023-12-19**|**SoK: Security of Cross-chain Bridges: Attack Surfaces, Defenses, and Open Problems**|Mengya Zhang et.al.|[2312.12573](http://arxiv.org/abs/2312.12573)|null|
 |**2023-11-29**|**Eden: An Ultra Fast, Provably Secure, and Fully Decentralized Blockchain Interoperability Protocol**|Ke Liang et.al.|[2311.17454](http://arxiv.org/abs/2311.17454)|null|
@@ -272,6 +278,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-02**|**Defending Against Data Reconstruction Attacks in Federated Learning: An Information Theory Approach**|Qi Tan et.al.|[2403.01268](http://arxiv.org/abs/2403.01268)|null|
+|**2024-03-02**|**Automatic Speech Recognition using Advanced Deep Learning Approaches: A survey**|Hamza Kheddar et.al.|[2403.01255](http://arxiv.org/abs/2403.01255)|null|
+|**2024-03-02**|**REWIND Dataset: Privacy-preserving Speaking Status Segmentation from Multimodal Body Movement Signals in the Wild**|Jose Vargas Quiros et.al.|[2403.01229](http://arxiv.org/abs/2403.01229)|null|
+|**2024-03-01**|**Federated Learning via Lattice Joint Source-Channel Coding**|Seyed Mohammad Azimi-Abarghouyi et.al.|[2403.01023](http://arxiv.org/abs/2403.01023)|null|
+|**2024-03-01**|**FedRDMA: Communication-Efficient Cross-Silo Federated LLM via Chunked RDMA Transmission**|Zeling Zhang et.al.|[2403.00881](http://arxiv.org/abs/2403.00881)|null|
+|**2024-03-01**|**Blockchain-empowered Federated Learning: Benefits, Challenges, and Solutions**|Zeju Cai et.al.|[2403.00873](http://arxiv.org/abs/2403.00873)|null|
+|**2024-03-01**|**Complex-Valued Neural Network based Federated Learning for Multi-user Indoor Positioning Performance Optimization**|Hanzhi Yu et.al.|[2403.00665](http://arxiv.org/abs/2403.00665)|null|
+|**2024-03-01**|**Cloud-based Federated Learning Framework for MRI Segmentation**|Rukesh Prajapati et.al.|[2403.00254](http://arxiv.org/abs/2403.00254)|null|
+|**2024-03-01**|**OPAF: Optimized Secure Two-Party Computation Protocols for Nonlinear Activation Functions in Recurrent Neural Network**|Qian Feng et.al.|[2403.00239](http://arxiv.org/abs/2403.00239)|null|
+|**2024-02-29**|**Privacy-Preserving Distributed Optimization and Learning**|Ziqin Chen et.al.|[2403.00157](http://arxiv.org/abs/2403.00157)|null|
 |**2024-02-29**|**FedStruct: Federated Decoupled Learning over Interconnected Graphs**|Javad Aliakbari et.al.|[2402.19163](http://arxiv.org/abs/2402.19163)|null|
 |**2024-02-29**|**CollaFuse: Navigating Limited Resources and Privacy in Collaborative Generative AI**|Domenique Zipperling et.al.|[2402.19105](http://arxiv.org/abs/2402.19105)|null|
 |**2024-02-29**|**RobWE: Robust Watermark Embedding for Personalized Federated Learning Model Ownership Protection**|Yang Xu et.al.|[2402.19054](http://arxiv.org/abs/2402.19054)|null|
