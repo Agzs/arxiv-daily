@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**How to Save My Gas Fees: Understanding and Detecting Real-world Gas Issues in Solidity Programs**|Mengting He et.al.|[2403.02661](http://arxiv.org/abs/2403.02661)|null|
+|**2024-03-04**|**Building Trust in Data for IoT Systems**|Davide Margaria et.al.|[2403.02225](http://arxiv.org/abs/2403.02225)|null|
+|**2024-03-03**|**CRPWarner: Warning the Risk of Contract-related Rug Pull in DeFi Smart Contracts**|Zewei Lin et.al.|[2403.01425](http://arxiv.org/abs/2403.01425)|null|
 |**2024-03-02**|**Characterizing Ethereum Upgradable Smart Contracts and Their Security Implications**|Xiaofan Li et.al.|[2403.01290](http://arxiv.org/abs/2403.01290)|null|
 |**2024-03-02**|**Evault for legal records**|Anas S et.al.|[2403.01186](http://arxiv.org/abs/2403.01186)|null|
 |**2024-03-01**|**Autonomous Strike UAVs for Counterterrorism Missions: Challenges and Preliminary Solutions**|Meshari Aljohani et.al.|[2403.01022](http://arxiv.org/abs/2403.01022)|null|
@@ -278,6 +281,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**Leveraging Federated Learning and Edge Computing for Recommendation Systems within Cloud Computing Networks**|Yaqian Qi et.al.|[2403.03165](http://arxiv.org/abs/2403.03165)|null|
+|**2024-03-05**|**Rethinking Clustered Federated Learning in NOMA Enhanced Wireless Networks**|Yushen Lin et.al.|[2403.03157](http://arxiv.org/abs/2403.03157)|null|
+|**2024-03-05**|**Robust Federated Learning Mitigates Client-side Training Data Distribution Inference Attacks**|Yichang Xu et.al.|[2403.03149](http://arxiv.org/abs/2403.03149)|null|
+|**2024-03-05**|**A Federated Deep Learning Approach for Privacy-Preserving Real-Time Transient Stability Predictions in Power Systems**|Maeshal Hijazi et.al.|[2403.03126](http://arxiv.org/abs/2403.03126)|null|
+|**2024-03-05**|**Design of Stochastic Quantizers for Privacy Preservation**|Le Liu et.al.|[2403.03048](http://arxiv.org/abs/2403.03048)|null|
+|**2024-03-05**|**Federated Learning Under Attack: Exposing Vulnerabilities through Data Poisoning Attacks in Computer Networks**|Ehsan Nowroozi et.al.|[2403.02983](http://arxiv.org/abs/2403.02983)|**[link](https://github.com/ehsannowroozi/federatedlearning_poison_lf_fp)**|
+|**2024-03-05**|**Federated Learning Using Coupled Tensor Train Decomposition**|Xiangtao Zhang et.al.|[2403.02898](http://arxiv.org/abs/2403.02898)|null|
+|**2024-03-05**|**FLGuard: Byzantine-Robust Federated Learning via Ensemble of Contrastive Models**|Younghan Lee et.al.|[2403.02846](http://arxiv.org/abs/2403.02846)|**[link](https://github.com/201younghanlee/flguard)**|
+|**2024-03-05**|**Towards Robust Federated Learning via Logits Calibration on Non-IID Data**|Yu Qiao et.al.|[2403.02803](http://arxiv.org/abs/2403.02803)|null|
+|**2024-03-05**|**Data Collaboration Analysis Over Matrix Manifolds**|Keiyu Nosaka et.al.|[2403.02780](http://arxiv.org/abs/2403.02780)|null|
 |**2024-03-02**|**Defending Against Data Reconstruction Attacks in Federated Learning: An Information Theory Approach**|Qi Tan et.al.|[2403.01268](http://arxiv.org/abs/2403.01268)|null|
 |**2024-03-02**|**Automatic Speech Recognition using Advanced Deep Learning Approaches: A survey**|Hamza Kheddar et.al.|[2403.01255](http://arxiv.org/abs/2403.01255)|null|
 |**2024-03-02**|**REWIND Dataset: Privacy-preserving Speaking Status Segmentation from Multimodal Body Movement Signals in the Wild**|Jose Vargas Quiros et.al.|[2403.01229](http://arxiv.org/abs/2403.01229)|null|
