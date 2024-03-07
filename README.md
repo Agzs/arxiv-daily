@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**On HTLC-Based Protocols for Multi-Party Cross-Chain Swaps**|Emily Clark et.al.|[2403.03906](http://arxiv.org/abs/2403.03906)|null|
+|**2024-03-06**|**Blockchain and Carbon Markets: Standards Overview**|Pedro Baiz et.al.|[2403.03865](http://arxiv.org/abs/2403.03865)|null|
 |**2024-03-05**|**How to Save My Gas Fees: Understanding and Detecting Real-world Gas Issues in Solidity Programs**|Mengting He et.al.|[2403.02661](http://arxiv.org/abs/2403.02661)|null|
 |**2024-03-04**|**Building Trust in Data for IoT Systems**|Davide Margaria et.al.|[2403.02225](http://arxiv.org/abs/2403.02225)|null|
 |**2024-03-03**|**CRPWarner: Warning the Risk of Contract-related Rug Pull in DeFi Smart Contracts**|Zewei Lin et.al.|[2403.01425](http://arxiv.org/abs/2403.01425)|null|
@@ -201,6 +203,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**On HTLC-Based Protocols for Multi-Party Cross-Chain Swaps**|Emily Clark et.al.|[2403.03906](http://arxiv.org/abs/2403.03906)|null|
 |**2024-03-01**|**SoK: Cross-Chain Bridging Architectural Design Flaws and Mitigations**|Jakob Svennevik Notland et.al.|[2403.00405](http://arxiv.org/abs/2403.00405)|null|
 |**2024-02-26**|**Multichain Taprootized Atomic Swaps: Introducing Untraceability through Zero-Knowledge Proofs**|Oleksandr Kurbatov et.al.|[2402.16735](http://arxiv.org/abs/2402.16735)|**[link](https://github.com/distributed-lab/taprootized-atomic-swaps)**|
 |**2023-12-19**|**SoK: Security of Cross-chain Bridges: Attack Surfaces, Defenses, and Open Problems**|Mengya Zhang et.al.|[2312.12573](http://arxiv.org/abs/2312.12573)|null|
@@ -232,7 +235,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-02-26**|**Multichain Taprootized Atomic Swaps: Introducing Untraceability through Zero-Knowledge Proofs**|Oleksandr Kurbatov et.al.|[2402.16735](http://arxiv.org/abs/2402.16735)|**[link](https://github.com/distributed-lab/taprootized-atomic-swaps)**|
-|**2024-02-23**|**SoK: What don't we know? Understanding Security Vulnerabilities in SNARKs**|Stefanos Chaliasos et.al.|[2402.15293](http://arxiv.org/abs/2402.15293)|null|
+|**2024-03-06**|**SoK: What don't we know? Understanding Security Vulnerabilities in SNARKs**|Stefanos Chaliasos et.al.|[2402.15293](http://arxiv.org/abs/2402.15293)|null|
 |**2024-02-23**|**Chu-ko-nu: A Reliable, Efficient, and Anonymously Authentication-Enabled Realization for Multi-Round Secure Aggregation in Federated Learning**|Kaiping Cui et.al.|[2402.15111](http://arxiv.org/abs/2402.15111)|null|
 |**2024-02-21**|**ModSRAM: Algorithm-Hardware Co-Design for Large Number Modular Multiplication in SRAM**|Jonathan Ku et.al.|[2402.14152](http://arxiv.org/abs/2402.14152)|null|
 |**2024-02-19**|**FairProof : Confidential and Certifiable Fairness for Neural Networks**|Chhavi Yadav et.al.|[2402.12572](http://arxiv.org/abs/2402.12572)|null|
@@ -293,6 +296,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**SPEAR:Exact Gradient Inversion of Batches in Federated Learning**|Dimitar I. Dimitrov et.al.|[2403.03945](http://arxiv.org/abs/2403.03945)|null|
+|**2024-03-06**|**Decoupled Vertical Federated Learning for Practical Training on Vertically Partitioned Data**|Avi Amalanshu et.al.|[2403.03871](http://arxiv.org/abs/2403.03871)|null|
+|**2024-03-06**|**Spectrum Occupancy Detection Supported by Federated Learning**|Łukasz Kułacz et.al.|[2403.03617](http://arxiv.org/abs/2403.03617)|null|
+|**2024-03-06**|**A Privacy-Preserving Framework with Multi-Modal Data for Cross-Domain Recommendation**|Li Wang et.al.|[2403.03600](http://arxiv.org/abs/2403.03600)|null|
+|**2024-03-06**|**Do You Trust Your Model? Emerging Malware Threats in the Deep Learning Ecosystem**|Dorjan Hitaj et.al.|[2403.03593](http://arxiv.org/abs/2403.03593)|null|
+|**2024-03-06**|**Wildest Dreams: Reproducible Research in Privacy-preserving Neural Network Training**|Tanveer Khan et.al.|[2403.03592](http://arxiv.org/abs/2403.03592)|null|
+|**2024-03-05**|**Leveraging Federated Learning for Automatic Detection of Clopidogrel Treatment Failures**|Samuel Kim et.al.|[2403.03368](http://arxiv.org/abs/2403.03368)|null|
+|**2024-03-05**|**Solution Simplex Clustering for Heterogeneous Federated Learning**|Dennis Grinwald et.al.|[2403.03333](http://arxiv.org/abs/2403.03333)|null|
 |**2024-03-05**|**Leveraging Federated Learning and Edge Computing for Recommendation Systems within Cloud Computing Networks**|Yaqian Qi et.al.|[2403.03165](http://arxiv.org/abs/2403.03165)|null|
 |**2024-03-05**|**Rethinking Clustered Federated Learning in NOMA Enhanced Wireless Networks**|Yushen Lin et.al.|[2403.03157](http://arxiv.org/abs/2403.03157)|null|
 |**2024-03-05**|**Robust Federated Learning Mitigates Client-side Training Data Distribution Inference Attacks**|Yichang Xu et.al.|[2403.03149](http://arxiv.org/abs/2403.03149)|null|
