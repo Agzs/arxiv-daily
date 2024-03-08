@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**Collaborative Cybersecurity Using Blockchain: A Survey**|Loïc Miller et.al.|[2403.04410](http://arxiv.org/abs/2403.04410)|null|
 |**2024-03-06**|**On HTLC-Based Protocols for Multi-Party Cross-Chain Swaps**|Emily Clark et.al.|[2403.03906](http://arxiv.org/abs/2403.03906)|null|
 |**2024-03-06**|**Blockchain and Carbon Markets: Standards Overview**|Pedro Baiz et.al.|[2403.03865](http://arxiv.org/abs/2403.03865)|null|
 |**2024-03-05**|**How to Save My Gas Fees: Understanding and Detecting Real-world Gas Issues in Solidity Programs**|Mengting He et.al.|[2403.02661](http://arxiv.org/abs/2403.02661)|null|
@@ -284,6 +285,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**Mechanism for Decision-aware Collaborative Federated Learning: A Pitfall of Shapley Values**|Meng Qi et.al.|[2403.04753](http://arxiv.org/abs/2403.04753)|null|
+|**2024-03-07**|**Architectural Blueprint For Heterogeneity-Resilient Federated Learning**|Satwat Bashir et.al.|[2403.04546](http://arxiv.org/abs/2403.04546)|null|
+|**2024-03-07**|**Privacy in Cloud Computing through Immersion-based Coding**|Haleh Hayati et.al.|[2403.04485](http://arxiv.org/abs/2403.04485)|null|
+|**2024-03-07**|**Boosting Fairness and Robustness in Over-the-Air Federated Learning**|Halil Yigit Oksuz et.al.|[2403.04431](http://arxiv.org/abs/2403.04431)|null|
+|**2024-03-07**|**On-demand Quantization for Green Federated Generative Diffusion in Mobile Edge Networks**|Bingkun Lai et.al.|[2403.04430](http://arxiv.org/abs/2403.04430)|null|
+|**2024-03-07**|**LoCoDL: Communication-Efficient Distributed Learning with Local Training and Compression**|Laurent Condat et.al.|[2403.04348](http://arxiv.org/abs/2403.04348)|null|
+|**2024-03-07**|**Federated Recommendation via Hybrid Retrieval Augmented Generation**|Huimin Zeng et.al.|[2403.04256](http://arxiv.org/abs/2403.04256)|**[link](https://github.com/huiminzeng/gpt-fedrec)**|
+|**2024-03-07**|**HeteroSwitch: Characterizing and Taming System-Induced Data Heterogeneity in Federated Learning**|Gyudong Kim et.al.|[2403.04207](http://arxiv.org/abs/2403.04207)|null|
+|**2024-03-07**|**FL-GUARD: A Holistic Framework for Run-Time Detection and Recovery of Negative Federated Learning**|Hong Lin et.al.|[2403.04146](http://arxiv.org/abs/2403.04146)|null|
+|**2024-03-07**|**FedClust: Optimizing Federated Learning on Non-IID Data through Weight-Driven Client Clustering**|Md Sirajul Islam et.al.|[2403.04144](http://arxiv.org/abs/2403.04144)|null|
 |**2024-03-06**|**SPEAR:Exact Gradient Inversion of Batches in Federated Learning**|Dimitar I. Dimitrov et.al.|[2403.03945](http://arxiv.org/abs/2403.03945)|null|
 |**2024-03-06**|**Decoupled Vertical Federated Learning for Practical Training on Vertically Partitioned Data**|Avi Amalanshu et.al.|[2403.03871](http://arxiv.org/abs/2403.03871)|null|
 |**2024-03-06**|**Spectrum Occupancy Detection Supported by Federated Learning**|Łukasz Kułacz et.al.|[2403.03617](http://arxiv.org/abs/2403.03617)|null|
