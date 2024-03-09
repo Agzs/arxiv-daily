@@ -23,13 +23,13 @@
 |**2024-03-07**|**Collaborative Cybersecurity Using Blockchain: A Survey**|Loïc Miller et.al.|[2403.04410](http://arxiv.org/abs/2403.04410)|null|
 |**2024-03-06**|**On HTLC-Based Protocols for Multi-Party Cross-Chain Swaps**|Emily Clark et.al.|[2403.03906](http://arxiv.org/abs/2403.03906)|null|
 |**2024-03-06**|**Blockchain and Carbon Markets: Standards Overview**|Pedro Baiz et.al.|[2403.03865](http://arxiv.org/abs/2403.03865)|null|
-|**2024-03-05**|**How to Save My Gas Fees: Understanding and Detecting Real-world Gas Issues in Solidity Programs**|Mengting He et.al.|[2403.02661](http://arxiv.org/abs/2403.02661)|null|
+|**2024-03-05**|**How to Save My Gas Fees: Understanding and Detecting Real-world Gas Issues in Solidity Programs**|Mengting He et.al.|[2403.02661](http://arxiv.org/abs/2403.02661)|**[link](https://github.com/pecatch-artifact/pecatch-artifact)**|
 |**2024-03-04**|**Building Trust in Data for IoT Systems**|Davide Margaria et.al.|[2403.02225](http://arxiv.org/abs/2403.02225)|null|
 |**2024-03-03**|**CRPWarner: Warning the Risk of Contract-related Rug Pull in DeFi Smart Contracts**|Zewei Lin et.al.|[2403.01425](http://arxiv.org/abs/2403.01425)|null|
 |**2024-03-02**|**Characterizing Ethereum Upgradable Smart Contracts and Their Security Implications**|Xiaofan Li et.al.|[2403.01290](http://arxiv.org/abs/2403.01290)|null|
 |**2024-03-02**|**Evault for legal records**|Anas S et.al.|[2403.01186](http://arxiv.org/abs/2403.01186)|null|
 |**2024-03-01**|**Autonomous Strike UAVs for Counterterrorism Missions: Challenges and Preliminary Solutions**|Meshari Aljohani et.al.|[2403.01022](http://arxiv.org/abs/2403.01022)|null|
-|**2024-02-29**|**The Constitutions of Web3**|Joshua Z. Tan et.al.|[2403.00081](http://arxiv.org/abs/2403.00081)|null|
+|**2024-02-29**|**The Constitutions of Web3**|Joshua Z. Tan et.al.|[2403.00081](http://arxiv.org/abs/2403.00081)|**[link](https://github.com/metagov/constitution-template)**|
 |**2024-02-28**|**Auditable Homomorphic-based Decentralized Collaborative AI with Attribute-based Differential Privacy**|Lo-Yao Yeh et.al.|[2403.00023](http://arxiv.org/abs/2403.00023)|null|
 |**2024-02-29**|**Ruledger: Ensuring Execution Integrity in Trigger-Action IoT Platforms**|Jingwen Fan et.al.|[2402.19011](http://arxiv.org/abs/2402.19011)|null|
 |**2024-02-27**|**SmartQC: An Extensible DLT-Based Framework for Trusted Data Workflows in Smart Manufacturing**|Alan McGibney et.al.|[2402.17868](http://arxiv.org/abs/2402.17868)|null|
