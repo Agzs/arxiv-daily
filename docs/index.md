@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-08**|**vSPACE: Voting in a Scalable, Privacy-Aware and Confidential Election**|Se Elnour et.al.|[2403.05275](http://arxiv.org/abs/2403.05275)|null|
+|**2024-03-05**|**Blockchain-Enhanced UAV Networks for Post-Disaster Communication: A Decentralized Flocking Approach**|Sana Hafeez et.al.|[2403.04796](http://arxiv.org/abs/2403.04796)|null|
 |**2024-03-07**|**Collaborative Cybersecurity Using Blockchain: A Survey**|Loïc Miller et.al.|[2403.04410](http://arxiv.org/abs/2403.04410)|null|
 |**2024-03-06**|**On HTLC-Based Protocols for Multi-Party Cross-Chain Swaps**|Emily Clark et.al.|[2403.03906](http://arxiv.org/abs/2403.03906)|null|
 |**2024-03-06**|**Blockchain and Carbon Markets: Standards Overview**|Pedro Baiz et.al.|[2403.03865](http://arxiv.org/abs/2403.03865)|null|
@@ -225,6 +227,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-08**|**TIPS: Threat Sharing Information Platform for Enhanced Security**|Lakshmi Rama Kiran Pasumarthy et.al.|[2403.05210](http://arxiv.org/abs/2403.05210)|null|
 |**2024-02-26**|**Multichain Taprootized Atomic Swaps: Introducing Untraceability through Zero-Knowledge Proofs**|Oleksandr Kurbatov et.al.|[2402.16735](http://arxiv.org/abs/2402.16735)|**[link](https://github.com/distributed-lab/taprootized-atomic-swaps)**|
 |**2024-03-06**|**SoK: What don't we know? Understanding Security Vulnerabilities in SNARKs**|Stefanos Chaliasos et.al.|[2402.15293](http://arxiv.org/abs/2402.15293)|null|
 |**2024-02-23**|**Chu-ko-nu: A Reliable, Efficient, and Anonymously Authentication-Enabled Realization for Multi-Round Secure Aggregation in Federated Learning**|Kaiping Cui et.al.|[2402.15111](http://arxiv.org/abs/2402.15111)|null|
@@ -285,6 +288,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-08**|**FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation**|Yuxi Liu et.al.|[2403.05408](http://arxiv.org/abs/2403.05408)|**[link](https://github.com/liu-yuxi/fedfms)**|
+|**2024-03-08**|**Federated Learning Method for Preserving Privacy in Face Recognition System**|Enoch Solomon et.al.|[2403.05344](http://arxiv.org/abs/2403.05344)|null|
+|**2024-03-08**|**Developing Federated Time-to-Event Scores Using Heterogeneous Real-World Survival Data**|Siqi Li et.al.|[2403.05229](http://arxiv.org/abs/2403.05229)|null|
+|**2024-03-08**|**RIS-empowered Topology Control for Distributed Learning in Urban Air Mobility**|Kai Xiong et.al.|[2403.05133](http://arxiv.org/abs/2403.05133)|null|
 |**2024-03-07**|**Mechanism for Decision-aware Collaborative Federated Learning: A Pitfall of Shapley Values**|Meng Qi et.al.|[2403.04753](http://arxiv.org/abs/2403.04753)|null|
 |**2024-03-07**|**Architectural Blueprint For Heterogeneity-Resilient Federated Learning**|Satwat Bashir et.al.|[2403.04546](http://arxiv.org/abs/2403.04546)|null|
 |**2024-03-07**|**Privacy in Cloud Computing through Immersion-based Coding**|Haleh Hayati et.al.|[2403.04485](http://arxiv.org/abs/2403.04485)|null|
