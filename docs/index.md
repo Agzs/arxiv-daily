@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.10
+## Updated on 2024.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -21,7 +21,7 @@ layout: default
 |**2024-03-04**|**Building Trust in Data for IoT Systems**|Davide Margaria et.al.|[2403.02225](http://arxiv.org/abs/2403.02225)|null|
 |**2024-03-03**|**CRPWarner: Warning the Risk of Contract-related Rug Pull in DeFi Smart Contracts**|Zewei Lin et.al.|[2403.01425](http://arxiv.org/abs/2403.01425)|null|
 |**2024-03-02**|**Characterizing Ethereum Upgradable Smart Contracts and Their Security Implications**|Xiaofan Li et.al.|[2403.01290](http://arxiv.org/abs/2403.01290)|null|
-|**2024-03-02**|**Evault for legal records**|Anas S et.al.|[2403.01186](http://arxiv.org/abs/2403.01186)|null|
+|**2024-03-08**|**Evault for legal records**|Jeba N et.al.|[2403.01186](http://arxiv.org/abs/2403.01186)|null|
 |**2024-03-01**|**Autonomous Strike UAVs for Counterterrorism Missions: Challenges and Preliminary Solutions**|Meshari Aljohani et.al.|[2403.01022](http://arxiv.org/abs/2403.01022)|null|
 |**2024-02-29**|**The Constitutions of Web3**|Joshua Z. Tan et.al.|[2403.00081](http://arxiv.org/abs/2403.00081)|**[link](https://github.com/metagov/constitution-template)**|
 |**2024-02-28**|**Auditable Homomorphic-based Decentralized Collaborative AI with Attribute-based Differential Privacy**|Lo-Yao Yeh et.al.|[2403.00023](http://arxiv.org/abs/2403.00023)|null|
