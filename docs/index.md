@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**ACFIX: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts**|Lyuye Zhang et.al.|[2403.06838](http://arxiv.org/abs/2403.06838)|null|
+|**2024-03-11**|**SmartML: Towards a Modeling Language for Smart Contracts**|Adele Veschetti et.al.|[2403.06622](http://arxiv.org/abs/2403.06622)|null|
 |**2024-03-08**|**vSPACE: Voting in a Scalable, Privacy-Aware and Confidential Election**|Se Elnour et.al.|[2403.05275](http://arxiv.org/abs/2403.05275)|null|
 |**2024-03-05**|**Blockchain-Enhanced UAV Networks for Post-Disaster Communication: A Decentralized Flocking Approach**|Sana Hafeez et.al.|[2403.04796](http://arxiv.org/abs/2403.04796)|null|
 |**2024-03-07**|**Collaborative Cybersecurity Using Blockchain: A Survey**|Loïc Miller et.al.|[2403.04410](http://arxiv.org/abs/2403.04410)|null|
@@ -288,6 +290,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**Dynamic Client Clustering, Bandwidth Allocation, and Workload Optimization for Semi-synchronous Federated Learning**|Liangkun Yu et.al.|[2403.06900](http://arxiv.org/abs/2403.06900)|null|
+|**2024-03-11**|**Provable Mutual Benefits from Federated Learning in Privacy-Sensitive Domains**|Nikita Tsoy et.al.|[2403.06672](http://arxiv.org/abs/2403.06672)|null|
+|**2024-03-11**|**UAV-Enabled Asynchronous Federated Learning**|Zhiyuan Zhai et.al.|[2403.06653](http://arxiv.org/abs/2403.06653)|null|
+|**2024-03-11**|**Data Poisoning Attacks in Gossip Learning**|Alexandre Pham et.al.|[2403.06583](http://arxiv.org/abs/2403.06583)|null|
+|**2024-03-11**|**Adaptive Federated Learning Over the Air**|Chenhao Wang et.al.|[2403.06528](http://arxiv.org/abs/2403.06528)|null|
+|**2024-03-10**|**Fake or Compromised? Making Sense of Malicious Clients in Federated Learning**|Hamid Mozaffari et.al.|[2403.06319](http://arxiv.org/abs/2403.06319)|null|
+|**2024-03-10**|**Analysis of Total Variation Minimization for Clustered Federated Learning**|A. Jung et.al.|[2403.06298](http://arxiv.org/abs/2403.06298)|null|
+|**2024-03-10**|**Fluent: Round-efficient Secure Aggregation for Private Federated Learning**|Xincheng Li et.al.|[2403.06143](http://arxiv.org/abs/2403.06143)|null|
+|**2024-03-10**|**FedPIT: Towards Privacy-preserving and Few-shot Federated Instruction Tuning**|Zhuo Zhang et.al.|[2403.06131](http://arxiv.org/abs/2403.06131)|null|
+|**2024-03-10**|**Federated Learning: Attacks, Defenses, Opportunities, and Challenges**|Ghazaleh Shirvani et.al.|[2403.06067](http://arxiv.org/abs/2403.06067)|null|
 |**2024-03-08**|**FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation**|Yuxi Liu et.al.|[2403.05408](http://arxiv.org/abs/2403.05408)|**[link](https://github.com/liu-yuxi/fedfms)**|
 |**2024-03-08**|**Federated Learning Method for Preserving Privacy in Face Recognition System**|Enoch Solomon et.al.|[2403.05344](http://arxiv.org/abs/2403.05344)|null|
 |**2024-03-08**|**Developing Federated Time-to-Event Scores Using Heterogeneous Real-World Survival Data**|Siqi Li et.al.|[2403.05229](http://arxiv.org/abs/2403.05229)|null|
