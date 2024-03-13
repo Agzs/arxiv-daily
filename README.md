@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Fixing Smart Contract Vulnerabilities: A Comparative Analysis of Literature and Developer's Practices**|Francesco Salzano et.al.|[2403.07458](http://arxiv.org/abs/2403.07458)|null|
 |**2024-03-11**|**ACFIX: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts**|Lyuye Zhang et.al.|[2403.06838](http://arxiv.org/abs/2403.06838)|null|
 |**2024-03-11**|**SmartML: Towards a Modeling Language for Smart Contracts**|Adele Veschetti et.al.|[2403.06622](http://arxiv.org/abs/2403.06622)|null|
 |**2024-03-08**|**vSPACE: Voting in a Scalable, Privacy-Aware and Confidential Election**|Se Elnour et.al.|[2403.05275](http://arxiv.org/abs/2403.05275)|null|
@@ -208,6 +209,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Atomicity and Abstraction for Cross-Blockchain Interactions**|Huaixi Lu et.al.|[2403.07248](http://arxiv.org/abs/2403.07248)|null|
 |**2024-03-06**|**On HTLC-Based Protocols for Multi-Party Cross-Chain Swaps**|Emily Clark et.al.|[2403.03906](http://arxiv.org/abs/2403.03906)|null|
 |**2024-03-01**|**SoK: Cross-Chain Bridging Architectural Design Flaws and Mitigations**|Jakob Svennevik Notland et.al.|[2403.00405](http://arxiv.org/abs/2403.00405)|null|
 |**2024-02-26**|**Multichain Taprootized Atomic Swaps: Introducing Untraceability through Zero-Knowledge Proofs**|Oleksandr Kurbatov et.al.|[2402.16735](http://arxiv.org/abs/2402.16735)|**[link](https://github.com/distributed-lab/taprootized-atomic-swaps)**|
@@ -302,6 +304,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Quantifying and Mitigating Privacy Risks for Tabular Generative Models**|Chaoyi Zhu et.al.|[2403.07842](http://arxiv.org/abs/2403.07842)|null|
+|**2024-03-12**|**MPCPA: Multi-Center Privacy Computing with Predictions Aggregation based on Denoising Diffusion Probabilistic Model**|Guibo Luo et.al.|[2403.07838](http://arxiv.org/abs/2403.07838)|null|
+|**2024-03-12**|**UniHand: Privacy-preserving Universal Handover for Small-Cell Networks in 5G-enabled Mobile Communication with KCI Resilience**|Rabiah Alnashwan et.al.|[2403.07817](http://arxiv.org/abs/2403.07817)|null|
+|**2024-03-12**|**Federated Learning of Socially Appropriate Agent Behaviours in Simulated Home Environments**|Saksham Checker et.al.|[2403.07586](http://arxiv.org/abs/2403.07586)|**[link](https://github.com/nchuramani/fcl-mannersdb)**|
+|**2024-03-12**|**Measuring Data Similarity for Efficient Federated Learning: A Feasibility Study**|Fernanda Famá et.al.|[2403.07450](http://arxiv.org/abs/2403.07450)|null|
+|**2024-03-12**|**A Survey on Federated Learning in Intelligent Transportation Systems**|Rongqing Zhang et.al.|[2403.07444](http://arxiv.org/abs/2403.07444)|null|
+|**2024-03-12**|**Efficient and Model-Agnostic Parameter Estimation Under Privacy-Preserving Post-randomization Data**|Qinglong Tian et.al.|[2403.07288](http://arxiv.org/abs/2403.07288)|null|
+|**2024-03-12**|**A Framework for Cost-Effective and Self-Adaptive LLM Shaking and Recovery Mechanism**|Zhiyu Chen et.al.|[2403.07283](http://arxiv.org/abs/2403.07283)|null|
+|**2024-03-12**|**SoK: Can Trajectory Generation Combine Privacy and Utility?**|Erik Buchholz et.al.|[2403.07218](http://arxiv.org/abs/2403.07218)|**[link](https://github.com/erik-buchholz/SoK-TrajGen)**|
+|**2024-03-11**|**Don't Forget What I did?: Assessing Client Contributions in Federated Learning**|Bishwamittra Ghosh et.al.|[2403.07151](http://arxiv.org/abs/2403.07151)|null|
 |**2024-03-11**|**Dynamic Client Clustering, Bandwidth Allocation, and Workload Optimization for Semi-synchronous Federated Learning**|Liangkun Yu et.al.|[2403.06900](http://arxiv.org/abs/2403.06900)|null|
 |**2024-03-11**|**Provable Mutual Benefits from Federated Learning in Privacy-Sensitive Domains**|Nikita Tsoy et.al.|[2403.06672](http://arxiv.org/abs/2403.06672)|null|
 |**2024-03-11**|**UAV-Enabled Asynchronous Federated Learning**|Zhiyuan Zhai et.al.|[2403.06653](http://arxiv.org/abs/2403.06653)|null|
