@@ -304,6 +304,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-13**|**Federated Knowledge Graph Unlearning via Diffusion Model**|Bingchen Liu et.al.|[2403.08554](http://arxiv.org/abs/2403.08554)|null|
+|**2024-03-13**|**RAF-GI: Towards Robust, Accurate and Fast-Convergent Gradient Inversion Attack in Federated Learning**|Can Liu et.al.|[2403.08383](http://arxiv.org/abs/2403.08383)|null|
+|**2024-03-13**|**Decoupled Federated Learning on Long-Tailed and Non-IID data with Feature Statistics**|Zhuoxin Chen et.al.|[2403.08364](http://arxiv.org/abs/2403.08364)|null|
+|**2024-03-13**|**MGIC: A Multi-Label Gradient Inversion Attack based on Canny Edge Detection on Federated Learning**|Can Liu et.al.|[2403.08284](http://arxiv.org/abs/2403.08284)|null|
+|**2024-03-12**|**Efficient Language Model Architectures for Differentially Private Federated Learning**|Jae Hun Ro et.al.|[2403.08100](http://arxiv.org/abs/2403.08100)|null|
 |**2024-03-12**|**Quantifying and Mitigating Privacy Risks for Tabular Generative Models**|Chaoyi Zhu et.al.|[2403.07842](http://arxiv.org/abs/2403.07842)|null|
 |**2024-03-12**|**MPCPA: Multi-Center Privacy Computing with Predictions Aggregation based on Denoising Diffusion Probabilistic Model**|Guibo Luo et.al.|[2403.07838](http://arxiv.org/abs/2403.07838)|null|
 |**2024-03-12**|**UniHand: Privacy-preserving Universal Handover for Small-Cell Networks in 5G-enabled Mobile Communication with KCI Resilience**|Rabiah Alnashwan et.al.|[2403.07817](http://arxiv.org/abs/2403.07817)|null|
