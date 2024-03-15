@@ -304,6 +304,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**Defense via Behavior Attestation against Attacks in Connected and Automated Vehicles based Federated Learning Systems**|Godwin Badu-Marfo et.al.|[2403.09531](http://arxiv.org/abs/2403.09531)|null|
+|**2024-03-14**|**Privacy Preserving Anomaly Detection on Homomorphic Encrypted Data from IoT Sensors**|Anca Hangan et.al.|[2403.09322](http://arxiv.org/abs/2403.09322)|null|
+|**2024-03-14**|**DA-PFL: Dynamic Affinity Aggregation for Personalized Federated Learning**|Xu Yang et.al.|[2403.09284](http://arxiv.org/abs/2403.09284)|null|
+|**2024-03-14**|**Bridging Quantum Computing and Differential Privacy: A Survey on Quantum Computing Privacy**|Yusheng Zhao et.al.|[2403.09173](http://arxiv.org/abs/2403.09173)|null|
+|**2024-03-14**|**Fairness-Aware Multi-Server Federated Learning Task Delegation over Wireless Networks**|Yulan Gao et.al.|[2403.09153](http://arxiv.org/abs/2403.09153)|null|
+|**2024-03-14**|**Metadata-Driven Federated Learning of Connectional Brain Templates in Non-IID Multi-Domain Scenarios**|Geng Chen et.al.|[2403.09139](http://arxiv.org/abs/2403.09139)|null|
+|**2024-03-14**|**Learning from straggler clients in federated learning**|Andrew Hard et.al.|[2403.09086](http://arxiv.org/abs/2403.09086)|null|
+|**2024-03-14**|**Ciphertext-Only Attack on a Secure $k$ -NN Computation on Cloud**|Shyam Murthy et.al.|[2403.09080](http://arxiv.org/abs/2403.09080)|null|
+|**2024-03-14**|**Taming Cross-Domain Representation Variance in Federated Prototype Learning with Heterogeneous Data Domains**|Lei Wang et.al.|[2403.09048](http://arxiv.org/abs/2403.09048)|null|
 |**2024-03-13**|**Federated Knowledge Graph Unlearning via Diffusion Model**|Bingchen Liu et.al.|[2403.08554](http://arxiv.org/abs/2403.08554)|null|
 |**2024-03-13**|**RAF-GI: Towards Robust, Accurate and Fast-Convergent Gradient Inversion Attack in Federated Learning**|Can Liu et.al.|[2403.08383](http://arxiv.org/abs/2403.08383)|null|
 |**2024-03-13**|**Decoupled Federated Learning on Long-Tailed and Non-IID data with Feature Statistics**|Zhuoxin Chen et.al.|[2403.08364](http://arxiv.org/abs/2403.08364)|null|
