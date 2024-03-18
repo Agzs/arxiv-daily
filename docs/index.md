@@ -328,7 +328,7 @@ layout: default
 |**2024-03-10**|**Federated Learning: Attacks, Defenses, Opportunities, and Challenges**|Ghazaleh Shirvani et.al.|[2403.06067](http://arxiv.org/abs/2403.06067)|null|
 |**2024-03-08**|**FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation**|Yuxi Liu et.al.|[2403.05408](http://arxiv.org/abs/2403.05408)|**[link](https://github.com/liu-yuxi/fedfms)**|
 |**2024-03-08**|**Federated Learning Method for Preserving Privacy in Face Recognition System**|Enoch Solomon et.al.|[2403.05344](http://arxiv.org/abs/2403.05344)|null|
-|**2024-03-08**|**Developing Federated Time-to-Event Scores Using Heterogeneous Real-World Survival Data**|Siqi Li et.al.|[2403.05229](http://arxiv.org/abs/2403.05229)|null|
+|**2024-03-08**|**Developing Federated Time-to-Event Scores Using Heterogeneous Real-World Survival Data**|Siqi Li et.al.|[2403.05229](http://arxiv.org/abs/2403.05229)|**[link](https://github.com/nliulab/FedScore)**|
 |**2024-03-08**|**RIS-empowered Topology Control for Distributed Learning in Urban Air Mobility**|Kai Xiong et.al.|[2403.05133](http://arxiv.org/abs/2403.05133)|null|
 |**2024-03-07**|**Mechanism for Decision-aware Collaborative Federated Learning: A Pitfall of Shapley Values**|Meng Qi et.al.|[2403.04753](http://arxiv.org/abs/2403.04753)|null|
 |**2024-03-07**|**Architectural Blueprint For Heterogeneity-Resilient Federated Learning**|Satwat Bashir et.al.|[2403.04546](http://arxiv.org/abs/2403.04546)|null|
@@ -485,7 +485,7 @@ layout: default
 |**2024-02-07**|**Examining Modality Incongruity in Multimodal Federated Learning for Medical Vision and Language-based Disease Detection**|Pramit Saha et.al.|[2402.05294](http://arxiv.org/abs/2402.05294)|null|
 |**2024-02-07**|**Enabling Architecture for Distributed Intelligent Network Softwarization for the Internet of Things**|Mohamed Ali Zormati et.al.|[2402.05259](http://arxiv.org/abs/2402.05259)|null|
 |**2024-02-07**|**Federated Learning Can Find Friends That Are Beneficial**|Nazarii Tupitsa et.al.|[2402.05050](http://arxiv.org/abs/2402.05050)|null|
-|**2024-02-07**|**Group Distributionally Robust Dataset Distillation with Risk Minimization**|Saeed Vahidian et.al.|[2402.04676](http://arxiv.org/abs/2402.04676)|null|
+|**2024-02-07**|**Group Distributionally Robust Dataset Distillation with Risk Minimization**|Saeed Vahidian et.al.|[2402.04676](http://arxiv.org/abs/2402.04676)|**[link](https://github.com/mming11/robustdatasetdistillation)**|
 |**2024-02-06**|**Decentralized Blockchain-based Robust Multi-agent Multi-armed Bandit**|Mengfan Xu et.al.|[2402.04417](http://arxiv.org/abs/2402.04417)|null|
 |**2024-02-06**|**Towards Fair, Robust and Efficient Client Contribution Evaluation in Federated Learning**|Meiying Zhang et.al.|[2402.04409](http://arxiv.org/abs/2402.04409)|null|
 |**2024-02-06**|**Resource-Aware Hierarchical Federated Learning in Wireless Video Caching Networks**|Md Ferdous Pervej et.al.|[2402.04216](http://arxiv.org/abs/2402.04216)|null|
@@ -494,7 +494,7 @@ layout: default
 |**2024-02-06**|**A Survey of Privacy Threats and Defense in Vertical Federated Learning: From Model Life Cycle Perspective**|Lei Yu et.al.|[2402.03688](http://arxiv.org/abs/2402.03688)|null|
 |**2024-02-06**|**Disparate Impact on Group Accuracy of Linearization for Private Inference**|Saswat Das et.al.|[2402.03629](http://arxiv.org/abs/2402.03629)|null|
 |**2024-02-05**|**Fairness and Privacy Guarantees in Federated Contextual Bandits**|Sambhav Solanki et.al.|[2402.03531](http://arxiv.org/abs/2402.03531)|null|
-|**2024-02-05**|**Decentralized Sporadic Federated Learning: A Unified Methodology with Generalized Convergence Guarantees**|Shahryar Zehtabi et.al.|[2402.03448](http://arxiv.org/abs/2402.03448)|null|
+|**2024-02-05**|**Decentralized Sporadic Federated Learning: A Unified Methodology with Generalized Convergence Guarantees**|Shahryar Zehtabi et.al.|[2402.03448](http://arxiv.org/abs/2402.03448)|**[link](https://github.com/ShahryarBQ/DSpodFL)**|
 |**2024-02-05**|**Towards Eliminating Hard Label Constraints in Gradient Inversion Attacks**|Yanbo Wang et.al.|[2402.03124](http://arxiv.org/abs/2402.03124)|**[link](https://github.com/ybwang119/label_recovery)**|
 |**2024-02-05**|**UniHENN: Designing More Versatile Homomorphic Encryption-based CNNs without im2col**|Hyunmin Choi et.al.|[2402.03060](http://arxiv.org/abs/2402.03060)|null|
 |**2024-02-05**|**On the Impact of Output Perturbation on Fairness in Binary Linear Classification**|Vitalii Emelianov et.al.|[2402.03011](http://arxiv.org/abs/2402.03011)|null|
