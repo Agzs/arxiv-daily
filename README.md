@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**How To Save Fees in Bitcoin Smart Contracts: a Simple Optimistic Off-chain Protocol**|Dario Maddaloni et.al.|[2403.09880](http://arxiv.org/abs/2403.09880)|null|
+|**2024-03-13**|**Teaching Machines to Code: Smart Contract Translation with LLMs**|Rabimba Karanjai et.al.|[2403.09740](http://arxiv.org/abs/2403.09740)|null|
 |**2024-03-12**|**Fixing Smart Contract Vulnerabilities: A Comparative Analysis of Literature and Developer's Practices**|Francesco Salzano et.al.|[2403.07458](http://arxiv.org/abs/2403.07458)|null|
 |**2024-03-11**|**ACFIX: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts**|Lyuye Zhang et.al.|[2403.06838](http://arxiv.org/abs/2403.06838)|null|
 |**2024-03-11**|**SmartML: Towards a Modeling Language for Smart Contracts**|Adele Veschetti et.al.|[2403.06622](http://arxiv.org/abs/2403.06622)|null|
@@ -304,6 +306,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-15**|**Interactive Trimming against Evasive Online Data Manipulation Attacks: A Game-Theoretic Approach**|Yue Fu et.al.|[2403.10313](http://arxiv.org/abs/2403.10313)|null|
+|**2024-03-15**|**RID-TWIN: An end-to-end pipeline for automatic face de-identification in videos**|Anirban Mukherjee et.al.|[2403.10058](http://arxiv.org/abs/2403.10058)|null|
+|**2024-03-15**|**Securing Federated Learning with Control-Flow Attestation: A Novel Framework for Enhanced Integrity and Resilience against Adversarial Attacks**|Zahir Alsulaimawi et.al.|[2403.10005](http://arxiv.org/abs/2403.10005)|null|
+|**2024-03-15**|**Federated Learning with Anomaly Detection via Gradient and Reconstruction Analysis**|Zahir Alsulaimawi et.al.|[2403.10000](http://arxiv.org/abs/2403.10000)|null|
+|**2024-03-14**|**FedComLoc: Communication-Efficient Distributed Training of Sparse and Quantized Models**|Kai Yi et.al.|[2403.09904](http://arxiv.org/abs/2403.09904)|null|
+|**2024-03-14**|**Empowering Healthcare through Privacy-Preserving MRI Analysis**|Al Amin et.al.|[2403.09836](http://arxiv.org/abs/2403.09836)|null|
+|**2024-03-14**|**Explainable Machine Learning-Based Security and Privacy Protection Framework for Internet of Medical Things Systems**|Ayoub Si-ahmed et.al.|[2403.09752](http://arxiv.org/abs/2403.09752)|null|
 |**2024-03-14**|**Defense via Behavior Attestation against Attacks in Connected and Automated Vehicles based Federated Learning Systems**|Godwin Badu-Marfo et.al.|[2403.09531](http://arxiv.org/abs/2403.09531)|null|
 |**2024-03-14**|**Privacy Preserving Anomaly Detection on Homomorphic Encrypted Data from IoT Sensors**|Anca Hangan et.al.|[2403.09322](http://arxiv.org/abs/2403.09322)|null|
 |**2024-03-14**|**DA-PFL: Dynamic Affinity Aggregation for Personalized Federated Learning**|Xu Yang et.al.|[2403.09284](http://arxiv.org/abs/2403.09284)|null|
