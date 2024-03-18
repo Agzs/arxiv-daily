@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.17
+## Updated on 2024.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -20,7 +20,7 @@ layout: default
 |**2024-03-08**|**vSPACE: Voting in a Scalable, Privacy-Aware and Confidential Election**|Se Elnour et.al.|[2403.05275](http://arxiv.org/abs/2403.05275)|null|
 |**2024-03-05**|**Blockchain-Enhanced UAV Networks for Post-Disaster Communication: A Decentralized Flocking Approach**|Sana Hafeez et.al.|[2403.04796](http://arxiv.org/abs/2403.04796)|null|
 |**2024-03-07**|**Collaborative Cybersecurity Using Blockchain: A Survey**|Loïc Miller et.al.|[2403.04410](http://arxiv.org/abs/2403.04410)|null|
-|**2024-03-06**|**On HTLC-Based Protocols for Multi-Party Cross-Chain Swaps**|Emily Clark et.al.|[2403.03906](http://arxiv.org/abs/2403.03906)|null|
+|**2024-03-14**|**On HTLC-Based Protocols for Multi-Party Cross-Chain Swaps**|Emily Clark et.al.|[2403.03906](http://arxiv.org/abs/2403.03906)|null|
 |**2024-03-06**|**Blockchain and Carbon Markets: Standards Overview**|Pedro Baiz et.al.|[2403.03865](http://arxiv.org/abs/2403.03865)|null|
 |**2024-03-05**|**How to Save My Gas Fees: Understanding and Detecting Real-world Gas Issues in Solidity Programs**|Mengting He et.al.|[2403.02661](http://arxiv.org/abs/2403.02661)|**[link](https://github.com/pecatch-artifact/pecatch-artifact)**|
 |**2024-03-04**|**Building Trust in Data for IoT Systems**|Davide Margaria et.al.|[2403.02225](http://arxiv.org/abs/2403.02225)|null|
@@ -202,7 +202,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-12**|**Atomicity and Abstraction for Cross-Blockchain Interactions**|Huaixi Lu et.al.|[2403.07248](http://arxiv.org/abs/2403.07248)|null|
-|**2024-03-06**|**On HTLC-Based Protocols for Multi-Party Cross-Chain Swaps**|Emily Clark et.al.|[2403.03906](http://arxiv.org/abs/2403.03906)|null|
+|**2024-03-14**|**On HTLC-Based Protocols for Multi-Party Cross-Chain Swaps**|Emily Clark et.al.|[2403.03906](http://arxiv.org/abs/2403.03906)|null|
 |**2024-03-01**|**SoK: Cross-Chain Bridging Architectural Design Flaws and Mitigations**|Jakob Svennevik Notland et.al.|[2403.00405](http://arxiv.org/abs/2403.00405)|null|
 |**2024-02-26**|**Multichain Taprootized Atomic Swaps: Introducing Untraceability through Zero-Knowledge Proofs**|Oleksandr Kurbatov et.al.|[2402.16735](http://arxiv.org/abs/2402.16735)|**[link](https://github.com/distributed-lab/taprootized-atomic-swaps)**|
 |**2023-12-19**|**SoK: Security of Cross-chain Bridges: Attack Surfaces, Defenses, and Open Problems**|Mengya Zhang et.al.|[2312.12573](http://arxiv.org/abs/2312.12573)|null|
