@@ -296,6 +296,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-19**|**Selective, Interpretable, and Motion Consistent Privacy Attribute Obfuscation for Action Recognition**|Filip Ilic et.al.|[2403.12710](http://arxiv.org/abs/2403.12710)|null|
+|**2024-03-19**|**Federated Semi-supervised Learning for Medical Image Segmentation with intra-client and inter-client Consistency**|Yubin Zheng et.al.|[2403.12695](http://arxiv.org/abs/2403.12695)|null|
+|**2024-03-19**|**Memory-Efficient and Secure DNN Inference on TrustZone-enabled Consumer IoT Devices**|Xueshuo Xie et.al.|[2403.12568](http://arxiv.org/abs/2403.12568)|**[link](https://github.com/nkicsl/smartzone)**|
+|**2024-03-19**|**Privacy-Preserving Face Recognition Using Trainable Feature Subtraction**|Yuxi Mi et.al.|[2403.12457](http://arxiv.org/abs/2403.12457)|**[link](https://github.com/Tencent/TFace)**|
+|**2024-03-19**|**FedFisher: Leveraging Fisher Information for One-Shot Federated Learning**|Divyansh Jhunjhunwala et.al.|[2403.12329](http://arxiv.org/abs/2403.12329)|**[link](https://github.com/divyansh03/fedfisher)**|
+|**2024-03-18**|**Improving LoRA in Privacy-preserving Federated Learning**|Youbang Sun et.al.|[2403.12313](http://arxiv.org/abs/2403.12313)|null|
+|**2024-03-18**|**KnFu: Effective Knowledge Fusion**|S. Jamal Seyedmohammadi et.al.|[2403.11892](http://arxiv.org/abs/2403.11892)|null|
+|**2024-03-18**|**Federated Modality-specific Encoders and Multimodal Anchors for Personalized Brain Tumor Segmentation**|Qian Dai et.al.|[2403.11803](http://arxiv.org/abs/2403.11803)|null|
+|**2024-03-18**|**Low-Cost Privacy-Aware Decentralized Learning**|Sayan Biswas et.al.|[2403.11795](http://arxiv.org/abs/2403.11795)|null|
 |**2024-03-18**|**Efficient and Privacy-Preserving Federated Learning based on Full Homomorphic Encryption**|Yuqi Guo et.al.|[2403.11519](http://arxiv.org/abs/2403.11519)|null|
 |**2024-03-18**|**FedSPU: Personalized Federated Learning for Resource-constrained Devices with Stochastic Parameter Update**|Ziru Niu et.al.|[2403.11464](http://arxiv.org/abs/2403.11464)|null|
 |**2024-03-18**|**Fed3DGS: Scalable 3D Gaussian Splatting with Federated Learning**|Teppei Suzuki et.al.|[2403.11460](http://arxiv.org/abs/2403.11460)|**[link](https://github.com/densoitlab/fed3dgs)**|
