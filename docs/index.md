@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**Specification Mining for Smart Contracts with Trace Slicing and Predicate Abstraction**|Ye Liu et.al.|[2403.13279](http://arxiv.org/abs/2403.13279)|null|
 |**2024-03-17**|**Efficiently Detecting Reentrancy Vulnerabilities in Complex Smart Contracts**|Zexu Wang et.al.|[2403.11254](http://arxiv.org/abs/2403.11254)|null|
 |**2024-03-17**|**A Tip for IOTA Privacy: IOTA Light Node Deanonymization via Tip Selection**|Hojung Yang et.al.|[2403.11171](http://arxiv.org/abs/2403.11171)|null|
 |**2024-03-14**|**How To Save Fees in Bitcoin Smart Contracts: a Simple Optimistic Off-chain Protocol**|Dario Maddaloni et.al.|[2403.09880](http://arxiv.org/abs/2403.09880)|null|
@@ -296,6 +297,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather**|Giulia Rizzoli et.al.|[2403.13762](http://arxiv.org/abs/2403.13762)|null|
+|**2024-03-20**|**Quantum-Secure Certificate-Less Conditional Privacy-Preserving Authentication for VANET**|Girraj Kumar Verma et.al.|[2403.13743](http://arxiv.org/abs/2403.13743)|null|
+|**2024-03-20**|**Does Differentially Private Synthetic Data Lead to Synthetic Discoveries?**|Ileana Montoya Perez et.al.|[2403.13612](http://arxiv.org/abs/2403.13612)|null|
+|**2024-03-20**|**Leveraging feature communication in federated learning for remote sensing image classification**|Anh-Kiet Duong et.al.|[2403.13575](http://arxiv.org/abs/2403.13575)|null|
+|**2024-03-20**|**Byzantine-resilient Federated Learning With Adaptivity to Data Heterogeneity**|Shiyuan Zuo et.al.|[2403.13374](http://arxiv.org/abs/2403.13374)|null|
+|**2024-03-20**|**A Control-Recoverable Added-Noise-based Privacy Scheme for LQ Control in Networked Control Systems**|Xuening Tang et.al.|[2403.13346](http://arxiv.org/abs/2403.13346)|null|
+|**2024-03-20**|**Private Aggregate Queries to Untrusted Databases**|Syed Mahbub Hafiz et.al.|[2403.13296](http://arxiv.org/abs/2403.13296)|null|
+|**2024-03-20**|**Decentralized Federated Learning: Model Update Tracking Under Imperfect Information Sharing**|Vishnu Pandi Chellapandi et.al.|[2403.13247](http://arxiv.org/abs/2403.13247)|null|
+|**2024-03-19**|**DecentNeRFs: Decentralized Neural Radiance Fields from Crowdsourced Images**|Zaid Tasneem et.al.|[2403.13199](http://arxiv.org/abs/2403.13199)|null|
+|**2024-03-19**|**Analyzing the Impact of Partial Sharing on the Resilience of Online Federated Learning Against Model Poisoning Attacks**|Ehsan Lari et.al.|[2403.13108](http://arxiv.org/abs/2403.13108)|null|
 |**2024-03-19**|**Selective, Interpretable, and Motion Consistent Privacy Attribute Obfuscation for Action Recognition**|Filip Ilic et.al.|[2403.12710](http://arxiv.org/abs/2403.12710)|null|
 |**2024-03-19**|**Federated Semi-supervised Learning for Medical Image Segmentation with intra-client and inter-client Consistency**|Yubin Zheng et.al.|[2403.12695](http://arxiv.org/abs/2403.12695)|null|
 |**2024-03-19**|**Memory-Efficient and Secure DNN Inference on TrustZone-enabled Consumer IoT Devices**|Xueshuo Xie et.al.|[2403.12568](http://arxiv.org/abs/2403.12568)|**[link](https://github.com/nkicsl/smartzone)**|
