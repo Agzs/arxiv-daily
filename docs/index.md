@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**Large Language Models for Blockchain Security: A Systematic Literature Review**|Zheyuan He et.al.|[2403.14280](http://arxiv.org/abs/2403.14280)|null|
 |**2024-03-20**|**Specification Mining for Smart Contracts with Trace Slicing and Predicate Abstraction**|Ye Liu et.al.|[2403.13279](http://arxiv.org/abs/2403.13279)|null|
 |**2024-03-17**|**Efficiently Detecting Reentrancy Vulnerabilities in Complex Smart Contracts**|Zexu Wang et.al.|[2403.11254](http://arxiv.org/abs/2403.11254)|null|
 |**2024-03-17**|**A Tip for IOTA Privacy: IOTA Light Node Deanonymization via Tip Selection**|Hojung Yang et.al.|[2403.11171](http://arxiv.org/abs/2403.11171)|null|
@@ -236,6 +237,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**Zero-Knowledge Proof of Distinct Identity: a Standard-compatible Sybil-resistant Pseudonym Extension for C-ITS**|Ye Tao et.al.|[2403.14020](http://arxiv.org/abs/2403.14020)|null|
 |**2024-03-08**|**TIPS: Threat Sharing Information Platform for Enhanced Security**|Lakshmi Rama Kiran Pasumarthy et.al.|[2403.05210](http://arxiv.org/abs/2403.05210)|null|
 |**2024-02-26**|**Multichain Taprootized Atomic Swaps: Introducing Untraceability through Zero-Knowledge Proofs**|Oleksandr Kurbatov et.al.|[2402.16735](http://arxiv.org/abs/2402.16735)|**[link](https://github.com/distributed-lab/taprootized-atomic-swaps)**|
 |**2024-03-06**|**SoK: What don't we know? Understanding Security Vulnerabilities in SNARKs**|Stefanos Chaliasos et.al.|[2402.15293](http://arxiv.org/abs/2402.15293)|null|
@@ -297,6 +299,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-21**|**FHAUC: Privacy Preserving AUC Calculation for Federated Learning using Fully Homomorphic Encryption**|Cem Ata Baykara et.al.|[2403.14428](http://arxiv.org/abs/2403.14428)|null|
+|**2024-03-21**|**Loop Improvement: An Efficient Approach for Extracting Shared Features from Heterogeneous Data without Central Server**|Fei Li et.al.|[2403.14371](http://arxiv.org/abs/2403.14371)|**[link](https://github.com/axedge1983/li)**|
+|**2024-03-21**|**Advancing IIoT with Over-the-Air Federated Learning: The Role of Iterative Magnitude Pruning**|Fazal Muhammad Ali Khan et.al.|[2403.14120](http://arxiv.org/abs/2403.14120)|null|
+|**2024-03-21**|**HETAL: Efficient Privacy-preserving Transfer Learning with Homomorphic Encryption**|Seewoo Lee et.al.|[2403.14111](http://arxiv.org/abs/2403.14111)|**[link](https://github.com/cryptolabinc/hetal)**|
+|**2024-03-21**|**Text-Enhanced Data-free Approach for Federated Class-Incremental Learning**|Minh-Tuan Tran et.al.|[2403.14101](http://arxiv.org/abs/2403.14101)|**[link](https://github.com/tmtuan1307/lander)**|
+|**2024-03-20**|**A system capable of verifiably and privately screening global DNA synthesis**|Carsten Baum et.al.|[2403.14023](http://arxiv.org/abs/2403.14023)|null|
 |**2024-03-20**|**When Cars meet Drones: Hyperbolic Federated Learning for Source-Free Domain Adaptation in Adverse Weather**|Giulia Rizzoli et.al.|[2403.13762](http://arxiv.org/abs/2403.13762)|null|
 |**2024-03-20**|**Quantum-Secure Certificate-Less Conditional Privacy-Preserving Authentication for VANET**|Girraj Kumar Verma et.al.|[2403.13743](http://arxiv.org/abs/2403.13743)|null|
 |**2024-03-20**|**Does Differentially Private Synthetic Data Lead to Synthetic Discoveries?**|Ileana Montoya Perez et.al.|[2403.13612](http://arxiv.org/abs/2403.13612)|null|
