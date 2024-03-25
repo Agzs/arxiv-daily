@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**A Taxmans guide to taxation of crypto assets**|Arindam Misra et.al.|[2403.15074](http://arxiv.org/abs/2403.15074)|null|
 |**2024-03-21**|**Large Language Models for Blockchain Security: A Systematic Literature Review**|Zheyuan He et.al.|[2403.14280](http://arxiv.org/abs/2403.14280)|null|
 |**2024-03-20**|**Specification Mining for Smart Contracts with Trace Slicing and Predicate Abstraction**|Ye Liu et.al.|[2403.13279](http://arxiv.org/abs/2403.13279)|null|
 |**2024-03-17**|**Efficiently Detecting Reentrancy Vulnerabilities in Complex Smart Contracts**|Zexu Wang et.al.|[2403.11254](http://arxiv.org/abs/2403.11254)|null|
@@ -215,6 +216,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse**|Jiawen Kang et.al.|[2403.15285](http://arxiv.org/abs/2403.15285)|null|
+|**2024-03-22**|**ECHO: Efficient Off-Chain Payments and Cross-Chain Swaps for Cryptocurrencies**|Di Wu et.al.|[2403.15191](http://arxiv.org/abs/2403.15191)|null|
 |**2024-03-12**|**Atomicity and Abstraction for Cross-Blockchain Interactions**|Huaixi Lu et.al.|[2403.07248](http://arxiv.org/abs/2403.07248)|null|
 |**2024-03-14**|**On HTLC-Based Protocols for Multi-Party Cross-Chain Swaps**|Emily Clark et.al.|[2403.03906](http://arxiv.org/abs/2403.03906)|null|
 |**2024-03-01**|**SoK: Cross-Chain Bridging Architectural Design Flaws and Mitigations**|Jakob Svennevik Notland et.al.|[2403.00405](http://arxiv.org/abs/2403.00405)|null|
@@ -247,6 +250,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**VPAS: Publicly Verifiable and Privacy-Preserving Aggregate Statistics on Distributed Datasets**|Mohammed Alghazwi et.al.|[2403.15208](http://arxiv.org/abs/2403.15208)|null|
 |**2024-03-20**|**Zero-Knowledge Proof of Distinct Identity: a Standard-compatible Sybil-resistant Pseudonym Extension for C-ITS**|Ye Tao et.al.|[2403.14020](http://arxiv.org/abs/2403.14020)|null|
 |**2024-03-08**|**TIPS: Threat Sharing Information Platform for Enhanced Security**|Lakshmi Rama Kiran Pasumarthy et.al.|[2403.05210](http://arxiv.org/abs/2403.05210)|null|
 |**2024-02-26**|**Multichain Taprootized Atomic Swaps: Introducing Untraceability through Zero-Knowledge Proofs**|Oleksandr Kurbatov et.al.|[2402.16735](http://arxiv.org/abs/2402.16735)|**[link](https://github.com/distributed-lab/taprootized-atomic-swaps)**|
@@ -311,6 +315,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse**|Jiawen Kang et.al.|[2403.15285](http://arxiv.org/abs/2403.15285)|null|
+|**2024-03-22**|**Federated Bayesian Deep Learning: The Application of Statistical Aggregation Methods to Bayesian Models**|John Fischer et.al.|[2403.15263](http://arxiv.org/abs/2403.15263)|null|
+|**2024-03-22**|**VPAS: Publicly Verifiable and Privacy-Preserving Aggregate Statistics on Distributed Datasets**|Mohammed Alghazwi et.al.|[2403.15208](http://arxiv.org/abs/2403.15208)|null|
+|**2024-03-22**|**FileDES: A Secure Scalable and Succinct Decentralized Encrypted Storage Network**|Minghui Xu et.al.|[2403.14985](http://arxiv.org/abs/2403.14985)|null|
+|**2024-03-22**|**Contrastive Learning on Multimodal Analysis of Electronic Health Records**|Tianxi Cai et.al.|[2403.14926](http://arxiv.org/abs/2403.14926)|null|
+|**2024-03-22**|**Snail: Secure Single Iteration Localization**|James Choncholas et.al.|[2403.14916](http://arxiv.org/abs/2403.14916)|null|
+|**2024-03-22**|**Adaptive Coded Federated Learning: Privacy Preservation and Straggler Mitigation**|Chengxi Li et.al.|[2403.14905](http://arxiv.org/abs/2403.14905)|null|
+|**2024-03-21**|**FedMef: Towards Memory-efficient Federated Dynamic Pruning**|Hong Huang et.al.|[2403.14737](http://arxiv.org/abs/2403.14737)|null|
 |**2024-03-21**|**FHAUC: Privacy Preserving AUC Calculation for Federated Learning using Fully Homomorphic Encryption**|Cem Ata Baykara et.al.|[2403.14428](http://arxiv.org/abs/2403.14428)|null|
 |**2024-03-21**|**Loop Improvement: An Efficient Approach for Extracting Shared Features from Heterogeneous Data without Central Server**|Fei Li et.al.|[2403.14371](http://arxiv.org/abs/2403.14371)|**[link](https://github.com/axedge1983/li)**|
 |**2024-03-21**|**Advancing IIoT with Over-the-Air Federated Learning: The Role of Iterative Magnitude Pruning**|Fazal Muhammad Ali Khan et.al.|[2403.14120](http://arxiv.org/abs/2403.14120)|null|
