@@ -20,8 +20,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-24**|**Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications**|Wei Ma et.al.|[2403.16073](http://arxiv.org/abs/2403.16073)|null|
+|**2024-03-13**|**Single-token vs Two-token Blockchain Tokenomics**|Aggelos Kiayias et.al.|[2403.15429](http://arxiv.org/abs/2403.15429)|null|
 |**2024-03-22**|**A Taxmans guide to taxation of crypto assets**|Arindam Misra et.al.|[2403.15074](http://arxiv.org/abs/2403.15074)|null|
-|**2024-03-21**|**Large Language Models for Blockchain Security: A Systematic Literature Review**|Zheyuan He et.al.|[2403.14280](http://arxiv.org/abs/2403.14280)|null|
+|**2024-03-24**|**Large Language Models for Blockchain Security: A Systematic Literature Review**|Zheyuan He et.al.|[2403.14280](http://arxiv.org/abs/2403.14280)|null|
 |**2024-03-20**|**Specification Mining for Smart Contracts with Trace Slicing and Predicate Abstraction**|Ye Liu et.al.|[2403.13279](http://arxiv.org/abs/2403.13279)|null|
 |**2024-03-17**|**Efficiently Detecting Reentrancy Vulnerabilities in Complex Smart Contracts**|Zexu Wang et.al.|[2403.11254](http://arxiv.org/abs/2403.11254)|null|
 |**2024-03-17**|**A Tip for IOTA Privacy: IOTA Light Node Deanonymization via Tip Selection**|Hojung Yang et.al.|[2403.11171](http://arxiv.org/abs/2403.11171)|null|
@@ -315,6 +317,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**Distributed collaborative anomalous sound detection by embedding sharing**|Kota Dohi et.al.|[2403.16610](http://arxiv.org/abs/2403.16610)|null|
+|**2024-03-25**|**Deciphering the Interplay between Local Differential Privacy, Average Bayesian Privacy, and Maximum Bayesian Privacy**|Xiaojin Zhang et.al.|[2403.16591](http://arxiv.org/abs/2403.16591)|null|
+|**2024-03-25**|**FedFixer: Mitigating Heterogeneous Label Noise in Federated Learning**|Xinyuan Ji et.al.|[2403.16561](http://arxiv.org/abs/2403.16561)|null|
+|**2024-03-25**|**Accelerating Federated Learning by Selecting Beneficial Herd of Local Gradients**|Ping Luo et.al.|[2403.16557](http://arxiv.org/abs/2403.16557)|null|
+|**2024-03-25**|**Differentially Private Online Federated Learning with Correlated Noise**|Jiaojiao Zhang et.al.|[2403.16542](http://arxiv.org/abs/2403.16542)|null|
+|**2024-03-25**|**Plaintext-Free Deep Learning for Privacy-Preserving Medical Image Analysis via Frequency Information Embedding**|Mengyu Sun et.al.|[2403.16473](http://arxiv.org/abs/2403.16473)|null|
+|**2024-03-25**|**FedAC: A Adaptive Clustered Federated Learning Framework for Heterogeneous Data**|Yuxin Zhang et.al.|[2403.16460](http://arxiv.org/abs/2403.16460)|null|
+|**2024-03-25**|**Rethinking the Representation in Federated Unsupervised Learning with Non-IID Data**|Xinting Liao et.al.|[2403.16398](http://arxiv.org/abs/2403.16398)|null|
+|**2024-03-24**|**A General and Efficient Federated Split Learning with Pre-trained Image Transformers for Heterogeneous Data**|Yifan Shi et.al.|[2403.16050](http://arxiv.org/abs/2403.16050)|null|
+|**2024-03-24**|**A Federated Parameter Aggregation Method for Node Classification Tasks with Different Graph Network Structures**|Hao Song et.al.|[2403.16004](http://arxiv.org/abs/2403.16004)|null|
 |**2024-03-22**|**Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse**|Jiawen Kang et.al.|[2403.15285](http://arxiv.org/abs/2403.15285)|null|
 |**2024-03-22**|**Federated Bayesian Deep Learning: The Application of Statistical Aggregation Methods to Bayesian Models**|John Fischer et.al.|[2403.15263](http://arxiv.org/abs/2403.15263)|null|
 |**2024-03-22**|**VPAS: Publicly Verifiable and Privacy-Preserving Aggregate Statistics on Distributed Datasets**|Mohammed Alghazwi et.al.|[2403.15208](http://arxiv.org/abs/2403.15208)|null|
