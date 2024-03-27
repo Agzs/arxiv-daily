@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**Towards Secure and Trusted-by-Design Smart Contracts**|Zaynah Dargaye et.al.|[2403.16903](http://arxiv.org/abs/2403.16903)|null|
+|**2024-03-26**|**DISL: Fueling Research with A Large Dataset of Solidity Smart Contracts**|Gabriele Morello et.al.|[2403.16861](http://arxiv.org/abs/2403.16861)|null|
 |**2024-03-24**|**Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications**|Wei Ma et.al.|[2403.16073](http://arxiv.org/abs/2403.16073)|null|
 |**2024-03-13**|**Single-token vs Two-token Blockchain Tokenomics**|Aggelos Kiayias et.al.|[2403.15429](http://arxiv.org/abs/2403.15429)|null|
 |**2024-03-22**|**A Taxmans guide to taxation of crypto assets**|Arindam Misra et.al.|[2403.15074](http://arxiv.org/abs/2403.15074)|null|
@@ -218,6 +220,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**Machine Learning on Blockchain Data: A Systematic Mapping Study**|Georgios Palaiokrassas et.al.|[2403.17081](http://arxiv.org/abs/2403.17081)|null|
 |**2024-03-22**|**Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse**|Jiawen Kang et.al.|[2403.15285](http://arxiv.org/abs/2403.15285)|null|
 |**2024-03-22**|**ECHO: Efficient Off-Chain Payments and Cross-Chain Swaps for Cryptocurrencies**|Di Wu et.al.|[2403.15191](http://arxiv.org/abs/2403.15191)|null|
 |**2024-03-12**|**Atomicity and Abstraction for Cross-Blockchain Interactions**|Huaixi Lu et.al.|[2403.07248](http://arxiv.org/abs/2403.07248)|null|
@@ -317,6 +320,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-26**|**Empowering Data Mesh with Federated Learning**|Haoyuan Li et.al.|[2403.17878](http://arxiv.org/abs/2403.17878)|**[link](https://github.com/haoyuan-l/fed_datamesh)**|
+|**2024-03-26**|**GPFL: A Gradient Projection-Based Client Selection Framework for Efficient Federated Learning**|Shijie Na et.al.|[2403.17833](http://arxiv.org/abs/2403.17833)|null|
+|**2024-03-26**|**Secure Aggregation is Not Private Against Membership Inference Attacks**|Khac-Hoang Ngo et.al.|[2403.17775](http://arxiv.org/abs/2403.17775)|null|
+|**2024-03-26**|**Enhancing Privacy in Federated Learning through Local Training**|Nicola Bastianello et.al.|[2403.17572](http://arxiv.org/abs/2403.17572)|null|
+|**2024-03-26**|**FedMIL: Federated-Multiple Instance Learning for Video Analysis with Optimized DPP Scheduling**|Ashish Bastola et.al.|[2403.17331](http://arxiv.org/abs/2403.17331)|null|
+|**2024-03-26**|**Hawk: Accurate and Fast Privacy-Preserving Machine Learning Using Secure Lookup Table Computation**|Hamza Saleem et.al.|[2403.17296](http://arxiv.org/abs/2403.17296)|null|
+|**2024-03-26**|**Not All Federated Learning Algorithms Are Created Equal: A Performance Evaluation Study**|Gustav A. Baumgart et.al.|[2403.17287](http://arxiv.org/abs/2403.17287)|null|
+|**2024-03-25**|**Engagement Measurement Based on Facial Landmarks and Spatial-Temporal Graph Convolutional Networks**|Ali Abedi et.al.|[2403.17175](http://arxiv.org/abs/2403.17175)|null|
+|**2024-03-25**|**FLIGAN: Enhancing Federated Learning with Incomplete Data using GAN**|Paul Joe Maliakel et.al.|[2403.16930](http://arxiv.org/abs/2403.16930)|null|
+|**2024-03-25**|**Privacy Preservation by Intermittent Transmission in Cooperative LQG Control Systems**|Wenhao Lin et.al.|[2403.16797](http://arxiv.org/abs/2403.16797)|null|
 |**2024-03-25**|**Distributed collaborative anomalous sound detection by embedding sharing**|Kota Dohi et.al.|[2403.16610](http://arxiv.org/abs/2403.16610)|null|
 |**2024-03-25**|**Deciphering the Interplay between Local Differential Privacy, Average Bayesian Privacy, and Maximum Bayesian Privacy**|Xiaojin Zhang et.al.|[2403.16591](http://arxiv.org/abs/2403.16591)|null|
 |**2024-03-25**|**FedFixer: Mitigating Heterogeneous Label Noise in Federated Learning**|Xinyuan Ji et.al.|[2403.16561](http://arxiv.org/abs/2403.16561)|null|
