@@ -320,6 +320,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-27**|**Will You Participate? Exploring the Potential of Robotics Competitions on Human-centric Topics**|Yuchong Zhang et.al.|[2403.18616](http://arxiv.org/abs/2403.18616)|null|
+|**2024-03-27**|**Spikewhisper: Temporal Spike Backdoor Attacks on Federated Neuromorphic Learning over Low-power Devices**|Hanqing Fu et.al.|[2403.18607](http://arxiv.org/abs/2403.18607)|null|
+|**2024-03-27**|**CoRAST: Towards Foundation Model-Powered Correlated Data Analysis in Resource-Constrained CPS and IoT**|Yi Hu et.al.|[2403.18451](http://arxiv.org/abs/2403.18451)|null|
+|**2024-03-27**|**FRESCO: Federated Reinforcement Energy System for Cooperative Optimization**|Nicolas Mauricio Cuadrado et.al.|[2403.18444](http://arxiv.org/abs/2403.18444)|null|
+|**2024-03-27**|**Generalized Policy Learning for Smart Grids: FL TRPO Approach**|Yunxiang Li et.al.|[2403.18439](http://arxiv.org/abs/2403.18439)|null|
+|**2024-03-27**|**BioMedLM: A 2.7B Parameter Language Model Trained On Biomedical Text**|Elliot Bolton et.al.|[2403.18421](http://arxiv.org/abs/2403.18421)|null|
+|**2024-03-27**|**Stragglers-Aware Low-Latency Synchronous Federated Learning via Layer-Wise Model Updates**|Natalie Lang et.al.|[2403.18375](http://arxiv.org/abs/2403.18375)|null|
+|**2024-03-27**|**Privacy-Preserving Distributed Nonnegative Matrix Factorization**|Ehsan Lari et.al.|[2403.18326](http://arxiv.org/abs/2403.18326)|null|
+|**2024-03-26**|**The Effects of Short Video-Sharing Services on Video Copy Detection**|Rintaro Yanagi et.al.|[2403.18158](http://arxiv.org/abs/2403.18158)|null|
+|**2024-03-26**|**Leak and Learn: An Attacker's Cookbook to Train Using Leaked Data from Federated Learning**|Joshua C. Zhao et.al.|[2403.18144](http://arxiv.org/abs/2403.18144)|null|
 |**2024-03-26**|**Empowering Data Mesh with Federated Learning**|Haoyuan Li et.al.|[2403.17878](http://arxiv.org/abs/2403.17878)|**[link](https://github.com/haoyuan-l/fed_datamesh)**|
 |**2024-03-26**|**GPFL: A Gradient Projection-Based Client Selection Framework for Efficient Federated Learning**|Shijie Na et.al.|[2403.17833](http://arxiv.org/abs/2403.17833)|null|
 |**2024-03-26**|**Secure Aggregation is Not Private Against Membership Inference Attacks**|Khac-Hoang Ngo et.al.|[2403.17775](http://arxiv.org/abs/2403.17775)|null|
