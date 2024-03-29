@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Detecting Financial Bots on the Ethereum Blockchain**|Thomas Niedermayer et.al.|[2403.19530](http://arxiv.org/abs/2403.19530)|**[link](https://github.com/tommel71/ethereum-bot-detection)**|
+|**2024-03-28**|**Uncover the Premeditated Attacks: Detecting Exploitable Reentrancy Vulnerabilities by Identifying Attacker Contracts**|Shuo Yang et.al.|[2403.19112](http://arxiv.org/abs/2403.19112)|null|
+|**2024-03-27**|**Towards Standardized Regulations for Block Chain Smart Contracts: Insights from Delphi and SWARA Analysis**|Shahin Heidari et.al.|[2403.19051](http://arxiv.org/abs/2403.19051)|null|
 |**2024-03-25**|**Towards Secure and Trusted-by-Design Smart Contracts**|Zaynah Dargaye et.al.|[2403.16903](http://arxiv.org/abs/2403.16903)|null|
 |**2024-03-26**|**DISL: Fueling Research with A Large Dataset of Solidity Smart Contracts**|Gabriele Morello et.al.|[2403.16861](http://arxiv.org/abs/2403.16861)|null|
 |**2024-03-24**|**Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications**|Wei Ma et.al.|[2403.16073](http://arxiv.org/abs/2403.16073)|null|
@@ -320,6 +323,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Client-supervised Federated Learning: Towards One-model-for-all Personalization**|Peng Yan et.al.|[2403.19499](http://arxiv.org/abs/2403.19499)|null|
+|**2024-03-28**|**Dual-Personalizing Adapter for Federated Foundation Models**|Yiyuan Yang et.al.|[2403.19211](http://arxiv.org/abs/2403.19211)|null|
+|**2024-03-28**|**Enhancing Trust and Privacy in Distributed Networks: A Comprehensive Survey on Blockchain-based Federated Learning**|Ji Liu et.al.|[2403.19178](http://arxiv.org/abs/2403.19178)|null|
 |**2024-03-27**|**Will You Participate? Exploring the Potential of Robotics Competitions on Human-centric Topics**|Yuchong Zhang et.al.|[2403.18616](http://arxiv.org/abs/2403.18616)|null|
 |**2024-03-27**|**Spikewhisper: Temporal Spike Backdoor Attacks on Federated Neuromorphic Learning over Low-power Devices**|Hanqing Fu et.al.|[2403.18607](http://arxiv.org/abs/2403.18607)|null|
 |**2024-03-27**|**CoRAST: Towards Foundation Model-Powered Correlated Data Analysis in Resource-Constrained CPS and IoT**|Yi Hu et.al.|[2403.18451](http://arxiv.org/abs/2403.18451)|null|
