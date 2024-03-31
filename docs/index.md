@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-28**|**Detecting Financial Bots on the Ethereum Blockchain**|Thomas Niedermayer et.al.|[2403.19530](http://arxiv.org/abs/2403.19530)|**[link](https://github.com/tommel71/ethereum-bot-detection)**|
-|**2024-03-28**|**Uncover the Premeditated Attacks: Detecting Exploitable Reentrancy Vulnerabilities by Identifying Attacker Contracts**|Shuo Yang et.al.|[2403.19112](http://arxiv.org/abs/2403.19112)|null|
+|**2024-03-28**|**Uncover the Premeditated Attacks: Detecting Exploitable Reentrancy Vulnerabilities by Identifying Attacker Contracts**|Shuo Yang et.al.|[2403.19112](http://arxiv.org/abs/2403.19112)|**[link](https://github.com/shuo-young/blockwatchdog)**|
 |**2024-03-27**|**Towards Standardized Regulations for Block Chain Smart Contracts: Insights from Delphi and SWARA Analysis**|Shahin Heidari et.al.|[2403.19051](http://arxiv.org/abs/2403.19051)|null|
 |**2024-03-25**|**Towards Secure and Trusted-by-Design Smart Contracts**|Zaynah Dargaye et.al.|[2403.16903](http://arxiv.org/abs/2403.16903)|null|
 |**2024-03-26**|**DISL: Fueling Research with A Large Dataset of Solidity Smart Contracts**|Gabriele Morello et.al.|[2403.16861](http://arxiv.org/abs/2403.16861)|null|
