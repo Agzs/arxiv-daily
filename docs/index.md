@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-28**|**Vulnerabilities of smart contracts and mitigation schemes: A Comprehensive Survey**|Wejdene Haouari et.al.|[2403.19805](http://arxiv.org/abs/2403.19805)|null|
 |**2024-03-28**|**Detecting Financial Bots on the Ethereum Blockchain**|Thomas Niedermayer et.al.|[2403.19530](http://arxiv.org/abs/2403.19530)|**[link](https://github.com/tommel71/ethereum-bot-detection)**|
 |**2024-03-28**|**Uncover the Premeditated Attacks: Detecting Exploitable Reentrancy Vulnerabilities by Identifying Attacker Contracts**|Shuo Yang et.al.|[2403.19112](http://arxiv.org/abs/2403.19112)|**[link](https://github.com/shuo-young/blockwatchdog)**|
 |**2024-03-27**|**Towards Standardized Regulations for Block Chain Smart Contracts: Insights from Delphi and SWARA Analysis**|Shahin Heidari et.al.|[2403.19051](http://arxiv.org/abs/2403.19051)|null|
@@ -311,6 +312,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-29**|**Homomorphic WiSARDs: Efficient Weightless Neural Network training over encrypted data**|Leonardo Neumann et.al.|[2403.20190](http://arxiv.org/abs/2403.20190)|null|
+|**2024-03-29**|**Privacy-Preserving Data Aggregation Techniques for Enhanced Efficiency and Security in Wireless Sensor Networks: A Comprehensive Analysis and Evaluation**|Ayush Rastogi et.al.|[2403.20120](http://arxiv.org/abs/2403.20120)|null|
+|**2024-03-29**|**Robust Federated Contrastive Recommender System against Model Poisoning Attack**|Wei Yuan et.al.|[2403.20107](http://arxiv.org/abs/2403.20107)|null|
+|**2024-03-29**|**Adaptive Decentralized Federated Learning in Energy and Latency Constrained Wireless Networks**|Zhigang Yan et.al.|[2403.20075](http://arxiv.org/abs/2403.20075)|null|
+|**2024-03-28**|**LLMSense: Harnessing LLMs for High-level Reasoning Over Spatiotemporal Sensor Traces**|Xiaomin Ouyang et.al.|[2403.19857](http://arxiv.org/abs/2403.19857)|null|
+|**2024-03-28**|**Biased Over-the-Air Federated Learning under Wireless Heterogeneity**|Muhammad Faraz Ul Abrar et.al.|[2403.19849](http://arxiv.org/abs/2403.19849)|null|
+|**2024-03-28**|**MAPL: Model Agnostic Peer-to-peer Learning**|Sayak Mukherjee et.al.|[2403.19792](http://arxiv.org/abs/2403.19792)|**[link](https://github.com/sayakmukherjee/mapl)**|
 |**2024-03-28**|**Client-supervised Federated Learning: Towards One-model-for-all Personalization**|Peng Yan et.al.|[2403.19499](http://arxiv.org/abs/2403.19499)|null|
 |**2024-03-28**|**Dual-Personalizing Adapter for Federated Foundation Models**|Yiyuan Yang et.al.|[2403.19211](http://arxiv.org/abs/2403.19211)|null|
 |**2024-03-28**|**Enhancing Trust and Privacy in Distributed Networks: A Comprehensive Survey on Blockchain-based Federated Learning**|Ji Liu et.al.|[2403.19178](http://arxiv.org/abs/2403.19178)|null|
