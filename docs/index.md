@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-31**|**Eclipse Attack Detection on a Blockchain Network as a Non-Parametric Change Detection Problem**|Anurag Gupta et.al.|[2404.00538](http://arxiv.org/abs/2404.00538)|null|
+|**2024-03-30**|**An Empirical Study of Automated Vulnerability Localization with Large Language Models**|Jian Zhang et.al.|[2404.00287](http://arxiv.org/abs/2404.00287)|null|
+|**2024-03-23**|**Investigating Similarities Across Decentralized Financial (DeFi) Services**|Junliang Luo et.al.|[2404.00034](http://arxiv.org/abs/2404.00034)|null|
 |**2024-03-28**|**Vulnerabilities of smart contracts and mitigation schemes: A Comprehensive Survey**|Wejdene Haouari et.al.|[2403.19805](http://arxiv.org/abs/2403.19805)|null|
 |**2024-03-28**|**Detecting Financial Bots on the Ethereum Blockchain**|Thomas Niedermayer et.al.|[2403.19530](http://arxiv.org/abs/2403.19530)|**[link](https://github.com/tommel71/ethereum-bot-detection)**|
 |**2024-03-28**|**Uncover the Premeditated Attacks: Detecting Exploitable Reentrancy Vulnerabilities by Identifying Attacker Contracts**|Shuo Yang et.al.|[2403.19112](http://arxiv.org/abs/2403.19112)|**[link](https://github.com/shuo-young/blockwatchdog)**|
@@ -312,6 +315,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**Collaborative Optimization of Wireless Communication and Computing Resource Allocation based on Multi-Agent Federated Weighting Deep Reinforcement Learning**|Junjie Wu et.al.|[2404.01638](http://arxiv.org/abs/2404.01638)|null|
+|**2024-04-02**|**Making Privacy-preserving Federated Graph Analytics with Strong Guarantees Practical (for Certain Queries)**|Kunlong Liu et.al.|[2404.01619](http://arxiv.org/abs/2404.01619)|null|
+|**2024-04-01**|**Addressing Heterogeneity in Federated Load Forecasting with Personalization Layers**|Shourya Bose et.al.|[2404.01517](http://arxiv.org/abs/2404.01517)|null|
+|**2024-04-02**|**Open-Vocabulary Federated Learning with Multimodal Prototyping**|Huimin Zeng et.al.|[2404.01232](http://arxiv.org/abs/2404.01232)|null|
+|**2024-04-02**|**Can LLMs get help from other LLMs without revealing private information?**|Florian Hartmann et.al.|[2404.01041](http://arxiv.org/abs/2404.01041)|null|
+|**2024-04-01**|**Continual Learning for Smart City: A Survey**|Li Yang et.al.|[2404.00983](http://arxiv.org/abs/2404.00983)|null|
+|**2024-04-01**|**Collaborative Learning of Anomalies with Privacy (CLAP) for Unsupervised Video Anomaly Detection: A New Baseline**|Anas Al-lahham et.al.|[2404.00847](http://arxiv.org/abs/2404.00847)|null|
+|**2024-03-31**|**Cooperative Communication Based Gradient Coding for Wireless Federated Learning**|Shudi Weng et.al.|[2404.00780](http://arxiv.org/abs/2404.00780)|null|
+|**2024-03-31**|**Privacy-preserving Optics for Enhancing Protection in Face De-identification**|Jhon Lopez et.al.|[2404.00777](http://arxiv.org/abs/2404.00777)|null|
+|**2024-03-31**|**A Survey of Privacy-Preserving Model Explanations: Privacy Risks, Attacks, and Countermeasures**|Thanh Tam Nguyen et.al.|[2404.00673](http://arxiv.org/abs/2404.00673)|**[link](https://github.com/tamlhp/awesome-privex)**|
 |**2024-03-29**|**Homomorphic WiSARDs: Efficient Weightless Neural Network training over encrypted data**|Leonardo Neumann et.al.|[2403.20190](http://arxiv.org/abs/2403.20190)|null|
 |**2024-03-29**|**Privacy-Preserving Data Aggregation Techniques for Enhanced Efficiency and Security in Wireless Sensor Networks: A Comprehensive Analysis and Evaluation**|Ayush Rastogi et.al.|[2403.20120](http://arxiv.org/abs/2403.20120)|null|
 |**2024-03-29**|**Robust Federated Contrastive Recommender System against Model Poisoning Attack**|Wei Yuan et.al.|[2403.20107](http://arxiv.org/abs/2403.20107)|null|
