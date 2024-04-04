@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**The Societal Implications of Blockchain Proliferation**|Cory Cherven et.al.|[2404.02451](http://arxiv.org/abs/2404.02451)|null|
 |**2024-03-31**|**Eclipse Attack Detection on a Blockchain Network as a Non-Parametric Change Detection Problem**|Anurag Gupta et.al.|[2404.00538](http://arxiv.org/abs/2404.00538)|null|
 |**2024-03-30**|**An Empirical Study of Automated Vulnerability Localization with Large Language Models**|Jian Zhang et.al.|[2404.00287](http://arxiv.org/abs/2404.00287)|null|
 |**2024-03-23**|**Investigating Similarities Across Decentralized Financial (DeFi) Services**|Junliang Luo et.al.|[2404.00034](http://arxiv.org/abs/2404.00034)|null|
@@ -327,6 +328,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-03**|**Federated Computing -- Survey on Building Blocks, Extensions and Systems**|René Schwermer et.al.|[2404.02779](http://arxiv.org/abs/2404.02779)|null|
+|**2024-04-03**|**Mixing Individual and Collective Behaviours to Predict Out-of-Routine Mobility**|Sebastiano Bontorin et.al.|[2404.02740](http://arxiv.org/abs/2404.02740)|null|
+|**2024-04-03**|**Deep Privacy Funnel Model: From a Discriminative to a Generative Approach with an Application to Face Recognition**|Behrooz Razeghi et.al.|[2404.02696](http://arxiv.org/abs/2404.02696)|null|
+|**2024-04-03**|**QFNN-FFD: Quantum Federated Neural Network for Financial Fraud Detection**|Nouhaila Innan et.al.|[2404.02595](http://arxiv.org/abs/2404.02595)|null|
+|**2024-04-03**|**An Interpretable Client Decision Tree Aggregation process for Federated Learning**|Alberto Argente-Garrido et.al.|[2404.02510](http://arxiv.org/abs/2404.02510)|null|
+|**2024-04-03**|**FedSelect: Personalized Federated Learning with Customized Selection of Parameters for Fine-Tuning**|Rishub Tamirisa et.al.|[2404.02478](http://arxiv.org/abs/2404.02478)|null|
+|**2024-04-03**|**Optimal Batch Allocation for Wireless Federated Learning**|Jaeyoung Song et.al.|[2404.02395](http://arxiv.org/abs/2404.02395)|null|
+|**2024-04-02**|**Federated Multi-Agent Mapping for Planetary Exploration**|Tiberiu-Ioan Szatmari et.al.|[2404.02289](http://arxiv.org/abs/2404.02289)|null|
 |**2024-04-02**|**Collaborative Optimization of Wireless Communication and Computing Resource Allocation based on Multi-Agent Federated Weighting Deep Reinforcement Learning**|Junjie Wu et.al.|[2404.01638](http://arxiv.org/abs/2404.01638)|null|
 |**2024-04-02**|**Making Privacy-preserving Federated Graph Analytics with Strong Guarantees Practical (for Certain Queries)**|Kunlong Liu et.al.|[2404.01619](http://arxiv.org/abs/2404.01619)|null|
 |**2024-04-01**|**Addressing Heterogeneity in Federated Load Forecasting with Personalization Layers**|Shourya Bose et.al.|[2404.01517](http://arxiv.org/abs/2404.01517)|null|
