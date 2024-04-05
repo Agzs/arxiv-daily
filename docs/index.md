@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**Groundhog: Linearly-Scalable Smart Contracting via Commutative Transaction Semantics**|Geoffrey Ramseyer et.al.|[2404.03201](http://arxiv.org/abs/2404.03201)|null|
+|**2024-04-02**|**What Blocks My Blockchain's Throughput? Developing a Generalizable Approach for Identifying Bottlenecks in Permissioned Blockchains**|Orestis Papageorgiou et.al.|[2404.02930](http://arxiv.org/abs/2404.02930)|null|
 |**2024-04-03**|**The Societal Implications of Blockchain Proliferation**|Cory Cherven et.al.|[2404.02451](http://arxiv.org/abs/2404.02451)|null|
 |**2024-03-31**|**Eclipse Attack Detection on a Blockchain Network as a Non-Parametric Change Detection Problem**|Anurag Gupta et.al.|[2404.00538](http://arxiv.org/abs/2404.00538)|null|
 |**2024-03-30**|**An Empirical Study of Automated Vulnerability Localization with Large Language Models**|Jian Zhang et.al.|[2404.00287](http://arxiv.org/abs/2404.00287)|null|
@@ -316,6 +318,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**Approximate Gradient Coding for Privacy-Flexible Federated Learning with Non-IID Data**|Okko Makkonen et.al.|[2404.03524](http://arxiv.org/abs/2404.03524)|**[link](https://github.com/okkomakkonen/label-heterogeneity)**|
+|**2024-04-04**|**Exploring Lightweight Federated Learning for Distributed Load Forecasting**|Abhishek Duttagupta et.al.|[2404.03320](http://arxiv.org/abs/2404.03320)|null|
+|**2024-04-04**|**Gaussian-Smoothed Sliced Probability Divergences**|Mokhtar Z. Alaya et.al.|[2404.03273](http://arxiv.org/abs/2404.03273)|null|
+|**2024-04-03**|**Robust Federated Learning for Wireless Networks: A Demonstration with Channel Estimation**|Zexin Fang et.al.|[2404.03088](http://arxiv.org/abs/2404.03088)|null|
 |**2024-04-03**|**Federated Computing -- Survey on Building Blocks, Extensions and Systems**|René Schwermer et.al.|[2404.02779](http://arxiv.org/abs/2404.02779)|null|
 |**2024-04-03**|**Mixing Individual and Collective Behaviours to Predict Out-of-Routine Mobility**|Sebastiano Bontorin et.al.|[2404.02740](http://arxiv.org/abs/2404.02740)|null|
 |**2024-04-03**|**Deep Privacy Funnel Model: From a Discriminative to a Generative Approach with an Application to Face Recognition**|Behrooz Razeghi et.al.|[2404.02696](http://arxiv.org/abs/2404.02696)|null|
