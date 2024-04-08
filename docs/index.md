@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Smart Contract Languages: a comparative analysis**|Massimo Bartoletti et.al.|[2404.04129](http://arxiv.org/abs/2404.04129)|null|
+|**2024-04-05**|**VELLET: Verifiable Embedded Wallet for Securing Authenticity and Integrity**|Hiroki Watanabe et.al.|[2404.03874](http://arxiv.org/abs/2404.03874)|null|
 |**2024-04-04**|**Groundhog: Linearly-Scalable Smart Contracting via Commutative Transaction Semantics**|Geoffrey Ramseyer et.al.|[2404.03201](http://arxiv.org/abs/2404.03201)|null|
 |**2024-04-02**|**What Blocks My Blockchain's Throughput? Developing a Generalizable Approach for Identifying Bottlenecks in Permissioned Blockchains**|Orestis Papageorgiou et.al.|[2404.02930](http://arxiv.org/abs/2404.02930)|null|
 |**2024-04-03**|**The Societal Implications of Blockchain Proliferation**|Cory Cherven et.al.|[2404.02451](http://arxiv.org/abs/2404.02451)|null|
@@ -318,6 +320,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Precision Guided Approach to Mitigate Data Poisoning Attacks in Federated Learning**|K Naveen Kumar et.al.|[2404.04139](http://arxiv.org/abs/2404.04139)|null|
+|**2024-04-05**|**You Can Use But Cannot Recognize: Preserving Visual Privacy in Deep Neural Networks**|Qiushi Li et.al.|[2404.04098](http://arxiv.org/abs/2404.04098)|null|
+|**2024-04-05**|**Mitigating Heterogeneity in Federated Multimodal Learning with Biomedical Vision-Language Pre-training**|Zitao Shuai et.al.|[2404.03854](http://arxiv.org/abs/2404.03854)|null|
+|**2024-04-04**|**Personalized Federated Learning for Spatio-Temporal Forecasting: A Dual Semantic Alignment-Based Contrastive Approach**|Qingxiang Liu et.al.|[2404.03702](http://arxiv.org/abs/2404.03702)|null|
 |**2024-04-04**|**Approximate Gradient Coding for Privacy-Flexible Federated Learning with Non-IID Data**|Okko Makkonen et.al.|[2404.03524](http://arxiv.org/abs/2404.03524)|**[link](https://github.com/okkomakkonen/label-heterogeneity)**|
 |**2024-04-04**|**Exploring Lightweight Federated Learning for Distributed Load Forecasting**|Abhishek Duttagupta et.al.|[2404.03320](http://arxiv.org/abs/2404.03320)|null|
 |**2024-04-04**|**Gaussian-Smoothed Sliced Probability Divergences**|Mokhtar Z. Alaya et.al.|[2404.03273](http://arxiv.org/abs/2404.03273)|null|
