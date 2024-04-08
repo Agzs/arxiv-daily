@@ -355,8 +355,8 @@ layout: default
 |**2024-03-27**|**CoRAST: Towards Foundation Model-Powered Correlated Data Analysis in Resource-Constrained CPS and IoT**|Yi Hu et.al.|[2403.18451](http://arxiv.org/abs/2403.18451)|null|
 |**2024-03-27**|**FRESCO: Federated Reinforcement Energy System for Cooperative Optimization**|Nicolas Mauricio Cuadrado et.al.|[2403.18444](http://arxiv.org/abs/2403.18444)|null|
 |**2024-03-27**|**Generalized Policy Learning for Smart Grids: FL TRPO Approach**|Yunxiang Li et.al.|[2403.18439](http://arxiv.org/abs/2403.18439)|null|
-|**2024-03-27**|**BioMedLM: A 2.7B Parameter Language Model Trained On Biomedical Text**|Elliot Bolton et.al.|[2403.18421](http://arxiv.org/abs/2403.18421)|null|
-|**2024-03-27**|**Stragglers-Aware Low-Latency Synchronous Federated Learning via Layer-Wise Model Updates**|Natalie Lang et.al.|[2403.18375](http://arxiv.org/abs/2403.18375)|null|
+|**2024-03-27**|**BioMedLM: A 2.7B Parameter Language Model Trained On Biomedical Text**|Elliot Bolton et.al.|[2403.18421](http://arxiv.org/abs/2403.18421)|**[link](https://github.com/stanford-crfm/biomedlm)**|
+|**2024-03-27**|**Stragglers-Aware Low-Latency Synchronous Federated Learning via Layer-Wise Model Updates**|Natalie Lang et.al.|[2403.18375](http://arxiv.org/abs/2403.18375)|**[link](https://github.com/langnatalie/salf)**|
 |**2024-03-27**|**Privacy-Preserving Distributed Nonnegative Matrix Factorization**|Ehsan Lari et.al.|[2403.18326](http://arxiv.org/abs/2403.18326)|null|
 |**2024-03-26**|**The Effects of Short Video-Sharing Services on Video Copy Detection**|Rintaro Yanagi et.al.|[2403.18158](http://arxiv.org/abs/2403.18158)|null|
 |**2024-03-26**|**Leak and Learn: An Attacker's Cookbook to Train Using Leaked Data from Federated Learning**|Joshua C. Zhao et.al.|[2403.18144](http://arxiv.org/abs/2403.18144)|null|
@@ -385,7 +385,7 @@ layout: default
 |**2024-03-22**|**VPAS: Publicly Verifiable and Privacy-Preserving Aggregate Statistics on Distributed Datasets**|Mohammed Alghazwi et.al.|[2403.15208](http://arxiv.org/abs/2403.15208)|null|
 |**2024-03-22**|**FileDES: A Secure Scalable and Succinct Decentralized Encrypted Storage Network**|Minghui Xu et.al.|[2403.14985](http://arxiv.org/abs/2403.14985)|null|
 |**2024-03-22**|**Contrastive Learning on Multimodal Analysis of Electronic Health Records**|Tianxi Cai et.al.|[2403.14926](http://arxiv.org/abs/2403.14926)|null|
-|**2024-03-22**|**Snail: Secure Single Iteration Localization**|James Choncholas et.al.|[2403.14916](http://arxiv.org/abs/2403.14916)|null|
+|**2024-03-22**|**Snail: Secure Single Iteration Localization**|James Choncholas et.al.|[2403.14916](http://arxiv.org/abs/2403.14916)|**[link](https://github.com/secret-snail/localization-server)**|
 |**2024-03-22**|**Adaptive Coded Federated Learning: Privacy Preservation and Straggler Mitigation**|Chengxi Li et.al.|[2403.14905](http://arxiv.org/abs/2403.14905)|null|
 |**2024-03-21**|**FedMef: Towards Memory-efficient Federated Dynamic Pruning**|Hong Huang et.al.|[2403.14737](http://arxiv.org/abs/2403.14737)|null|
 |**2024-03-21**|**FHAUC: Privacy Preserving AUC Calculation for Federated Learning using Fully Homomorphic Encryption**|Cem Ata Baykara et.al.|[2403.14428](http://arxiv.org/abs/2403.14428)|null|
