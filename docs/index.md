@@ -14,9 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**Automated Attack Synthesis for Constant Product Market Makers**|Sujin Han et.al.|[2404.05297](http://arxiv.org/abs/2404.05297)|null|
+|**2024-04-07**|**Unveiling Decentralization: A Comprehensive Review of Technologies, Comparison, Challenges in Bitcoin, Ethereum, and Solana Blockchain**|Han Song et.al.|[2404.04841](http://arxiv.org/abs/2404.04841)|null|
+|**2024-04-05**|**Sharding Distributed Data Databases: A Critical Review**|Siamak Solat et.al.|[2404.04384](http://arxiv.org/abs/2404.04384)|null|
+|**2024-04-05**|**AuditGPT: Auditing Smart Contracts with ChatGPT**|Shihao Xia et.al.|[2404.04306](http://arxiv.org/abs/2404.04306)|null|
 |**2024-04-05**|**Smart Contract Languages: a comparative analysis**|Massimo Bartoletti et.al.|[2404.04129](http://arxiv.org/abs/2404.04129)|null|
 |**2024-04-05**|**VELLET: Verifiable Embedded Wallet for Securing Authenticity and Integrity**|Hiroki Watanabe et.al.|[2404.03874](http://arxiv.org/abs/2404.03874)|null|
-|**2024-04-04**|**Groundhog: Linearly-Scalable Smart Contracting via Commutative Transaction Semantics**|Geoffrey Ramseyer et.al.|[2404.03201](http://arxiv.org/abs/2404.03201)|null|
+|**2024-04-04**|**Groundhog: Linearly-Scalable Smart Contracting via Commutative Transaction Semantics**|Geoffrey Ramseyer et.al.|[2404.03201](http://arxiv.org/abs/2404.03201)|**[link](https://github.com/scslab/smart-contract-scalability)**|
 |**2024-04-02**|**What Blocks My Blockchain's Throughput? Developing a Generalizable Approach for Identifying Bottlenecks in Permissioned Blockchains**|Orestis Papageorgiou et.al.|[2404.02930](http://arxiv.org/abs/2404.02930)|null|
 |**2024-04-03**|**The Societal Implications of Blockchain Proliferation**|Cory Cherven et.al.|[2404.02451](http://arxiv.org/abs/2404.02451)|null|
 |**2024-03-31**|**Eclipse Attack Detection on a Blockchain Network as a Non-Parametric Change Detection Problem**|Anurag Gupta et.al.|[2404.00538](http://arxiv.org/abs/2404.00538)|null|
@@ -257,6 +261,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-06**|**Trustless Audits without Revealing Data or Models**|Suppakit Waiwitlikhit et.al.|[2404.04500](http://arxiv.org/abs/2404.04500)|null|
 |**2024-03-22**|**VPAS: Publicly Verifiable and Privacy-Preserving Aggregate Statistics on Distributed Datasets**|Mohammed Alghazwi et.al.|[2403.15208](http://arxiv.org/abs/2403.15208)|null|
 |**2024-03-20**|**Zero-Knowledge Proof of Distinct Identity: a Standard-compatible Sybil-resistant Pseudonym Extension for C-ITS**|Ye Tao et.al.|[2403.14020](http://arxiv.org/abs/2403.14020)|null|
 |**2024-03-08**|**TIPS: Threat Sharing Information Platform for Enhanced Security**|Lakshmi Rama Kiran Pasumarthy et.al.|[2403.05210](http://arxiv.org/abs/2403.05210)|null|
@@ -320,6 +325,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**SoK: Gradient Leakage in Federated Learning**|Jiacheng Du et.al.|[2404.05403](http://arxiv.org/abs/2404.05403)|null|
+|**2024-04-08**|**Sensing-Resistance-Oriented Beamforming for Privacy Protection from ISAC Devices**|Teng Ma et.al.|[2404.05257](http://arxiv.org/abs/2404.05257)|null|
+|**2024-04-08**|**Enabling Privacy-Preserving Cyber Threat Detection with Federated Learning**|Yu Bi et.al.|[2404.05130](http://arxiv.org/abs/2404.05130)|null|
+|**2024-04-07**|**PlateSegFL: A Privacy-Preserving License Plate Detection Using Federated Segmentation Learning**|Md. Shahriar Rahman Anuvab et.al.|[2404.05049](http://arxiv.org/abs/2404.05049)|null|
+|**2024-04-07**|**Privacy-Preserving Traceable Functional Encryption for Inner Product**|Muyao Qiu et.al.|[2404.04861](http://arxiv.org/abs/2404.04861)|null|
+|**2024-04-06**|**Advances in Differential Privacy and Differentially Private Machine Learning**|Saswat Das et.al.|[2404.04706](http://arxiv.org/abs/2404.04706)|null|
+|**2024-04-06**|**Vanishing Variance Problem in Fully Decentralized Neural-Network Systems**|Yongding Tian et.al.|[2404.04616](http://arxiv.org/abs/2404.04616)|null|
+|**2024-04-06**|**Hyperparameter Optimization for SecureBoost via Constrained Multi-Objective Federated Learning**|Yan Kang et.al.|[2404.04490](http://arxiv.org/abs/2404.04490)|null|
+|**2024-04-05**|**Prompt Public Large Language Models to Synthesize Data for Private On-device Applications**|Shanshan Wu et.al.|[2404.04360](http://arxiv.org/abs/2404.04360)|null|
 |**2024-04-05**|**Precision Guided Approach to Mitigate Data Poisoning Attacks in Federated Learning**|K Naveen Kumar et.al.|[2404.04139](http://arxiv.org/abs/2404.04139)|null|
 |**2024-04-05**|**You Can Use But Cannot Recognize: Preserving Visual Privacy in Deep Neural Networks**|Qiushi Li et.al.|[2404.04098](http://arxiv.org/abs/2404.04098)|null|
 |**2024-04-05**|**Mitigating Heterogeneity in Federated Multimodal Learning with Biomedical Vision-Language Pre-training**|Zitao Shuai et.al.|[2404.03854](http://arxiv.org/abs/2404.03854)|null|
