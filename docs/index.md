@@ -325,6 +325,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**Automated Federated Pipeline for Parameter-Efficient Fine-Tuning of Large Language Models**|Zihan Fang et.al.|[2404.06448](http://arxiv.org/abs/2404.06448)|null|
+|**2024-04-09**|**pfl-research: simulation framework for accelerating research in Private Federated Learning**|Filip Granqvist et.al.|[2404.06430](http://arxiv.org/abs/2404.06430)|**[link](https://github.com/apple/pfl-research)**|
+|**2024-04-09**|**Dynamic D2D-Assisted Federated Learning over O-RAN: Performance Analysis, MAC Scheduler, and Asymmetric User Selection**|Payam Abdisarabshali et.al.|[2404.06324](http://arxiv.org/abs/2404.06324)|null|
+|**2024-04-09**|**Aggressive or Imperceptible, or Both: Network Pruning Assisted Hybrid Byzantines in Federated Learning**|Emre Ozfatura et.al.|[2404.06230](http://arxiv.org/abs/2404.06230)|null|
+|**2024-04-09**|**Privacy-preserving Scanpath Comparison for Pervasive Eye Tracking**|Suleyman Ozdel et.al.|[2404.06216](http://arxiv.org/abs/2404.06216)|null|
+|**2024-04-09**|**Open-Source AI-based SE Tools: Opportunities and Challenges of Collaborative Software Learning**|Zhihao Lin et.al.|[2404.06201](http://arxiv.org/abs/2404.06201)|null|
+|**2024-04-09**|**FLEX: FLEXible Federated Learning Framework**|Francisco Herrera et.al.|[2404.06127](http://arxiv.org/abs/2404.06127)|**[link](https://github.com/SMILELab-FL/FedLab)**|
+|**2024-04-09**|**Privacy Preserving Prompt Engineering: A Survey**|Kennedy Edemacu et.al.|[2404.06001](http://arxiv.org/abs/2404.06001)|null|
+|**2024-04-08**|**Privacy-Preserving Deep Learning Using Deformable Operators for Secure Task Learning**|Fabian Perez et.al.|[2404.05828](http://arxiv.org/abs/2404.05828)|**[link](https://github.com/factral/privdl)**|
 |**2024-04-08**|**SoK: Gradient Leakage in Federated Learning**|Jiacheng Du et.al.|[2404.05403](http://arxiv.org/abs/2404.05403)|null|
 |**2024-04-08**|**Sensing-Resistance-Oriented Beamforming for Privacy Protection from ISAC Devices**|Teng Ma et.al.|[2404.05257](http://arxiv.org/abs/2404.05257)|null|
 |**2024-04-08**|**Enabling Privacy-Preserving Cyber Threat Detection with Federated Learning**|Yu Bi et.al.|[2404.05130](http://arxiv.org/abs/2404.05130)|null|
