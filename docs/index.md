@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.10
+## Updated on 2024.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-08**|**Automated Attack Synthesis for Constant Product Market Makers**|Sujin Han et.al.|[2404.05297](http://arxiv.org/abs/2404.05297)|null|
 |**2024-04-07**|**Unveiling Decentralization: A Comprehensive Review of Technologies, Comparison, Challenges in Bitcoin, Ethereum, and Solana Blockchain**|Han Song et.al.|[2404.04841](http://arxiv.org/abs/2404.04841)|null|
-|**2024-04-05**|**Sharding Distributed Data Databases: A Critical Review**|Siamak Solat et.al.|[2404.04384](http://arxiv.org/abs/2404.04384)|null|
+|**2024-04-10**|**Sharding Distributed Databases: A Critical Review**|Siamak Solat et.al.|[2404.04384](http://arxiv.org/abs/2404.04384)|null|
 |**2024-04-05**|**AuditGPT: Auditing Smart Contracts with ChatGPT**|Shihao Xia et.al.|[2404.04306](http://arxiv.org/abs/2404.04306)|null|
 |**2024-04-05**|**Smart Contract Languages: a comparative analysis**|Massimo Bartoletti et.al.|[2404.04129](http://arxiv.org/abs/2404.04129)|null|
 |**2024-04-05**|**VELLET: Verifiable Embedded Wallet for Securing Authenticity and Integrity**|Hiroki Watanabe et.al.|[2404.03874](http://arxiv.org/abs/2404.03874)|null|
