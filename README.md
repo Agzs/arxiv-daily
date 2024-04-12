@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.11
+## Updated on 2024.04.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -230,7 +230,7 @@
 |**2023-08-01**|**Game Theoretic Modelling of a Ransom and Extortion Attack on Ethereum Validators**|Alpesh Bhudia et.al.|[2308.00590](http://arxiv.org/abs/2308.00590)|null|
 |**2023-07-27**|**Self-stabilizing Byzantine-tolerant Recycling**|Chryssis Georgiou et.al.|[2307.14801](http://arxiv.org/abs/2307.14801)|null|
 
-<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240412>back to top</a>)</p>
 
 ## crosschain
 
@@ -265,7 +265,7 @@
 |**2023-04-20**|**Analyzing the Performance of the Inter-Blockchain Communication Protocol**|Joao Otavio Chervinski et.al.|[2303.10844](http://arxiv.org/abs/2303.10844)|**[link](https://github.com/joaotav/ibc-benchmarking)**|
 |**2023-01-14**|**The Design Principle of Blockchain: An Initiative for the SoK of SoKs**|Luyao Sunshine Zhang et.al.|[2301.00479](http://arxiv.org/abs/2301.00479)|**[link](https://github.com/sunshineluyao/design-principle-blockchain)**|
 
-<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240412>back to top</a>)</p>
 
 ## zero-knowledge-proof
 
@@ -331,7 +331,7 @@
 |**2023-07-02**|**zkFi: Privacy-Preserving and Regulation Compliant Transactions using Zero Knowledge Proofs**|Naveen Sahu et.al.|[2307.00521](http://arxiv.org/abs/2307.00521)|null|
 |**2023-06-21**|**A Survey of Multivariate Polynomial Commitment Schemes**|Ihyun Nam et.al.|[2306.11383](http://arxiv.org/abs/2306.11383)|null|
 
-<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240412>back to top</a>)</p>
 
 ## secureaggregation
 
@@ -340,7 +340,7 @@
 |**2024-04-10**|**The 'Sandwich' meta-framework for architecture agnostic deep privacy-preserving transfer learning for non-invasive brainwave decoding**|Xiaoxi Wei et.al.|[2404.06868](http://arxiv.org/abs/2404.06868)|null|
 |**2024-04-10**|**Responsible Federated Learning in Smart Transportation: Outlooks and Challenges**|Xiaowen Huang et.al.|[2404.06777](http://arxiv.org/abs/2404.06777)|null|
 |**2024-04-10**|**Logit Calibration and Feature Contrast for Robust Federated Learning on Non-IID Data**|Yu Qiao et.al.|[2404.06776](http://arxiv.org/abs/2404.06776)|null|
-|**2024-04-10**|**Poisoning Prevention in Federated Learning and Differential Privacy via Stateful Proofs of Execution**|Norrathep Rattanavipanon et.al.|[2404.06721](http://arxiv.org/abs/2404.06721)|null|
+|**2024-04-11**|**Poisoning Prevention in Federated Learning and Differential Privacy via Stateful Proofs of Execution**|Norrathep Rattanavipanon et.al.|[2404.06721](http://arxiv.org/abs/2404.06721)|null|
 |**2024-04-09**|**Federated learning model for predicting major postoperative complications**|Yonggi Park et.al.|[2404.06641](http://arxiv.org/abs/2404.06641)|null|
 |**2024-04-09**|**FMDA-OT: Federated Multi-source Domain Adaptation Through Optimal Transport**|Omar Ghannou et.al.|[2404.06599](http://arxiv.org/abs/2404.06599)|null|
 |**2024-04-09**|**Automated Federated Pipeline for Parameter-Efficient Fine-Tuning of Large Language Models**|Zihan Fang et.al.|[2404.06448](http://arxiv.org/abs/2404.06448)|null|
@@ -995,7 +995,7 @@
 |**2023-11-29**|**Addressing Membership Inference Attack in Federated Learning with Model Compression**|Gergely Dániel Németh et.al.|[2311.17750](http://arxiv.org/abs/2311.17750)|**[link](https://github.com/negedng/ma-fl-mia)**|
 |**2023-11-30**|**Grounding Foundation Models through Federated Transfer Learning: A General Framework**|Yan Kang et.al.|[2311.17431](http://arxiv.org/abs/2311.17431)|null|
 
-<p align=right>(<a href=#updated-on-20240411>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240412>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/agzs/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/agzs/arxiv-daily/graphs/contributors
