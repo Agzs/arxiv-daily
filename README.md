@@ -167,7 +167,7 @@
 |**2023-10-29**|**Securing Refugee Identity: A Literature Review on Blockchain-based Smart Contract**|Md Taimur Ahad et.al.|[2310.19018](http://arxiv.org/abs/2310.19018)|null|
 |**2023-10-28**|**FinBTech: Blockchain-Based Video and Voice Authentication System for Enhanced Security in Financial Transactions Utilizing FaceNet512 and Gaussian Mixture Models**|Prof N. Jeenath Laila et.al.|[2310.18668](http://arxiv.org/abs/2310.18668)|null|
 |**2023-10-27**|**Sui Lutris: A Blockchain Combining Broadcast and Consensus**|Same Blackshear et.al.|[2310.18042](http://arxiv.org/abs/2310.18042)|null|
-|**2023-10-26**|**Multilayer Environment and Toolchain for Holistic NetwOrk Design and Analysis**|Filip Rezabek et.al.|[2310.16190](http://arxiv.org/abs/2310.16190)|null|
+|**2023-10-26**|**Multilayer Environment and Toolchain for Holistic NetwOrk Design and Analysis**|Filip Rezabek et.al.|[2310.16190](http://arxiv.org/abs/2310.16190)|**[link](https://github.com/rezabfil-sec/engine-framework)**|
 |**2023-10-25**|**GPTutor: an open-source AI pair programming tool alternative to Copilot**|Eason Chen et.al.|[2310.13896](http://arxiv.org/abs/2310.13896)|**[link](https://github.com/gptutor/gptutor-extension)**|
 |**2023-10-20**|**Zero-Knowledge Proofs for Questionnaire Result Verification in Smart Contracts**|Carlos Efrain Quintero-Narvaez et.al.|[2310.13618](http://arxiv.org/abs/2310.13618)|null|
 |**2023-10-26**|**Building Random, Fair, and Verifiable Games on Blockchain. Raffle smart contract designs on Sui Network**|Eason Chen et.al.|[2310.12305](http://arxiv.org/abs/2310.12305)|**[link](https://github.com/bucket-protocol/raffle-paper)**|
@@ -393,7 +393,7 @@
 |**2024-04-02**|**Open-Vocabulary Federated Learning with Multimodal Prototyping**|Huimin Zeng et.al.|[2404.01232](http://arxiv.org/abs/2404.01232)|null|
 |**2024-04-02**|**Can LLMs get help from other LLMs without revealing private information?**|Florian Hartmann et.al.|[2404.01041](http://arxiv.org/abs/2404.01041)|null|
 |**2024-04-01**|**Continual Learning for Smart City: A Survey**|Li Yang et.al.|[2404.00983](http://arxiv.org/abs/2404.00983)|null|
-|**2024-04-01**|**Collaborative Learning of Anomalies with Privacy (CLAP) for Unsupervised Video Anomaly Detection: A New Baseline**|Anas Al-lahham et.al.|[2404.00847](http://arxiv.org/abs/2404.00847)|null|
+|**2024-04-01**|**Collaborative Learning of Anomalies with Privacy (CLAP) for Unsupervised Video Anomaly Detection: A New Baseline**|Anas Al-lahham et.al.|[2404.00847](http://arxiv.org/abs/2404.00847)|**[link](https://github.com/anasemad11/clap)**|
 |**2024-03-31**|**Cooperative Communication Based Gradient Coding for Wireless Federated Learning**|Shudi Weng et.al.|[2404.00780](http://arxiv.org/abs/2404.00780)|null|
 |**2024-03-31**|**Privacy-preserving Optics for Enhancing Protection in Face De-identification**|Jhon Lopez et.al.|[2404.00777](http://arxiv.org/abs/2404.00777)|null|
 |**2024-03-31**|**A Survey of Privacy-Preserving Model Explanations: Privacy Risks, Attacks, and Countermeasures**|Thanh Tam Nguyen et.al.|[2404.00673](http://arxiv.org/abs/2404.00673)|**[link](https://github.com/tamlhp/awesome-privex)**|
@@ -481,7 +481,7 @@
 |**2024-03-16**|**FAGH: Accelerating Federated Learning with Approximated Global Hessian**|Mrinmay Sen et.al.|[2403.11041](http://arxiv.org/abs/2403.11041)|null|
 |**2024-03-16**|**Edge Private Graph Neural Networks with Singular Value Perturbation**|Tingting Tang et.al.|[2403.10995](http://arxiv.org/abs/2403.10995)|null|
 |**2024-03-15**|**Interactive Trimming against Evasive Online Data Manipulation Attacks: A Game-Theoretic Approach**|Yue Fu et.al.|[2403.10313](http://arxiv.org/abs/2403.10313)|null|
-|**2024-03-15**|**RID-TWIN: An end-to-end pipeline for automatic face de-identification in videos**|Anirban Mukherjee et.al.|[2403.10058](http://arxiv.org/abs/2403.10058)|null|
+|**2024-03-15**|**RID-TWIN: An end-to-end pipeline for automatic face de-identification in videos**|Anirban Mukherjee et.al.|[2403.10058](http://arxiv.org/abs/2403.10058)|**[link](https://github.com/anirbanmukherjeexd/rid-twin)**|
 |**2024-03-15**|**Securing Federated Learning with Control-Flow Attestation: A Novel Framework for Enhanced Integrity and Resilience against Adversarial Attacks**|Zahir Alsulaimawi et.al.|[2403.10005](http://arxiv.org/abs/2403.10005)|null|
 |**2024-03-15**|**Federated Learning with Anomaly Detection via Gradient and Reconstruction Analysis**|Zahir Alsulaimawi et.al.|[2403.10000](http://arxiv.org/abs/2403.10000)|null|
 |**2024-03-14**|**FedComLoc: Communication-Efficient Distributed Training of Sparse and Quantized Models**|Kai Yi et.al.|[2403.09904](http://arxiv.org/abs/2403.09904)|null|
