@@ -341,6 +341,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**FedPFT: Federated Proxy Fine-Tuning of Foundation Models**|Zhaopeng Peng et.al.|[2404.11536](http://arxiv.org/abs/2404.11536)|**[link](https://github.com/pzp-dzd/fedpft)**|
+|**2024-04-17**|**A Federated Learning Approach to Privacy Preserving Offensive Language Identification**|Marcos Zampieri et.al.|[2404.11470](http://arxiv.org/abs/2404.11470)|null|
+|**2024-04-17**|**Lightweight Unsupervised Federated Learning with Pretrained Vision Language Model**|Hao Yan et.al.|[2404.11046](http://arxiv.org/abs/2404.11046)|null|
+|**2024-04-17**|**Approximate Wireless Communication for Lossy Gradient Updates in IoT Federated Learning**|Xiang Ma et.al.|[2404.11035](http://arxiv.org/abs/2404.11035)|null|
+|**2024-04-17**|**FedFa: A Fully Asynchronous Training Paradigm for Federated Learning**|Haotian Xu et.al.|[2404.11015](http://arxiv.org/abs/2404.11015)|null|
+|**2024-04-17**|**Clipped SGD Algorithms for Privacy Preserving Performative Prediction: Bias Amplification and Remedies**|Qiang Li et.al.|[2404.10995](http://arxiv.org/abs/2404.10995)|null|
+|**2024-04-16**|**Personalized Federated Learning via Stacking**|Emilio Cantu-Cervini et.al.|[2404.10957](http://arxiv.org/abs/2404.10957)|**[link](https://github.com/emiliocantuc/personalized-fl-via-stacking)**|
+|**2024-04-16**|**Unsupervised Speaker Diarization in Distributed IoT Networks Using Federated Learning**|Amit Kumar Bhuyan et.al.|[2404.10842](http://arxiv.org/abs/2404.10842)|null|
 |**2024-04-16**|**Confidential Federated Computations**|Hubert Eichner et.al.|[2404.10764](http://arxiv.org/abs/2404.10764)|null|
 |**2024-04-16**|**Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning**|Hao-Lun Hsu et.al.|[2404.10728](http://arxiv.org/abs/2404.10728)|null|
 |**2024-04-16**|**A Phone-based Distributed Ambient Temperature Measurement System with An Efficient Label-free Automated Training Strategy**|Dayin Chen et.al.|[2404.10401](http://arxiv.org/abs/2404.10401)|null|
