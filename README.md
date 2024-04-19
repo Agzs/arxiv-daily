@@ -341,6 +341,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**KDk: A Defense Mechanism Against Label Inference Attacks in Vertical Federated Learning**|Marco Arazzi et.al.|[2404.12369](http://arxiv.org/abs/2404.12369)|null|
+|**2024-04-18**|**FedEval-LLM: Federated Evaluation of Large Language Models on Downstream Tasks with Collective Wisdom**|Yuanqin He et.al.|[2404.12273](http://arxiv.org/abs/2404.12273)|null|
+|**2024-04-18**|**Privacy-Preserving UCB Decision Process Verification via zk-SNARKs**|Xikun Jiang et.al.|[2404.12186](http://arxiv.org/abs/2404.12186)|null|
+|**2024-04-18**|**One-Shot Sequential Federated Learning for Non-IID Data by Enhancing Local Model Diversity**|Naibo Wang et.al.|[2404.12130](http://arxiv.org/abs/2404.12130)|null|
+|**2024-04-18**|**HyDiscGAN: A Hybrid Distributed cGAN for Audio-Visual Privacy Preservation in Multimodal Sentiment Analysis**|Zhuojia Wu et.al.|[2404.11938](http://arxiv.org/abs/2404.11938)|null|
+|**2024-04-18**|**FedMID: A Data-Free Method for Using Intermediate Outputs as a Defense Mechanism Against Poisoning Attacks in Federated Learning**|Sungwon Han et.al.|[2404.11905](http://arxiv.org/abs/2404.11905)|null|
+|**2024-04-18**|**FCNCP: A Coupled Nonnegative CANDECOMP/PARAFAC Decomposition Based on Federated Learning**|Yukai Cai et.al.|[2404.11890](http://arxiv.org/abs/2404.11890)|null|
+|**2024-04-18**|**The Dog Walking Theory: Rethinking Convergence in Federated Learning**|Kun Zhai et.al.|[2404.11888](http://arxiv.org/abs/2404.11888)|null|
+|**2024-04-17**|**Improved Generalization Bounds for Communication Efficient Federated Learning**|Peyman Gholami et.al.|[2404.11754](http://arxiv.org/abs/2404.11754)|null|
+|**2024-04-17**|**A Secure and Trustworthy Network Architecture for Federated Learning Healthcare Applications**|Antonio Boiano et.al.|[2404.11698](http://arxiv.org/abs/2404.11698)|null|
 |**2024-04-17**|**FedPFT: Federated Proxy Fine-Tuning of Foundation Models**|Zhaopeng Peng et.al.|[2404.11536](http://arxiv.org/abs/2404.11536)|**[link](https://github.com/pzp-dzd/fedpft)**|
 |**2024-04-17**|**A Federated Learning Approach to Privacy Preserving Offensive Language Identification**|Marcos Zampieri et.al.|[2404.11470](http://arxiv.org/abs/2404.11470)|null|
 |**2024-04-17**|**Lightweight Unsupervised Federated Learning with Pretrained Vision Language Model**|Hao Yan et.al.|[2404.11046](http://arxiv.org/abs/2404.11046)|null|
