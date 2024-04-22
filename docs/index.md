@@ -71,7 +71,7 @@ layout: default
 |**2024-02-17**|**Exploring the Emerging Technologies within the Blockchain Landscape**|Mohammad Ali Tareq et.al.|[2402.11290](http://arxiv.org/abs/2402.11290)|null|
 |**2024-02-17**|**Enhancing Security in Blockchain Networks: Anomalies, Frauds, and Advanced Detection Techniques**|Joerg Osterrieder et.al.|[2402.11231](http://arxiv.org/abs/2402.11231)|null|
 |**2024-02-17**|**Analyzing Reward Dynamics and Decentralization in Ethereum 2.0: An Advanced Data Engineering Workflow and Comprehensive Datasets for Proof-of-Stake Incentives**|Tao Yan et.al.|[2402.11170](http://arxiv.org/abs/2402.11170)|**[link](https://github.com/learn-want/ETH2.0-reward)**|
-|**2024-02-16**|**Towards benchmarking of Solidity verification tools**|Massimo Bartoletti et.al.|[2402.10750](http://arxiv.org/abs/2402.10750)|null|
+|**2024-02-16**|**Towards benchmarking of Solidity verification tools**|Massimo Bartoletti et.al.|[2402.10750](http://arxiv.org/abs/2402.10750)|**[link](https://github.com/fsainas/contracts-verification-benchmark)**|
 |**2024-02-15**|**Overapproximation of Non-Linear Integer Arithmetic for Smart Contract Verification**|Petra Hozzová et.al.|[2402.10174](http://arxiv.org/abs/2402.10174)|null|
 |**2024-02-14**|**Insights and caveats from mining local and global temporal motifs in cryptocurrency transaction networks**|Naomi A. Arnold et.al.|[2402.09272](http://arxiv.org/abs/2402.09272)|null|
 |**2024-02-15**|**Unity is Strength: Enhancing Precision in Reentrancy Vulnerability Detection of Smart Contract Analysis Tools**|Zexu Wang et.al.|[2402.09094](http://arxiv.org/abs/2402.09094)|null|
@@ -394,7 +394,7 @@ layout: default
 |**2024-04-08**|**Privacy-Preserving Deep Learning Using Deformable Operators for Secure Task Learning**|Fabian Perez et.al.|[2404.05828](http://arxiv.org/abs/2404.05828)|**[link](https://github.com/factral/privdl)**|
 |**2024-04-08**|**SoK: Gradient Leakage in Federated Learning**|Jiacheng Du et.al.|[2404.05403](http://arxiv.org/abs/2404.05403)|null|
 |**2024-04-08**|**Sensing-Resistance-Oriented Beamforming for Privacy Protection from ISAC Devices**|Teng Ma et.al.|[2404.05257](http://arxiv.org/abs/2404.05257)|null|
-|**2024-04-08**|**Enabling Privacy-Preserving Cyber Threat Detection with Federated Learning**|Yu Bi et.al.|[2404.05130](http://arxiv.org/abs/2404.05130)|null|
+|**2024-04-08**|**Enabling Privacy-Preserving Cyber Threat Detection with Federated Learning**|Yu Bi et.al.|[2404.05130](http://arxiv.org/abs/2404.05130)|**[link](https://github.com/chasesecurity/fostering_cyber_threat_detection_through_fl)**|
 |**2024-04-07**|**PlateSegFL: A Privacy-Preserving License Plate Detection Using Federated Segmentation Learning**|Md. Shahriar Rahman Anuvab et.al.|[2404.05049](http://arxiv.org/abs/2404.05049)|null|
 |**2024-04-07**|**Privacy-Preserving Traceable Functional Encryption for Inner Product**|Muyao Qiu et.al.|[2404.04861](http://arxiv.org/abs/2404.04861)|null|
 |**2024-04-06**|**Advances in Differential Privacy and Differentially Private Machine Learning**|Saswat Das et.al.|[2404.04706](http://arxiv.org/abs/2404.04706)|null|
@@ -644,7 +644,7 @@ layout: default
 |**2024-02-20**|**Energy-Efficient Wireless Federated Learning via Doubly Adaptive Quantization**|Xuefeng Han et.al.|[2402.12957](http://arxiv.org/abs/2402.12957)|null|
 |**2024-02-20**|**Stochastic Approximation Approach to Federated Machine Learning**|Srihari P V et.al.|[2402.12945](http://arxiv.org/abs/2402.12945)|null|
 |**2024-02-20**|**Fog enabled distributed training architecture for federated learning**|Aditya Kumar et.al.|[2402.12906](http://arxiv.org/abs/2402.12906)|null|
-|**2024-02-20**|**Federated Multi-Task Learning on Non-IID Data Silos: An Experimental Study**|Yuwen Yang et.al.|[2402.12876](http://arxiv.org/abs/2402.12876)|null|
+|**2024-02-20**|**Federated Multi-Task Learning on Non-IID Data Silos: An Experimental Study**|Yuwen Yang et.al.|[2402.12876](http://arxiv.org/abs/2402.12876)|**[link](https://github.com/youngfish42/FMTL-Benchmark)**|
 |**2024-02-20**|**Tackling Byzantine Clients in Federated Learning**|Youssef Allouah et.al.|[2402.12780](http://arxiv.org/abs/2402.12780)|null|
 |**2024-02-20**|**FGAD: Self-boosted Knowledge Distillation for An Effective Federated Graph Anomaly Detection Framework**|Jinyu Cai et.al.|[2402.12761](http://arxiv.org/abs/2402.12761)|null|
 |**2024-02-19**|**Hierarchical Bayes Approach to Personalized Federated Unsupervised Learning**|Kaan Ozkara et.al.|[2402.12537](http://arxiv.org/abs/2402.12537)|**[link](https://github.com/kazkara/adept)**|
@@ -953,7 +953,7 @@ layout: default
 |**2023-12-15**|**Calibrated One Round Federated Learning with Bayesian Inference in the Predictive Space**|Mohsin Hasan et.al.|[2312.09817](http://arxiv.org/abs/2312.09817)|**[link](https://github.com/hasanmohsin/betapredbayes_fl)**|
 |**2023-12-15**|**Greedy Shapley Client Selection for Communication-Efficient Federated Learning**|Pranava Singhal et.al.|[2312.09108](http://arxiv.org/abs/2312.09108)|**[link](https://github.com/pringlesinghal/greedyfed)**|
 |**2023-12-14**|**A Framework for Exploring Federated Community Detection**|William Leeney et.al.|[2312.09023](http://arxiv.org/abs/2312.09023)|null|
-|**2023-12-14**|**FedSSA: Semantic Similarity-based Aggregation for Efficient Model-Heterogeneous Personalized Federated Learning**|Liping Yi et.al.|[2312.09006](http://arxiv.org/abs/2312.09006)|null|
+|**2023-12-14**|**FedSSA: Semantic Similarity-based Aggregation for Efficient Model-Heterogeneous Personalized Federated Learning**|Liping Yi et.al.|[2312.09006](http://arxiv.org/abs/2312.09006)|**[link](https://github.com/lipingyi/fedssa)**|
 |**2023-12-14**|**Detection and Defense of Unlearnable Examples**|Yifan Zhu et.al.|[2312.08898](http://arxiv.org/abs/2312.08898)|**[link](https://github.com/hala64/udp)**|
 |**2023-12-14**|**Enabling End-to-End Secure Federated Learning in Biomedical Research on Heterogeneous Computing Environments with APPFLx**|Trung-Hieu Hoang et.al.|[2312.08701](http://arxiv.org/abs/2312.08701)|null|
 |**2023-12-14**|**Data and Model Poisoning Backdoor Attacks on Wireless Federated Learning, and the Defense Mechanisms: A Comprehensive Survey**|Yichen Wan et.al.|[2312.08667](http://arxiv.org/abs/2312.08667)|null|
