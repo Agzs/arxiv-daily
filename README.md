@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**Revolutionizing student course selection: Exploring the application prospects and challenges of blockchain token voting technology**|Tiansu Hu et.al.|[2404.14000](http://arxiv.org/abs/2404.14000)|null|
+|**2024-04-19**|**Use of two Public Distributed Ledgers to track the money of an economy**|Gonzalo Garcia-Atance Fatjo et.al.|[2404.13189](http://arxiv.org/abs/2404.13189)|null|
 |**2024-04-15**|**Integration of Federated Learning and Blockchain in Healthcare: A Tutorial**|Yahya Shahsavari et.al.|[2404.10092](http://arxiv.org/abs/2404.10092)|null|
 |**2024-04-16**|**ChainScience 2024, Conference Proceedings**|Nicolò Vallarano et.al.|[2404.09782](http://arxiv.org/abs/2404.09782)|null|
 |**2024-04-08**|**Automated Attack Synthesis for Constant Product Market Makers**|Sujin Han et.al.|[2404.05297](http://arxiv.org/abs/2404.05297)|null|
@@ -342,6 +344,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**Poisoning Attacks on Federated Learning-based Wireless Traffic Prediction**|Zifan Zhang et.al.|[2404.14389](http://arxiv.org/abs/2404.14389)|null|
+|**2024-04-22**|**Machine Learning Techniques for MRI Data Processing at Expanding Scale**|Taro Langner et.al.|[2404.14326](http://arxiv.org/abs/2404.14326)|null|
+|**2024-04-22**|**FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning**|Yinlin Zhu et.al.|[2404.14061](http://arxiv.org/abs/2404.14061)|null|
+|**2024-04-22**|**Apodotiko: Enabling Efficient Serverless Federated Learning in Heterogeneous Environments**|Mohak Chadha et.al.|[2404.14033](http://arxiv.org/abs/2404.14033)|null|
+|**2024-04-22**|**Dual Model Replacement:invisible Multi-target Backdoor Attack based on Federal Learning**|Rong Wang et.al.|[2404.13946](http://arxiv.org/abs/2404.13946)|null|
+|**2024-04-22**|**Fair Concurrent Training of Multiple Models in Federated Learning**|Marie Siew et.al.|[2404.13841](http://arxiv.org/abs/2404.13841)|null|
+|**2024-04-22**|**Adaptive Heterogeneous Client Sampling for Federated Learning over Wireless Networks**|Bing Luo et.al.|[2404.13804](http://arxiv.org/abs/2404.13804)|**[link](https://github.com/wenlixiao-cs/wirelessfl)**|
+|**2024-04-21**|**FedMPQ: Secure and Communication-Efficient Federated Learning with Multi-codebook Product Quantization**|Xu Yang et.al.|[2404.13575](http://arxiv.org/abs/2404.13575)|null|
+|**2024-04-21**|**FedTrans: Efficient Federated Learning Over Heterogeneous Clients via Model Transformation**|Yuxuan Zhu et.al.|[2404.13515](http://arxiv.org/abs/2404.13515)|null|
+|**2024-04-20**|**MultiConfederated Learning: Inclusive Non-IID Data handling with Decentralized Federated Learning**|Michael Duchesne et.al.|[2404.13421](http://arxiv.org/abs/2404.13421)|null|
 |**2024-04-19**|**CaBaFL: Asynchronous Federated Learning via Hierarchical Cache and Feature Balance**|Zeke Xia et.al.|[2404.12850](http://arxiv.org/abs/2404.12850)|null|
 |**2024-04-19**|**KoReA-SFL: Knowledge Replay-based Split Federated Learning Against Catastrophic Forgetting**|Zeke Xia et.al.|[2404.12846](http://arxiv.org/abs/2404.12846)|null|
 |**2024-04-19**|**Defending against Data Poisoning Attacks in Federated Learning via User Elimination**|Nick Galanis et.al.|[2404.12778](http://arxiv.org/abs/2404.12778)|**[link](https://github.com/nikosgalanis/data-poisoning-defense-fl)**|
