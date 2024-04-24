@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**Demystifying Invariant Effectiveness for Securing Smart Contracts**|Zhiyang Chen et.al.|[2404.14580](http://arxiv.org/abs/2404.14580)|null|
 |**2024-04-22**|**Revolutionizing student course selection: Exploring the application prospects and challenges of blockchain token voting technology**|Tiansu Hu et.al.|[2404.14000](http://arxiv.org/abs/2404.14000)|null|
 |**2024-04-19**|**Use of two Public Distributed Ledgers to track the money of an economy**|Gonzalo Garcia-Atance Fatjo et.al.|[2404.13189](http://arxiv.org/abs/2404.13189)|null|
 |**2024-04-15**|**Integration of Federated Learning and Blockchain in Healthcare: A Tutorial**|Yahya Shahsavari et.al.|[2404.10092](http://arxiv.org/abs/2404.10092)|null|
@@ -277,6 +278,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**Zero-Knowledge Location Privacy via Accurate Floating Point SNARKs**|Jens Ernstberger et.al.|[2404.14983](http://arxiv.org/abs/2404.14983)|null|
 |**2024-04-19**|**End-to-End Verifiable Decentralized Federated Learning**|Chaehyeon Lee et.al.|[2404.12623](http://arxiv.org/abs/2404.12623)|null|
 |**2024-04-06**|**Trustless Audits without Revealing Data or Models**|Suppakit Waiwitlikhit et.al.|[2404.04500](http://arxiv.org/abs/2404.04500)|null|
 |**2024-03-22**|**VPAS: Publicly Verifiable and Privacy-Preserving Aggregate Statistics on Distributed Datasets**|Mohammed Alghazwi et.al.|[2403.15208](http://arxiv.org/abs/2403.15208)|null|
@@ -344,6 +346,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**Leverage Variational Graph Representation For Model Poisoning on Federated Learning**|Kai Li et.al.|[2404.15042](http://arxiv.org/abs/2404.15042)|null|
+|**2024-04-23**|**Zero-Knowledge Location Privacy via Accurate Floating Point SNARKs**|Jens Ernstberger et.al.|[2404.14983](http://arxiv.org/abs/2404.14983)|null|
+|**2024-04-23**|**G3R: Generating Rich and Fine-grained mmWave Radar Data from 2D Videos for Generalized Gesture Recognition**|Kaikai Deng et.al.|[2404.14934](http://arxiv.org/abs/2404.14934)|null|
+|**2024-04-23**|**Fin-Fed-OD: Federated Outlier Detection on Financial Tabular Data**|Dayananda Herurkar et.al.|[2404.14933](http://arxiv.org/abs/2404.14933)|null|
+|**2024-04-23**|**Bayesian Approaches to Collaborative Data Analysis with Strict Privacy Restrictions**|Simon Busch-Moreno et.al.|[2404.14895](http://arxiv.org/abs/2404.14895)|null|
+|**2024-04-23**|**FLARE: A New Federated Learning Framework with Adjustable Learning Rates over Resource-Constrained Wireless Networks**|Bingnan Xiao et.al.|[2404.14811](http://arxiv.org/abs/2404.14811)|null|
+|**2024-04-23**|**Employing Layerwised Unsupervised Learning to Lessen Data and Loss Requirements in Forward-Forward Algorithms**|Taewook Hwang et.al.|[2404.14664](http://arxiv.org/abs/2404.14664)|null|
 |**2024-04-22**|**Poisoning Attacks on Federated Learning-based Wireless Traffic Prediction**|Zifan Zhang et.al.|[2404.14389](http://arxiv.org/abs/2404.14389)|null|
 |**2024-04-22**|**Machine Learning Techniques for MRI Data Processing at Expanding Scale**|Taro Langner et.al.|[2404.14326](http://arxiv.org/abs/2404.14326)|null|
 |**2024-04-22**|**FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning**|Yinlin Zhu et.al.|[2404.14061](http://arxiv.org/abs/2404.14061)|null|
