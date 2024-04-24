@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.23
+## Updated on 2024.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -233,7 +233,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-15**|**A Distributed Scalable Cross-chain State Channel Scheme Based on Recursive State Synchronization**|Xinyu Liang et.al.|[2404.09408](http://arxiv.org/abs/2404.09408)|null|
-|**2024-04-13**|**SQIAsignHD: SQIsignHD Adaptor Signature**|Farzin Renan et.al.|[2404.09026](http://arxiv.org/abs/2404.09026)|null|
+|**2024-04-23**|**SQIAsignHD: SQIsignHD Adaptor Signature**|Farzin Renan et.al.|[2404.09026](http://arxiv.org/abs/2404.09026)|null|
 |**2024-03-25**|**Machine Learning on Blockchain Data: A Systematic Mapping Study**|Georgios Palaiokrassas et.al.|[2403.17081](http://arxiv.org/abs/2403.17081)|null|
 |**2024-03-22**|**Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse**|Jiawen Kang et.al.|[2403.15285](http://arxiv.org/abs/2403.15285)|null|
 |**2024-04-19**|**VORTEX: High-Speed and Low-Latency Off-Chain Payments and Cross-Chain Swaps for Cryptocurrencies**|Di Wu et.al.|[2403.15191](http://arxiv.org/abs/2403.15191)|null|
