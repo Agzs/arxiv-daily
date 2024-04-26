@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Blockchain-enabled Energy Trading and Battery-based Sharing in Microgrids**|Abdulrezzak Zekiye et.al.|[2404.16462](http://arxiv.org/abs/2404.16462)|null|
+|**2024-04-24**|**A Rollup Comparison Framework**|Jan Gorzny et.al.|[2404.16150](http://arxiv.org/abs/2404.16150)|null|
+|**2024-04-24**|**Non-Fungible Programs: Private Full-Stack Applications for Web3**|Blake Regalia et.al.|[2404.15632](http://arxiv.org/abs/2404.15632)|null|
 |**2024-04-22**|**Demystifying Invariant Effectiveness for Securing Smart Contracts**|Zhiyang Chen et.al.|[2404.14580](http://arxiv.org/abs/2404.14580)|null|
 |**2024-04-22**|**Revolutionizing student course selection: Exploring the application prospects and challenges of blockchain token voting technology**|Tiansu Hu et.al.|[2404.14000](http://arxiv.org/abs/2404.14000)|null|
 |**2024-04-19**|**Use of two Public Distributed Ledgers to track the money of an economy**|Gonzalo Garcia-Atance Fatjo et.al.|[2404.13189](http://arxiv.org/abs/2404.13189)|null|
@@ -268,6 +271,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-24**|**zkLLM: Zero Knowledge Proofs for Large Language Models**|Haochen Sun et.al.|[2404.16109](http://arxiv.org/abs/2404.16109)|null|
 |**2024-04-23**|**Zero-Knowledge Location Privacy via Accurate Floating Point SNARKs**|Jens Ernstberger et.al.|[2404.14983](http://arxiv.org/abs/2404.14983)|null|
 |**2024-04-19**|**End-to-End Verifiable Decentralized Federated Learning**|Chaehyeon Lee et.al.|[2404.12623](http://arxiv.org/abs/2404.12623)|**[link](https://github.com/eechn/End-to-End-Verifiable-Decentralized-Federated-Learning)**|
 |**2024-04-06**|**Trustless Audits without Revealing Data or Models**|Suppakit Waiwitlikhit et.al.|[2404.04500](http://arxiv.org/abs/2404.04500)|null|
@@ -334,6 +338,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Privacy-Preserving Statistical Data Generation: Application to Sepsis Detection**|Eric Macias-Fassio et.al.|[2404.16638](http://arxiv.org/abs/2404.16638)|null|
+|**2024-04-25**|**FedStyle: Style-Based Federated Learning Crowdsourcing Framework for Art Commissions**|Changjuan Ran et.al.|[2404.16336](http://arxiv.org/abs/2404.16336)|null|
+|**2024-04-25**|**Differentially Private Federated Learning: Servers Trustworthiness, Estimation, and Statistical Inference**|Zhe Zhang et.al.|[2404.16287](http://arxiv.org/abs/2404.16287)|null|
+|**2024-04-24**|**Synergizing Privacy and Utility in Data Analytics Through Advanced Information Theorization**|Zahir Alsulaimawi et.al.|[2404.16241](http://arxiv.org/abs/2404.16241)|null|
+|**2024-04-24**|**A Game-Theoretic Analysis of Auditing Differentially Private Algorithms with Epistemically Disparate Herd**|Ya-Ting Yang et.al.|[2404.16195](http://arxiv.org/abs/2404.16195)|null|
+|**2024-04-24**|**Blind Federated Learning without initial model**|Jose L. Salmeron et.al.|[2404.16180](http://arxiv.org/abs/2404.16180)|null|
+|**2024-04-25**|**Decentralized Personalized Federated Learning based on a Conditional Sparse-to-Sparser Scheme**|Qianyu Long et.al.|[2404.15943](http://arxiv.org/abs/2404.15943)|**[link](https://github.com/ericloong/da-dpfl)**|
+|**2024-04-24**|**An Element-Wise Weights Aggregation Method for Federated Learning**|Yi Hu et.al.|[2404.15919](http://arxiv.org/abs/2404.15919)|**[link](https://github.com/rand2ai/ewwa-fl)**|
+|**2024-04-24**|**Privacy-Preserving Billing for Local Energy Markets (Long Version)**|Eman Alqahtani et.al.|[2404.15886](http://arxiv.org/abs/2404.15886)|null|
+|**2024-04-24**|**Secure and Privacy-Preserving Authentication for Data Subject Rights Enforcement**|Malte Hansen et.al.|[2404.15859](http://arxiv.org/abs/2404.15859)|null|
 |**2024-04-24**|**PoisonedFL: Model Poisoning Attacks to Federated Learning via Multi-Round Consistency**|Yueqi Xie et.al.|[2404.15611](http://arxiv.org/abs/2404.15611)|null|
 |**2024-04-24**|**Federated Learning with Only Positive Labels by Exploring Label Correlations**|Xuming An et.al.|[2404.15598](http://arxiv.org/abs/2404.15598)|null|
 |**2024-04-24**|**Brain Storm Optimization Based Swarm Learning for Diabetic Retinopathy Image Classification**|Liang Qu et.al.|[2404.15585](http://arxiv.org/abs/2404.15585)|null|
