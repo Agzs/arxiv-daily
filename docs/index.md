@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.25
+## Updated on 2024.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -19,7 +19,7 @@ layout: default
 |**2024-04-19**|**Use of two Public Distributed Ledgers to track the money of an economy**|Gonzalo Garcia-Atance Fatjo et.al.|[2404.13189](http://arxiv.org/abs/2404.13189)|null|
 |**2024-04-15**|**Integration of Federated Learning and Blockchain in Healthcare: A Tutorial**|Yahya Shahsavari et.al.|[2404.10092](http://arxiv.org/abs/2404.10092)|null|
 |**2024-04-16**|**ChainScience 2024, Conference Proceedings**|Nicolò Vallarano et.al.|[2404.09782](http://arxiv.org/abs/2404.09782)|null|
-|**2024-04-08**|**Automated Attack Synthesis for Constant Product Market Makers**|Sujin Han et.al.|[2404.05297](http://arxiv.org/abs/2404.05297)|null|
+|**2024-04-25**|**Automated Attack Synthesis for Constant Product Market Makers**|Sujin Han et.al.|[2404.05297](http://arxiv.org/abs/2404.05297)|null|
 |**2024-04-07**|**Unveiling Decentralization: A Comprehensive Review of Technologies, Comparison, Challenges in Bitcoin, Ethereum, and Solana Blockchain**|Han Song et.al.|[2404.04841](http://arxiv.org/abs/2404.04841)|null|
 |**2024-04-10**|**Sharding Distributed Databases: A Critical Review**|Siamak Solat et.al.|[2404.04384](http://arxiv.org/abs/2404.04384)|null|
 |**2024-04-05**|**AuditGPT: Auditing Smart Contracts with ChatGPT**|Shihao Xia et.al.|[2404.04306](http://arxiv.org/abs/2404.04306)|null|
