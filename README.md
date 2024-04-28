@@ -281,7 +281,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-24**|**zkLLM: Zero Knowledge Proofs for Large Language Models**|Haochen Sun et.al.|[2404.16109](http://arxiv.org/abs/2404.16109)|null|
+|**2024-04-24**|**zkLLM: Zero Knowledge Proofs for Large Language Models**|Haochen Sun et.al.|[2404.16109](http://arxiv.org/abs/2404.16109)|**[link](https://github.com/jvhs0706/zkllm-ccs2024)**|
 |**2024-04-23**|**Zero-Knowledge Location Privacy via Accurate Floating Point SNARKs**|Jens Ernstberger et.al.|[2404.14983](http://arxiv.org/abs/2404.14983)|null|
 |**2024-04-19**|**End-to-End Verifiable Decentralized Federated Learning**|Chaehyeon Lee et.al.|[2404.12623](http://arxiv.org/abs/2404.12623)|**[link](https://github.com/eechn/End-to-End-Verifiable-Decentralized-Federated-Learning)**|
 |**2024-04-06**|**Trustless Audits without Revealing Data or Models**|Suppakit Waiwitlikhit et.al.|[2404.04500](http://arxiv.org/abs/2404.04500)|null|
