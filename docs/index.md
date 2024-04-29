@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-21**|**Mitigating Data Sharing in Public Cloud using Blockchain**|Pratik Patil et.al.|[2404.16872](http://arxiv.org/abs/2404.16872)|null|
 |**2024-04-25**|**Blockchain-enabled Energy Trading and Battery-based Sharing in Microgrids**|Abdulrezzak Zekiye et.al.|[2404.16462](http://arxiv.org/abs/2404.16462)|null|
 |**2024-04-24**|**A Rollup Comparison Framework**|Jan Gorzny et.al.|[2404.16150](http://arxiv.org/abs/2404.16150)|null|
 |**2024-04-24**|**Non-Fungible Programs: Private Full-Stack Applications for Web3**|Blake Regalia et.al.|[2404.15632](http://arxiv.org/abs/2404.15632)|null|
@@ -338,6 +339,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-26**|**On the Federated Learning Framework for Cooperative Perception**|Zhenrong Zhang et.al.|[2404.17147](http://arxiv.org/abs/2404.17147)|null|
+|**2024-04-25**|**On TinyML and Cybersecurity: Electric Vehicle Charging Infrastructure Use Case**|Fatemeh Dehrouyeh et.al.|[2404.16894](http://arxiv.org/abs/2404.16894)|null|
 |**2024-04-25**|**Privacy-Preserving Statistical Data Generation: Application to Sepsis Detection**|Eric Macias-Fassio et.al.|[2404.16638](http://arxiv.org/abs/2404.16638)|null|
 |**2024-04-25**|**FedStyle: Style-Based Federated Learning Crowdsourcing Framework for Art Commissions**|Changjuan Ran et.al.|[2404.16336](http://arxiv.org/abs/2404.16336)|null|
 |**2024-04-25**|**Differentially Private Federated Learning: Servers Trustworthiness, Estimation, and Statistical Inference**|Zhe Zhang et.al.|[2404.16287](http://arxiv.org/abs/2404.16287)|null|
