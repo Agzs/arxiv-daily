@@ -388,7 +388,7 @@
 |**2024-04-19**|**Defending against Data Poisoning Attacks in Federated Learning via User Elimination**|Nick Galanis et.al.|[2404.12778](http://arxiv.org/abs/2404.12778)|**[link](https://github.com/nikosgalanis/data-poisoning-defense-fl)**|
 |**2024-04-19**|**PATE-TripleGAN: Privacy-Preserving Image Synthesis with Gaussian Differential Privacy**|Zepeng Jiang et.al.|[2404.12730](http://arxiv.org/abs/2404.12730)|null|
 |**2024-04-19**|**A Survey on Federated Analytics: Taxonomy, Enabling Techniques, Applications and Open Issues**|Zibo Wang et.al.|[2404.12666](http://arxiv.org/abs/2404.12666)|null|
-|**2024-04-19**|**End-to-End Verifiable Decentralized Federated Learning**|Chaehyeon Lee et.al.|[2404.12623](http://arxiv.org/abs/2404.12623)|null|
+|**2024-04-19**|**End-to-End Verifiable Decentralized Federated Learning**|Chaehyeon Lee et.al.|[2404.12623](http://arxiv.org/abs/2404.12623)|**[link](https://github.com/eechn/End-to-End-Verifiable-Decentralized-Federated-Learning)**|
 |**2024-04-18**|**Centralized vs. Decentralized Multi-Agent Reinforcement Learning for Enhanced Control of Electric Vehicle Charging Networks**|Amin Shojaeighadikolaei et.al.|[2404.12520](http://arxiv.org/abs/2404.12520)|null|
 |**2024-04-18**|**Towards Multi-modal Transformers in Federated Learning**|Guangyu Sun et.al.|[2404.12467](http://arxiv.org/abs/2404.12467)|null|
 |**2024-04-18**|**KDk: A Defense Mechanism Against Label Inference Attacks in Vertical Federated Learning**|Marco Arazzi et.al.|[2404.12369](http://arxiv.org/abs/2404.12369)|null|
@@ -482,7 +482,7 @@
 |**2024-04-02**|**Collaborative Optimization of Wireless Communication and Computing Resource Allocation based on Multi-Agent Federated Weighting Deep Reinforcement Learning**|Junjie Wu et.al.|[2404.01638](http://arxiv.org/abs/2404.01638)|null|
 |**2024-04-02**|**Making Privacy-preserving Federated Graph Analytics with Strong Guarantees Practical (for Certain Queries)**|Kunlong Liu et.al.|[2404.01619](http://arxiv.org/abs/2404.01619)|null|
 |**2024-04-01**|**Addressing Heterogeneity in Federated Load Forecasting with Personalization Layers**|Shourya Bose et.al.|[2404.01517](http://arxiv.org/abs/2404.01517)|null|
-|**2024-04-02**|**Open-Vocabulary Federated Learning with Multimodal Prototyping**|Huimin Zeng et.al.|[2404.01232](http://arxiv.org/abs/2404.01232)|null|
+|**2024-04-02**|**Open-Vocabulary Federated Learning with Multimodal Prototyping**|Huimin Zeng et.al.|[2404.01232](http://arxiv.org/abs/2404.01232)|**[link](https://github.com/huiminzeng/fed-mp)**|
 |**2024-04-02**|**Can LLMs get help from other LLMs without revealing private information?**|Florian Hartmann et.al.|[2404.01041](http://arxiv.org/abs/2404.01041)|null|
 |**2024-04-01**|**Continual Learning for Smart City: A Survey**|Li Yang et.al.|[2404.00983](http://arxiv.org/abs/2404.00983)|null|
 |**2024-04-01**|**Collaborative Learning of Anomalies with Privacy (CLAP) for Unsupervised Video Anomaly Detection: A New Baseline**|Anas Al-lahham et.al.|[2404.00847](http://arxiv.org/abs/2404.00847)|**[link](https://github.com/anasemad11/clap)**|
@@ -1069,7 +1069,7 @@
 |**2023-12-06**|**Privacy-Preserving Task-Oriented Semantic Communications Against Model Inversion Attacks**|Yanhu Wang et.al.|[2312.03252](http://arxiv.org/abs/2312.03252)|null|
 |**2023-12-06**|**Who Leaked the Model? Tracking IP Infringers in Accountable Federated Learning**|Shuyang Yu et.al.|[2312.03205](http://arxiv.org/abs/2312.03205)|null|
 |**2023-12-05**|**The Landscape of Modern Machine Learning: A Review of Machine, Distributed and Federated Learning**|Omer Subasi et.al.|[2312.03120](http://arxiv.org/abs/2312.03120)|null|
-|**2023-12-05**|**Think Twice Before Selection: Federated Evidential Active Learning for Medical Image Analysis with Domain Shifts**|Jiayi Chen et.al.|[2312.02567](http://arxiv.org/abs/2312.02567)|null|
+|**2023-12-05**|**Think Twice Before Selection: Federated Evidential Active Learning for Medical Image Analysis with Domain Shifts**|Jiayi Chen et.al.|[2312.02567](http://arxiv.org/abs/2312.02567)|**[link](https://github.com/jiayichen815/feal)**|
 |**2023-12-05**|**Towards Fast and Stable Federated Learning: Confronting Heterogeneity via Knowledge Anchor**|Jinqian Chen et.al.|[2312.02416](http://arxiv.org/abs/2312.02416)|**[link](https://github.com/J1nqianChen/FedKA)**|
 |**2023-12-04**|**FLea: Improving federated learning on scarce and label-skewed data via privacy-preserving feature augmentation**|Tong Xia et.al.|[2312.02327](http://arxiv.org/abs/2312.02327)|null|
 |**2023-12-04**|**Federated Active Learning for Target Domain Generalisation**|Razvan Caramalau et.al.|[2312.02247](http://arxiv.org/abs/2312.02247)|**[link](https://github.com/razvancaramalau/fedalv)**|
