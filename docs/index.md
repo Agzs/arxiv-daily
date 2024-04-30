@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-28**|**Machine Learning for Blockchain Data Analysis: Progress and Opportunities**|Poupak Azad et.al.|[2404.18251](http://arxiv.org/abs/2404.18251)|null|
+|**2024-04-28**|**Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?**|Kaixuan Li et.al.|[2404.18186](http://arxiv.org/abs/2404.18186)|null|
+|**2024-04-28**|**Decentralized Peer Review in Open Science: A Mechanism Proposal**|Andreas Finke et.al.|[2404.18148](http://arxiv.org/abs/2404.18148)|null|
+|**2024-04-27**|**Solvent: liquidity verification of smart contracts**|Massimo Bartoletti et.al.|[2404.17864](http://arxiv.org/abs/2404.17864)|null|
+|**2024-04-27**|**Improving Smart Contract Security with Contrastive Learning-based Vulnerability Detection**|Yizhou Chen et.al.|[2404.17839](http://arxiv.org/abs/2404.17839)|null|
 |**2024-04-21**|**Mitigating Data Sharing in Public Cloud using Blockchain**|Pratik Patil et.al.|[2404.16872](http://arxiv.org/abs/2404.16872)|null|
 |**2024-04-25**|**Blockchain-enabled Energy Trading and Battery-based Sharing in Microgrids**|Abdulrezzak Zekiye et.al.|[2404.16462](http://arxiv.org/abs/2404.16462)|null|
 |**2024-04-24**|**A Rollup Comparison Framework**|Jan Gorzny et.al.|[2404.16150](http://arxiv.org/abs/2404.16150)|null|
@@ -339,6 +344,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-29**|**FeDeRA:Efficient Fine-tuning of Language Models in Federated Learning Leveraging Weight Decomposition**|Yuxuan Yan et.al.|[2404.18848](http://arxiv.org/abs/2404.18848)|null|
+|**2024-04-29**|**Belt and Brace: When Federated Learning Meets Differential Privacy**|Xuebin Ren et.al.|[2404.18814](http://arxiv.org/abs/2404.18814)|null|
+|**2024-04-29**|**A Universal Metric of Dataset Similarity for Cross-silo Federated Learning**|Ahmed Elhussein et.al.|[2404.18773](http://arxiv.org/abs/2404.18773)|null|
+|**2024-04-29**|**Private graph colouring with limited defectiveness**|Aleksander B. G. Christiansen et.al.|[2404.18692](http://arxiv.org/abs/2404.18692)|null|
+|**2024-04-29**|**Bridging Data Barriers among Participants: Assessing the Potential of Geoenergy through Federated Learning**|Weike Peng et.al.|[2404.18527](http://arxiv.org/abs/2404.18527)|null|
+|**2024-04-29**|**On the Impact of Data Heterogeneity in Federated Learning Environments with Application to Healthcare Networks**|Usevalad Milasheuski. Luca Barbieri et.al.|[2404.18519](http://arxiv.org/abs/2404.18519)|null|
+|**2024-04-28**|**Joint Energy and Latency Optimization in Federated Learning over Cell-Free Massive MIMO Networks**|Afsaneh Mahmoudi et.al.|[2404.18287](http://arxiv.org/abs/2404.18287)|null|
+|**2024-04-27**|**Energy-Efficient Federated Learning in Cooperative Communication within Factory Subnetworks**|Hamid Reza Hashempour et.al.|[2404.18010](http://arxiv.org/abs/2404.18010)|null|
+|**2024-04-27**|**Towards Privacy-Preserving Audio Classification Systems**|Bhawana Chhaglani et.al.|[2404.18002](http://arxiv.org/abs/2404.18002)|null|
+|**2024-04-27**|**TabVFL: Improving Latent Representation in Vertical Federated Learning**|Mohamed Rashad et.al.|[2404.17990](http://arxiv.org/abs/2404.17990)|null|
 |**2024-04-26**|**On the Federated Learning Framework for Cooperative Perception**|Zhenrong Zhang et.al.|[2404.17147](http://arxiv.org/abs/2404.17147)|null|
 |**2024-04-25**|**On TinyML and Cybersecurity: Electric Vehicle Charging Infrastructure Use Case**|Fatemeh Dehrouyeh et.al.|[2404.16894](http://arxiv.org/abs/2404.16894)|null|
 |**2024-04-25**|**Privacy-Preserving Statistical Data Generation: Application to Sepsis Detection**|Eric Macias-Fassio et.al.|[2404.16638](http://arxiv.org/abs/2404.16638)|null|
