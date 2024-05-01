@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**Transforming Credit Guarantee Schemes with Distributed Ledger Technology**|Sabrina Leo et.al.|[2404.19555](http://arxiv.org/abs/2404.19555)|null|
+|**2024-04-30**|**TRAC: a tool for data-aware coordination (with an application to smart contracts)**|Joao Afonso et.al.|[2404.19523](http://arxiv.org/abs/2404.19523)|null|
 |**2024-04-28**|**Machine Learning for Blockchain Data Analysis: Progress and Opportunities**|Poupak Azad et.al.|[2404.18251](http://arxiv.org/abs/2404.18251)|null|
 |**2024-04-28**|**Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?**|Kaixuan Li et.al.|[2404.18186](http://arxiv.org/abs/2404.18186)|null|
 |**2024-04-28**|**Decentralized Peer Review in Open Science: A Mechanism Proposal**|Andreas Finke et.al.|[2404.18148](http://arxiv.org/abs/2404.18148)|null|
@@ -277,6 +279,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-29**|**Zero Knowledge Proof for Multiple Sequence Alignment**|Worasait Suwannik et.al.|[2404.19064](http://arxiv.org/abs/2404.19064)|null|
 |**2024-04-24**|**zkLLM: Zero Knowledge Proofs for Large Language Models**|Haochen Sun et.al.|[2404.16109](http://arxiv.org/abs/2404.16109)|**[link](https://github.com/jvhs0706/zkllm-ccs2024)**|
 |**2024-04-23**|**Zero-Knowledge Location Privacy via Accurate Floating Point SNARKs**|Jens Ernstberger et.al.|[2404.14983](http://arxiv.org/abs/2404.14983)|null|
 |**2024-04-19**|**End-to-End Verifiable Decentralized Federated Learning**|Chaehyeon Lee et.al.|[2404.12623](http://arxiv.org/abs/2404.12623)|**[link](https://github.com/eechn/End-to-End-Verifiable-Decentralized-Federated-Learning)**|
@@ -344,9 +347,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**Fairness Without Demographics in Human-Centered Federated Learning**|Roy Shaily et.al.|[2404.19725](http://arxiv.org/abs/2404.19725)|null|
+|**2024-04-30**|**Leveraging Label Information for Stealthy Data Stealing in Vertical Federated Learning**|Duanyi Yao et.al.|[2404.19582](http://arxiv.org/abs/2404.19582)|null|
+|**2024-04-30**|**Let's Focus: Focused Backdoor Attack against Federated Transfer Learning**|Marco Arazzi et.al.|[2404.19420](http://arxiv.org/abs/2404.19420)|null|
+|**2024-04-29**|**An Aggregation-Free Federated Learning for Tackling Data Heterogeneity**|Yuan Wang et.al.|[2404.18962](http://arxiv.org/abs/2404.18962)|null|
 |**2024-04-30**|**FeDeRA:Efficient Fine-tuning of Language Models in Federated Learning Leveraging Weight Decomposition**|Yuxuan Yan et.al.|[2404.18848](http://arxiv.org/abs/2404.18848)|null|
 |**2024-04-29**|**Belt and Brace: When Federated Learning Meets Differential Privacy**|Xuebin Ren et.al.|[2404.18814](http://arxiv.org/abs/2404.18814)|null|
-|**2024-04-29**|**A Universal Metric of Dataset Similarity for Cross-silo Federated Learning**|Ahmed Elhussein et.al.|[2404.18773](http://arxiv.org/abs/2404.18773)|null|
+|**2024-04-29**|**A Universal Metric of Dataset Similarity for Cross-silo Federated Learning**|Ahmed Elhussein et.al.|[2404.18773](http://arxiv.org/abs/2404.18773)|**[link](https://github.com/annoymous-submissions/ot_cost)**|
 |**2024-04-29**|**Private graph colouring with limited defectiveness**|Aleksander B. G. Christiansen et.al.|[2404.18692](http://arxiv.org/abs/2404.18692)|null|
 |**2024-04-29**|**Bridging Data Barriers among Participants: Assessing the Potential of Geoenergy through Federated Learning**|Weike Peng et.al.|[2404.18527](http://arxiv.org/abs/2404.18527)|null|
 |**2024-04-29**|**On the Impact of Data Heterogeneity in Federated Learning Environments with Application to Healthcare Networks**|Usevalad Milasheuski. Luca Barbieri et.al.|[2404.18519](http://arxiv.org/abs/2404.18519)|null|
