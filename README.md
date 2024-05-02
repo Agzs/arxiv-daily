@@ -289,6 +289,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-01**|**Proof of Sampling: A Nash Equilibrium-Secured Verification Protocol for Decentralized Systems**|Yue Zhang et.al.|[2405.00295](http://arxiv.org/abs/2405.00295)|null|
 |**2024-04-29**|**Zero Knowledge Proof for Multiple Sequence Alignment**|Worasait Suwannik et.al.|[2404.19064](http://arxiv.org/abs/2404.19064)|null|
 |**2024-04-24**|**zkLLM: Zero Knowledge Proofs for Large Language Models**|Haochen Sun et.al.|[2404.16109](http://arxiv.org/abs/2404.16109)|**[link](https://github.com/jvhs0706/zkllm-ccs2024)**|
 |**2024-04-23**|**Zero-Knowledge Location Privacy via Accurate Floating Point SNARKs**|Jens Ernstberger et.al.|[2404.14983](http://arxiv.org/abs/2404.14983)|null|
@@ -359,6 +360,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-01**|**An Expectation-Maximization Relaxed Method for Privacy Funnel**|Lingyi Chen et.al.|[2405.00616](http://arxiv.org/abs/2405.00616)|null|
+|**2024-05-01**|**LEAP: Optimization Hierarchical Federated Learning on Non-IID Data with Coalition Formation Game**|Jianfeng Lu et.al.|[2405.00579](http://arxiv.org/abs/2405.00579)|null|
+|**2024-05-01**|**Swarm Learning: A Survey of Concepts, Applications, and Trends**|Elham Shammar et.al.|[2405.00556](http://arxiv.org/abs/2405.00556)|null|
+|**2024-05-01**|**FMLFS: A federated multi-label feature selection based on information theory in IoT environment**|Afsaneh Mahanipour et.al.|[2405.00524](http://arxiv.org/abs/2405.00524)|null|
+|**2024-05-01**|**PackVFL: Efficient HE Packing for Vertical Federated Learning**|Liu Yang et.al.|[2405.00482](http://arxiv.org/abs/2405.00482)|null|
+|**2024-05-01**|**Detection of ransomware attacks using federated learning based on the CNN model**|Hong-Nhung Nguyen et.al.|[2405.00418](http://arxiv.org/abs/2405.00418)|null|
+|**2024-05-01**|**Trust Driven On-Demand Scheme for Client Deployment in Federated Learning**|Mario Chahoud et.al.|[2405.00395](http://arxiv.org/abs/2405.00395)|null|
+|**2024-05-01**|**Enhancing Mutual Trustworthiness in Federated Learning for Data-Rich Smart Cities**|Osama Wehbi et.al.|[2405.00394](http://arxiv.org/abs/2405.00394)|null|
+|**2024-05-01**|**Employing Federated Learning for Training Autonomous HVAC Systems**|Fredrik Hagström et.al.|[2405.00389](http://arxiv.org/abs/2405.00389)|null|
+|**2024-05-01**|**Metric geometry of the privacy-utility tradeoff**|March Boedihardjo et.al.|[2405.00329](http://arxiv.org/abs/2405.00329)|null|
 |**2024-04-30**|**Fairness Without Demographics in Human-Centered Federated Learning**|Roy Shaily et.al.|[2404.19725](http://arxiv.org/abs/2404.19725)|null|
 |**2024-04-30**|**Leveraging Label Information for Stealthy Data Stealing in Vertical Federated Learning**|Duanyi Yao et.al.|[2404.19582](http://arxiv.org/abs/2404.19582)|null|
 |**2024-04-30**|**Let's Focus: Focused Backdoor Attack against Federated Transfer Learning**|Marco Arazzi et.al.|[2404.19420](http://arxiv.org/abs/2404.19420)|null|
