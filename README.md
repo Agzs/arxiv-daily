@@ -360,6 +360,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**Navigating Heterogeneity and Privacy in One-Shot Federated Learning with Diffusion Models**|Matias Mendieta et.al.|[2405.01494](http://arxiv.org/abs/2405.01494)|null|
+|**2024-05-02**|**Exploring Privacy Issues in Mission Critical Communication: Navigating 5G and Beyond Networks**|Prajnamaya Dass et.al.|[2405.01492](http://arxiv.org/abs/2405.01492)|null|
+|**2024-05-02**|**Privacy-Enhanced Database Synthesis for Benchmark Publishing**|Yongrui Zhong et.al.|[2405.01312](http://arxiv.org/abs/2405.01312)|null|
+|**2024-05-02**|**Gradient-Congruity Guided Federated Sparse Training**|Chris Xing Tian et.al.|[2405.01189](http://arxiv.org/abs/2405.01189)|null|
+|**2024-05-02**|**Boosting Communication Efficiency of Federated Learning's Secure Aggregation**|Niousha Nazemi et.al.|[2405.01144](http://arxiv.org/abs/2405.01144)|null|
+|**2024-05-02**|**Sharp Bounds for Sequential Federated Learning on Heterogeneous Data**|Yipeng Li et.al.|[2405.01142](http://arxiv.org/abs/2405.01142)|null|
+|**2024-05-02**|**Federated Learning with Heterogeneous Data Handling for Robust Vehicular Object Detection**|Ahmad Khalil et.al.|[2405.01108](http://arxiv.org/abs/2405.01108)|null|
+|**2024-05-02**|**Poisoning Attacks on Federated Learning for Autonomous Driving**|Sonakshi Garg et.al.|[2405.01073](http://arxiv.org/abs/2405.01073)|null|
+|**2024-05-02**|**Robust Decentralized Learning with Local Updates and Gradient Tracking**|Sajjad Ghiasvand et.al.|[2405.00965](http://arxiv.org/abs/2405.00965)|null|
+|**2024-05-02**|**Recovering Labels from Local Updates in Federated Learning**|Huancheng Chen et.al.|[2405.00955](http://arxiv.org/abs/2405.00955)|null|
 |**2024-05-01**|**An Expectation-Maximization Relaxed Method for Privacy Funnel**|Lingyi Chen et.al.|[2405.00616](http://arxiv.org/abs/2405.00616)|null|
 |**2024-05-01**|**LEAP: Optimization Hierarchical Federated Learning on Non-IID Data with Coalition Formation Game**|Jianfeng Lu et.al.|[2405.00579](http://arxiv.org/abs/2405.00579)|null|
 |**2024-05-01**|**Swarm Learning: A Survey of Concepts, Applications, and Trends**|Elham Shammar et.al.|[2405.00556](http://arxiv.org/abs/2405.00556)|null|
