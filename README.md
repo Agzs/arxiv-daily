@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**Tokenization of Real Estate Assets Using Blockchain**|Shashank Joshi et.al.|[2405.01852](http://arxiv.org/abs/2405.01852)|null|
+|**2024-05-03**|**Sequencer Level Security**|Martin Derka et.al.|[2405.01819](http://arxiv.org/abs/2405.01819)|null|
 |**2024-04-30**|**Transforming Credit Guarantee Schemes with Distributed Ledger Technology**|Sabrina Leo et.al.|[2404.19555](http://arxiv.org/abs/2404.19555)|null|
 |**2024-04-30**|**TRAC: a tool for data-aware coordination (with an application to smart contracts)**|Joao Afonso et.al.|[2404.19523](http://arxiv.org/abs/2404.19523)|null|
 |**2024-04-28**|**Machine Learning for Blockchain Data Analysis: Progress and Opportunities**|Poupak Azad et.al.|[2404.18251](http://arxiv.org/abs/2404.18251)|null|
@@ -360,6 +362,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**An Information Theoretic Perspective on Conformal Prediction**|Alvaro H. C. Correia et.al.|[2405.02140](http://arxiv.org/abs/2405.02140)|null|
+|**2024-05-03**|**A Federated Learning Benchmark on Tabular Data: Comparing Tree-Based Models and Neural Networks**|William Lindskog et.al.|[2405.02074](http://arxiv.org/abs/2405.02074)|null|
+|**2024-05-03**|**Histogram-Based Federated XGBoost using Minimal Variance Sampling for Federated Tabular Data**|William Lindskog et.al.|[2405.02067](http://arxiv.org/abs/2405.02067)|null|
+|**2024-05-03**|**Federated Learning for Tabular Data using TabNet: A Vehicular Use-Case**|William Lindskog et.al.|[2405.02060](http://arxiv.org/abs/2405.02060)|null|
+|**2024-05-03**|**A Survey on Privacy-Preserving Caching at Network Edge: Classification, Solutions, and Challenges**|Xianzhi Zhang et.al.|[2405.01844](http://arxiv.org/abs/2405.01844)|null|
+|**2024-05-02**|**Privacy-aware Berrut Approximated Coded Computing for Federated Learning**|Xavier Martínez Luaña et.al.|[2405.01704](http://arxiv.org/abs/2405.01704)|null|
+|**2024-05-02**|**1-Diffractor: Efficient and Utility-Preserving Text Obfuscation Leveraging Word-Level Metric Differential Privacy**|Stephen Meisenbacher et.al.|[2405.01678](http://arxiv.org/abs/2405.01678)|**[link](https://github.com/sjmeis/diffractor)**|
 |**2024-05-02**|**Navigating Heterogeneity and Privacy in One-Shot Federated Learning with Diffusion Models**|Matias Mendieta et.al.|[2405.01494](http://arxiv.org/abs/2405.01494)|null|
 |**2024-05-02**|**Exploring Privacy Issues in Mission Critical Communication: Navigating 5G and Beyond Networks**|Prajnamaya Dass et.al.|[2405.01492](http://arxiv.org/abs/2405.01492)|null|
 |**2024-05-02**|**Privacy-Enhanced Database Synthesis for Benchmark Publishing**|Yongrui Zhong et.al.|[2405.01312](http://arxiv.org/abs/2405.01312)|null|
