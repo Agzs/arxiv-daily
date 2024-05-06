@@ -40,7 +40,7 @@
 |**2024-04-07**|**Unveiling Decentralization: A Comprehensive Review of Technologies, Comparison, Challenges in Bitcoin, Ethereum, and Solana Blockchain**|Han Song et.al.|[2404.04841](http://arxiv.org/abs/2404.04841)|null|
 |**2024-04-10**|**Sharding Distributed Databases: A Critical Review**|Siamak Solat et.al.|[2404.04384](http://arxiv.org/abs/2404.04384)|null|
 |**2024-04-05**|**AuditGPT: Auditing Smart Contracts with ChatGPT**|Shihao Xia et.al.|[2404.04306](http://arxiv.org/abs/2404.04306)|null|
-|**2024-04-05**|**Smart Contract Languages: a comparative analysis**|Massimo Bartoletti et.al.|[2404.04129](http://arxiv.org/abs/2404.04129)|null|
+|**2024-04-05**|**Smart Contract Languages: a comparative analysis**|Massimo Bartoletti et.al.|[2404.04129](http://arxiv.org/abs/2404.04129)|**[link](https://github.com/blockchain-unica/smart-contracts-comparison)**|
 |**2024-04-05**|**VELLET: Verifiable Embedded Wallet for Securing Authenticity and Integrity**|Hiroki Watanabe et.al.|[2404.03874](http://arxiv.org/abs/2404.03874)|null|
 |**2024-04-04**|**Groundhog: Linearly-Scalable Smart Contracting via Commutative Transaction Semantics**|Geoffrey Ramseyer et.al.|[2404.03201](http://arxiv.org/abs/2404.03201)|**[link](https://github.com/scslab/smart-contract-scalability)**|
 |**2024-04-02**|**What Blocks My Blockchain's Throughput? Developing a Generalizable Approach for Identifying Bottlenecks in Permissioned Blockchains**|Orestis Papageorgiou et.al.|[2404.02930](http://arxiv.org/abs/2404.02930)|null|
@@ -395,7 +395,7 @@
 |**2024-04-27**|**Towards Privacy-Preserving Audio Classification Systems**|Bhawana Chhaglani et.al.|[2404.18002](http://arxiv.org/abs/2404.18002)|null|
 |**2024-04-27**|**TabVFL: Improving Latent Representation in Vertical Federated Learning**|Mohamed Rashad et.al.|[2404.17990](http://arxiv.org/abs/2404.17990)|null|
 |**2024-04-26**|**On the Federated Learning Framework for Cooperative Perception**|Zhenrong Zhang et.al.|[2404.17147](http://arxiv.org/abs/2404.17147)|null|
-|**2024-04-25**|**On TinyML and Cybersecurity: Electric Vehicle Charging Infrastructure Use Case**|Fatemeh Dehrouyeh et.al.|[2404.16894](http://arxiv.org/abs/2404.16894)|null|
+|**2024-04-25**|**On TinyML and Cybersecurity: Electric Vehicle Charging Infrastructure Use Case**|Fatemeh Dehrouyeh et.al.|[2404.16894](http://arxiv.org/abs/2404.16894)|**[link](https://github.com/western-oc2-lab/tinyml_evci)**|
 |**2024-04-25**|**Privacy-Preserving Statistical Data Generation: Application to Sepsis Detection**|Eric Macias-Fassio et.al.|[2404.16638](http://arxiv.org/abs/2404.16638)|null|
 |**2024-04-25**|**FedStyle: Style-Based Federated Learning Crowdsourcing Framework for Art Commissions**|Changjuan Ran et.al.|[2404.16336](http://arxiv.org/abs/2404.16336)|null|
 |**2024-04-25**|**Differentially Private Federated Learning: Servers Trustworthiness, Estimation, and Statistical Inference**|Zhe Zhang et.al.|[2404.16287](http://arxiv.org/abs/2404.16287)|null|
@@ -404,7 +404,7 @@
 |**2024-04-24**|**Blind Federated Learning without initial model**|Jose L. Salmeron et.al.|[2404.16180](http://arxiv.org/abs/2404.16180)|null|
 |**2024-04-25**|**Decentralized Personalized Federated Learning based on a Conditional Sparse-to-Sparser Scheme**|Qianyu Long et.al.|[2404.15943](http://arxiv.org/abs/2404.15943)|**[link](https://github.com/ericloong/da-dpfl)**|
 |**2024-04-24**|**An Element-Wise Weights Aggregation Method for Federated Learning**|Yi Hu et.al.|[2404.15919](http://arxiv.org/abs/2404.15919)|**[link](https://github.com/rand2ai/ewwa-fl)**|
-|**2024-04-24**|**Privacy-Preserving Billing for Local Energy Markets (Long Version)**|Eman Alqahtani et.al.|[2404.15886](http://arxiv.org/abs/2404.15886)|null|
+|**2024-04-24**|**Privacy-Preserving Billing for Local Energy Markets (Long Version)**|Eman Alqahtani et.al.|[2404.15886](http://arxiv.org/abs/2404.15886)|**[link](https://github.com/emanalqahtani/zppb-lem2)**|
 |**2024-04-24**|**Secure and Privacy-Preserving Authentication for Data Subject Rights Enforcement**|Malte Hansen et.al.|[2404.15859](http://arxiv.org/abs/2404.15859)|null|
 |**2024-04-24**|**PoisonedFL: Model Poisoning Attacks to Federated Learning via Multi-Round Consistency**|Yueqi Xie et.al.|[2404.15611](http://arxiv.org/abs/2404.15611)|null|
 |**2024-04-24**|**Federated Learning with Only Positive Labels by Exploring Label Correlations**|Xuming An et.al.|[2404.15598](http://arxiv.org/abs/2404.15598)|null|
@@ -494,7 +494,7 @@
 |**2024-04-09**|**Automated Federated Pipeline for Parameter-Efficient Fine-Tuning of Large Language Models**|Zihan Fang et.al.|[2404.06448](http://arxiv.org/abs/2404.06448)|null|
 |**2024-04-09**|**pfl-research: simulation framework for accelerating research in Private Federated Learning**|Filip Granqvist et.al.|[2404.06430](http://arxiv.org/abs/2404.06430)|**[link](https://github.com/apple/pfl-research)**|
 |**2024-04-09**|**Dynamic D2D-Assisted Federated Learning over O-RAN: Performance Analysis, MAC Scheduler, and Asymmetric User Selection**|Payam Abdisarabshali et.al.|[2404.06324](http://arxiv.org/abs/2404.06324)|null|
-|**2024-04-09**|**Aggressive or Imperceptible, or Both: Network Pruning Assisted Hybrid Byzantines in Federated Learning**|Emre Ozfatura et.al.|[2404.06230](http://arxiv.org/abs/2404.06230)|null|
+|**2024-04-09**|**Aggressive or Imperceptible, or Both: Network Pruning Assisted Hybrid Byzantines in Federated Learning**|Emre Ozfatura et.al.|[2404.06230](http://arxiv.org/abs/2404.06230)|**[link](https://github.com/CRYPTO-KU/FL-Byzantine-Library)**|
 |**2024-04-09**|**Privacy-preserving Scanpath Comparison for Pervasive Eye Tracking**|Suleyman Ozdel et.al.|[2404.06216](http://arxiv.org/abs/2404.06216)|null|
 |**2024-04-09**|**Open-Source AI-based SE Tools: Opportunities and Challenges of Collaborative Software Learning**|Zhihao Lin et.al.|[2404.06201](http://arxiv.org/abs/2404.06201)|null|
 |**2024-04-09**|**FLEX: FLEXible Federated Learning Framework**|Francisco Herrera et.al.|[2404.06127](http://arxiv.org/abs/2404.06127)|**[link](https://github.com/SMILELab-FL/FedLab)**|
