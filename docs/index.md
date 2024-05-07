@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.06
+## Updated on 2024.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -288,7 +288,7 @@ layout: default
 |**2024-04-19**|**End-to-End Verifiable Decentralized Federated Learning**|Chaehyeon Lee et.al.|[2404.12623](http://arxiv.org/abs/2404.12623)|**[link](https://github.com/eechn/End-to-End-Verifiable-Decentralized-Federated-Learning)**|
 |**2024-04-06**|**Trustless Audits without Revealing Data or Models**|Suppakit Waiwitlikhit et.al.|[2404.04500](http://arxiv.org/abs/2404.04500)|null|
 |**2024-03-22**|**VPAS: Publicly Verifiable and Privacy-Preserving Aggregate Statistics on Distributed Datasets**|Mohammed Alghazwi et.al.|[2403.15208](http://arxiv.org/abs/2403.15208)|null|
-|**2024-04-19**|**Zero-Knowledge Proof of Distinct Identity: a Standard-compatible Sybil-resistant Pseudonym Extension for C-ITS**|Ye Tao et.al.|[2403.14020](http://arxiv.org/abs/2403.14020)|null|
+|**2024-05-03**|**Zero-Knowledge Proof of Distinct Identity: a Standard-compatible Sybil-resistant Pseudonym Extension for C-ITS**|Ye Tao et.al.|[2403.14020](http://arxiv.org/abs/2403.14020)|null|
 |**2024-03-08**|**TIPS: Threat Sharing Information Platform for Enhanced Security**|Lakshmi Rama Kiran Pasumarthy et.al.|[2403.05210](http://arxiv.org/abs/2403.05210)|null|
 |**2024-02-26**|**Multichain Taprootized Atomic Swaps: Introducing Untraceability through Zero-Knowledge Proofs**|Oleksandr Kurbatov et.al.|[2402.16735](http://arxiv.org/abs/2402.16735)|**[link](https://github.com/distributed-lab/taprootized-atomic-swaps)**|
 |**2024-03-06**|**SoK: What don't we know? Understanding Security Vulnerabilities in SNARKs**|Stefanos Chaliasos et.al.|[2402.15293](http://arxiv.org/abs/2402.15293)|null|
