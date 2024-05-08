@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Self-Replicating and Self-Employed Smart Contract on Ethereum Blockchain**|Atsushi Masumori et.al.|[2405.04038](http://arxiv.org/abs/2405.04038)|null|
 |**2024-05-07**|**A Game Theoretic Analysis of Validator Strategies in Ethereum 2.0**|Chien-Chih Chen et.al.|[2405.03357](http://arxiv.org/abs/2405.03357)|null|
 |**2024-05-04**|**PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation**|Ye Liu et.al.|[2405.02580](http://arxiv.org/abs/2405.02580)|null|
 |**2024-05-03**|**Tokenization of Real Estate Assets Using Blockchain**|Shashank Joshi et.al.|[2405.01852](http://arxiv.org/abs/2405.01852)|null|
@@ -293,6 +294,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**A2-DIDM: Privacy-preserving Accumulator-enabled Auditing for Distributed Identity of DNN Model**|Tianxiu Xie et.al.|[2405.04108](http://arxiv.org/abs/2405.04108)|null|
 |**2024-05-01**|**Proof of Sampling: A Nash Equilibrium-Secured Verification Protocol for Decentralized Systems**|Yue Zhang et.al.|[2405.00295](http://arxiv.org/abs/2405.00295)|null|
 |**2024-04-29**|**Zero Knowledge Proof for Multiple Sequence Alignment**|Worasait Suwannik et.al.|[2404.19064](http://arxiv.org/abs/2404.19064)|null|
 |**2024-04-24**|**zkLLM: Zero Knowledge Proofs for Large Language Models**|Haochen Sun et.al.|[2404.16109](http://arxiv.org/abs/2404.16109)|**[link](https://github.com/jvhs0706/zkllm-ccs2024)**|
@@ -364,6 +366,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Federated Learning for Cooperative Inference Systems: The Case of Early Exit Networks**|Caelin Kaplan et.al.|[2405.04249](http://arxiv.org/abs/2405.04249)|null|
+|**2024-05-07**|**FedStale: leveraging stale client updates in federated learning**|Angelo Rodio et.al.|[2405.04171](http://arxiv.org/abs/2405.04171)|null|
+|**2024-05-07**|**pFedLVM: A Large Vision Model (LVM)-Driven and Latent Feature-Based Personalized Federated Learning Framework in Autonomous Driving**|Wei-Bin Kou et.al.|[2405.04146](http://arxiv.org/abs/2405.04146)|null|
+|**2024-05-07**|**Ranking-based Client Selection with Imitation Learning for Efficient Federated Learning**|Chunlin Tian et.al.|[2405.04122](http://arxiv.org/abs/2405.04122)|null|
+|**2024-05-07**|**A Stealthy Wrongdoer: Feature-Oriented Reconstruction Attack against Split Learning**|Xiaoyang Xu et.al.|[2405.04115](http://arxiv.org/abs/2405.04115)|null|
+|**2024-05-07**|**A2-DIDM: Privacy-preserving Accumulator-enabled Auditing for Distributed Identity of DNN Model**|Tianxiu Xie et.al.|[2405.04108](http://arxiv.org/abs/2405.04108)|null|
+|**2024-05-07**|**Scalable Vertical Federated Learning via Data Augmentation and Amortized Inference**|Conor Hassan et.al.|[2405.04043](http://arxiv.org/abs/2405.04043)|null|
+|**2024-05-07**|**Enabling Privacy-Preserving and Publicly Auditable Federated Learning**|Huang Zeng et.al.|[2405.04029](http://arxiv.org/abs/2405.04029)|null|
+|**2024-05-07**|**Research on financial fraud algorithm based on federal learning and big data technology**|Xinye Sha et.al.|[2405.03992](http://arxiv.org/abs/2405.03992)|null|
+|**2024-05-07**|**IPFed: Identity protected federated learning for user authentication**|Yosuke Kaga et.al.|[2405.03955](http://arxiv.org/abs/2405.03955)|null|
 |**2024-05-06**|**Federated Learning Privacy: Attacks, Defenses, Applications, and Policy Landscape - A Survey**|Joshua C. Zhao et.al.|[2405.03636](http://arxiv.org/abs/2405.03636)|null|
 |**2024-05-06**|**Exploring the Efficacy of Federated-Continual Learning Nodes with Attention-Based Classifier for Robust Web Phishing Detection: An Empirical Investigation**|Jesher Joshua M et.al.|[2405.03537](http://arxiv.org/abs/2405.03537)|null|
 |**2024-05-06**|**GI-SMN: Gradient Inversion Attack against Federated Learning without Prior Knowledge**|Jin Qian et.al.|[2405.03516](http://arxiv.org/abs/2405.03516)|null|
