@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.07
+## Updated on 2024.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-06**|**A Game Theoretic Analysis of Validator Strategies in Ethereum 2.0**|Chien-Chih Chen et.al.|[2405.03357](http://arxiv.org/abs/2405.03357)|null|
+|**2024-05-07**|**A Game Theoretic Analysis of Validator Strategies in Ethereum 2.0**|Chien-Chih Chen et.al.|[2405.03357](http://arxiv.org/abs/2405.03357)|null|
 |**2024-05-04**|**PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation**|Ye Liu et.al.|[2405.02580](http://arxiv.org/abs/2405.02580)|null|
 |**2024-05-03**|**Tokenization of Real Estate Assets Using Blockchain**|Shashank Joshi et.al.|[2405.01852](http://arxiv.org/abs/2405.01852)|null|
 |**2024-05-03**|**Sequencer Level Security**|Martin Derka et.al.|[2405.01819](http://arxiv.org/abs/2405.01819)|null|
