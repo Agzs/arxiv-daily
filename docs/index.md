@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.09
+## Updated on 2024.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -356,7 +356,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-08**|**SCALA: Split Federated Learning with Concatenated Activations and Logit Adjustments**|Jiarong Yang et.al.|[2405.04875](http://arxiv.org/abs/2405.04875)|null|
-|**2024-05-08**|**Federated Adaptation for Foundation Model-based Recommendations**|Chunxu Zhang et.al.|[2405.04840](http://arxiv.org/abs/2405.04840)|null|
+|**2024-05-08**|**Federated Adaptation for Foundation Model-based Recommendations**|Chunxu Zhang et.al.|[2405.04840](http://arxiv.org/abs/2405.04840)|**[link](https://github.com/Zhangcx19/IJCAI-24-FedPA)**|
 |**2024-05-08**|**When Foresight Pruning Meets Zeroth-Order Optimization: Efficient Federated Learning for Low-Memory Devices**|Pengyu Zhang et.al.|[2405.04765](http://arxiv.org/abs/2405.04765)|null|
 |**2024-05-08**|**Communication-efficient and Differentially-private Distributed Nash Equilibrium Seeking with Linear Convergence**|Xiaomeng Chen et.al.|[2405.04757](http://arxiv.org/abs/2405.04757)|null|
 |**2024-05-07**|**Fast Decentralized Gradient Tracking for Federated Minimax Optimization with Local Updates**|Chris Junchi Li et.al.|[2405.04566](http://arxiv.org/abs/2405.04566)|null|
