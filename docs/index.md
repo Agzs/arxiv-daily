@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**Implementation Study of Cost-Effective Verification for Pietrzak's Verifiable Delay Function in Ethereum Smart Contracts**|Suhyeon Lee et.al.|[2405.06498](http://arxiv.org/abs/2405.06498)|null|
+|**2024-05-09**|**Deferred Objects to Enhance Smart Contract Programming with Optimistic Parallel Execution**|George Mitenkov et.al.|[2405.06117](http://arxiv.org/abs/2405.06117)|null|
 |**2024-05-08**|**Enhancing Data Integrity and Traceability in Industry Cyber Physical Systems (ICPS) through Blockchain Technology: A Comprehensive Approach**|Mohammad Ikbal Hossain et.al.|[2405.04837](http://arxiv.org/abs/2405.04837)|null|
 |**2024-05-07**|**Self-Replicating and Self-Employed Smart Contract on Ethereum Blockchain**|Atsushi Masumori et.al.|[2405.04038](http://arxiv.org/abs/2405.04038)|null|
 |**2024-05-07**|**A Game Theoretic Analysis of Validator Strategies in Ethereum 2.0**|Chien-Chih Chen et.al.|[2405.03357](http://arxiv.org/abs/2405.03357)|null|
@@ -355,6 +357,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**Federated Document Visual Question Answering: A Pilot Study**|Khanh Nguyen et.al.|[2405.06636](http://arxiv.org/abs/2405.06636)|null|
+|**2024-05-10**|**Multi-level Personalized Federated Learning on Heterogeneous and Long-Tailed Data**|Rongyu Zhang et.al.|[2405.06413](http://arxiv.org/abs/2405.06413)|null|
+|**2024-05-10**|**DP-DyLoRA: Fine-Tuning Transformer-Based Models On-Device under Differentially Private Federated Learning using Dynamic Low-Rank Adaptation**|Jie Xu et.al.|[2405.06368](http://arxiv.org/abs/2405.06368)|null|
+|**2024-05-10**|**FedGCS: A Generative Framework for Efficient Client Selection in Federated Learning via Gradient-based Optimization**|Zhiyuan Ning et.al.|[2405.06312](http://arxiv.org/abs/2405.06312)|null|
+|**2024-05-10**|**Smooth Sensitivity for Geo-Privacy**|Yuting Liang et.al.|[2405.06307](http://arxiv.org/abs/2405.06307)|null|
+|**2024-05-10**|**Concealing Backdoor Model Updates in Federated Learning by Trigger-Optimized Data Poisoning**|Yujie Zhang et.al.|[2405.06206](http://arxiv.org/abs/2405.06206)|null|
+|**2024-05-10**|**ACTION: Augmentation and Computation Toolbox for Brain Network Analysis with Functional MRI**|Yuqi Fang et.al.|[2405.06178](http://arxiv.org/abs/2405.06178)|null|
 |**2024-05-09**|**Age Aware Scheduling for Differentially-Private Federated Learning**|Kuan-Yu Lin et.al.|[2405.05962](http://arxiv.org/abs/2405.05962)|null|
 |**2024-05-09**|**Federated Combinatorial Multi-Agent Multi-Armed Bandits**|Fares Fourati et.al.|[2405.05950](http://arxiv.org/abs/2405.05950)|null|
 |**2024-05-09**|**Compressed Bayesian Federated Learning for Reliable Passive Radio Sensing in Industrial IoT**|Luca Barbieri et.al.|[2405.05855](http://arxiv.org/abs/2405.05855)|null|
