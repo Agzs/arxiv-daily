@@ -26,7 +26,7 @@ layout: default
 |**2024-04-28**|**Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?**|Kaixuan Li et.al.|[2404.18186](http://arxiv.org/abs/2404.18186)|null|
 |**2024-04-28**|**Decentralized Peer Review in Open Science: A Mechanism Proposal**|Andreas Finke et.al.|[2404.18148](http://arxiv.org/abs/2404.18148)|null|
 |**2024-04-27**|**Solvent: liquidity verification of smart contracts**|Massimo Bartoletti et.al.|[2404.17864](http://arxiv.org/abs/2404.17864)|null|
-|**2024-04-27**|**Improving Smart Contract Security with Contrastive Learning-based Vulnerability Detection**|Yizhou Chen et.al.|[2404.17839](http://arxiv.org/abs/2404.17839)|null|
+|**2024-04-27**|**Improving Smart Contract Security with Contrastive Learning-based Vulnerability Detection**|Yizhou Chen et.al.|[2404.17839](http://arxiv.org/abs/2404.17839)|**[link](https://github.com/chenpp1881/clear)**|
 |**2024-04-21**|**Mitigating Data Sharing in Public Cloud using Blockchain**|Pratik Patil et.al.|[2404.16872](http://arxiv.org/abs/2404.16872)|null|
 |**2024-04-25**|**Blockchain-enabled Energy Trading and Battery-based Sharing in Microgrids**|Abdulrezzak Zekiye et.al.|[2404.16462](http://arxiv.org/abs/2404.16462)|null|
 |**2024-04-24**|**A Rollup Comparison Framework**|Jan Gorzny et.al.|[2404.16150](http://arxiv.org/abs/2404.16150)|null|
@@ -396,11 +396,11 @@ layout: default
 |**2024-05-02**|**1-Diffractor: Efficient and Utility-Preserving Text Obfuscation Leveraging Word-Level Metric Differential Privacy**|Stephen Meisenbacher et.al.|[2405.01678](http://arxiv.org/abs/2405.01678)|**[link](https://github.com/sjmeis/diffractor)**|
 |**2024-05-02**|**Navigating Heterogeneity and Privacy in One-Shot Federated Learning with Diffusion Models**|Matias Mendieta et.al.|[2405.01494](http://arxiv.org/abs/2405.01494)|null|
 |**2024-05-02**|**Exploring Privacy Issues in Mission Critical Communication: Navigating 5G and Beyond Networks**|Prajnamaya Dass et.al.|[2405.01492](http://arxiv.org/abs/2405.01492)|null|
-|**2024-05-02**|**Privacy-Enhanced Database Synthesis for Benchmark Publishing**|Yongrui Zhong et.al.|[2405.01312](http://arxiv.org/abs/2405.01312)|null|
+|**2024-05-02**|**Privacy-Enhanced Database Synthesis for Benchmark Publishing**|Yongrui Zhong et.al.|[2405.01312](http://arxiv.org/abs/2405.01312)|**[link](https://github.com/dsegszu/privbench)**|
 |**2024-05-02**|**Gradient-Congruity Guided Federated Sparse Training**|Chris Xing Tian et.al.|[2405.01189](http://arxiv.org/abs/2405.01189)|null|
 |**2024-05-02**|**Boosting Communication Efficiency of Federated Learning's Secure Aggregation**|Niousha Nazemi et.al.|[2405.01144](http://arxiv.org/abs/2405.01144)|null|
 |**2024-05-02**|**Sharp Bounds for Sequential Federated Learning on Heterogeneous Data**|Yipeng Li et.al.|[2405.01142](http://arxiv.org/abs/2405.01142)|null|
-|**2024-05-02**|**Federated Learning with Heterogeneous Data Handling for Robust Vehicular Object Detection**|Ahmad Khalil et.al.|[2405.01108](http://arxiv.org/abs/2405.01108)|null|
+|**2024-05-02**|**Federated Learning with Heterogeneous Data Handling for Robust Vehicular Object Detection**|Ahmad Khalil et.al.|[2405.01108](http://arxiv.org/abs/2405.01108)|**[link](https://github.com/TixXx1337/Federated-Learning-with-Heterogeneous-Data-Handling-for-Robust-Vehicular-Perception)**|
 |**2024-05-02**|**Poisoning Attacks on Federated Learning for Autonomous Driving**|Sonakshi Garg et.al.|[2405.01073](http://arxiv.org/abs/2405.01073)|null|
 |**2024-05-02**|**Robust Decentralized Learning with Local Updates and Gradient Tracking**|Sajjad Ghiasvand et.al.|[2405.00965](http://arxiv.org/abs/2405.00965)|null|
 |**2024-05-02**|**Recovering Labels from Local Updates in Federated Learning**|Huancheng Chen et.al.|[2405.00955](http://arxiv.org/abs/2405.00955)|null|
@@ -503,7 +503,7 @@ layout: default
 |**2024-04-15**|**VFLGAN: Vertical Federated Learning-based Generative Adversarial Network for Vertically Partitioned Data Publication**|Xun Yuan et.al.|[2404.09722](http://arxiv.org/abs/2404.09722)|null|
 |**2024-04-15**|**Privacy-Preserving Intrusion Detection using Convolutional Neural Networks**|Martin Kodys et.al.|[2404.09625](http://arxiv.org/abs/2404.09625)|null|
 |**2024-04-15**|**Beyond Noise: Privacy-Preserving Decentralized Learning with Virtual Nodes**|Sayan Biswas et.al.|[2404.09536](http://arxiv.org/abs/2404.09536)|null|
-|**2024-04-15**|**SpamDam: Towards Privacy-Preserving and Adversary-Resistant SMS Spam Detection**|Yekai Li et.al.|[2404.09481](http://arxiv.org/abs/2404.09481)|null|
+|**2024-04-15**|**SpamDam: Towards Privacy-Preserving and Adversary-Resistant SMS Spam Detection**|Yekai Li et.al.|[2404.09481](http://arxiv.org/abs/2404.09481)|**[link](https://github.com/chasesecurity/spamdam)**|
 |**2024-04-15**|**Hybrid FedGraph: An efficient hybrid federated learning algorithm using graph convolutional neural network**|Jaeyeon Jang et.al.|[2404.09443](http://arxiv.org/abs/2404.09443)|null|
 |**2024-04-15**|**On the Efficiency of Privacy Attacks in Federated Learning**|Nawrin Tabassum et.al.|[2404.09430](http://arxiv.org/abs/2404.09430)|null|
 |**2024-04-15**|**An Autoencoder-Based Constellation Design for AirComp in Wireless Federated Learning**|Yujia Mu et.al.|[2404.09392](http://arxiv.org/abs/2404.09392)|null|
@@ -704,7 +704,7 @@ layout: default
 |**2024-03-07**|**On-demand Quantization for Green Federated Generative Diffusion in Mobile Edge Networks**|Bingkun Lai et.al.|[2403.04430](http://arxiv.org/abs/2403.04430)|null|
 |**2024-03-07**|**LoCoDL: Communication-Efficient Distributed Learning with Local Training and Compression**|Laurent Condat et.al.|[2403.04348](http://arxiv.org/abs/2403.04348)|null|
 |**2024-03-07**|**Federated Recommendation via Hybrid Retrieval Augmented Generation**|Huimin Zeng et.al.|[2403.04256](http://arxiv.org/abs/2403.04256)|**[link](https://github.com/huiminzeng/gpt-fedrec)**|
-|**2024-03-07**|**HeteroSwitch: Characterizing and Taming System-Induced Data Heterogeneity in Federated Learning**|Gyudong Kim et.al.|[2403.04207](http://arxiv.org/abs/2403.04207)|null|
+|**2024-03-07**|**HeteroSwitch: Characterizing and Taming System-Induced Data Heterogeneity in Federated Learning**|Gyudong Kim et.al.|[2403.04207](http://arxiv.org/abs/2403.04207)|**[link](https://github.com/casl-ku/heteroswitch)**|
 |**2024-03-07**|**FL-GUARD: A Holistic Framework for Run-Time Detection and Recovery of Negative Federated Learning**|Hong Lin et.al.|[2403.04146](http://arxiv.org/abs/2403.04146)|null|
 |**2024-03-07**|**FedClust: Optimizing Federated Learning on Non-IID Data through Weight-Driven Client Clustering**|Md Sirajul Islam et.al.|[2403.04144](http://arxiv.org/abs/2403.04144)|null|
 |**2024-03-06**|**SPEAR:Exact Gradient Inversion of Batches in Federated Learning**|Dimitar I. Dimitrov et.al.|[2403.03945](http://arxiv.org/abs/2403.03945)|null|
@@ -890,7 +890,7 @@ layout: default
 |**2024-01-31**|**FedCore: Straggler-Free Federated Learning with Distributed Coresets**|Hongpeng Guo et.al.|[2402.00219](http://arxiv.org/abs/2402.00219)|**[link](https://github.com/hongpeng-guo/fedcore)**|
 |**2024-01-31**|**MP-SL: Multihop Parallel Split Learning**|Joana Tirana et.al.|[2402.00208](http://arxiv.org/abs/2402.00208)|**[link](https://github.com/jtirana98/multihop-federeated-split-learning)**|
 |**2024-01-31**|**Decentralised, Collaborative, and Privacy-preserving Machine Learning for Multi-Hospital Data**|Congyu Fang et.al.|[2402.00205](http://arxiv.org/abs/2402.00205)|**[link](https://github.com/cleverhans-lab/decaph)**|
-|**2024-01-31**|**Dataset Condensation Driven Machine Unlearning**|Junaid Iqbal Khan et.al.|[2402.00195](http://arxiv.org/abs/2402.00195)|null|
+|**2024-01-31**|**Dataset Condensation Driven Machine Unlearning**|Junaid Iqbal Khan et.al.|[2402.00195](http://arxiv.org/abs/2402.00195)|**[link](https://github.com/algebraicdianuj/DC_U)**|
 |**2024-01-31**|**De-identification is not always enough**|Atiquer Rahman Sarkar et.al.|[2402.00179](http://arxiv.org/abs/2402.00179)|null|
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083](http://arxiv.org/abs/2401.18083)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
 |**2024-01-31**|**Benchmarking Private Population Data Release Mechanisms: Synthetic Data vs. TopDown**|Aadyaa Maddi et.al.|[2401.18024](http://arxiv.org/abs/2401.18024)|null|
