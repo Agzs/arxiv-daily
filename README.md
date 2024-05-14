@@ -20,7 +20,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-10**|**Implementation Study of Cost-Effective Verification for Pietrzak's Verifiable Delay Function in Ethereum Smart Contracts**|Suhyeon Lee et.al.|[2405.06498](http://arxiv.org/abs/2405.06498)|null|
+|**2024-05-13**|**DID Connect: Authentication in TLS with Decentralized Identifiers and Verifiable Credentials**|Sandro Rodriguez Garzon et.al.|[2405.07533](http://arxiv.org/abs/2405.07533)|null|
+|**2024-05-12**|**Permissioned Blockchain-based Framework for Ranking Synthetic Data Generators**|Narasimha Raghavan Veeraragavan et.al.|[2405.07196](http://arxiv.org/abs/2405.07196)|null|
+|**2024-05-10**|**BitVMX: A CPU for Universal Computation on Bitcoin**|Sergio Demian Lerner et.al.|[2405.06842](http://arxiv.org/abs/2405.06842)|null|
+|**2024-05-13**|**Implementation Study of Cost-Effective Verification for Pietrzak's Verifiable Delay Function in Ethereum Smart Contracts**|Suhyeon Lee et.al.|[2405.06498](http://arxiv.org/abs/2405.06498)|null|
 |**2024-05-09**|**Deferred Objects to Enhance Smart Contract Programming with Optimistic Parallel Execution**|George Mitenkov et.al.|[2405.06117](http://arxiv.org/abs/2405.06117)|null|
 |**2024-05-08**|**Enhancing Data Integrity and Traceability in Industry Cyber Physical Systems (ICPS) through Blockchain Technology: A Comprehensive Approach**|Mohammad Ikbal Hossain et.al.|[2405.04837](http://arxiv.org/abs/2405.04837)|null|
 |**2024-05-07**|**Self-Replicating and Self-Employed Smart Contract on Ethereum Blockchain**|Atsushi Masumori et.al.|[2405.04038](http://arxiv.org/abs/2405.04038)|null|
@@ -297,6 +300,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**Efficient and Universal Merkle Tree Inclusion Proofs via OR Aggregation**|Oleksandr Kuznetsov et.al.|[2405.07941](http://arxiv.org/abs/2405.07941)|null|
 |**2024-05-07**|**A2-DIDM: Privacy-preserving Accumulator-enabled Auditing for Distributed Identity of DNN Model**|Tianxiu Xie et.al.|[2405.04108](http://arxiv.org/abs/2405.04108)|null|
 |**2024-05-01**|**Proof of Sampling: A Nash Equilibrium-Secured Verification Protocol for Decentralized Systems**|Yue Zhang et.al.|[2405.00295](http://arxiv.org/abs/2405.00295)|null|
 |**2024-04-29**|**Zero Knowledge Proof for Multiple Sequence Alignment**|Worasait Suwannik et.al.|[2404.19064](http://arxiv.org/abs/2404.19064)|null|
@@ -369,6 +373,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**Stable Diffusion-based Data Augmentation for Federated Learning with Non-IID Data**|Mahdi Morafah et.al.|[2405.07925](http://arxiv.org/abs/2405.07925)|null|
+|**2024-05-13**|**Federated Hierarchical Tensor Networks: a Collaborative Learning Quantum AI-Driven Framework for Healthcare**|Amandeep Singh Bhatia et.al.|[2405.07735](http://arxiv.org/abs/2405.07735)|null|
+|**2024-05-13**|**Secure Aggregation Meets Sparsification in Decentralized Learning**|Sayan Biswas et.al.|[2405.07708](http://arxiv.org/abs/2405.07708)|null|
+|**2024-05-13**|**Local Mutual-Information Differential Privacy**|Khac-Hoang Ngo et.al.|[2405.07596](http://arxiv.org/abs/2405.07596)|null|
+|**2024-05-13**|**Structured Reinforcement Learning for Incentivized Stochastic Covert Optimization**|Adit Jain et.al.|[2405.07415](http://arxiv.org/abs/2405.07415)|null|
+|**2024-05-12**|**On-Demand Model and Client Deployment in Federated Learning with Deep Reinforcement Learning**|Mario Chahoud et.al.|[2405.07175](http://arxiv.org/abs/2405.07175)|null|
+|**2024-05-12**|**CRSFL: Cluster-based Resource-aware Split Federated Learning for Continuous Authentication**|Mohamad Wazzeh et.al.|[2405.07174](http://arxiv.org/abs/2405.07174)|null|
+|**2024-05-11**|**Robust Model Aggregation for Heterogeneous Federated Learning: Analysis and Optimizations**|Yumeng Shao et.al.|[2405.06993](http://arxiv.org/abs/2405.06993)|null|
+|**2024-05-10**|**MH-pFLID: Model Heterogeneous personalized Federated Learning via Injection and Distillation for Medical Data Analysis**|Luyuan Xie et.al.|[2405.06822](http://arxiv.org/abs/2405.06822)|null|
+|**2024-05-10**|**Open Challenges and Opportunities in Federated Foundation Models Towards Biomedical Healthcare**|Xingyu Li et.al.|[2405.06784](http://arxiv.org/abs/2405.06784)|null|
 |**2024-05-10**|**Federated Document Visual Question Answering: A Pilot Study**|Khanh Nguyen et.al.|[2405.06636](http://arxiv.org/abs/2405.06636)|null|
 |**2024-05-10**|**Multi-level Personalized Federated Learning on Heterogeneous and Long-Tailed Data**|Rongyu Zhang et.al.|[2405.06413](http://arxiv.org/abs/2405.06413)|null|
 |**2024-05-10**|**DP-DyLoRA: Fine-Tuning Transformer-Based Models On-Device under Differentially Private Federated Learning using Dynamic Low-Rank Adaptation**|Jie Xu et.al.|[2405.06368](http://arxiv.org/abs/2405.06368)|null|
