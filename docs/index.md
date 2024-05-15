@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.14
+## Updated on 2024.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -292,7 +292,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-13**|**Efficient and Universal Merkle Tree Inclusion Proofs via OR Aggregation**|Oleksandr Kuznetsov et.al.|[2405.07941](http://arxiv.org/abs/2405.07941)|null|
 |**2024-05-07**|**A2-DIDM: Privacy-preserving Accumulator-enabled Auditing for Distributed Identity of DNN Model**|Tianxiu Xie et.al.|[2405.04108](http://arxiv.org/abs/2405.04108)|null|
-|**2024-05-01**|**Proof of Sampling: A Nash Equilibrium-Secured Verification Protocol for Decentralized Systems**|Yue Zhang et.al.|[2405.00295](http://arxiv.org/abs/2405.00295)|null|
+|**2024-05-13**|**Proof of Sampling: A Nash Equilibrium-Secured Verification Protocol for Decentralized Systems**|Yue Zhang et.al.|[2405.00295](http://arxiv.org/abs/2405.00295)|null|
 |**2024-04-29**|**Zero Knowledge Proof for Multiple Sequence Alignment**|Worasait Suwannik et.al.|[2404.19064](http://arxiv.org/abs/2404.19064)|null|
 |**2024-04-24**|**zkLLM: Zero Knowledge Proofs for Large Language Models**|Haochen Sun et.al.|[2404.16109](http://arxiv.org/abs/2404.16109)|**[link](https://github.com/jvhs0706/zkllm-ccs2024)**|
 |**2024-04-23**|**Zero-Knowledge Location Privacy via Accurate Floating Point SNARKs**|Jens Ernstberger et.al.|[2404.14983](http://arxiv.org/abs/2404.14983)|null|
@@ -363,7 +363,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-13**|**Stable Diffusion-based Data Augmentation for Federated Learning with Non-IID Data**|Mahdi Morafah et.al.|[2405.07925](http://arxiv.org/abs/2405.07925)|null|
 |**2024-05-13**|**Federated Hierarchical Tensor Networks: a Collaborative Learning Quantum AI-Driven Framework for Healthcare**|Amandeep Singh Bhatia et.al.|[2405.07735](http://arxiv.org/abs/2405.07735)|null|
-|**2024-05-13**|**Secure Aggregation Meets Sparsification in Decentralized Learning**|Sayan Biswas et.al.|[2405.07708](http://arxiv.org/abs/2405.07708)|null|
+|**2024-05-14**|**Secure Aggregation Meets Sparsification in Decentralized Learning**|Sayan Biswas et.al.|[2405.07708](http://arxiv.org/abs/2405.07708)|null|
 |**2024-05-13**|**Local Mutual-Information Differential Privacy**|Khac-Hoang Ngo et.al.|[2405.07596](http://arxiv.org/abs/2405.07596)|null|
 |**2024-05-13**|**Structured Reinforcement Learning for Incentivized Stochastic Covert Optimization**|Adit Jain et.al.|[2405.07415](http://arxiv.org/abs/2405.07415)|null|
 |**2024-05-12**|**On-Demand Model and Client Deployment in Federated Learning with Deep Reinforcement Learning**|Mario Chahoud et.al.|[2405.07175](http://arxiv.org/abs/2405.07175)|null|
