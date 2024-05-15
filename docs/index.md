@@ -14,7 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-13**|**DID Connect: Authentication in TLS with Decentralized Identifiers and Verifiable Credentials**|Sandro Rodriguez Garzon et.al.|[2405.07533](http://arxiv.org/abs/2405.07533)|null|
+|**2024-05-14**|**Foundational Verification of Smart Contracts through Verified Compilation**|Vilhelm Sjöberg et.al.|[2405.08348](http://arxiv.org/abs/2405.08348)|null|
+|**2024-05-14**|**T-Watch: Towards Timed Execution of Private Transaction in Blockchains**|Chao Li et.al.|[2405.08268](http://arxiv.org/abs/2405.08268)|null|
+|**2024-05-14**|**DID Link: Authentication in TLS with Decentralized Identifiers and Verifiable Credentials**|Sandro Rodriguez Garzon et.al.|[2405.07533](http://arxiv.org/abs/2405.07533)|null|
 |**2024-05-12**|**Permissioned Blockchain-based Framework for Ranking Synthetic Data Generators**|Narasimha Raghavan Veeraragavan et.al.|[2405.07196](http://arxiv.org/abs/2405.07196)|null|
 |**2024-05-10**|**BitVMX: A CPU for Universal Computation on Bitcoin**|Sergio Demian Lerner et.al.|[2405.06842](http://arxiv.org/abs/2405.06842)|null|
 |**2024-05-13**|**Implementation Study of Cost-Effective Verification for Pietrzak's Verifiable Delay Function in Ethereum Smart Contracts**|Suhyeon Lee et.al.|[2405.06498](http://arxiv.org/abs/2405.06498)|null|
@@ -255,6 +257,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Cross-Blockchain Communication Using Oracles With an Off-Chain Aggregation Mechanism Based on zk-SNARKs**|Michael Sober et.al.|[2405.08395](http://arxiv.org/abs/2405.08395)|null|
 |**2024-04-15**|**A Distributed Scalable Cross-chain State Channel Scheme Based on Recursive State Synchronization**|Xinyu Liang et.al.|[2404.09408](http://arxiv.org/abs/2404.09408)|null|
 |**2024-04-24**|**SQIAsignHD: SQIsignHD Adaptor Signature**|Farzin Renan et.al.|[2404.09026](http://arxiv.org/abs/2404.09026)|null|
 |**2024-03-25**|**Machine Learning on Blockchain Data: A Systematic Mapping Study**|Georgios Palaiokrassas et.al.|[2403.17081](http://arxiv.org/abs/2403.17081)|null|
@@ -361,6 +364,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-14**|**Byzantine-Resilient Secure Aggregation for Federated Learning Without Privacy Compromises**|Yue Xia et.al.|[2405.08698](http://arxiv.org/abs/2405.08698)|null|
+|**2024-05-14**|**Cryptography-Based Privacy-Preserving Method for Distributed Optimization over Time-Varying Directed Graphs with Enhanced Efficiency**|Bing Liu et.al.|[2405.08518](http://arxiv.org/abs/2405.08518)|null|
+|**2024-05-14**|**Differentially Private Federated Learning: A Systematic Review**|Jie Fu et.al.|[2405.08299](http://arxiv.org/abs/2405.08299)|null|
+|**2024-05-13**|**Towards Energy-Aware Federated Learning via MARL: A Dual-Selection Approach for Model and Client**|Jun Xia et.al.|[2405.08183](http://arxiv.org/abs/2405.08183)|null|
+|**2024-05-13**|**PrivFED -- A Framework for Privacy-Preserving Federated Learning in Enhanced Breast Cancer Diagnosis**|Maithili Jha et.al.|[2405.08084](http://arxiv.org/abs/2405.08084)|null|
+|**2024-05-13**|**Mitigating federated learning contribution allocation instability through randomized aggregation**|Arno Geimer et.al.|[2405.08044](http://arxiv.org/abs/2405.08044)|null|
 |**2024-05-13**|**Stable Diffusion-based Data Augmentation for Federated Learning with Non-IID Data**|Mahdi Morafah et.al.|[2405.07925](http://arxiv.org/abs/2405.07925)|null|
 |**2024-05-13**|**Federated Hierarchical Tensor Networks: a Collaborative Learning Quantum AI-Driven Framework for Healthcare**|Amandeep Singh Bhatia et.al.|[2405.07735](http://arxiv.org/abs/2405.07735)|null|
 |**2024-05-14**|**Secure Aggregation Meets Sparsification in Decentralized Learning**|Sayan Biswas et.al.|[2405.07708](http://arxiv.org/abs/2405.07708)|null|
