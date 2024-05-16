@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-15**|**StateGuard: Detecting State Derailment Defects in Decentralized Exchange Smart Contract**|Zongwei Li et.al.|[2405.09181](http://arxiv.org/abs/2405.09181)|null|
+|**2024-05-15**|**Temporarily Restricting Solidity Smart Contract Interactions**|Valerian Callens et.al.|[2405.09084](http://arxiv.org/abs/2405.09084)|null|
 |**2024-05-14**|**Foundational Verification of Smart Contracts through Verified Compilation**|Vilhelm Sjöberg et.al.|[2405.08348](http://arxiv.org/abs/2405.08348)|null|
 |**2024-05-14**|**T-Watch: Towards Timed Execution of Private Transaction in Blockchains**|Chao Li et.al.|[2405.08268](http://arxiv.org/abs/2405.08268)|null|
 |**2024-05-14**|**DID Link: Authentication in TLS with Decentralized Identifiers and Verifiable Credentials**|Sandro Rodriguez Garzon et.al.|[2405.07533](http://arxiv.org/abs/2405.07533)|null|
@@ -364,6 +366,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-15**|**MicroPython Testbed for Federated Learning Algorithms**|Miroslav Popovic et.al.|[2405.09423](http://arxiv.org/abs/2405.09423)|null|
+|**2024-05-15**|**Real-World Federated Learning in Radiology: Hurdles to overcome and Benefits to gain**|Markus R. Bujotzek et.al.|[2405.09409](http://arxiv.org/abs/2405.09409)|null|
+|**2024-05-15**|**SA-FedLora: Adaptive Parameter Allocation for Efficient Federated Learning with LoRA Tuning**|Yuning Yang et.al.|[2405.09394](http://arxiv.org/abs/2405.09394)|null|
+|**2024-05-15**|**Dual-Segment Clustering Strategy for Federated Learning in Heterogeneous Environments**|Pengcheng Sun et.al.|[2405.09276](http://arxiv.org/abs/2405.09276)|null|
+|**2024-05-15**|**Unmasking Efficiency: Learning Salient Sparse Models in Non-IID Federated Learning**|Riyasat Ohib et.al.|[2405.09037](http://arxiv.org/abs/2405.09037)|null|
+|**2024-05-15**|**Feature-based Federated Transfer Learning: Communication Efficiency, Robustness and Privacy**|Feng Wang et.al.|[2405.09014](http://arxiv.org/abs/2405.09014)|null|
 |**2024-05-14**|**Byzantine-Resilient Secure Aggregation for Federated Learning Without Privacy Compromises**|Yue Xia et.al.|[2405.08698](http://arxiv.org/abs/2405.08698)|null|
 |**2024-05-14**|**Cryptography-Based Privacy-Preserving Method for Distributed Optimization over Time-Varying Directed Graphs with Enhanced Efficiency**|Bing Liu et.al.|[2405.08518](http://arxiv.org/abs/2405.08518)|null|
 |**2024-05-14**|**Differentially Private Federated Learning: A Systematic Review**|Jie Fu et.al.|[2405.08299](http://arxiv.org/abs/2405.08299)|null|
