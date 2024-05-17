@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**DIMSIM -- Device Integrity Monitoring through iSIM Applets and Distributed Ledger Technology**|Tooba Faisal et.al.|[2405.09916](http://arxiv.org/abs/2405.09916)|null|
 |**2024-05-15**|**StateGuard: Detecting State Derailment Defects in Decentralized Exchange Smart Contract**|Zongwei Li et.al.|[2405.09181](http://arxiv.org/abs/2405.09181)|null|
 |**2024-05-15**|**Temporarily Restricting Solidity Smart Contract Interactions**|Valerian Callens et.al.|[2405.09084](http://arxiv.org/abs/2405.09084)|null|
 |**2024-05-14**|**Foundational Verification of Smart Contracts through Verified Compilation**|Vilhelm Sjöberg et.al.|[2405.08348](http://arxiv.org/abs/2405.08348)|null|
@@ -366,6 +367,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Automated Federated Learning via Informed Pruning**|Christian Internò et.al.|[2405.10271](http://arxiv.org/abs/2405.10271)|null|
+|**2024-05-16**|**Asynchronous Federated Stochastic Optimization with Exact Averaging for Heterogeneous Local Objectives**|Charikleia Iakovidou et.al.|[2405.10123](http://arxiv.org/abs/2405.10123)|null|
+|**2024-05-16**|**The Effect of Quantization in Federated Learning: A Rényi Differential Privacy Perspective**|Tianqu Kang et.al.|[2405.10096](http://arxiv.org/abs/2405.10096)|null|
+|**2024-05-16**|**Federated Learning for Misbehaviour Detection with Variational Autoencoders and Gaussian Mixture Models**|Enrique Mármol Campos et.al.|[2405.09903](http://arxiv.org/abs/2405.09903)|null|
+|**2024-05-16**|**Balancing Similarity and Complementarity for Federated Learning**|Kunda Yan et.al.|[2405.09892](http://arxiv.org/abs/2405.09892)|null|
+|**2024-05-16**|**Advances in Robust Federated Learning: Heterogeneity Considerations**|Chuan Chen et.al.|[2405.09839](http://arxiv.org/abs/2405.09839)|null|
+|**2024-05-16**|**Harmonizing Generalization and Personalization in Federated Prompt Learning**|Tianyu Cui et.al.|[2405.09771](http://arxiv.org/abs/2405.09771)|null|
+|**2024-05-15**|**DP-RuL: Differentially-Private Rule Learning for Clinical Decision Support Systems**|Josephine Lamp et.al.|[2405.09721](http://arxiv.org/abs/2405.09721)|null|
 |**2024-05-15**|**MicroPython Testbed for Federated Learning Algorithms**|Miroslav Popovic et.al.|[2405.09423](http://arxiv.org/abs/2405.09423)|null|
 |**2024-05-15**|**Real-World Federated Learning in Radiology: Hurdles to overcome and Benefits to gain**|Markus R. Bujotzek et.al.|[2405.09409](http://arxiv.org/abs/2405.09409)|null|
 |**2024-05-15**|**SA-FedLora: Adaptive Parameter Allocation for Efficient Federated Learning with LoRA Tuning**|Yuning Yang et.al.|[2405.09394](http://arxiv.org/abs/2405.09394)|null|
