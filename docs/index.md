@@ -368,6 +368,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-20**|**Embracing Radiance Field Rendering in 6G: Over-the-Air Training and Inference with 3D Contents**|Guanlin Wu et.al.|[2405.12155](http://arxiv.org/abs/2405.12155)|null|
+|**2024-05-20**|**Energy-Efficient Federated Edge Learning with Streaming Data: A Lyapunov Optimization Approach**|Chung-Hsuan Hu et.al.|[2405.12046](http://arxiv.org/abs/2405.12046)|null|
+|**2024-05-20**|**Vertical Federated Learning Hybrid Local Pre-training**|Wenguo Li et.al.|[2405.11884](http://arxiv.org/abs/2405.11884)|null|
+|**2024-05-20**|**Federated Learning with Incomplete Sensing Modalities**|Adiba Orzikulova et.al.|[2405.11828](http://arxiv.org/abs/2405.11828)|null|
+|**2024-05-20**|**FedCAda: Adaptive Client-Side Optimization for Accelerated and Stable Federated Learning**|Liuzhi Zhou et.al.|[2405.11811](http://arxiv.org/abs/2405.11811)|null|
+|**2024-05-20**|**Fed-Credit: Robust Federated Learning with Credibility Management**|Jiayan Chen et.al.|[2405.11758](http://arxiv.org/abs/2405.11758)|null|
+|**2024-05-20**|**Decentralized Privacy Preservation for Critical Connections in Graphs**|Conggai Li et.al.|[2405.11713](http://arxiv.org/abs/2405.11713)|null|
+|**2024-05-19**|**Securing Health Data on the Blockchain: A Differential Privacy and Federated Learning Framework**|Daniel Commey et.al.|[2405.11580](http://arxiv.org/abs/2405.11580)|null|
+|**2024-05-19**|**Overcoming Data and Model Heterogeneities in Decentralized Federated Learning via Synthetic Anchors**|Chun-Yin Huang et.al.|[2405.11525](http://arxiv.org/abs/2405.11525)|null|
+|**2024-05-19**|**A GAN-Based Data Poisoning Attack Against Federated Learning Systems and Its Countermeasure**|Wei Sun et.al.|[2405.11440](http://arxiv.org/abs/2405.11440)|null|
 |**2024-05-17**|**Multicenter Privacy-Preserving Model Training for Deep Learning Brain Metastases Autosegmentation**|Yixing Huang et.al.|[2405.10870](http://arxiv.org/abs/2405.10870)|null|
 |**2024-05-17**|**Air Signing and Privacy-Preserving Signature Verification for Digital Documents**|P. Sarveswarasarma et.al.|[2405.10868](http://arxiv.org/abs/2405.10868)|null|
 |**2024-05-17**|**The Future of Large Language Model Pre-training is Federated**|Lorenzo Sani et.al.|[2405.10853](http://arxiv.org/abs/2405.10853)|null|
