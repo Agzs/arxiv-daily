@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-21**|**A Sound Type System for Secure Currency Flow**|Luca Aceto et.al.|[2405.12976](http://arxiv.org/abs/2405.12976)|null|
+|**2024-05-21**|**Strategic Deployment of Honeypots in Blockchain-based IoT Systems**|Daniel Commey et.al.|[2405.12951](http://arxiv.org/abs/2405.12951)|null|
 |**2024-05-17**|**IT Strategic alignment in the decentralized finance (DeFi): CBDC and digital currencies**|Carlos Alberto Durigan Junior et.al.|[2405.10678](http://arxiv.org/abs/2405.10678)|null|
 |**2024-05-16**|**DIMSIM -- Device Integrity Monitoring through iSIM Applets and Distributed Ledger Technology**|Tooba Faisal et.al.|[2405.09916](http://arxiv.org/abs/2405.09916)|null|
 |**2024-05-15**|**StateGuard: Detecting State Derailment Defects in Decentralized Exchange Smart Contract**|Zongwei Li et.al.|[2405.09181](http://arxiv.org/abs/2405.09181)|null|
@@ -307,6 +309,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Securing Blockchain-based IoT Systems with Physical Unclonable Functions and Zero-Knowledge Proofs**|Daniel Commey et.al.|[2405.12322](http://arxiv.org/abs/2405.12322)|null|
 |**2024-05-13**|**Efficient and Universal Merkle Tree Inclusion Proofs via OR Aggregation**|Oleksandr Kuznetsov et.al.|[2405.07941](http://arxiv.org/abs/2405.07941)|null|
 |**2024-05-07**|**A2-DIDM: Privacy-preserving Accumulator-enabled Auditing for Distributed Identity of DNN Model**|Tianxiu Xie et.al.|[2405.04108](http://arxiv.org/abs/2405.04108)|null|
 |**2024-05-13**|**Proof of Sampling: A Nash Equilibrium-Secured Verification Protocol for Decentralized Systems**|Yue Zhang et.al.|[2405.00295](http://arxiv.org/abs/2405.00295)|null|
@@ -380,6 +383,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-21**|**Decentralized Federated Learning Over Imperfect Communication Channels**|Weicai Li et.al.|[2405.12894](http://arxiv.org/abs/2405.12894)|null|
+|**2024-05-21**|**A Stealthy Backdoor Attack for Without-Label-Sharing Split Learning**|Yuwen Pu et.al.|[2405.12751](http://arxiv.org/abs/2405.12751)|null|
+|**2024-05-21**|**Maverick-Aware Shapley Valuation for Client Selection in Federated Learning**|Mengwei Yang et.al.|[2405.12590](http://arxiv.org/abs/2405.12590)|null|
+|**2024-05-21**|**Marginal and training-conditional guarantees in one-shot federated conformal prediction**|Pierre Humbert et.al.|[2405.12567](http://arxiv.org/abs/2405.12567)|null|
+|**2024-05-21**|**Exploring and Exploiting the Asymmetric Valley of Deep Neural Networks**|Xin-Chun Li et.al.|[2405.12489](http://arxiv.org/abs/2405.12489)|null|
+|**2024-05-20**|**Securing Blockchain-based IoT Systems with Physical Unclonable Functions and Zero-Knowledge Proofs**|Daniel Commey et.al.|[2405.12322](http://arxiv.org/abs/2405.12322)|null|
+|**2024-05-20**|**Continual Deep Reinforcement Learning for Decentralized Satellite Routing**|Federico Lozano-Cuadra et.al.|[2405.12308](http://arxiv.org/abs/2405.12308)|null|
 |**2024-05-20**|**Embracing Radiance Field Rendering in 6G: Over-the-Air Training and Inference with 3D Contents**|Guanlin Wu et.al.|[2405.12155](http://arxiv.org/abs/2405.12155)|null|
 |**2024-05-20**|**Energy-Efficient Federated Edge Learning with Streaming Data: A Lyapunov Optimization Approach**|Chung-Hsuan Hu et.al.|[2405.12046](http://arxiv.org/abs/2405.12046)|null|
 |**2024-05-21**|**Vertical Federated Learning Hybrid Local Pre-training**|Wenguo Li et.al.|[2405.11884](http://arxiv.org/abs/2405.11884)|null|
