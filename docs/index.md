@@ -385,7 +385,7 @@ layout: default
 |**2024-05-21**|**Decentralized Federated Learning Over Imperfect Communication Channels**|Weicai Li et.al.|[2405.12894](http://arxiv.org/abs/2405.12894)|null|
 |**2024-05-21**|**A Stealthy Backdoor Attack for Without-Label-Sharing Split Learning**|Yuwen Pu et.al.|[2405.12751](http://arxiv.org/abs/2405.12751)|null|
 |**2024-05-21**|**Maverick-Aware Shapley Valuation for Client Selection in Federated Learning**|Mengwei Yang et.al.|[2405.12590](http://arxiv.org/abs/2405.12590)|null|
-|**2024-05-21**|**Marginal and training-conditional guarantees in one-shot federated conformal prediction**|Pierre Humbert et.al.|[2405.12567](http://arxiv.org/abs/2405.12567)|null|
+|**2024-05-21**|**Marginal and training-conditional guarantees in one-shot federated conformal prediction**|Pierre Humbert et.al.|[2405.12567](http://arxiv.org/abs/2405.12567)|**[link](https://github.com/pierreHmbt/One-shot-FCP)**|
 |**2024-05-21**|**Exploring and Exploiting the Asymmetric Valley of Deep Neural Networks**|Xin-Chun Li et.al.|[2405.12489](http://arxiv.org/abs/2405.12489)|null|
 |**2024-05-20**|**Securing Blockchain-based IoT Systems with Physical Unclonable Functions and Zero-Knowledge Proofs**|Daniel Commey et.al.|[2405.12322](http://arxiv.org/abs/2405.12322)|null|
 |**2024-05-20**|**Continual Deep Reinforcement Learning for Decentralized Satellite Routing**|Federico Lozano-Cuadra et.al.|[2405.12308](http://arxiv.org/abs/2405.12308)|null|
@@ -398,7 +398,7 @@ layout: default
 |**2024-05-20**|**Decentralized Privacy Preservation for Critical Connections in Graphs**|Conggai Li et.al.|[2405.11713](http://arxiv.org/abs/2405.11713)|null|
 |**2024-05-19**|**Securing Health Data on the Blockchain: A Differential Privacy and Federated Learning Framework**|Daniel Commey et.al.|[2405.11580](http://arxiv.org/abs/2405.11580)|null|
 |**2024-05-19**|**Overcoming Data and Model Heterogeneities in Decentralized Federated Learning via Synthetic Anchors**|Chun-Yin Huang et.al.|[2405.11525](http://arxiv.org/abs/2405.11525)|null|
-|**2024-05-21**|**A GAN-Based Data Poisoning Attack Against Federated Learning Systems and Its Countermeasure**|Wei Sun et.al.|[2405.11440](http://arxiv.org/abs/2405.11440)|null|
+|**2024-05-21**|**A GAN-Based Data Poisoning Attack Against Federated Learning Systems and Its Countermeasure**|Wei Sun et.al.|[2405.11440](http://arxiv.org/abs/2405.11440)|**[link](https://github.com/ssssweissss/vaguegan-data-poisoning-attack-and-its-countermeasure)**|
 |**2024-05-17**|**Multicenter Privacy-Preserving Model Training for Deep Learning Brain Metastases Autosegmentation**|Yixing Huang et.al.|[2405.10870](http://arxiv.org/abs/2405.10870)|null|
 |**2024-05-17**|**Air Signing and Privacy-Preserving Signature Verification for Digital Documents**|P. Sarveswarasarma et.al.|[2405.10868](http://arxiv.org/abs/2405.10868)|null|
 |**2024-05-17**|**The Future of Large Language Model Pre-training is Federated**|Lorenzo Sani et.al.|[2405.10853](http://arxiv.org/abs/2405.10853)|null|
@@ -588,7 +588,7 @@ layout: default
 |**2024-04-15**|**Unsupervised Federated Optimization at the Edge: D2D-Enabled Learning without Labels**|Satyavrat Wagle et.al.|[2404.09861](http://arxiv.org/abs/2404.09861)|null|
 |**2024-04-15**|**FedP3: Federated Personalized and Privacy-friendly Network Pruning under Model Heterogeneity**|Kai Yi et.al.|[2404.09816](http://arxiv.org/abs/2404.09816)|null|
 |**2024-04-15**|**Privacy-Preserving Federated Unlearning with Certified Client Removal**|Ziyao Liu et.al.|[2404.09724](http://arxiv.org/abs/2404.09724)|null|
-|**2024-04-15**|**VFLGAN: Vertical Federated Learning-based Generative Adversarial Network for Vertically Partitioned Data Publication**|Xun Yuan et.al.|[2404.09722](http://arxiv.org/abs/2404.09722)|null|
+|**2024-04-15**|**VFLGAN: Vertical Federated Learning-based Generative Adversarial Network for Vertically Partitioned Data Publication**|Xun Yuan et.al.|[2404.09722](http://arxiv.org/abs/2404.09722)|**[link](https://github.com/yuanxun2024/vflgan)**|
 |**2024-04-15**|**Privacy-Preserving Intrusion Detection using Convolutional Neural Networks**|Martin Kodys et.al.|[2404.09625](http://arxiv.org/abs/2404.09625)|null|
 |**2024-04-15**|**Beyond Noise: Privacy-Preserving Decentralized Learning with Virtual Nodes**|Sayan Biswas et.al.|[2404.09536](http://arxiv.org/abs/2404.09536)|null|
 |**2024-04-15**|**SpamDam: Towards Privacy-Preserving and Adversary-Resistant SMS Spam Detection**|Yekai Li et.al.|[2404.09481](http://arxiv.org/abs/2404.09481)|**[link](https://github.com/chasesecurity/spamdam)**|
