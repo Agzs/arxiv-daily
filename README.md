@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-26**|**Towards Sustainable IoT: Challenges, Solutions, and Future Directions for Device Longevity**|Ghazaleh Shirvani et.al.|[2405.16421](http://arxiv.org/abs/2405.16421)|null|
 |**2024-05-24**|**Decentralized Virtual Research Environment: Empowering Peer-to-Peer Trustworthy Data Sharing and Collaboration**|Yuandou Wang et.al.|[2405.15392](http://arxiv.org/abs/2405.15392)|null|
 |**2024-05-24**|**The Writing is on the Wall: Analyzing the Boom of Inscriptions and its Impact on EVM-compatible Blockchains**|Johnnatan Messias et.al.|[2405.15288](http://arxiv.org/abs/2405.15288)|null|
 |**2024-05-23**|**Dynamically Sharded Ledgers on a Distributed Hash Table**|Christoffer Fink et.al.|[2405.14991](http://arxiv.org/abs/2405.14991)|null|
@@ -387,6 +388,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**Federating Dynamic Models using Early-Exit Architectures for Automatic Speech Recognition on Heterogeneous Clients**|Mohamed Nabih Ali et.al.|[2405.17376](http://arxiv.org/abs/2405.17376)|null|
+|**2024-05-27**|**FedHPL: Efficient Heterogeneous Federated Learning with Prompt Tuning and Logit Distillation**|Yuting Ma et.al.|[2405.17267](http://arxiv.org/abs/2405.17267)|null|
+|**2024-05-27**|**LabObf: A Label Protection Scheme for Vertical Federated Learning Through Label Obfuscation**|Ying He et.al.|[2405.17042](http://arxiv.org/abs/2405.17042)|null|
+|**2024-05-27**|**Privacy and Security Trade-off in Interconnected Systems with Known or Unknown Privacy Noise Covariance**|Haojun Wang et.al.|[2405.16905](http://arxiv.org/abs/2405.16905)|null|
+|**2024-05-27**|**Anonymization Prompt Learning for Facial Privacy-Preserving Text-to-Image Generation**|Liang Shi et.al.|[2405.16895](http://arxiv.org/abs/2405.16895)|null|
+|**2024-05-26**|**Alistair: Efficient On-device Budgeting for Differentially-Private Ad-Measurement Systems**|Pierre Tholoniat et.al.|[2405.16719](http://arxiv.org/abs/2405.16719)|null|
+|**2024-05-26**|**Visualizing the Shadows: Unveiling Data Poisoning Behaviors in Federated Learning**|Xueqing Zhang et.al.|[2405.16707](http://arxiv.org/abs/2405.16707)|null|
+|**2024-05-26**|**A Systematic Review of Federated Generative Models**|Ashkan Vedadi Gargary et.al.|[2405.16682](http://arxiv.org/abs/2405.16682)|null|
+|**2024-05-26**|**Fair Federated Learning under Domain Skew with Local Consistency and Domain Diversity**|Yuhang Chen et.al.|[2405.16585](http://arxiv.org/abs/2405.16585)|null|
+|**2024-05-26**|**Multi-Level Additive Modeling for Structured Non-IID Federated Learning**|Shutong Chen et.al.|[2405.16472](http://arxiv.org/abs/2405.16472)|**[link](https://github.com/shutong043/femam)**|
 |**2024-05-24**|**CAFe: Cost and Age aware Federated Learning**|Sahan Liyanaarachchi et.al.|[2405.15744](http://arxiv.org/abs/2405.15744)|null|
 |**2024-05-24**|**Harnessing Increased Client Participation with Cohort-Parallel Federated Learning**|Akash Dhasade et.al.|[2405.15644](http://arxiv.org/abs/2405.15644)|null|
 |**2024-05-24**|**Federated Behavioural Planes: Explaining the Evolution of Client Behaviour in Federated Learning**|Dario Fenoglio et.al.|[2405.15632](http://arxiv.org/abs/2405.15632)|null|
