@@ -304,6 +304,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-28**|**Asynchronous BFT Asset Transfer: Quasi-Anonymous, Light, and Consensus-Free**|Timothé Albouy et.al.|[2405.18072](http://arxiv.org/abs/2405.18072)|null|
 |**2024-05-20**|**Securing Blockchain-based IoT Systems with Physical Unclonable Functions and Zero-Knowledge Proofs**|Daniel Commey et.al.|[2405.12322](http://arxiv.org/abs/2405.12322)|null|
 |**2024-05-13**|**Efficient and Universal Merkle Tree Inclusion Proofs via OR Aggregation**|Oleksandr Kuznetsov et.al.|[2405.07941](http://arxiv.org/abs/2405.07941)|null|
 |**2024-05-07**|**A2-DIDM: Privacy-preserving Accumulator-enabled Auditing for Distributed Identity of DNN Model**|Tianxiu Xie et.al.|[2405.04108](http://arxiv.org/abs/2405.04108)|null|
@@ -376,6 +377,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-28**|**Feasibility of Privacy-Preserving Entity Resolution on Confidential Healthcare Datasets Using Homomorphic Encryption**|Yixiang Yao et.al.|[2405.18430](http://arxiv.org/abs/2405.18430)|null|
+|**2024-05-28**|**FedSAC: Dynamic Submodel Allocation for Collaborative Fairness in Federated Learning**|Zihui Wang et.al.|[2405.18291](http://arxiv.org/abs/2405.18291)|null|
+|**2024-05-28**|**Fast-FedUL: A Training-Free Federated Unlearning with Provable Skew Resilience**|Thanh Trung Huynh et.al.|[2405.18040](http://arxiv.org/abs/2405.18040)|**[link](https://github.com/thanhtrunghuynh93/fastfedul)**|
+|**2024-05-28**|**Towards Communication-efficient Federated Learning via Sparse and Aligned Adaptive Optimization**|Xiumei Deng et.al.|[2405.17932](http://arxiv.org/abs/2405.17932)|null|
+|**2024-05-28**|**Decentralized Directed Collaboration for Personalized Federated Learning**|Yingqi Liu et.al.|[2405.17876](http://arxiv.org/abs/2405.17876)|null|
+|**2024-05-28**|**PeerFL: A Simulator for Peer-to-Peer Federated Learning at Scale**|Alka Luqman et.al.|[2405.17839](http://arxiv.org/abs/2405.17839)|null|
+|**2024-05-28**|**An Innovative Networks in Federated Learning**|Zavareh Bozorgasl et.al.|[2405.17836](http://arxiv.org/abs/2405.17836)|null|
+|**2024-05-28**|**Post-Fair Federated Learning: Achieving Group and Community Fairness in Federated Learning via Post-processing**|Yuying Duan et.al.|[2405.17782](http://arxiv.org/abs/2405.17782)|null|
+|**2024-05-28**|**Wireless Federated Learning over Resource-Constrained Networks: Digital versus Analog Transmissions**|Jiacheng Yao et.al.|[2405.17759](http://arxiv.org/abs/2405.17759)|null|
 |**2024-05-27**|**Federating Dynamic Models using Early-Exit Architectures for Automatic Speech Recognition on Heterogeneous Clients**|Mohamed Nabih Ali et.al.|[2405.17376](http://arxiv.org/abs/2405.17376)|null|
 |**2024-05-27**|**FedHPL: Efficient Heterogeneous Federated Learning with Prompt Tuning and Logit Distillation**|Yuting Ma et.al.|[2405.17267](http://arxiv.org/abs/2405.17267)|null|
 |**2024-05-27**|**LabObf: A Label Protection Scheme for Vertical Federated Learning Through Label Obfuscation**|Ying He et.al.|[2405.17042](http://arxiv.org/abs/2405.17042)|null|
