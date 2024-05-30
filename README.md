@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-29**|**New Approaches to Old Problems? Thinking About a New Design of the AML/CFT Strategy**|Chiara Ferri et.al.|[2405.18517](http://arxiv.org/abs/2405.18517)|null|
 |**2024-05-26**|**Towards Sustainable IoT: Challenges, Solutions, and Future Directions for Device Longevity**|Ghazaleh Shirvani et.al.|[2405.16421](http://arxiv.org/abs/2405.16421)|null|
 |**2024-05-24**|**Decentralized Virtual Research Environment: Empowering Peer-to-Peer Trustworthy Data Sharing and Collaboration**|Yuandou Wang et.al.|[2405.15392](http://arxiv.org/abs/2405.15392)|null|
 |**2024-05-24**|**The Writing is on the Wall: Analyzing the Boom of Inscriptions and its Impact on EVM-compatible Blockchains**|Johnnatan Messias et.al.|[2405.15288](http://arxiv.org/abs/2405.15288)|null|
@@ -314,6 +315,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**A Verifiable Computing Scheme for Encrypted Control Systems**|Francesca Stabile et.al.|[2405.18586](http://arxiv.org/abs/2405.18586)|null|
 |**2024-05-28**|**Asynchronous BFT Asset Transfer: Quasi-Anonymous, Light, and Consensus-Free**|Timothé Albouy et.al.|[2405.18072](http://arxiv.org/abs/2405.18072)|null|
 |**2024-05-20**|**Securing Blockchain-based IoT Systems with Physical Unclonable Functions and Zero-Knowledge Proofs**|Daniel Commey et.al.|[2405.12322](http://arxiv.org/abs/2405.12322)|null|
 |**2024-05-13**|**Efficient and Universal Merkle Tree Inclusion Proofs via OR Aggregation**|Oleksandr Kuznetsov et.al.|[2405.07941](http://arxiv.org/abs/2405.07941)|null|
@@ -389,6 +391,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-29**|**Mitigating Disparate Impact of Differential Privacy in Federated Learning through Robust Clustering**|Saber Malekmohammadi et.al.|[2405.19272](http://arxiv.org/abs/2405.19272)|null|
+|**2024-05-29**|**A Privacy-Preserving Graph Encryption Scheme Based on Oblivious RAM**|Seyni Kane et.al.|[2405.19259](http://arxiv.org/abs/2405.19259)|null|
+|**2024-05-29**|**LoByITFL: Low Communication Secure and Private Federated Learning**|Yue Xia et.al.|[2405.19217](http://arxiv.org/abs/2405.19217)|null|
+|**2024-05-29**|**FedMAP: Unlocking Potential in Personalized Federated Learning through Bi-Level MAP Optimization**|Fan Zhang et.al.|[2405.19000](http://arxiv.org/abs/2405.19000)|null|
+|**2024-05-29**|**Federated Learning under Partially Class-Disjoint Data via Manifold Reshaping**|Ziqing Fan et.al.|[2405.18983](http://arxiv.org/abs/2405.18983)|**[link](https://github.com/mediabrain-sjtu/fedmr)**|
+|**2024-05-29**|**Federated Learning with Bilateral Curation for Partially Class-Disjoint Data**|Ziqing Fan et.al.|[2405.18972](http://arxiv.org/abs/2405.18972)|**[link](https://github.com/mediabrain-sjtu/fedgela)**|
+|**2024-05-29**|**Locally Estimated Global Perturbations are Better than Local Perturbations for Federated Sharpness-aware Minimization**|Ziqing Fan et.al.|[2405.18890](http://arxiv.org/abs/2405.18890)|null|
+|**2024-05-29**|**Privacy Preserving Data Imputation via Multi-party Computation for Medical Applications**|Julia Jentsch et.al.|[2405.18878](http://arxiv.org/abs/2405.18878)|null|
+|**2024-05-29**|**Enhancing Security and Privacy in Federated Learning using Update Digests and Voting-Based Defense**|Wenjie Li et.al.|[2405.18802](http://arxiv.org/abs/2405.18802)|null|
+|**2024-05-29**|**FlocOff: Data Heterogeneity Resilient Federated Learning with Communication-Efficient Edge Offloading**|Mulei Ma et.al.|[2405.18739](http://arxiv.org/abs/2405.18739)|null|
 |**2024-05-28**|**Feasibility of Privacy-Preserving Entity Resolution on Confidential Healthcare Datasets Using Homomorphic Encryption**|Yixiang Yao et.al.|[2405.18430](http://arxiv.org/abs/2405.18430)|null|
 |**2024-05-28**|**FedSAC: Dynamic Submodel Allocation for Collaborative Fairness in Federated Learning**|Zihui Wang et.al.|[2405.18291](http://arxiv.org/abs/2405.18291)|null|
 |**2024-05-28**|**Fast-FedUL: A Training-Free Federated Unlearning with Provable Skew Resilience**|Thanh Trung Huynh et.al.|[2405.18040](http://arxiv.org/abs/2405.18040)|**[link](https://github.com/thanhtrunghuynh93/fastfedul)**|
