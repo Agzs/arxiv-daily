@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.02
+## Updated on 2024.06.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -382,10 +382,10 @@ layout: default
 |**2024-05-30**|**SPAM: Stochastic Proximal Point Method with Momentum Variance Reduction for Non-convex Cross-Device Federated Learning**|Avetik Karagulyan et.al.|[2405.20127](http://arxiv.org/abs/2405.20127)|null|
 |**2024-05-30**|**Federated and Transfer Learning for Cancer Detection Based on Image Analysis**|Amine Bechar et.al.|[2405.20126](http://arxiv.org/abs/2405.20126)|null|
 |**2024-05-30**|**Cross-Training with Multi-View Knowledge Fusion for Heterogenous Federated Learning**|Zhuang Qi et.al.|[2405.20046](http://arxiv.org/abs/2405.20046)|null|
-|**2024-05-30**|**subMFL: Compatiple subModel Generation for Federated Learning in Device Heterogenous Environment**|Zeyneddin Oz et.al.|[2405.20014](http://arxiv.org/abs/2405.20014)|null|
+|**2024-05-30**|**subMFL: Compatiple subModel Generation for Federated Learning in Device Heterogenous Environment**|Zeyneddin Oz et.al.|[2405.20014](http://arxiv.org/abs/2405.20014)|**[link](https://github.com/zeyneddinoz/subMFL)**|
 |**2024-05-30**|**Federated Learning with Multi-resolution Model Broadcast**|Henrik Rydén et.al.|[2405.19886](http://arxiv.org/abs/2405.19886)|null|
 |**2024-05-30**|**On Vessel Location Forecasting and the Effect of Federated Learning**|Andreas Tritsarolis et.al.|[2405.19870](http://arxiv.org/abs/2405.19870)|null|
-|**2024-05-30**|**Just Rewrite It Again: A Post-Processing Method for Enhanced Semantic Similarity and Privacy Preservation of Differentially Private Rewritten Text**|Stephen Meisenbacher et.al.|[2405.19831](http://arxiv.org/abs/2405.19831)|null|
+|**2024-05-31**|**Just Rewrite It Again: A Post-Processing Method for Enhanced Semantic Similarity and Privacy Preservation of Differentially Private Rewritten Text**|Stephen Meisenbacher et.al.|[2405.19831](http://arxiv.org/abs/2405.19831)|null|
 |**2024-05-29**|**Optimizing Split Points for Error-Resilient SplitFed Learning**|Chamani Shiranthika et.al.|[2405.19453](http://arxiv.org/abs/2405.19453)|null|
 |**2024-05-29**|**Mitigating Disparate Impact of Differential Privacy in Federated Learning through Robust Clustering**|Saber Malekmohammadi et.al.|[2405.19272](http://arxiv.org/abs/2405.19272)|null|
 |**2024-05-29**|**A Privacy-Preserving Graph Encryption Scheme Based on Oblivious RAM**|Seyni Kane et.al.|[2405.19259](http://arxiv.org/abs/2405.19259)|null|
