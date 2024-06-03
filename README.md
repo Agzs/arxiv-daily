@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**All Your Tokens are Belong to Us: Demystifying Address Verification Vulnerabilities in Solidity Smart Contracts**|Tianle Sun et.al.|[2405.20561](http://arxiv.org/abs/2405.20561)|null|
 |**2024-05-29**|**New Approaches to Old Problems? Thinking About a New Design of the AML/CFT Strategy**|Chiara Ferri et.al.|[2405.18517](http://arxiv.org/abs/2405.18517)|null|
 |**2024-05-26**|**Towards Sustainable IoT: Challenges, Solutions, and Future Directions for Device Longevity**|Ghazaleh Shirvani et.al.|[2405.16421](http://arxiv.org/abs/2405.16421)|null|
 |**2024-05-24**|**Decentralized Virtual Research Environment: Empowering Peer-to-Peer Trustworthy Data Sharing and Collaboration**|Yuandou Wang et.al.|[2405.15392](http://arxiv.org/abs/2405.15392)|null|
@@ -391,6 +392,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**ACE: A Model Poisoning Attack on Contribution Evaluation Methods in Federated Learning**|Zhangchen Xu et.al.|[2405.20975](http://arxiv.org/abs/2405.20975)|null|
+|**2024-05-31**|**RASE: Efficient Privacy-preserving Data Aggregation against Disclosure Attacks for IoTs**|Zuyan Wang et.al.|[2405.20914](http://arxiv.org/abs/2405.20914)|null|
+|**2024-05-31**|**Sheaf HyperNetworks for Personalized Federated Learning**|Bao Nguyen et.al.|[2405.20882](http://arxiv.org/abs/2405.20882)|null|
+|**2024-05-31**|**Responsible AI for Earth Observation**|Pedram Ghamisi et.al.|[2405.20868](http://arxiv.org/abs/2405.20868)|null|
+|**2024-05-31**|**BackdoorIndicator: Leveraging OOD Data for Proactive Backdoor Detection in Federated Learning**|Songze Li et.al.|[2405.20862](http://arxiv.org/abs/2405.20862)|null|
+|**2024-05-31**|**Pursuing Overall Welfare in Federated Learning through Sequential Decision Making**|Seok-Ju Hahn et.al.|[2405.20821](http://arxiv.org/abs/2405.20821)|null|
+|**2024-05-31**|**Share Your Secrets for Privacy! Confidential Forecasting with Vertical Federated Learning**|Aditya Shankar et.al.|[2405.20761](http://arxiv.org/abs/2405.20761)|**[link](https://github.com/adis98/stv)**|
+|**2024-05-31**|**GANcrop: A Contrastive Defense Against Backdoor Attacks in Federated Learning**|Xiaoyun Gan et.al.|[2405.20727](http://arxiv.org/abs/2405.20727)|null|
+|**2024-05-31**|**GI-NAS: Boosting Gradient Inversion Attacks through Adaptive Neural Architecture Search**|Wenbo Yu et.al.|[2405.20725](http://arxiv.org/abs/2405.20725)|null|
+|**2024-05-31**|**Fast Evaluation of S-boxes with Garbled Circuits**|Erik Pohle et.al.|[2405.20713](http://arxiv.org/abs/2405.20713)|null|
 |**2024-05-30**|**SPAM: Stochastic Proximal Point Method with Momentum Variance Reduction for Non-convex Cross-Device Federated Learning**|Avetik Karagulyan et.al.|[2405.20127](http://arxiv.org/abs/2405.20127)|null|
 |**2024-05-30**|**Federated and Transfer Learning for Cancer Detection Based on Image Analysis**|Amine Bechar et.al.|[2405.20126](http://arxiv.org/abs/2405.20126)|null|
 |**2024-05-30**|**Cross-Training with Multi-View Knowledge Fusion for Heterogenous Federated Learning**|Zhuang Qi et.al.|[2405.20046](http://arxiv.org/abs/2405.20046)|null|
