@@ -390,7 +390,7 @@ layout: default
 |**2024-05-29**|**Mitigating Disparate Impact of Differential Privacy in Federated Learning through Robust Clustering**|Saber Malekmohammadi et.al.|[2405.19272](http://arxiv.org/abs/2405.19272)|null|
 |**2024-05-29**|**A Privacy-Preserving Graph Encryption Scheme Based on Oblivious RAM**|Seyni Kane et.al.|[2405.19259](http://arxiv.org/abs/2405.19259)|null|
 |**2024-05-29**|**LoByITFL: Low Communication Secure and Private Federated Learning**|Yue Xia et.al.|[2405.19217](http://arxiv.org/abs/2405.19217)|null|
-|**2024-05-29**|**FedMAP: Unlocking Potential in Personalized Federated Learning through Bi-Level MAP Optimization**|Fan Zhang et.al.|[2405.19000](http://arxiv.org/abs/2405.19000)|null|
+|**2024-05-29**|**FedMAP: Unlocking Potential in Personalized Federated Learning through Bi-Level MAP Optimization**|Fan Zhang et.al.|[2405.19000](http://arxiv.org/abs/2405.19000)|**[link](https://github.com/CambridgeCIA/FedMAP)**|
 |**2024-05-29**|**Federated Learning under Partially Class-Disjoint Data via Manifold Reshaping**|Ziqing Fan et.al.|[2405.18983](http://arxiv.org/abs/2405.18983)|**[link](https://github.com/mediabrain-sjtu/fedmr)**|
 |**2024-05-29**|**Federated Learning with Bilateral Curation for Partially Class-Disjoint Data**|Ziqing Fan et.al.|[2405.18972](http://arxiv.org/abs/2405.18972)|**[link](https://github.com/mediabrain-sjtu/fedgela)**|
 |**2024-05-29**|**Locally Estimated Global Perturbations are Better than Local Perturbations for Federated Sharpness-aware Minimization**|Ziqing Fan et.al.|[2405.18890](http://arxiv.org/abs/2405.18890)|null|
@@ -423,17 +423,17 @@ layout: default
 |**2024-05-24**|**Certifiably Robust RAG against Retrieval Corruption**|Chong Xiang et.al.|[2405.15556](http://arxiv.org/abs/2405.15556)|null|
 |**2024-05-24**|**Thinking Forward: Memory-Efficient Federated Finetuning of Language Models**|Kunjal Panchal et.al.|[2405.15551](http://arxiv.org/abs/2405.15551)|**[link](https://github.com/astuary/spry)**|
 |**2024-05-24**|**Unlearning during Learning: An Efficient Federated Machine Unlearning Method**|Hanlin Gu et.al.|[2405.15474](http://arxiv.org/abs/2405.15474)|null|
-|**2024-05-24**|**FedCal: Achieving Local and Global Calibration in Federated Learning via Aggregated Parameterized Scaler**|Hongyi Peng et.al.|[2405.15458](http://arxiv.org/abs/2405.15458)|null|
+|**2024-05-24**|**FedCal: Achieving Local and Global Calibration in Federated Learning via Aggregated Parameterized Scaler**|Hongyi Peng et.al.|[2405.15458](http://arxiv.org/abs/2405.15458)|**[link](https://github.com/PengHongyiNTU/FedCal)**|
 |**2024-05-24**|**Towards Client Driven Federated Learning**|Songze Li et.al.|[2405.15407](http://arxiv.org/abs/2405.15407)|null|
 |**2024-05-24**|**Transformer-based Federated Learning for Multi-Label Remote Sensing Image Classification**|Barış Büyüktaş et.al.|[2405.15405](http://arxiv.org/abs/2405.15405)|null|
 |**2024-05-23**|**Federated Online Adaptation for Deep Stereo**|Matteo Poggi et.al.|[2405.14873](http://arxiv.org/abs/2405.14873)|null|
-|**2024-05-23**|**Recurrent Early Exits for Federated Learning with Heterogeneous Clients**|Royson Lee et.al.|[2405.14791](http://arxiv.org/abs/2405.14791)|null|
+|**2024-05-23**|**Recurrent Early Exits for Federated Learning with Heterogeneous Clients**|Royson Lee et.al.|[2405.14791](http://arxiv.org/abs/2405.14791)|**[link](https://github.com/royson/reefl)**|
 |**2024-05-23**|**A Systematic and Formal Study of the Impact of Local Differential Privacy on Fairness: Preliminary Results**|Karima Makhlouf et.al.|[2405.14725](http://arxiv.org/abs/2405.14725)|null|
 |**2024-05-23**|**Overcoming the Challenges of Batch Normalization in Federated Learning**|Rachid Guerraoui et.al.|[2405.14670](http://arxiv.org/abs/2405.14670)|null|
 |**2024-05-23**|**Towards Privacy-Aware and Personalised Assistive Robots: A User-Centred Approach**|Fernando E. Casado et.al.|[2405.14528](http://arxiv.org/abs/2405.14528)|null|
 |**2024-05-23**|**A Comprehensive Overview of Large Language Models (LLMs) for Cyber Defences: Opportunities and Directions**|Mohammed Hassanin et.al.|[2405.14487](http://arxiv.org/abs/2405.14487)|null|
 |**2024-05-23**|**Worldwide Federated Training of Language Models**|Alex Iacob et.al.|[2405.14446](http://arxiv.org/abs/2405.14446)|null|
-|**2024-05-23**|**Variational Bayes for Federated Continual Learning**|Dezhong Yao et.al.|[2405.14291](http://arxiv.org/abs/2405.14291)|null|
+|**2024-05-23**|**Variational Bayes for Federated Continual Learning**|Dezhong Yao et.al.|[2405.14291](http://arxiv.org/abs/2405.14291)|**[link](https://github.com/lassino/fedbnn_code)**|
 |**2024-05-23**|**Federated Domain-Specific Knowledge Transfer on Large Language Models Using Synthetic Data**|Haoran Li et.al.|[2405.14212](http://arxiv.org/abs/2405.14212)|null|
 |**2024-05-22**|**Rehearsal-free Federated Domain-incremental Learning**|Rui Sun et.al.|[2405.13900](http://arxiv.org/abs/2405.13900)|null|
 |**2024-05-21**|**Decentralized Federated Learning Over Imperfect Communication Channels**|Weicai Li et.al.|[2405.12894](http://arxiv.org/abs/2405.12894)|null|
@@ -467,7 +467,7 @@ layout: default
 |**2024-05-16**|**Balancing Similarity and Complementarity for Federated Learning**|Kunda Yan et.al.|[2405.09892](http://arxiv.org/abs/2405.09892)|null|
 |**2024-05-16**|**Advances in Robust Federated Learning: Heterogeneity Considerations**|Chuan Chen et.al.|[2405.09839](http://arxiv.org/abs/2405.09839)|null|
 |**2024-05-16**|**Harmonizing Generalization and Personalization in Federated Prompt Learning**|Tianyu Cui et.al.|[2405.09771](http://arxiv.org/abs/2405.09771)|null|
-|**2024-05-15**|**DP-RuL: Differentially-Private Rule Learning for Clinical Decision Support Systems**|Josephine Lamp et.al.|[2405.09721](http://arxiv.org/abs/2405.09721)|null|
+|**2024-05-15**|**DP-RuL: Differentially-Private Rule Learning for Clinical Decision Support Systems**|Josephine Lamp et.al.|[2405.09721](http://arxiv.org/abs/2405.09721)|**[link](https://github.com/jozieLamp/DP_Rule_Learning_for_CDSS)**|
 |**2024-05-15**|**MicroPython Testbed for Federated Learning Algorithms**|Miroslav Popovic et.al.|[2405.09423](http://arxiv.org/abs/2405.09423)|**[link](https://github.com/miroslav-popovic/ptbfla)**|
 |**2024-05-15**|**Real-World Federated Learning in Radiology: Hurdles to overcome and Benefits to gain**|Markus R. Bujotzek et.al.|[2405.09409](http://arxiv.org/abs/2405.09409)|null|
 |**2024-05-15**|**SA-FedLora: Adaptive Parameter Allocation for Efficient Federated Learning with LoRA Tuning**|Yuning Yang et.al.|[2405.09394](http://arxiv.org/abs/2405.09394)|null|
@@ -1005,7 +1005,7 @@ layout: default
 |**2024-02-05**|**Fairness and Privacy Guarantees in Federated Contextual Bandits**|Sambhav Solanki et.al.|[2402.03531](http://arxiv.org/abs/2402.03531)|null|
 |**2024-02-05**|**Decentralized Sporadic Federated Learning: A Unified Methodology with Generalized Convergence Guarantees**|Shahryar Zehtabi et.al.|[2402.03448](http://arxiv.org/abs/2402.03448)|**[link](https://github.com/ShahryarBQ/DSpodFL)**|
 |**2024-02-05**|**Towards Eliminating Hard Label Constraints in Gradient Inversion Attacks**|Yanbo Wang et.al.|[2402.03124](http://arxiv.org/abs/2402.03124)|**[link](https://github.com/ybwang119/label_recovery)**|
-|**2024-02-05**|**UniHENN: Designing More Versatile Homomorphic Encryption-based CNNs without im2col**|Hyunmin Choi et.al.|[2402.03060](http://arxiv.org/abs/2402.03060)|null|
+|**2024-02-05**|**UniHENN: Designing More Versatile Homomorphic Encryption-based CNNs without im2col**|Hyunmin Choi et.al.|[2402.03060](http://arxiv.org/abs/2402.03060)|**[link](https://github.com/hm-choi/uni-henn)**|
 |**2024-02-05**|**On the Impact of Output Perturbation on Fairness in Binary Linear Classification**|Vitalii Emelianov et.al.|[2402.03011](http://arxiv.org/abs/2402.03011)|null|
 |**2024-02-05**|**Exploring Federated Self-Supervised Learning for General Purpose Audio Understanding**|Yasar Abbas Ur Rehman et.al.|[2402.02889](http://arxiv.org/abs/2402.02889)|null|
 |**2024-02-05**|**Time-Distributed Backdoor Attacks on Federated Spiking Learning**|Gorka Abad et.al.|[2402.02886](http://arxiv.org/abs/2402.02886)|null|
@@ -1131,7 +1131,7 @@ layout: default
 |**2024-01-10**|**Efficient Fine-Tuning with Domain Adaptation for Privacy-Preserving Vision Transformer**|Teru Nagamori et.al.|[2401.05126](http://arxiv.org/abs/2401.05126)|null|
 |**2024-01-10**|**AdaFed: Fair Federated Learning via Adaptive Common Descent Direction**|Shayan Mohajer Hamidi et.al.|[2401.04993](http://arxiv.org/abs/2401.04993)|null|
 |**2024-01-10**|**Learning-Based Difficulty Calibration for Enhanced Membership Inference Attacks**|Haonan Shi et.al.|[2401.04929](http://arxiv.org/abs/2401.04929)|**[link](https://github.com/horanshi/ldc-mia)**|
-|**2024-01-10**|**Relaxed Contrastive Learning for Federated Learning**|Seonguk Seo et.al.|[2401.04928](http://arxiv.org/abs/2401.04928)|null|
+|**2024-01-10**|**Relaxed Contrastive Learning for Federated Learning**|Seonguk Seo et.al.|[2401.04928](http://arxiv.org/abs/2401.04928)|**[link](https://github.com/skynbe/fedrcl)**|
 |**2024-01-09**|**A Survey on Efficient Federated Learning Methods for Foundation Model Training**|Herbert Woisetschläger et.al.|[2401.04472](http://arxiv.org/abs/2401.04472)|null|
 |**2024-01-09**|**Privacy-Preserving Sequential Recommendation with Collaborative Confusion**|Wei Wang et.al.|[2401.04423](http://arxiv.org/abs/2401.04423)|null|
 |**2024-01-09**|**Private Fine-tuning of Large Language Models with Zeroth-order Optimization**|Xinyu Tang et.al.|[2401.04343](http://arxiv.org/abs/2401.04343)|null|
