@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**Fast and Secure Decentralized Optimistic Rollups Using Setchain**|Margarita Capretto et.al.|[2406.02316](http://arxiv.org/abs/2406.02316)|null|
+|**2024-06-03**|**Towards Effective Detection of Ponzi schemes on Ethereum with Contract Runtime Behavior Graph**|Ruichao Liang et.al.|[2406.00921](http://arxiv.org/abs/2406.00921)|null|
 |**2024-05-31**|**All Your Tokens are Belong to Us: Demystifying Address Verification Vulnerabilities in Solidity Smart Contracts**|Tianle Sun et.al.|[2405.20561](http://arxiv.org/abs/2405.20561)|null|
 |**2024-05-29**|**New Approaches to Old Problems? Thinking About a New Design of the AML/CFT Strategy**|Chiara Ferri et.al.|[2405.18517](http://arxiv.org/abs/2405.18517)|null|
 |**2024-05-26**|**Towards Sustainable IoT: Challenges, Solutions, and Future Directions for Device Longevity**|Ghazaleh Shirvani et.al.|[2405.16421](http://arxiv.org/abs/2405.16421)|null|
@@ -316,6 +318,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-03**|**No Vandalism: Privacy-Preserving and Byzantine-Robust Federated Learning**|Zhibo Xing et.al.|[2406.01080](http://arxiv.org/abs/2406.01080)|null|
 |**2024-05-28**|**A Verifiable Computing Scheme for Encrypted Control Systems**|Francesca Stabile et.al.|[2405.18586](http://arxiv.org/abs/2405.18586)|null|
 |**2024-05-28**|**Asynchronous BFT Asset Transfer: Quasi-Anonymous, Light, and Consensus-Free**|Timothé Albouy et.al.|[2405.18072](http://arxiv.org/abs/2405.18072)|null|
 |**2024-05-20**|**Securing Blockchain-based IoT Systems with Physical Unclonable Functions and Zero-Knowledge Proofs**|Daniel Commey et.al.|[2405.12322](http://arxiv.org/abs/2405.12322)|null|
@@ -392,6 +395,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**Click Without Compromise: Online Advertising Measurement via Per User Differential Privacy**|Yingtai Xiao et.al.|[2406.02463](http://arxiv.org/abs/2406.02463)|null|
+|**2024-06-04**|**Reducing Bias in Federated Class-Incremental Learning with Hierarchical Generative Prototypes**|Riccardo Salami et.al.|[2406.02447](http://arxiv.org/abs/2406.02447)|null|
+|**2024-06-04**|**Improved Modelling of Federated Datasets using Mixtures-of-Dirichlet-Multinomials**|Jonathan Scott et.al.|[2406.02416](http://arxiv.org/abs/2406.02416)|null|
+|**2024-06-04**|**FedDr+: Stabilizing Dot-regression with Global Feature Distillation for Federated Learning**|Seongyoon Kim et.al.|[2406.02355](http://arxiv.org/abs/2406.02355)|null|
+|**2024-06-04**|**A Survey of Transformer Enabled Time Series Synthesis**|Alexander Sommers et.al.|[2406.02322](http://arxiv.org/abs/2406.02322)|null|
+|**2024-06-04**|**PeFAD: A Parameter-Efficient Federated Framework for Time Series Anomaly Detection**|Ronghui Xu et.al.|[2406.02318](http://arxiv.org/abs/2406.02318)|null|
+|**2024-06-04**|**One-Shot Federated Learning with Bayesian Pseudocoresets**|Tim d'Hondt et.al.|[2406.02177](http://arxiv.org/abs/2406.02177)|null|
+|**2024-06-04**|**Parameterizing Federated Continual Learning for Reproducible Research**|Bart Cox et.al.|[2406.02015](http://arxiv.org/abs/2406.02015)|null|
+|**2024-06-04**|**Measure-Observe-Remeasure: An Interactive Paradigm for Differentially-Private Exploratory Analysis**|Priyanka Nanayakkara et.al.|[2406.01964](http://arxiv.org/abs/2406.01964)|null|
+|**2024-06-04**|**A Comparative Study of Sampling Methods with Cross-Validation in the FedHome Framework**|Arash Ahmadi et.al.|[2406.01950](http://arxiv.org/abs/2406.01950)|null|
 |**2024-05-31**|**ACE: A Model Poisoning Attack on Contribution Evaluation Methods in Federated Learning**|Zhangchen Xu et.al.|[2405.20975](http://arxiv.org/abs/2405.20975)|null|
 |**2024-05-31**|**RASE: Efficient Privacy-preserving Data Aggregation against Disclosure Attacks for IoTs**|Zuyan Wang et.al.|[2405.20914](http://arxiv.org/abs/2405.20914)|null|
 |**2024-05-31**|**Sheaf HyperNetworks for Personalized Federated Learning**|Bao Nguyen et.al.|[2405.20882](http://arxiv.org/abs/2405.20882)|null|
