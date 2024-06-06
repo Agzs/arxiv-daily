@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.05
+## Updated on 2024.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -385,7 +385,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-04**|**Click Without Compromise: Online Advertising Measurement via Per User Differential Privacy**|Yingtai Xiao et.al.|[2406.02463](http://arxiv.org/abs/2406.02463)|null|
 |**2024-06-04**|**Reducing Bias in Federated Class-Incremental Learning with Hierarchical Generative Prototypes**|Riccardo Salami et.al.|[2406.02447](http://arxiv.org/abs/2406.02447)|null|
-|**2024-06-04**|**Improved Modelling of Federated Datasets using Mixtures-of-Dirichlet-Multinomials**|Jonathan Scott et.al.|[2406.02416](http://arxiv.org/abs/2406.02416)|null|
+|**2024-06-04**|**Improved Modelling of Federated Datasets using Mixtures-of-Dirichlet-Multinomials**|Jonathan Scott et.al.|[2406.02416](http://arxiv.org/abs/2406.02416)|**[link](https://github.com/apple/pfl-research)**|
 |**2024-06-04**|**FedDr+: Stabilizing Dot-regression with Global Feature Distillation for Federated Learning**|Seongyoon Kim et.al.|[2406.02355](http://arxiv.org/abs/2406.02355)|null|
 |**2024-06-04**|**A Survey of Transformer Enabled Time Series Synthesis**|Alexander Sommers et.al.|[2406.02322](http://arxiv.org/abs/2406.02322)|null|
 |**2024-06-04**|**PeFAD: A Parameter-Efficient Federated Framework for Time Series Anomaly Detection**|Ronghui Xu et.al.|[2406.02318](http://arxiv.org/abs/2406.02318)|null|
