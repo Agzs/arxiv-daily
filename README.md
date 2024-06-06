@@ -395,6 +395,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Ariadne: a Privacy-Preserving Communication Protocol**|Antoine Fressancourt et.al.|[2406.03187](http://arxiv.org/abs/2406.03187)|null|
+|**2024-06-05**|**Towards Federated Domain Unlearning: Verification Methodologies and Challenges**|Kahou Tam et.al.|[2406.03078](http://arxiv.org/abs/2406.03078)|null|
+|**2024-06-05**|**FedStaleWeight: Buffered Asynchronous Federated Learning with Fair Aggregation via Staleness Reweighting**|Jeffrey Ma et.al.|[2406.02877](http://arxiv.org/abs/2406.02877)|null|
+|**2024-06-04**|**PriME: Privacy-aware Membership profile Estimation in networks**|Abhinav Chakraborty et.al.|[2406.02794](http://arxiv.org/abs/2406.02794)|null|
 |**2024-06-04**|**Click Without Compromise: Online Advertising Measurement via Per User Differential Privacy**|Yingtai Xiao et.al.|[2406.02463](http://arxiv.org/abs/2406.02463)|null|
 |**2024-06-04**|**Reducing Bias in Federated Class-Incremental Learning with Hierarchical Generative Prototypes**|Riccardo Salami et.al.|[2406.02447](http://arxiv.org/abs/2406.02447)|null|
 |**2024-06-04**|**Improved Modelling of Federated Datasets using Mixtures-of-Dirichlet-Multinomials**|Jonathan Scott et.al.|[2406.02416](http://arxiv.org/abs/2406.02416)|**[link](https://github.com/apple/pfl-research)**|
