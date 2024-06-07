@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.06
+## Updated on 2024.06.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -277,7 +277,7 @@ layout: default
 |**2024-04-24**|**SQIAsignHD: SQIsignHD Adaptor Signature**|Farzin Renan et.al.|[2404.09026](http://arxiv.org/abs/2404.09026)|null|
 |**2024-03-25**|**Machine Learning on Blockchain Data: A Systematic Mapping Study**|Georgios Palaiokrassas et.al.|[2403.17081](http://arxiv.org/abs/2403.17081)|null|
 |**2024-03-22**|**Blockchain-based Pseudonym Management for Vehicle Twin Migrations in Vehicular Edge Metaverse**|Jiawen Kang et.al.|[2403.15285](http://arxiv.org/abs/2403.15285)|null|
-|**2024-04-19**|**VORTEX: High-Speed and Low-Latency Off-Chain Payments and Cross-Chain Swaps for Cryptocurrencies**|Di Wu et.al.|[2403.15191](http://arxiv.org/abs/2403.15191)|null|
+|**2024-06-05**|**VORTEX: Real-Time Off-Chain Payments and Cross-Chain Swaps for Cryptocurrencies**|Di Wu et.al.|[2403.15191](http://arxiv.org/abs/2403.15191)|null|
 |**2024-03-12**|**Atomicity and Abstraction for Cross-Blockchain Interactions**|Huaixi Lu et.al.|[2403.07248](http://arxiv.org/abs/2403.07248)|null|
 |**2024-03-14**|**On HTLC-Based Protocols for Multi-Party Cross-Chain Swaps**|Emily Clark et.al.|[2403.03906](http://arxiv.org/abs/2403.03906)|null|
 |**2024-03-01**|**SoK: Cross-Chain Bridging Architectural Design Flaws and Mitigations**|Jakob Svennevik Notland et.al.|[2403.00405](http://arxiv.org/abs/2403.00405)|null|
