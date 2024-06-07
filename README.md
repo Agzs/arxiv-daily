@@ -395,6 +395,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-06**|**R-CONV: An Analytical Approach for Efficient Data Reconstruction via Convolutional Gradients**|Tamer Ahmed Eltaras et.al.|[2406.04227](http://arxiv.org/abs/2406.04227)|null|
+|**2024-06-06**|**LenslessFace: An End-to-End Optimized Lensless System for Privacy-Preserving Face Verification**|Xin Cai et.al.|[2406.04129](http://arxiv.org/abs/2406.04129)|null|
+|**2024-06-06**|**Federated TrustChain: Blockchain-Enhanced LLM Training and Unlearning**|Xuhan Zuo et.al.|[2406.04076](http://arxiv.org/abs/2406.04076)|null|
+|**2024-06-06**|**Memorization in deep learning: A survey**|Jiaheng Wei et.al.|[2406.03880](http://arxiv.org/abs/2406.03880)|null|
+|**2024-06-06**|**Privacy Preserving Semi-Decentralized Mean Estimation over Intermittently-Connected Networks**|Rajarshi Saha et.al.|[2406.03766](http://arxiv.org/abs/2406.03766)|**[link](https://github.com/rajarshisaha95/private-collaborative-relaying)**|
+|**2024-06-06**|**NAP^2: A Benchmark for Naturalness and Privacy-Preserving Text Rewriting by Learning from Human**|Shuo Huang et.al.|[2406.03749](http://arxiv.org/abs/2406.03749)|null|
+|**2024-06-06**|**FACOS: Enabling Privacy Protection Through Fine-Grained Access Control with On-chain and Off-chain System**|Chao Liu et.al.|[2406.03695](http://arxiv.org/abs/2406.03695)|null|
+|**2024-06-05**|**FedPylot: Navigating Federated Learning for Real-Time Object Detection in Internet of Vehicles**|Cyprien Quéméneur et.al.|[2406.03611](http://arxiv.org/abs/2406.03611)|**[link](https://github.com/cyprienquemeneur/fedpylot)**|
+|**2024-06-05**|**Fantastyc: Blockchain-based Federated Learning Made Secure and Practical**|William Boitier et.al.|[2406.03608](http://arxiv.org/abs/2406.03608)|null|
+|**2024-06-05**|**Noise-Aware Algorithm for Heterogeneous Differentially Private Federated Learning**|Saber Malekmohammadi et.al.|[2406.03519](http://arxiv.org/abs/2406.03519)|null|
 |**2024-06-05**|**Ariadne: a Privacy-Preserving Communication Protocol**|Antoine Fressancourt et.al.|[2406.03187](http://arxiv.org/abs/2406.03187)|null|
 |**2024-06-05**|**Towards Federated Domain Unlearning: Verification Methodologies and Challenges**|Kahou Tam et.al.|[2406.03078](http://arxiv.org/abs/2406.03078)|null|
 |**2024-06-05**|**FedStaleWeight: Buffered Asynchronous Federated Learning with Fair Aggregation via Staleness Reweighting**|Jeffrey Ma et.al.|[2406.02877](http://arxiv.org/abs/2406.02877)|null|
