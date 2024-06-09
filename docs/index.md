@@ -392,7 +392,7 @@ layout: default
 |**2024-06-06**|**FACOS: Enabling Privacy Protection Through Fine-Grained Access Control with On-chain and Off-chain System**|Chao Liu et.al.|[2406.03695](http://arxiv.org/abs/2406.03695)|null|
 |**2024-06-05**|**FedPylot: Navigating Federated Learning for Real-Time Object Detection in Internet of Vehicles**|Cyprien Quéméneur et.al.|[2406.03611](http://arxiv.org/abs/2406.03611)|**[link](https://github.com/cyprienquemeneur/fedpylot)**|
 |**2024-06-05**|**Fantastyc: Blockchain-based Federated Learning Made Secure and Practical**|William Boitier et.al.|[2406.03608](http://arxiv.org/abs/2406.03608)|null|
-|**2024-06-05**|**Noise-Aware Algorithm for Heterogeneous Differentially Private Federated Learning**|Saber Malekmohammadi et.al.|[2406.03519](http://arxiv.org/abs/2406.03519)|null|
+|**2024-06-05**|**Noise-Aware Algorithm for Heterogeneous Differentially Private Federated Learning**|Saber Malekmohammadi et.al.|[2406.03519](http://arxiv.org/abs/2406.03519)|**[link](https://github.com/Saber-mm/HDPFL)**|
 |**2024-06-05**|**Ariadne: a Privacy-Preserving Communication Protocol**|Antoine Fressancourt et.al.|[2406.03187](http://arxiv.org/abs/2406.03187)|null|
 |**2024-06-05**|**Towards Federated Domain Unlearning: Verification Methodologies and Challenges**|Kahou Tam et.al.|[2406.03078](http://arxiv.org/abs/2406.03078)|null|
 |**2024-06-05**|**FedStaleWeight: Buffered Asynchronous Federated Learning with Fair Aggregation via Staleness Reweighting**|Jeffrey Ma et.al.|[2406.02877](http://arxiv.org/abs/2406.02877)|null|
