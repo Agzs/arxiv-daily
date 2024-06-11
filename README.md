@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-09**|**Demystifying the Characteristics for Smart Contract Upgrades**|Ye Liu et.al.|[2406.05712](http://arxiv.org/abs/2406.05712)|null|
+|**2024-06-08**|**SAMM: Sharded Automated Market Makers**|Hongyin Chen et.al.|[2406.05568](http://arxiv.org/abs/2406.05568)|null|
 |**2024-06-07**|**When Swarm Learning meets energy series data: A decentralized collaborative learning design based on blockchain**|Lei Xu et.al.|[2406.04743](http://arxiv.org/abs/2406.04743)|null|
 |**2024-06-07**|**PolySAT: Word-level Bit-vector Reasoning in Z3**|Jakob Rath et.al.|[2406.04696](http://arxiv.org/abs/2406.04696)|null|
 |**2024-06-04**|**Fast and Secure Decentralized Optimistic Rollups Using Setchain**|Margarita Capretto et.al.|[2406.02316](http://arxiv.org/abs/2406.02316)|null|
@@ -397,6 +399,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**Decentralized Personalized Federated Learning**|Salma Kharrat et.al.|[2406.06520](http://arxiv.org/abs/2406.06520)|null|
+|**2024-06-10**|**A LoRa-based Energy-efficient Sensing System for Urban Data Collection**|Lukas Schulthess et.al.|[2406.06404](http://arxiv.org/abs/2406.06404)|null|
+|**2024-06-10**|**Optimisation of federated learning settings under statistical heterogeneity variations**|Basem Suleiman et.al.|[2406.06340](http://arxiv.org/abs/2406.06340)|null|
+|**2024-06-10**|**Lurking in the shadows: Unveiling Stealthy Backdoor Attacks against Personalized Federated Learning**|Xiaoting Lyu et.al.|[2406.06207](http://arxiv.org/abs/2406.06207)|null|
+|**2024-06-10**|**Federated learning in food research**|Zuzanna Fendor et.al.|[2406.06202](http://arxiv.org/abs/2406.06202)|null|
+|**2024-06-10**|**A Survey on Machine Unlearning: Techniques and New Emerged Privacy Risks**|Hengzhu Liu et.al.|[2406.06186](http://arxiv.org/abs/2406.06186)|null|
+|**2024-06-09**|**Comments on "Federated Learning with Differential Privacy: Algorithms and Performance Analysis"**|Mahtab Talaei et.al.|[2406.05858](http://arxiv.org/abs/2406.05858)|null|
+|**2024-06-08**|**Privacy-Preserving Optimal Parameter Selection for Collaborative Clustering**|Maryam Ghasemian et.al.|[2406.05545](http://arxiv.org/abs/2406.05545)|null|
+|**2024-06-08**|**Blockchain Integrated Federated Learning in Edge-Fog-Cloud Systems for IoT based Healthcare Applications A Survey**|Shinu M. Rajagopal et.al.|[2406.05517](http://arxiv.org/abs/2406.05517)|null|
+|**2024-06-08**|**PTF-FSR: A Parameter Transmission-Free Federated Sequential Recommender System**|Wei Yuan et.al.|[2406.05387](http://arxiv.org/abs/2406.05387)|null|
 |**2024-06-07**|**FedLLM-Bench: Realistic Benchmarks for Federated Learning of Large Language Models**|Rui Ye et.al.|[2406.04845](http://arxiv.org/abs/2406.04845)|null|
 |**2024-06-07**|**When Swarm Learning meets energy series data: A decentralized collaborative learning design based on blockchain**|Lei Xu et.al.|[2406.04743](http://arxiv.org/abs/2406.04743)|null|
 |**2024-06-07**|**Marking the Pace: A Blockchain-Enhanced Privacy-Traceable Strategy for Federated Recommender Systems**|Zhen Cai et.al.|[2406.04702](http://arxiv.org/abs/2406.04702)|null|
