@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -19,7 +19,7 @@ layout: default
 |**2024-06-07**|**When Swarm Learning meets energy series data: A decentralized collaborative learning design based on blockchain**|Lei Xu et.al.|[2406.04743](http://arxiv.org/abs/2406.04743)|null|
 |**2024-06-07**|**PolySAT: Word-level Bit-vector Reasoning in Z3**|Jakob Rath et.al.|[2406.04696](http://arxiv.org/abs/2406.04696)|null|
 |**2024-06-04**|**Fast and Secure Decentralized Optimistic Rollups Using Setchain**|Margarita Capretto et.al.|[2406.02316](http://arxiv.org/abs/2406.02316)|null|
-|**2024-06-03**|**Towards Effective Detection of Ponzi schemes on Ethereum with Contract Runtime Behavior Graph**|Ruichao Liang et.al.|[2406.00921](http://arxiv.org/abs/2406.00921)|null|
+|**2024-06-03**|**Towards Effective Detection of Ponzi schemes on Ethereum with Contract Runtime Behavior Graph**|Ruichao Liang et.al.|[2406.00921](http://arxiv.org/abs/2406.00921)|**[link](https://github.com/PonziDetection/PonziGuard)**|
 |**2024-05-31**|**All Your Tokens are Belong to Us: Demystifying Address Verification Vulnerabilities in Solidity Smart Contracts**|Tianle Sun et.al.|[2405.20561](http://arxiv.org/abs/2405.20561)|null|
 |**2024-05-29**|**New Approaches to Old Problems? Thinking About a New Design of the AML/CFT Strategy**|Chiara Ferri et.al.|[2405.18517](http://arxiv.org/abs/2405.18517)|null|
 |**2024-05-26**|**Towards Sustainable IoT: Challenges, Solutions, and Future Directions for Device Longevity**|Ghazaleh Shirvani et.al.|[2405.16421](http://arxiv.org/abs/2405.16421)|null|
