@@ -312,6 +312,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Pseudo-Entanglement is Necessary for EFI Pairs**|Manuel Goulão et.al.|[2406.06881](http://arxiv.org/abs/2406.06881)|null|
 |**2024-06-03**|**No Vandalism: Privacy-Preserving and Byzantine-Robust Federated Learning**|Zhibo Xing et.al.|[2406.01080](http://arxiv.org/abs/2406.01080)|null|
 |**2024-05-28**|**A Verifiable Computing Scheme for Encrypted Control Systems**|Francesca Stabile et.al.|[2405.18586](http://arxiv.org/abs/2405.18586)|null|
 |**2024-05-28**|**Asynchronous BFT Asset Transfer: Quasi-Anonymous, Light, and Consensus-Free**|Timothé Albouy et.al.|[2405.18072](http://arxiv.org/abs/2405.18072)|null|
@@ -387,6 +388,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Minimizing Energy Costs in Deep Learning Model Training: The Gaussian Sampling Approach**|Challapalli Phanindra Revanth et.al.|[2406.07332](http://arxiv.org/abs/2406.07332)|null|
+|**2024-06-11**|**A Synthetic Dataset for Personal Attribute Inference**|Hanna Yukhymenko et.al.|[2406.07217](http://arxiv.org/abs/2406.07217)|null|
+|**2024-06-11**|**Information Aggregation with Costly Information Acquisition**|Spyros Galanis et.al.|[2406.07186](http://arxiv.org/abs/2406.07186)|null|
+|**2024-06-10**|**Optimal Federated Learning for Nonparametric Regression with Heterogeneous Distributed Differential Privacy Constraints**|T. Tony Cai et.al.|[2406.06755](http://arxiv.org/abs/2406.06755)|null|
+|**2024-06-10**|**Federated Nonparametric Hypothesis Testing with Differential Privacy Constraints: Optimal Rates and Adaptive Tests**|T. Tony Cai et.al.|[2406.06749](http://arxiv.org/abs/2406.06749)|null|
 |**2024-06-10**|**Decentralized Personalized Federated Learning**|Salma Kharrat et.al.|[2406.06520](http://arxiv.org/abs/2406.06520)|null|
 |**2024-06-10**|**A LoRa-based Energy-efficient Sensing System for Urban Data Collection**|Lukas Schulthess et.al.|[2406.06404](http://arxiv.org/abs/2406.06404)|null|
 |**2024-06-10**|**Optimisation of federated learning settings under statistical heterogeneity variations**|Basem Suleiman et.al.|[2406.06340](http://arxiv.org/abs/2406.06340)|null|
