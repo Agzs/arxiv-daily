@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**Scalable UTXO Smart Contracts via Fine-Grained Distributed State**|Massimo Bartoletti et.al.|[2406.07700](http://arxiv.org/abs/2406.07700)|null|
 |**2024-06-09**|**Demystifying the Characteristics for Smart Contract Upgrades**|Ye Liu et.al.|[2406.05712](http://arxiv.org/abs/2406.05712)|null|
 |**2024-06-08**|**SAMM: Sharded Automated Market Makers**|Hongyin Chen et.al.|[2406.05568](http://arxiv.org/abs/2406.05568)|null|
 |**2024-06-07**|**When Swarm Learning meets energy series data: A decentralized collaborative learning design based on blockchain**|Lei Xu et.al.|[2406.04743](http://arxiv.org/abs/2406.04743)|null|
@@ -400,8 +401,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-12**|**Nonconvex Federated Learning on Compact Smooth Submanifolds With Heterogeneous Data**|Jiaojiao Zhang et.al.|[2406.08465](http://arxiv.org/abs/2406.08465)|null|
+|**2024-06-12**|**A deep cut into Split Federated Self-supervised Learning**|Marcin Przewięźlikowski et.al.|[2406.08267](http://arxiv.org/abs/2406.08267)|**[link](https://github.com/gmum/monacosfl)**|
+|**2024-06-12**|**A Federated Online Restless Bandit Framework for Cooperative Resource Allocation**|Jingwen Tong et.al.|[2406.07992](http://arxiv.org/abs/2406.07992)|null|
+|**2024-06-12**|**Ents: An Efficient Three-party Training Framework for Decision Trees by Communication Optimization**|Guopeng Lin et.al.|[2406.07948](http://arxiv.org/abs/2406.07948)|null|
+|**2024-06-12**|**FDLoRA: Personalized Federated Learning of Large Language Model via Dual LoRA Tuning**|Jiaxing QI et.al.|[2406.07925](http://arxiv.org/abs/2406.07925)|null|
+|**2024-06-12**|**Aggregation Design for Personalized Federated Multi-Modal Learning over Wireless Networks**|Benshun Yin et.al.|[2406.07915](http://arxiv.org/abs/2406.07915)|null|
+|**2024-06-12**|**Regularizing and Aggregating Clients with Class Distribution for Personalized Federated Learning**|Gyuejeong Lee et.al.|[2406.07800](http://arxiv.org/abs/2406.07800)|null|
 |**2024-06-11**|**Minimizing Energy Costs in Deep Learning Model Training: The Gaussian Sampling Approach**|Challapalli Phanindra Revanth et.al.|[2406.07332](http://arxiv.org/abs/2406.07332)|null|
-|**2024-06-11**|**A Synthetic Dataset for Personal Attribute Inference**|Hanna Yukhymenko et.al.|[2406.07217](http://arxiv.org/abs/2406.07217)|null|
+|**2024-06-11**|**A Synthetic Dataset for Personal Attribute Inference**|Hanna Yukhymenko et.al.|[2406.07217](http://arxiv.org/abs/2406.07217)|**[link](https://github.com/eth-sri/synthpai)**|
 |**2024-06-11**|**Information Aggregation with Costly Information Acquisition**|Spyros Galanis et.al.|[2406.07186](http://arxiv.org/abs/2406.07186)|null|
 |**2024-06-10**|**Optimal Federated Learning for Nonparametric Regression with Heterogeneous Distributed Differential Privacy Constraints**|T. Tony Cai et.al.|[2406.06755](http://arxiv.org/abs/2406.06755)|null|
 |**2024-06-10**|**Federated Nonparametric Hypothesis Testing with Differential Privacy Constraints: Optimal Rates and Adaptive Tests**|T. Tony Cai et.al.|[2406.06749](http://arxiv.org/abs/2406.06749)|null|
