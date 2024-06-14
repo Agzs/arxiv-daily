@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.13
+## Updated on 2024.06.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -395,7 +395,7 @@ layout: default
 |**2024-06-12**|**Ents: An Efficient Three-party Training Framework for Decision Trees by Communication Optimization**|Guopeng Lin et.al.|[2406.07948](http://arxiv.org/abs/2406.07948)|null|
 |**2024-06-12**|**FDLoRA: Personalized Federated Learning of Large Language Model via Dual LoRA Tuning**|Jiaxing QI et.al.|[2406.07925](http://arxiv.org/abs/2406.07925)|null|
 |**2024-06-12**|**Aggregation Design for Personalized Federated Multi-Modal Learning over Wireless Networks**|Benshun Yin et.al.|[2406.07915](http://arxiv.org/abs/2406.07915)|null|
-|**2024-06-12**|**Regularizing and Aggregating Clients with Class Distribution for Personalized Federated Learning**|Gyuejeong Lee et.al.|[2406.07800](http://arxiv.org/abs/2406.07800)|null|
+|**2024-06-12**|**Regularizing and Aggregating Clients with Class Distribution for Personalized Federated Learning**|Gyuejeong Lee et.al.|[2406.07800](http://arxiv.org/abs/2406.07800)|**[link](https://github.com/regulation-sakak/cwFedAvg)**|
 |**2024-06-11**|**Minimizing Energy Costs in Deep Learning Model Training: The Gaussian Sampling Approach**|Challapalli Phanindra Revanth et.al.|[2406.07332](http://arxiv.org/abs/2406.07332)|null|
 |**2024-06-11**|**A Synthetic Dataset for Personal Attribute Inference**|Hanna Yukhymenko et.al.|[2406.07217](http://arxiv.org/abs/2406.07217)|**[link](https://github.com/eth-sri/synthpai)**|
 |**2024-06-11**|**Information Aggregation with Costly Information Acquisition**|Spyros Galanis et.al.|[2406.07186](http://arxiv.org/abs/2406.07186)|null|
