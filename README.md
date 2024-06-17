@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**SmartOracle: Generating Smart Contract Oracle via Fine-Grained Invariant Detection**|Jianzhong Su et.al.|[2406.10054](http://arxiv.org/abs/2406.10054)|null|
 |**2024-06-11**|**Scalable UTXO Smart Contracts via Fine-Grained Distributed State**|Massimo Bartoletti et.al.|[2406.07700](http://arxiv.org/abs/2406.07700)|null|
 |**2024-06-09**|**Demystifying the Characteristics for Smart Contract Upgrades**|Ye Liu et.al.|[2406.05712](http://arxiv.org/abs/2406.05712)|null|
 |**2024-06-08**|**SAMM: Sharded Automated Market Makers**|Hongyin Chen et.al.|[2406.05568](http://arxiv.org/abs/2406.05568)|null|
@@ -401,6 +402,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**Federated Learning with Flexible Architectures**|Jong-Ik Park et.al.|[2406.09877](http://arxiv.org/abs/2406.09877)|null|
+|**2024-06-14**|**Federated Learning driven Large Language Models for Swarm Intelligence: A Survey**|Youyang Qu et.al.|[2406.09831](http://arxiv.org/abs/2406.09831)|null|
+|**2024-06-14**|**Speed-up of Data Analysis with Kernel Trick in Encrypted Domain**|Joon Soo Yoo et.al.|[2406.09716](http://arxiv.org/abs/2406.09716)|null|
+|**2024-06-14**|**Privacy-preserving Quantification of Non-IID Degree in Federated Learning**|Yuping Yan et.al.|[2406.09682](http://arxiv.org/abs/2406.09682)|null|
+|**2024-06-14**|**Heterogeneous Federated Learning with Convolutional and Spiking Neural Networks**|Yingchao Yu et.al.|[2406.09680](http://arxiv.org/abs/2406.09680)|null|
+|**2024-06-13**|**FLea: Addressing Data Scarcity and Label Skew in Federated Learning via Privacy-preserving Feature Augmentation**|Tong Xia et.al.|[2406.09547](http://arxiv.org/abs/2406.09547)|**[link](https://github.com/xtxiatong/flea)**|
 |**2024-06-13**|**End-to-end Streaming model for Low-Latency Speech Anonymization**|Waris Quamer et.al.|[2406.09277](http://arxiv.org/abs/2406.09277)|null|
 |**2024-06-13**|**Applying Multi-Agent Negotiation to Solve the Production Routing Problem With Privacy Preserving**|Luiza Pellin Biasoto et.al.|[2406.09214](http://arxiv.org/abs/2406.09214)|null|
 |**2024-06-13**|**EncCluster: Scalable Functional Encryption in Federated Learning through Weight Clustering and Probabilistic Filters**|Vasileios Tsouvalas et.al.|[2406.09152](http://arxiv.org/abs/2406.09152)|null|
