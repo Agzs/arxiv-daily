@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-15**|**Nurgle: Exacerbating Resource Consumption in Blockchain State Storage via MPT Manipulation**|Zheyuan He et.al.|[2406.10687](http://arxiv.org/abs/2406.10687)|null|
 |**2024-06-14**|**SmartOracle: Generating Smart Contract Oracle via Fine-Grained Invariant Detection**|Jianzhong Su et.al.|[2406.10054](http://arxiv.org/abs/2406.10054)|null|
 |**2024-06-11**|**Scalable UTXO Smart Contracts via Fine-Grained Distributed State**|Massimo Bartoletti et.al.|[2406.07700](http://arxiv.org/abs/2406.07700)|null|
 |**2024-06-09**|**Demystifying the Characteristics for Smart Contract Upgrades**|Ye Liu et.al.|[2406.05712](http://arxiv.org/abs/2406.05712)|null|
@@ -278,6 +279,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**Secure Cross-Chain Provenance for Digital Forensics Collaboration**|Asma Jodeiri Akbarfam et.al.|[2406.11729](http://arxiv.org/abs/2406.11729)|null|
 |**2024-05-14**|**Cross-Blockchain Communication Using Oracles With an Off-Chain Aggregation Mechanism Based on zk-SNARKs**|Michael Sober et.al.|[2405.08395](http://arxiv.org/abs/2405.08395)|null|
 |**2024-04-15**|**A Distributed Scalable Cross-chain State Channel Scheme Based on Recursive State Synchronization**|Xinyu Liang et.al.|[2404.09408](http://arxiv.org/abs/2404.09408)|null|
 |**2024-04-24**|**SQIAsignHD: SQIsignHD Adaptor Signature**|Farzin Renan et.al.|[2404.09026](http://arxiv.org/abs/2404.09026)|null|
@@ -390,6 +392,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-17**|**Feasibility of Federated Learning from Client Databases with Different Brain Diseases and MRI Modalities**|Felix Wagner et.al.|[2406.11636](http://arxiv.org/abs/2406.11636)|**[link](https://github.com/felixwag/fl-multidisease-mri)**|
+|**2024-06-17**|**Pre-Training and Personalized Fine-Tuning via Over-the-Air Federated Meta-Learning: Convergence-Generalization Trade-Offs**|Haifeng Wen et.al.|[2406.11569](http://arxiv.org/abs/2406.11569)|null|
+|**2024-06-17**|**Decentralized Credential Verification**|Patrick Herbke et.al.|[2406.11535](http://arxiv.org/abs/2406.11535)|null|
+|**2024-06-17**|**Decentralized Credential Status Management: A Paradigm Shift in Digital Trust**|Patrick Herbke et.al.|[2406.11511](http://arxiv.org/abs/2406.11511)|null|
+|**2024-06-17**|**Federated Active Learning Framework for Efficient Annotation Strategy in Skin-lesion Classification**|Zhipeng Deng et.al.|[2406.11310](http://arxiv.org/abs/2406.11310)|null|
+|**2024-06-17**|**Privacy-preserving Pseudonym Schemes for Personalized 3D Avatars in Mobile Social Metaverses**|Cheng Su et.al.|[2406.11208](http://arxiv.org/abs/2406.11208)|null|
+|**2024-06-17**|**Save It All: Enabling Full Parameter Tuning for Federated Large Language Models via Cycle Black Gradient Descent**|Lin Wang et.al.|[2406.11187](http://arxiv.org/abs/2406.11187)|null|
+|**2024-06-17**|**Federated Face Forgery Detection Learning with Personalized Representation**|Decheng Liu et.al.|[2406.11145](http://arxiv.org/abs/2406.11145)|null|
+|**2024-06-16**|**Leveraging Foundation Models for Multi-modal Federated Learning with Incomplete Modality**|Liwei Che et.al.|[2406.11048](http://arxiv.org/abs/2406.11048)|null|
+|**2024-06-16**|**Promoting Data and Model Privacy in Federated Learning through Quantized LoRA**|JianHao Zhu et.al.|[2406.10976](http://arxiv.org/abs/2406.10976)|null|
 |**2024-06-14**|**Federated Learning with Flexible Architectures**|Jong-Ik Park et.al.|[2406.09877](http://arxiv.org/abs/2406.09877)|null|
 |**2024-06-14**|**Federated Learning driven Large Language Models for Swarm Intelligence: A Survey**|Youyang Qu et.al.|[2406.09831](http://arxiv.org/abs/2406.09831)|null|
 |**2024-06-14**|**Speed-up of Data Analysis with Kernel Trick in Encrypted Domain**|Joon Soo Yoo et.al.|[2406.09716](http://arxiv.org/abs/2406.09716)|null|
