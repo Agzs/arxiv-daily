@@ -392,6 +392,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-18**|**Synergizing Foundation Models and Federated Learning: A Survey**|Shenghui Li et.al.|[2406.12844](http://arxiv.org/abs/2406.12844)|null|
+|**2024-06-18**|**Privacy Preserving Federated Learning in Medical Imaging with Uncertainty Estimation**|Nikolas Koutsoubis et.al.|[2406.12815](http://arxiv.org/abs/2406.12815)|**[link](https://github.com/niko-k98/awesome-list-federated-learning-review)**|
+|**2024-06-18**|**Federated Learning with a Single Shared Image**|Sunny Soni et.al.|[2406.12658](http://arxiv.org/abs/2406.12658)|**[link](https://github.com/sunnysoni97/single_image_fl)**|
+|**2024-06-18**|**UIFV: Data Reconstruction Attack in Vertical Federated Learning**|Jirui Yang et.al.|[2406.12588](http://arxiv.org/abs/2406.12588)|null|
+|**2024-06-18**|**Training Diffusion Models with Federated Learning**|Matthijs de Goede et.al.|[2406.12575](http://arxiv.org/abs/2406.12575)|null|
+|**2024-06-18**|**Low-Resource Machine Translation through the Lens of Personalized Federated Learning**|Viktor Moskvoretskii et.al.|[2406.12564](http://arxiv.org/abs/2406.12564)|**[link](https://github.com/vityavitalich/meritfed)**|
+|**2024-06-18**|**Update Selective Parameters: Federated Machine Unlearning Based on Model Explanation**|Heng Xu et.al.|[2406.12516](http://arxiv.org/abs/2406.12516)|null|
+|**2024-06-18**|**Federated Learning with Limited Node Labels**|Bisheng Tang et.al.|[2406.12435](http://arxiv.org/abs/2406.12435)|null|
+|**2024-06-18**|**PDSS: A Privacy-Preserving Framework for Step-by-Step Distillation of Large Language Models**|Tao Fan et.al.|[2406.12403](http://arxiv.org/abs/2406.12403)|null|
+|**2024-06-18**|**Security and Privacy of 6G Federated Learning-enabled Dynamic Spectrum Sharing**|Viet Vo et.al.|[2406.12330](http://arxiv.org/abs/2406.12330)|null|
 |**2024-06-17**|**Feasibility of Federated Learning from Client Databases with Different Brain Diseases and MRI Modalities**|Felix Wagner et.al.|[2406.11636](http://arxiv.org/abs/2406.11636)|**[link](https://github.com/felixwag/fl-multidisease-mri)**|
 |**2024-06-17**|**Pre-Training and Personalized Fine-Tuning via Over-the-Air Federated Meta-Learning: Convergence-Generalization Trade-Offs**|Haifeng Wen et.al.|[2406.11569](http://arxiv.org/abs/2406.11569)|null|
 |**2024-06-17**|**Decentralized Credential Verification**|Patrick Herbke et.al.|[2406.11535](http://arxiv.org/abs/2406.11535)|null|
