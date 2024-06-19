@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.18
+## Updated on 2024.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -398,7 +398,7 @@ layout: default
 |**2024-06-17**|**Decentralized Credential Status Management: A Paradigm Shift in Digital Trust**|Patrick Herbke et.al.|[2406.11511](http://arxiv.org/abs/2406.11511)|null|
 |**2024-06-17**|**Federated Active Learning Framework for Efficient Annotation Strategy in Skin-lesion Classification**|Zhipeng Deng et.al.|[2406.11310](http://arxiv.org/abs/2406.11310)|null|
 |**2024-06-17**|**Privacy-preserving Pseudonym Schemes for Personalized 3D Avatars in Mobile Social Metaverses**|Cheng Su et.al.|[2406.11208](http://arxiv.org/abs/2406.11208)|null|
-|**2024-06-17**|**Save It All: Enabling Full Parameter Tuning for Federated Large Language Models via Cycle Black Gradient Descent**|Lin Wang et.al.|[2406.11187](http://arxiv.org/abs/2406.11187)|null|
+|**2024-06-17**|**Save It All: Enabling Full Parameter Tuning for Federated Large Language Models via Cycle Black Gradient Descent**|Lin Wang et.al.|[2406.11187](http://arxiv.org/abs/2406.11187)|**[link](https://github.com/L3030/FedCyBGD)**|
 |**2024-06-17**|**Federated Face Forgery Detection Learning with Personalized Representation**|Decheng Liu et.al.|[2406.11145](http://arxiv.org/abs/2406.11145)|null|
 |**2024-06-16**|**Leveraging Foundation Models for Multi-modal Federated Learning with Incomplete Modality**|Liwei Che et.al.|[2406.11048](http://arxiv.org/abs/2406.11048)|null|
 |**2024-06-16**|**Promoting Data and Model Privacy in Federated Learning through Quantized LoRA**|JianHao Zhu et.al.|[2406.10976](http://arxiv.org/abs/2406.10976)|null|
