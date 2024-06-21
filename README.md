@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-19**|**Defying the Odds: Solana's Unexpected Resilience in Spite of the Security Challenges Faced by Developers**|Sébastien Andreina et.al.|[2406.13599](http://arxiv.org/abs/2406.13599)|null|
+|**2024-06-19**|**MEV Ecosystem Evolution From Ethereum 1.0**|Rasheed et.al.|[2406.13585](http://arxiv.org/abs/2406.13585)|null|
+|**2024-06-19**|**Smart Contracts in the Real World: A Statistical Exploration of External Data Dependencies**|Yishun Wang et.al.|[2406.13253](http://arxiv.org/abs/2406.13253)|null|
 |**2024-06-15**|**Nurgle: Exacerbating Resource Consumption in Blockchain State Storage via MPT Manipulation**|Zheyuan He et.al.|[2406.10687](http://arxiv.org/abs/2406.10687)|null|
 |**2024-06-14**|**SmartOracle: Generating Smart Contract Oracle via Fine-Grained Invariant Detection**|Jianzhong Su et.al.|[2406.10054](http://arxiv.org/abs/2406.10054)|null|
 |**2024-06-11**|**Scalable UTXO Smart Contracts via Fine-Grained Distributed State**|Massimo Bartoletti et.al.|[2406.07700](http://arxiv.org/abs/2406.07700)|null|
@@ -326,6 +329,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**SeCTIS: A Framework to Secure CTI Sharing**|Dincy R. Arikkat et.al.|[2406.14102](http://arxiv.org/abs/2406.14102)|null|
 |**2024-06-11**|**Pseudo-Entanglement is Necessary for EFI Pairs**|Manuel Goulão et.al.|[2406.06881](http://arxiv.org/abs/2406.06881)|null|
 |**2024-06-03**|**No Vandalism: Privacy-Preserving and Byzantine-Robust Federated Learning**|Zhibo Xing et.al.|[2406.01080](http://arxiv.org/abs/2406.01080)|null|
 |**2024-05-28**|**A Verifiable Computing Scheme for Encrypted Control Systems**|Francesca Stabile et.al.|[2405.18586](http://arxiv.org/abs/2405.18586)|null|
@@ -404,6 +408,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**CollaFuse: Collaborative Diffusion Models**|Simeon Allmendinger et.al.|[2406.14429](http://arxiv.org/abs/2406.14429)|**[link](https://github.com/simeonallmendinger/collafuse)**|
+|**2024-06-20**|**Communication-efficient Vertical Federated Learning via Compressed Error Feedback**|Pedro Valdeira et.al.|[2406.14420](http://arxiv.org/abs/2406.14420)|null|
+|**2024-06-20**|**Communication-Efficient Byzantine-Resilient Federated Zero-Order Optimization**|Afonso de Sá Delgado Neto et.al.|[2406.14362](http://arxiv.org/abs/2406.14362)|null|
+|**2024-06-20**|**NAC-QFL: Noise Aware Clustered Quantum Federated Learning**|Himanshu Sahu et.al.|[2406.14236](http://arxiv.org/abs/2406.14236)|null|
+|**2024-06-20**|**Defending Against Sophisticated Poisoning Attacks with RL-based Aggregation in Federated Learning**|Yujing Wang et.al.|[2406.14217](http://arxiv.org/abs/2406.14217)|null|
+|**2024-06-20**|**FLoCoRA: Federated learning compression with low-rank adaptation**|Lucas Grativol Ribeiro et.al.|[2406.14082](http://arxiv.org/abs/2406.14082)|null|
+|**2024-06-19**|**Privacy-Preserving ECG Data Analysis with Differential Privacy: A Literature Review and A Case Study**|Arin Ghazarian et.al.|[2406.13880](http://arxiv.org/abs/2406.13880)|null|
+|**2024-06-19**|**Bayes' capacity as a measure for reconstruction attacks in federated learning**|Sayan Biswas et.al.|[2406.13569](http://arxiv.org/abs/2406.13569)|null|
+|**2024-06-19**|**Image Distillation for Safe Data Sharing in Histopathology**|Zhe Li et.al.|[2406.13536](http://arxiv.org/abs/2406.13536)|null|
+|**2024-06-19**|**DRACO: Decentralized Asynchronous Federated Learning over Continuous Row-Stochastic Network Matrices**|Eunjeong Jeong et.al.|[2406.13533](http://arxiv.org/abs/2406.13533)|null|
 |**2024-06-18**|**Synergizing Foundation Models and Federated Learning: A Survey**|Shenghui Li et.al.|[2406.12844](http://arxiv.org/abs/2406.12844)|null|
 |**2024-06-18**|**Privacy Preserving Federated Learning in Medical Imaging with Uncertainty Estimation**|Nikolas Koutsoubis et.al.|[2406.12815](http://arxiv.org/abs/2406.12815)|**[link](https://github.com/niko-k98/awesome-list-federated-learning-review)**|
 |**2024-06-18**|**Federated Learning with a Single Shared Image**|Sunny Soni et.al.|[2406.12658](http://arxiv.org/abs/2406.12658)|**[link](https://github.com/sunnysoni97/single_image_fl)**|
