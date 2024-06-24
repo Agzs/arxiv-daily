@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**A Study on Shared Objects in Sui Smart Contracts**|Roman Overko et.al.|[2406.15002](http://arxiv.org/abs/2406.15002)|null|
 |**2024-06-19**|**Defying the Odds: Solana's Unexpected Resilience in Spite of the Security Challenges Faced by Developers**|Sébastien Andreina et.al.|[2406.13599](http://arxiv.org/abs/2406.13599)|null|
 |**2024-06-19**|**MEV Ecosystem Evolution From Ethereum 1.0**|Rasheed et.al.|[2406.13585](http://arxiv.org/abs/2406.13585)|null|
 |**2024-06-19**|**Smart Contracts in the Real World: A Statistical Exploration of External Data Dependencies**|Yishun Wang et.al.|[2406.13253](http://arxiv.org/abs/2406.13253)|null|
@@ -396,6 +397,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**Privacy Preserved Blood Glucose Level Cross-Prediction: An Asynchronous Decentralized Federated Learning Approach**|Chengzhe Piao et.al.|[2406.15346](http://arxiv.org/abs/2406.15346)|**[link](https://github.com/chengzhepiao/coldstartbglp)**|
+|**2024-06-21**|**The Privacy-Utility Trade-off in the Topics API**|Mário S. Alvim et.al.|[2406.15309](http://arxiv.org/abs/2406.15309)|null|
+|**2024-06-21**|**Rate-Splitting Multiple Access for Overloaded Multi-group Multicast: A First Experimental Study**|Xinze Lyu et.al.|[2406.15217](http://arxiv.org/abs/2406.15217)|null|
+|**2024-06-21**|**Embracing Federated Learning: Enabling Weak Client Participation via Partial Model Training**|Sunwoo Lee et.al.|[2406.15125](http://arxiv.org/abs/2406.15125)|null|
+|**2024-06-21**|**Tempora-Fusion: Time-Lock Puzzle with Efficient Verifiable Homomorphic Linear Combination**|Aydin Abadi et.al.|[2406.15070](http://arxiv.org/abs/2406.15070)|null|
+|**2024-06-21**|**Towards Dynamic Resource Allocation and Client Scheduling in Hierarchical Federated Learning: A Two-Phase Deep Reinforcement Learning Approach**|Xiaojing Chen et.al.|[2406.14910](http://arxiv.org/abs/2406.14910)|null|
+|**2024-06-21**|**Safely Learning with Private Data: A Federated Learning Framework for Large Language Model**|JiaYing Zheng et.al.|[2406.14898](http://arxiv.org/abs/2406.14898)|null|
+|**2024-06-20**|**Mitigating the Privacy Issues in Retrieval-Augmented Generation (RAG) via Pure Synthetic Data**|Shenglai Zeng et.al.|[2406.14773](http://arxiv.org/abs/2406.14773)|null|
 |**2024-06-20**|**CollaFuse: Collaborative Diffusion Models**|Simeon Allmendinger et.al.|[2406.14429](http://arxiv.org/abs/2406.14429)|**[link](https://github.com/simeonallmendinger/collafuse)**|
 |**2024-06-20**|**Communication-efficient Vertical Federated Learning via Compressed Error Feedback**|Pedro Valdeira et.al.|[2406.14420](http://arxiv.org/abs/2406.14420)|null|
 |**2024-06-20**|**Communication-Efficient Byzantine-Resilient Federated Zero-Order Optimization**|Afonso de Sá Delgado Neto et.al.|[2406.14362](http://arxiv.org/abs/2406.14362)|null|
