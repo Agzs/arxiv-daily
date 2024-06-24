@@ -1100,7 +1100,7 @@ layout: default
 |**2024-02-09**|**Trust the Process: Zero-Knowledge Machine Learning to Enhance Trust in Generative AI Interactions**|Bianca-Mihaela Ganescu et.al.|[2402.06414](http://arxiv.org/abs/2402.06414)|null|
 |**2024-02-09**|**Evaluating Membership Inference Attacks and Defenses in Federated Learning**|Gongxi Zhu et.al.|[2402.06289](http://arxiv.org/abs/2402.06289)|**[link](https://github.com/liar-mask/fedmia)**|
 |**2024-02-09**|**Decentralized Proactive Model Offloading and Resource Allocation for Split and Federated Learning**|Binbin Huang et.al.|[2402.06123](http://arxiv.org/abs/2402.06123)|null|
-|**2024-02-08**|**On the Convergence of Zeroth-Order Federated Tuning in Large Language Models**|Zhenqing Ling et.al.|[2402.05926](http://arxiv.org/abs/2402.05926)|null|
+|**2024-02-08**|**On the Convergence of Zeroth-Order Federated Tuning in Large Language Models**|Zhenqing Ling et.al.|[2402.05926](http://arxiv.org/abs/2402.05926)|**[link](https://github.com/alibaba/federatedscope)**|
 |**2024-02-08**|**Federated Offline Reinforcement Learning: Collaborative Single-Policy Coverage Suffices**|Jiin Woo et.al.|[2402.05876](http://arxiv.org/abs/2402.05876)|null|
 |**2024-02-08**|**Privacy-Preserving Synthetic Continual Semantic Segmentation for Robotic Surgery**|Mengya Xu et.al.|[2402.05860](http://arxiv.org/abs/2402.05860)|**[link](https://github.com/xumengyaamy/synthetic_cat_sd)**|
 |**2024-02-08**|**Flashback: Understanding and Mitigating Forgetting in Federated Learning**|Mohammed Aljahdali et.al.|[2402.05558](http://arxiv.org/abs/2402.05558)|null|
@@ -1306,7 +1306,7 @@ layout: default
 |**2023-12-25**|**Efficient Conformal Prediction under Data Heterogeneity**|Vincent Plassier et.al.|[2312.15799](http://arxiv.org/abs/2312.15799)|null|
 |**2023-12-25**|**Towards Real-World Blind Face Restoration with Generative Diffusion Prior**|Xiaoxu Chen et.al.|[2312.15736](http://arxiv.org/abs/2312.15736)|**[link](https://github.com/chenxx89/bfrffusion)**|
 |**2023-12-25**|**Federated learning-outcome prediction with multi-layer privacy protection**|Yupei Zhang et.al.|[2312.15608](http://arxiv.org/abs/2312.15608)|null|
-|**2023-12-25**|**Privacy-Preserving Neural Graph Databases**|Qi Hu et.al.|[2312.15591](http://arxiv.org/abs/2312.15591)|null|
+|**2023-12-25**|**Privacy-Preserving Neural Graph Databases**|Qi Hu et.al.|[2312.15591](http://arxiv.org/abs/2312.15591)|**[link](https://github.com/hkust-knowcomp/privatengdb)**|
 |**2023-12-24**|**Deep Convolutional Neural Networks for Short-Term Multi-Energy Demand Prediction of Integrated Energy Systems**|Corneliu Arsene et.al.|[2312.15497](http://arxiv.org/abs/2312.15497)|null|
 |**2023-12-24**|**FedDMF: Privacy-Preserving User Attribute Prediction using Deep Matrix Factorization**|Ming Cheung et.al.|[2312.15420](http://arxiv.org/abs/2312.15420)|null|
 |**2023-12-24**|**An Empirical Study of Efficiency and Privacy of Federated Learning Algorithms**|Sofia Zahri et.al.|[2312.15375](http://arxiv.org/abs/2312.15375)|null|
