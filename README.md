@@ -20,6 +20,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**A Multi-Party, Multi-Blockchain Atomic Swap Protocol with Universal Adaptor Secret**|Shengewei You et.al.|[2406.16822](http://arxiv.org/abs/2406.16822)|null|
+|**2024-06-24**|**Soley: Identification and Automated Detection of Logic Vulnerabilities in Ethereum Smart Contracts Using Large Language Models**|Majd Soud et.al.|[2406.16244](http://arxiv.org/abs/2406.16244)|null|
+|**2024-06-23**|**Privacy-Preserving and Trustworthy Localization in an IoT Environment**|Guglielmo Zocca et.al.|[2406.16182](http://arxiv.org/abs/2406.16182)|null|
+|**2024-06-23**|**SmartAxe: Detecting Cross-Chain Vulnerabilities in Bridge Smart Contracts via Fine-Grained Static Analysis**|Zeqin Liao et.al.|[2406.15999](http://arxiv.org/abs/2406.15999)|null|
+|**2024-06-23**|**SmartState: Detecting State-Reverting Vulnerabilities in Smart Contracts via Fine-Grained State-Dependency Analysis**|Zeqin Liao et.al.|[2406.15988](http://arxiv.org/abs/2406.15988)|null|
+|**2024-06-17**|**Blockchain for Academic Integrity: Developing the Blockchain Academic Credential Interoperability Protocol (BACIP)**|Juan A. Berrios Moya et.al.|[2406.15482](http://arxiv.org/abs/2406.15482)|null|
 |**2024-06-21**|**A Study on Shared Objects in Sui Smart Contracts**|Roman Overko et.al.|[2406.15002](http://arxiv.org/abs/2406.15002)|null|
 |**2024-06-19**|**Defying the Odds: Solana's Unexpected Resilience in Spite of the Security Challenges Faced by Developers**|Sébastien Andreina et.al.|[2406.13599](http://arxiv.org/abs/2406.13599)|null|
 |**2024-06-19**|**MEV Ecosystem Evolution From Ethereum 1.0**|Rasheed et.al.|[2406.13585](http://arxiv.org/abs/2406.13585)|null|
@@ -291,6 +297,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**A Multi-Party, Multi-Blockchain Atomic Swap Protocol with Universal Adaptor Secret**|Shengewei You et.al.|[2406.16822](http://arxiv.org/abs/2406.16822)|null|
+|**2024-06-23**|**SmartAxe: Detecting Cross-Chain Vulnerabilities in Bridge Smart Contracts via Fine-Grained Static Analysis**|Zeqin Liao et.al.|[2406.15999](http://arxiv.org/abs/2406.15999)|null|
 |**2024-06-17**|**Secure Cross-Chain Provenance for Digital Forensics Collaboration**|Asma Jodeiri Akbarfam et.al.|[2406.11729](http://arxiv.org/abs/2406.11729)|null|
 |**2024-05-14**|**Cross-Blockchain Communication Using Oracles With an Off-Chain Aggregation Mechanism Based on zk-SNARKs**|Michael Sober et.al.|[2405.08395](http://arxiv.org/abs/2405.08395)|null|
 |**2024-04-15**|**A Distributed Scalable Cross-chain State Channel Scheme Based on Recursive State Synchronization**|Xinyu Liang et.al.|[2404.09408](http://arxiv.org/abs/2404.09408)|null|
@@ -330,6 +338,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**Blockchain for Academic Integrity: Developing the Blockchain Academic Credential Interoperability Protocol (BACIP)**|Juan A. Berrios Moya et.al.|[2406.15482](http://arxiv.org/abs/2406.15482)|null|
 |**2024-06-20**|**SeCTIS: A Framework to Secure CTI Sharing**|Dincy R. Arikkat et.al.|[2406.14102](http://arxiv.org/abs/2406.14102)|null|
 |**2024-06-11**|**Pseudo-Entanglement is Necessary for EFI Pairs**|Manuel Goulão et.al.|[2406.06881](http://arxiv.org/abs/2406.06881)|null|
 |**2024-06-03**|**No Vandalism: Privacy-Preserving and Byzantine-Robust Federated Learning**|Zhibo Xing et.al.|[2406.01080](http://arxiv.org/abs/2406.01080)|null|
@@ -409,6 +418,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**Personalized federated learning based on feature fusion**|Wolong Xing et.al.|[2406.16583](http://arxiv.org/abs/2406.16583)|null|
+|**2024-06-24**|**Automated Privacy-Preserving Techniques via Meta-Learning**|Tânia Carvalho et.al.|[2406.16456](http://arxiv.org/abs/2406.16456)|null|
+|**2024-06-23**|**Semi-Variance Reduction for Fair Federated Learning**|Saber Malekmohammadi et.al.|[2406.16193](http://arxiv.org/abs/2406.16193)|null|
+|**2024-06-23**|**Privacy-Preserving and Trustworthy Localization in an IoT Environment**|Guglielmo Zocca et.al.|[2406.16182](http://arxiv.org/abs/2406.16182)|null|
+|**2024-06-23**|**Federated Transfer Learning Aided Interference Classification in GNSS Signals**|Min Jiang et.al.|[2406.16102](http://arxiv.org/abs/2406.16102)|null|
+|**2024-06-23**|**Meta-FL: A Novel Meta-Learning Framework for Optimizing Heterogeneous Model Aggregation in Federated Learning**|Zahir Alsulaimawi et.al.|[2406.16035](http://arxiv.org/abs/2406.16035)|null|
+|**2024-06-23**|**Privacy Preserving Machine Learning for Electronic Health Records using Federated Learning and Differential Privacy**|Naif A. Ganadily et.al.|[2406.15962](http://arxiv.org/abs/2406.15962)|null|
+|**2024-06-22**|**Federated Adversarial Learning for Robust Autonomous Landing Runway Detection**|Yi Li et.al.|[2406.15925](http://arxiv.org/abs/2406.15925)|null|
+|**2024-06-22**|**Split Federated Learning Empowered Vehicular Edge Intelligence: Adaptive Parellel Design and Future Directions**|Xianke Qiang et.al.|[2406.15804](http://arxiv.org/abs/2406.15804)|null|
+|**2024-06-22**|**Privacy Implications of Explainable AI in Data-Driven Systems**|Fatima Ezzeddine et.al.|[2406.15789](http://arxiv.org/abs/2406.15789)|null|
 |**2024-06-21**|**Privacy Preserved Blood Glucose Level Cross-Prediction: An Asynchronous Decentralized Federated Learning Approach**|Chengzhe Piao et.al.|[2406.15346](http://arxiv.org/abs/2406.15346)|**[link](https://github.com/chengzhepiao/coldstartbglp)**|
 |**2024-06-21**|**The Privacy-Utility Trade-off in the Topics API**|Mário S. Alvim et.al.|[2406.15309](http://arxiv.org/abs/2406.15309)|null|
 |**2024-06-21**|**Rate-Splitting Multiple Access for Overloaded Multi-group Multicast: A First Experimental Study**|Xinze Lyu et.al.|[2406.15217](http://arxiv.org/abs/2406.15217)|null|
