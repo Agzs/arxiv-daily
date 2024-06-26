@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**Making Tax Smart: Feasibility of Distributed Ledger Technology for building tax compliance functionality to Central Bank Digital Currency**|Panos Louvieris et.al.|[2406.17512](http://arxiv.org/abs/2406.17512)|null|
 |**2024-06-24**|**A Multi-Party, Multi-Blockchain Atomic Swap Protocol with Universal Adaptor Secret**|Shengewei You et.al.|[2406.16822](http://arxiv.org/abs/2406.16822)|null|
 |**2024-06-24**|**Soley: Identification and Automated Detection of Logic Vulnerabilities in Ethereum Smart Contracts Using Large Language Models**|Majd Soud et.al.|[2406.16244](http://arxiv.org/abs/2406.16244)|null|
 |**2024-06-23**|**Privacy-Preserving and Trustworthy Localization in an IoT Environment**|Guglielmo Zocca et.al.|[2406.16182](http://arxiv.org/abs/2406.16182)|null|
@@ -406,6 +407,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-25**|**FedBiOT: LLM Local Fine-tuning in Federated Learning without Full Model**|Feijie Wu et.al.|[2406.17706](http://arxiv.org/abs/2406.17706)|null|
+|**2024-06-25**|**Privacy Preserving Reinforcement Learning for Population Processes**|Samuel Yang-Zhao et.al.|[2406.17649](http://arxiv.org/abs/2406.17649)|null|
+|**2024-06-25**|**Dynamic Scheduling for Vehicle-to-Vehicle Communications Enhanced Federated Learning**|Jintao Yan et.al.|[2406.17470](http://arxiv.org/abs/2406.17470)|null|
+|**2024-06-25**|**Task-Agnostic Federated Learning**|Zhengtao Yao et.al.|[2406.17235](http://arxiv.org/abs/2406.17235)|null|
+|**2024-06-24**|**Robust Zero Trust Architecture: Joint Blockchain based Federated learning and Anomaly Detection based Framework**|Shiva Raj Pokhrel et.al.|[2406.17172](http://arxiv.org/abs/2406.17172)|null|
+|**2024-06-24**|**Achieving Fairness Across Local and Global Models in Federated Learning**|Disha Makhija et.al.|[2406.17102](http://arxiv.org/abs/2406.17102)|null|
 |**2024-06-24**|**Personalized federated learning based on feature fusion**|Wolong Xing et.al.|[2406.16583](http://arxiv.org/abs/2406.16583)|null|
 |**2024-06-24**|**Automated Privacy-Preserving Techniques via Meta-Learning**|Tânia Carvalho et.al.|[2406.16456](http://arxiv.org/abs/2406.16456)|null|
 |**2024-06-23**|**Semi-Variance Reduction for Fair Federated Learning**|Saber Malekmohammadi et.al.|[2406.16193](http://arxiv.org/abs/2406.16193)|null|
