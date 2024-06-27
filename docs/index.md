@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**Costly Signalling in DAOs**|Darcy W. E. Allen et.al.|[2406.18457](http://arxiv.org/abs/2406.18457)|null|
+|**2024-06-26**|**A Context-Driven Approach for Co-Auditing Smart Contracts with The Support of GPT-4 code interpreter**|Mohamed Salah Bouafif et.al.|[2406.18075](http://arxiv.org/abs/2406.18075)|null|
 |**2024-06-25**|**Making Tax Smart: Feasibility of Distributed Ledger Technology for building tax compliance functionality to Central Bank Digital Currency**|Panos Louvieris et.al.|[2406.17512](http://arxiv.org/abs/2406.17512)|null|
 |**2024-06-24**|**A Multi-Party, Multi-Blockchain Atomic Swap Protocol with Universal Adaptor Secret**|Shengewei You et.al.|[2406.16822](http://arxiv.org/abs/2406.16822)|null|
 |**2024-06-24**|**Soley: Identification and Automated Detection of Logic Vulnerabilities in Ethereum Smart Contracts Using Large Language Models**|Majd Soud et.al.|[2406.16244](http://arxiv.org/abs/2406.16244)|null|
@@ -329,6 +331,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**Blockchain Based Zero-Knowledge Proof of Location in IoT**|Wei Wu et.al.|[2406.18389](http://arxiv.org/abs/2406.18389)|null|
+|**2024-06-26**|**A Communication Satellite Servises Based Decentralized Network Protocol**|Xiao Yan et.al.|[2406.18032](http://arxiv.org/abs/2406.18032)|null|
 |**2024-06-17**|**Blockchain for Academic Integrity: Developing the Blockchain Academic Credential Interoperability Protocol (BACIP)**|Juan A. Berrios Moya et.al.|[2406.15482](http://arxiv.org/abs/2406.15482)|null|
 |**2024-06-20**|**SeCTIS: A Framework to Secure CTI Sharing**|Dincy R. Arikkat et.al.|[2406.14102](http://arxiv.org/abs/2406.14102)|null|
 |**2024-06-11**|**Pseudo-Entanglement is Necessary for EFI Pairs**|Manuel Goulão et.al.|[2406.06881](http://arxiv.org/abs/2406.06881)|null|
@@ -407,6 +411,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**Enhancing Federated Learning with Adaptive Differential Privacy and Priority-Based Aggregation**|Mahtab Talaei et.al.|[2406.18491](http://arxiv.org/abs/2406.18491)|null|
+|**2024-06-26**|**FedAQ: Communication-Efficient Federated Edge Learning via Joint Uplink and Downlink Adaptive Quantization**|Linping Qu et.al.|[2406.18156](http://arxiv.org/abs/2406.18156)|null|
+|**2024-06-26**|**Beyond Statistical Estimation: Differentially Private Individual Computation in the Shuffle Model**|Shaowei Wang et.al.|[2406.18145](http://arxiv.org/abs/2406.18145)|null|
+|**2024-06-25**|**Navigating High-Degree Heterogeneity: Federated Learning in Aerial and Space Networks**|Fan Dong et.al.|[2406.17951](http://arxiv.org/abs/2406.17951)|null|
+|**2024-06-25**|**Entity Augmentation for Efficient Classification of Vertically Partitioned Data with Limited Overlap**|Avi Amalanshu et.al.|[2406.17899](http://arxiv.org/abs/2406.17899)|null|
+|**2024-06-25**|**Federated Dynamical Low-Rank Training with Global Loss Convergence Guarantees**|Steffen Schotthöfer et.al.|[2406.17887](http://arxiv.org/abs/2406.17887)|null|
 |**2024-06-25**|**FedBiOT: LLM Local Fine-tuning in Federated Learning without Full Model**|Feijie Wu et.al.|[2406.17706](http://arxiv.org/abs/2406.17706)|null|
 |**2024-06-25**|**Privacy Preserving Reinforcement Learning for Population Processes**|Samuel Yang-Zhao et.al.|[2406.17649](http://arxiv.org/abs/2406.17649)|null|
 |**2024-06-25**|**Dynamic Scheduling for Vehicle-to-Vehicle Communications Enhanced Federated Learning**|Jintao Yan et.al.|[2406.17470](http://arxiv.org/abs/2406.17470)|null|
