@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**Commodification of Compute**|Jesper Kristensen et.al.|[2406.19261](http://arxiv.org/abs/2406.19261)|null|
 |**2024-06-26**|**Costly Signalling in DAOs**|Darcy W. E. Allen et.al.|[2406.18457](http://arxiv.org/abs/2406.18457)|null|
 |**2024-06-26**|**A Context-Driven Approach for Co-Auditing Smart Contracts with The Support of GPT-4 code interpreter**|Mohamed Salah Bouafif et.al.|[2406.18075](http://arxiv.org/abs/2406.18075)|null|
 |**2024-06-25**|**Making Tax Smart: Feasibility of Distributed Ledger Technology for building tax compliance functionality to Central Bank Digital Currency**|Panos Louvieris et.al.|[2406.17512](http://arxiv.org/abs/2406.17512)|null|
@@ -331,6 +332,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**Towards Credential-based Device Registration in DApps for DePINs with ZKPs**|Jonathan Heiss et.al.|[2406.19042](http://arxiv.org/abs/2406.19042)|null|
 |**2024-06-26**|**Blockchain Based Zero-Knowledge Proof of Location in IoT**|Wei Wu et.al.|[2406.18389](http://arxiv.org/abs/2406.18389)|null|
 |**2024-06-26**|**A Communication Satellite Servises Based Decentralized Network Protocol**|Xiao Yan et.al.|[2406.18032](http://arxiv.org/abs/2406.18032)|null|
 |**2024-06-17**|**Blockchain for Academic Integrity: Developing the Blockchain Academic Credential Interoperability Protocol (BACIP)**|Juan A. Berrios Moya et.al.|[2406.15482](http://arxiv.org/abs/2406.15482)|null|
@@ -411,6 +413,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**FedMap: Iterative Magnitude-Based Pruning for Communication-Efficient Federated Learning**|Alexander Herzog et.al.|[2406.19050](http://arxiv.org/abs/2406.19050)|null|
+|**2024-06-27**|**SD-BLS: Privacy Preserving Selective Disclosure and Unlinkable Revocation of Verifiable Credentials**|Denis Roio et.al.|[2406.19035](http://arxiv.org/abs/2406.19035)|null|
+|**2024-06-27**|**Coded Cooperative Networks for Semi-Decentralized Federated Learning**|Shudi Weng et.al.|[2406.19002](http://arxiv.org/abs/2406.19002)|null|
+|**2024-06-27**|**FedMLP: Federated Multi-Label Medical Image Classification under Task Heterogeneity**|Zhaobin Sun et.al.|[2406.18995](http://arxiv.org/abs/2406.18995)|**[link](https://github.com/szbonaldo/fedmlp)**|
+|**2024-06-27**|**Towards Personalized Federated Multi-scenario Multi-task Recommendation**|Yue Ding et.al.|[2406.18938](http://arxiv.org/abs/2406.18938)|null|
+|**2024-06-26**|**QBI: Quantile-based Bias Initialization for Efficient Private Data Reconstruction in Federated Learning**|Micha V. Nowak et.al.|[2406.18745](http://arxiv.org/abs/2406.18745)|null|
+|**2024-06-26**|**WavRx: a Disease-Agnostic, Generalizable, and Privacy-Preserving Speech Health Diagnostic Model**|Yi Zhu et.al.|[2406.18731](http://arxiv.org/abs/2406.18731)|**[link](https://github.com/zhu00121/wavrx)**|
 |**2024-06-26**|**Enhancing Federated Learning with Adaptive Differential Privacy and Priority-Based Aggregation**|Mahtab Talaei et.al.|[2406.18491](http://arxiv.org/abs/2406.18491)|null|
 |**2024-06-26**|**FedAQ: Communication-Efficient Federated Edge Learning via Joint Uplink and Downlink Adaptive Quantization**|Linping Qu et.al.|[2406.18156](http://arxiv.org/abs/2406.18156)|null|
 |**2024-06-26**|**Beyond Statistical Estimation: Differentially Private Individual Computation in the Shuffle Model**|Shaowei Wang et.al.|[2406.18145](http://arxiv.org/abs/2406.18145)|null|
