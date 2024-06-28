@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.27
+## Updated on 2024.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -417,7 +417,7 @@ layout: default
 |**2024-06-25**|**Navigating High-Degree Heterogeneity: Federated Learning in Aerial and Space Networks**|Fan Dong et.al.|[2406.17951](http://arxiv.org/abs/2406.17951)|null|
 |**2024-06-25**|**Entity Augmentation for Efficient Classification of Vertically Partitioned Data with Limited Overlap**|Avi Amalanshu et.al.|[2406.17899](http://arxiv.org/abs/2406.17899)|null|
 |**2024-06-25**|**Federated Dynamical Low-Rank Training with Global Loss Convergence Guarantees**|Steffen Schotthöfer et.al.|[2406.17887](http://arxiv.org/abs/2406.17887)|null|
-|**2024-06-25**|**FedBiOT: LLM Local Fine-tuning in Federated Learning without Full Model**|Feijie Wu et.al.|[2406.17706](http://arxiv.org/abs/2406.17706)|null|
+|**2024-06-25**|**FedBiOT: LLM Local Fine-tuning in Federated Learning without Full Model**|Feijie Wu et.al.|[2406.17706](http://arxiv.org/abs/2406.17706)|**[link](https://github.com/HarliWu/FedBiOT)**|
 |**2024-06-25**|**Privacy Preserving Reinforcement Learning for Population Processes**|Samuel Yang-Zhao et.al.|[2406.17649](http://arxiv.org/abs/2406.17649)|null|
 |**2024-06-25**|**Dynamic Scheduling for Vehicle-to-Vehicle Communications Enhanced Federated Learning**|Jintao Yan et.al.|[2406.17470](http://arxiv.org/abs/2406.17470)|null|
 |**2024-06-25**|**Task-Agnostic Federated Learning**|Zhengtao Yao et.al.|[2406.17235](http://arxiv.org/abs/2406.17235)|null|
