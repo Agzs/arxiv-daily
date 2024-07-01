@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -418,7 +418,7 @@ layout: default
 |**2024-06-27**|**Coded Cooperative Networks for Semi-Decentralized Federated Learning**|Shudi Weng et.al.|[2406.19002](http://arxiv.org/abs/2406.19002)|null|
 |**2024-06-27**|**FedMLP: Federated Multi-Label Medical Image Classification under Task Heterogeneity**|Zhaobin Sun et.al.|[2406.18995](http://arxiv.org/abs/2406.18995)|**[link](https://github.com/szbonaldo/fedmlp)**|
 |**2024-06-27**|**Towards Personalized Federated Multi-scenario Multi-task Recommendation**|Yue Ding et.al.|[2406.18938](http://arxiv.org/abs/2406.18938)|null|
-|**2024-06-26**|**QBI: Quantile-based Bias Initialization for Efficient Private Data Reconstruction in Federated Learning**|Micha V. Nowak et.al.|[2406.18745](http://arxiv.org/abs/2406.18745)|null|
+|**2024-06-26**|**QBI: Quantile-based Bias Initialization for Efficient Private Data Reconstruction in Federated Learning**|Micha V. Nowak et.al.|[2406.18745](http://arxiv.org/abs/2406.18745)|**[link](https://github.com/mvnowak/qbi)**|
 |**2024-06-26**|**WavRx: a Disease-Agnostic, Generalizable, and Privacy-Preserving Speech Health Diagnostic Model**|Yi Zhu et.al.|[2406.18731](http://arxiv.org/abs/2406.18731)|**[link](https://github.com/zhu00121/wavrx)**|
 |**2024-06-26**|**Enhancing Federated Learning with Adaptive Differential Privacy and Priority-Based Aggregation**|Mahtab Talaei et.al.|[2406.18491](http://arxiv.org/abs/2406.18491)|null|
 |**2024-06-26**|**FedAQ: Communication-Efficient Federated Edge Learning via Joint Uplink and Downlink Adaptive Quantization**|Linping Qu et.al.|[2406.18156](http://arxiv.org/abs/2406.18156)|null|
