@@ -413,6 +413,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**Secure Outsourced Decryption for HE-based Privacy-preserving Cloud Computing System**|Xirong Ma et.al.|[2406.19964](http://arxiv.org/abs/2406.19964)|null|
+|**2024-06-28**|**Decoupling General and Personalized Knowledge in Federated Learning via Additive and Low-Rank Decomposition**|Xinghao Wu et.al.|[2406.19931](http://arxiv.org/abs/2406.19931)|null|
+|**2024-06-28**|**Comprehensive Generative Replay for Task-Incremental Segmentation with Concurrent Appearance and Semantic Forgetting**|Wei Li et.al.|[2406.19796](http://arxiv.org/abs/2406.19796)|**[link](https://github.com/jingyzhang/cgr)**|
+|**2024-06-28**|**Personalized Interpretation on Federated Learning: A Virtual Concepts approach**|Peng Yan et.al.|[2406.19631](http://arxiv.org/abs/2406.19631)|null|
+|**2024-06-27**|**Data Poisoning Attacks to Locally Differentially Private Frequent Itemset Mining Protocols**|Wei Tong et.al.|[2406.19466](http://arxiv.org/abs/2406.19466)|null|
 |**2024-06-27**|**FedMap: Iterative Magnitude-Based Pruning for Communication-Efficient Federated Learning**|Alexander Herzog et.al.|[2406.19050](http://arxiv.org/abs/2406.19050)|null|
 |**2024-06-27**|**SD-BLS: Privacy Preserving Selective Disclosure and Unlinkable Revocation of Verifiable Credentials**|Denis Roio et.al.|[2406.19035](http://arxiv.org/abs/2406.19035)|null|
 |**2024-06-27**|**Coded Cooperative Networks for Semi-Decentralized Federated Learning**|Shudi Weng et.al.|[2406.19002](http://arxiv.org/abs/2406.19002)|null|
