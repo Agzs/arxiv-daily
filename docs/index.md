@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**RollupTheCrowd: Leveraging ZkRollups for a Scalable and Privacy-Preserving Reputation-based Crowdsourcing Platform**|Ahmed Mounsf Rafik Bendada et.al.|[2407.02226](http://arxiv.org/abs/2407.02226)|null|
+|**2024-07-01**|**Immutable in Principle, Upgradeable by Design: Exploratory Study of Smart Contract Upgradeability**|Ilham Qasse et.al.|[2407.01493](http://arxiv.org/abs/2407.01493)|null|
+|**2024-07-01**|**SCIF: A Language for Compositional Smart Contract Security**|Siqiu Yao et.al.|[2407.01204](http://arxiv.org/abs/2407.01204)|null|
+|**2024-06-29**|**Dual-view Aware Smart Contract Vulnerability Detection for Ethereum**|Jiacheng Yao et.al.|[2407.00336](http://arxiv.org/abs/2407.00336)|null|
 |**2024-06-27**|**Commodification of Compute**|Jesper Kristensen et.al.|[2406.19261](http://arxiv.org/abs/2406.19261)|null|
 |**2024-06-26**|**Costly Signalling in DAOs**|Darcy W. E. Allen et.al.|[2406.18457](http://arxiv.org/abs/2406.18457)|null|
 |**2024-06-26**|**A Context-Driven Approach for Co-Auditing Smart Contracts with The Support of GPT-4 code interpreter**|Mohamed Salah Bouafif et.al.|[2406.18075](http://arxiv.org/abs/2406.18075)|null|
@@ -293,6 +297,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-01**|**Hybrid RAG-empowered Multi-modal LLM for Secure Healthcare Data Management: A Diffusion-based Contract Theory Approach**|Cheng Su et.al.|[2407.00978](http://arxiv.org/abs/2407.00978)|null|
 |**2024-06-24**|**A Multi-Party, Multi-Blockchain Atomic Swap Protocol with Universal Adaptor Secret**|Shengewei You et.al.|[2406.16822](http://arxiv.org/abs/2406.16822)|null|
 |**2024-06-23**|**SmartAxe: Detecting Cross-Chain Vulnerabilities in Bridge Smart Contracts via Fine-Grained Static Analysis**|Zeqin Liao et.al.|[2406.15999](http://arxiv.org/abs/2406.15999)|null|
 |**2024-06-17**|**Secure Cross-Chain Provenance for Digital Forensics Collaboration**|Asma Jodeiri Akbarfam et.al.|[2406.11729](http://arxiv.org/abs/2406.11729)|null|
@@ -332,6 +337,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**RollupTheCrowd: Leveraging ZkRollups for a Scalable and Privacy-Preserving Reputation-based Crowdsourcing Platform**|Ahmed Mounsf Rafik Bendada et.al.|[2407.02226](http://arxiv.org/abs/2407.02226)|null|
 |**2024-06-27**|**Towards Credential-based Device Registration in DApps for DePINs with ZKPs**|Jonathan Heiss et.al.|[2406.19042](http://arxiv.org/abs/2406.19042)|null|
 |**2024-06-26**|**Blockchain Based Zero-Knowledge Proof of Location in IoT**|Wei Wu et.al.|[2406.18389](http://arxiv.org/abs/2406.18389)|null|
 |**2024-06-26**|**A Communication Satellite Servises Based Decentralized Network Protocol**|Xiao Yan et.al.|[2406.18032](http://arxiv.org/abs/2406.18032)|null|
@@ -413,6 +419,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Decentralized Intelligence Network (DIN)**|Abraham Nash et.al.|[2407.02461](http://arxiv.org/abs/2407.02461)|null|
+|**2024-07-02**|**Enable the Right to be Forgotten with Federated Client Unlearning in Medical Imaging**|Zhipeng Deng et.al.|[2407.02356](http://arxiv.org/abs/2407.02356)|**[link](https://github.com/dzp2095/fcu)**|
+|**2024-07-01**|**Optimizing Age of Information in Vehicular Edge Computing with Federated Graph Neural Network Multi-Agent Reinforcement Learning**|Wenhua Wang et.al.|[2407.02342](http://arxiv.org/abs/2407.02342)|**[link](https://github.com/qiongwu86/optimizing-aoi-in-vec-with-federated-graph-neural-network-multi-agent-reinforcement-learning)**|
+|**2024-07-02**|**FedIA: Federated Medical Image Segmentation with Heterogeneous Annotation Completeness**|Yangyang Xiang et.al.|[2407.02280](http://arxiv.org/abs/2407.02280)|**[link](https://github.com/hustxyy/fedia)**|
+|**2024-07-02**|**Federated Distillation for Medical Image Classification: Towards Trustworthy Computer-Aided Diagnosis**|Sufen Ren et.al.|[2407.02261](http://arxiv.org/abs/2407.02261)|null|
+|**2024-07-02**|**RollupTheCrowd: Leveraging ZkRollups for a Scalable and Privacy-Preserving Reputation-based Crowdsourcing Platform**|Ahmed Mounsf Rafik Bendada et.al.|[2407.02226](http://arxiv.org/abs/2407.02226)|null|
+|**2024-07-02**|**Attack-Aware Noise Calibration for Differential Privacy**|Bogdan Kulynych et.al.|[2407.02191](http://arxiv.org/abs/2407.02191)|**[link](https://github.com/bogdan-kulynych/riskcal)**|
+|**2024-07-02**|**Exploring Federated Learning Dynamics for Black-and-White-Box DNN Traitor Tracing**|Elena Rodriguez-Lois et.al.|[2407.02111](http://arxiv.org/abs/2407.02111)|null|
+|**2024-07-02**|**Contribution Evaluation of Heterogeneous Participants in Federated Learning via Prototypical Representations**|Qi Guo et.al.|[2407.02073](http://arxiv.org/abs/2407.02073)|null|
+|**2024-07-01**|**Federated Binary Matrix Factorization using Proximal Optimization**|Sebastian Dalleiger et.al.|[2407.01776](http://arxiv.org/abs/2407.01776)|null|
 |**2024-06-28**|**Secure Outsourced Decryption for HE-based Privacy-preserving Cloud Computing System**|Xirong Ma et.al.|[2406.19964](http://arxiv.org/abs/2406.19964)|null|
 |**2024-06-28**|**Decoupling General and Personalized Knowledge in Federated Learning via Additive and Low-Rank Decomposition**|Xinghao Wu et.al.|[2406.19931](http://arxiv.org/abs/2406.19931)|null|
 |**2024-06-28**|**Comprehensive Generative Replay for Task-Incremental Segmentation with Concurrent Appearance and Semantic Forgetting**|Wei Li et.al.|[2406.19796](http://arxiv.org/abs/2406.19796)|**[link](https://github.com/jingyzhang/cgr)**|
