@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.03
+## Updated on 2024.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -422,7 +422,7 @@ layout: default
 |**2024-07-02**|**Decentralized Intelligence Network (DIN)**|Abraham Nash et.al.|[2407.02461](http://arxiv.org/abs/2407.02461)|null|
 |**2024-07-02**|**Enable the Right to be Forgotten with Federated Client Unlearning in Medical Imaging**|Zhipeng Deng et.al.|[2407.02356](http://arxiv.org/abs/2407.02356)|**[link](https://github.com/dzp2095/fcu)**|
 |**2024-07-01**|**Optimizing Age of Information in Vehicular Edge Computing with Federated Graph Neural Network Multi-Agent Reinforcement Learning**|Wenhua Wang et.al.|[2407.02342](http://arxiv.org/abs/2407.02342)|**[link](https://github.com/qiongwu86/optimizing-aoi-in-vec-with-federated-graph-neural-network-multi-agent-reinforcement-learning)**|
-|**2024-07-02**|**FedIA: Federated Medical Image Segmentation with Heterogeneous Annotation Completeness**|Yangyang Xiang et.al.|[2407.02280](http://arxiv.org/abs/2407.02280)|**[link](https://github.com/hustxyy/fedia)**|
+|**2024-07-03**|**FedIA: Federated Medical Image Segmentation with Heterogeneous Annotation Completeness**|Yangyang Xiang et.al.|[2407.02280](http://arxiv.org/abs/2407.02280)|**[link](https://github.com/hustxyy/fedia)**|
 |**2024-07-02**|**Federated Distillation for Medical Image Classification: Towards Trustworthy Computer-Aided Diagnosis**|Sufen Ren et.al.|[2407.02261](http://arxiv.org/abs/2407.02261)|null|
 |**2024-07-02**|**RollupTheCrowd: Leveraging ZkRollups for a Scalable and Privacy-Preserving Reputation-based Crowdsourcing Platform**|Ahmed Mounsf Rafik Bendada et.al.|[2407.02226](http://arxiv.org/abs/2407.02226)|null|
 |**2024-07-02**|**Attack-Aware Noise Calibration for Differential Privacy**|Bogdan Kulynych et.al.|[2407.02191](http://arxiv.org/abs/2407.02191)|**[link](https://github.com/bogdan-kulynych/riskcal)**|

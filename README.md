@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.03
+## Updated on 2024.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -299,7 +299,7 @@
 |**2023-08-01**|**Game Theoretic Modelling of a Ransom and Extortion Attack on Ethereum Validators**|Alpesh Bhudia et.al.|[2308.00590](http://arxiv.org/abs/2308.00590)|null|
 |**2023-07-27**|**Self-stabilizing Byzantine-tolerant Recycling**|Chryssis Georgiou et.al.|[2307.14801](http://arxiv.org/abs/2307.14801)|null|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 ## crosschain
 
@@ -341,7 +341,7 @@
 |**2023-04-20**|**Analyzing the Performance of the Inter-Blockchain Communication Protocol**|Joao Otavio Chervinski et.al.|[2303.10844](http://arxiv.org/abs/2303.10844)|**[link](https://github.com/joaotav/ibc-benchmarking)**|
 |**2023-01-14**|**The Design Principle of Blockchain: An Initiative for the SoK of SoKs**|Luyao Sunshine Zhang et.al.|[2301.00479](http://arxiv.org/abs/2301.00479)|**[link](https://github.com/sunshineluyao/design-principle-blockchain)**|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 ## zero-knowledge-proof
 
@@ -425,7 +425,7 @@
 |**2023-07-02**|**zkFi: Privacy-Preserving and Regulation Compliant Transactions using Zero Knowledge Proofs**|Naveen Sahu et.al.|[2307.00521](http://arxiv.org/abs/2307.00521)|null|
 |**2023-06-21**|**A Survey of Multivariate Polynomial Commitment Schemes**|Ihyun Nam et.al.|[2306.11383](http://arxiv.org/abs/2306.11383)|null|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 ## secureaggregation
 
@@ -434,7 +434,7 @@
 |**2024-07-02**|**Decentralized Intelligence Network (DIN)**|Abraham Nash et.al.|[2407.02461](http://arxiv.org/abs/2407.02461)|null|
 |**2024-07-02**|**Enable the Right to be Forgotten with Federated Client Unlearning in Medical Imaging**|Zhipeng Deng et.al.|[2407.02356](http://arxiv.org/abs/2407.02356)|**[link](https://github.com/dzp2095/fcu)**|
 |**2024-07-01**|**Optimizing Age of Information in Vehicular Edge Computing with Federated Graph Neural Network Multi-Agent Reinforcement Learning**|Wenhua Wang et.al.|[2407.02342](http://arxiv.org/abs/2407.02342)|**[link](https://github.com/qiongwu86/optimizing-aoi-in-vec-with-federated-graph-neural-network-multi-agent-reinforcement-learning)**|
-|**2024-07-02**|**FedIA: Federated Medical Image Segmentation with Heterogeneous Annotation Completeness**|Yangyang Xiang et.al.|[2407.02280](http://arxiv.org/abs/2407.02280)|**[link](https://github.com/hustxyy/fedia)**|
+|**2024-07-03**|**FedIA: Federated Medical Image Segmentation with Heterogeneous Annotation Completeness**|Yangyang Xiang et.al.|[2407.02280](http://arxiv.org/abs/2407.02280)|**[link](https://github.com/hustxyy/fedia)**|
 |**2024-07-02**|**Federated Distillation for Medical Image Classification: Towards Trustworthy Computer-Aided Diagnosis**|Sufen Ren et.al.|[2407.02261](http://arxiv.org/abs/2407.02261)|null|
 |**2024-07-02**|**RollupTheCrowd: Leveraging ZkRollups for a Scalable and Privacy-Preserving Reputation-based Crowdsourcing Platform**|Ahmed Mounsf Rafik Bendada et.al.|[2407.02226](http://arxiv.org/abs/2407.02226)|null|
 |**2024-07-02**|**Attack-Aware Noise Calibration for Differential Privacy**|Bogdan Kulynych et.al.|[2407.02191](http://arxiv.org/abs/2407.02191)|**[link](https://github.com/bogdan-kulynych/riskcal)**|
@@ -1523,7 +1523,7 @@
 |**2023-11-29**|**Addressing Membership Inference Attack in Federated Learning with Model Compression**|Gergely Dániel Németh et.al.|[2311.17750](http://arxiv.org/abs/2311.17750)|**[link](https://github.com/negedng/ma-fl-mia)**|
 |**2023-11-30**|**Grounding Foundation Models through Federated Transfer Learning: A General Framework**|Yan Kang et.al.|[2311.17431](http://arxiv.org/abs/2311.17431)|null|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/agzs/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/agzs/arxiv-daily/graphs/contributors
