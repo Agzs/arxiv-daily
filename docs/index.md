@@ -14,11 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**Balancing Patient Privacy and Health Data Security: The Role of Compliance in Protected Health Information (PHI) Sharing**|Md Al Amin et.al.|[2407.02766](http://arxiv.org/abs/2407.02766)|null|
 |**2024-07-02**|**RollupTheCrowd: Leveraging ZkRollups for a Scalable and Privacy-Preserving Reputation-based Crowdsourcing Platform**|Ahmed Mounsf Rafik Bendada et.al.|[2407.02226](http://arxiv.org/abs/2407.02226)|null|
 |**2024-07-01**|**Immutable in Principle, Upgradeable by Design: Exploratory Study of Smart Contract Upgradeability**|Ilham Qasse et.al.|[2407.01493](http://arxiv.org/abs/2407.01493)|null|
 |**2024-07-01**|**SCIF: A Language for Compositional Smart Contract Security**|Siqiu Yao et.al.|[2407.01204](http://arxiv.org/abs/2407.01204)|null|
 |**2024-06-29**|**Dual-view Aware Smart Contract Vulnerability Detection for Ethereum**|Jiacheng Yao et.al.|[2407.00336](http://arxiv.org/abs/2407.00336)|null|
-|**2024-06-27**|**Commodification of Compute**|Jesper Kristensen et.al.|[2406.19261](http://arxiv.org/abs/2406.19261)|null|
+|**2024-07-03**|**Commodification of Compute**|Jesper Kristensen et.al.|[2406.19261](http://arxiv.org/abs/2406.19261)|null|
 |**2024-06-26**|**Costly Signalling in DAOs**|Darcy W. E. Allen et.al.|[2406.18457](http://arxiv.org/abs/2406.18457)|null|
 |**2024-06-26**|**A Context-Driven Approach for Co-Auditing Smart Contracts with The Support of GPT-4 code interpreter**|Mohamed Salah Bouafif et.al.|[2406.18075](http://arxiv.org/abs/2406.18075)|null|
 |**2024-06-25**|**Making Tax Smart: Feasibility of Distributed Ledger Technology for building tax compliance functionality to Central Bank Digital Currency**|Panos Louvieris et.al.|[2406.17512](http://arxiv.org/abs/2406.17512)|null|
@@ -419,6 +420,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**Correlated Privacy Mechanisms for Differentially Private Distributed Mean Estimation**|Sajani Vithana et.al.|[2407.03289](http://arxiv.org/abs/2407.03289)|null|
+|**2024-07-03**|**Bridging Model Heterogeneity in Federated Learning via Uncertainty-based Asymmetrical Reciprocity Learning**|Jiaqi Wang et.al.|[2407.03247](http://arxiv.org/abs/2407.03247)|null|
+|**2024-07-03**|**Venomancer: Towards Imperceptible and Target-on-Demand Backdoor Attacks in Federated Learning**|Son Nguyen et.al.|[2407.03144](http://arxiv.org/abs/2407.03144)|null|
+|**2024-07-03**|**Effective Heterogeneous Federated Learning via Efficient Hypernetwork-based Weight Generation**|Yujin Shin et.al.|[2407.03086](http://arxiv.org/abs/2407.03086)|null|
+|**2024-07-03**|**Federated Learning for Zero-Day Attack Detection in 5G and Beyond V2X Networks**|Abdelaziz Amara korba et.al.|[2407.03070](http://arxiv.org/abs/2407.03070)|null|
+|**2024-07-03**|**On the Client Preference of LLM Fine-tuning in Federated Learning**|Feijie Wu et.al.|[2407.03038](http://arxiv.org/abs/2407.03038)|null|
+|**2024-07-03**|**Zero-X: A Blockchain-Enabled Open-Set Federated Learning Framework for Zero-Day Attack Detection in IoV**|Abdelaziz Amara korba et.al.|[2407.02969](http://arxiv.org/abs/2407.02969)|null|
+|**2024-07-03**|**Federated Fine-Tuning for Pre-Trained Foundation Models Over Wireless Networks**|Zixin Wang et.al.|[2407.02924](http://arxiv.org/abs/2407.02924)|null|
+|**2024-07-03**|**Joint Optimization of Resource Allocation and Data Selection for Fast and Cost-Efficient Federated Edge Learning**|Yunjian Jia et.al.|[2407.02888](http://arxiv.org/abs/2407.02888)|null|
+|**2024-07-03**|**FedPot: A Quality-Aware Collaborative and Incentivized Honeypot-Based Detector for Smart Grid Networks**|Abdullatif Albaseer et.al.|[2407.02845](http://arxiv.org/abs/2407.02845)|null|
 |**2024-07-02**|**Decentralized Intelligence Network (DIN)**|Abraham Nash et.al.|[2407.02461](http://arxiv.org/abs/2407.02461)|null|
 |**2024-07-02**|**Enable the Right to be Forgotten with Federated Client Unlearning in Medical Imaging**|Zhipeng Deng et.al.|[2407.02356](http://arxiv.org/abs/2407.02356)|**[link](https://github.com/dzp2095/fcu)**|
 |**2024-07-01**|**Optimizing Age of Information in Vehicular Edge Computing with Federated Graph Neural Network Multi-Agent Reinforcement Learning**|Wenhua Wang et.al.|[2407.02342](http://arxiv.org/abs/2407.02342)|**[link](https://github.com/qiongwu86/optimizing-aoi-in-vec-with-federated-graph-neural-network-multi-agent-reinforcement-learning)**|
