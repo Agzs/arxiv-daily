@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**Effective Targeted Testing of Smart Contracts**|Mahdi Fooladgar et.al.|[2407.04250](http://arxiv.org/abs/2407.04250)|null|
 |**2024-07-03**|**Balancing Patient Privacy and Health Data Security: The Role of Compliance in Protected Health Information (PHI) Sharing**|Md Al Amin et.al.|[2407.02766](http://arxiv.org/abs/2407.02766)|null|
 |**2024-07-02**|**RollupTheCrowd: Leveraging ZkRollups for a Scalable and Privacy-Preserving Reputation-based Crowdsourcing Platform**|Ahmed Mounsf Rafik Bendada et.al.|[2407.02226](http://arxiv.org/abs/2407.02226)|null|
 |**2024-07-01**|**Immutable in Principle, Upgradeable by Design: Exploratory Study of Smart Contract Upgradeability**|Ilham Qasse et.al.|[2407.01493](http://arxiv.org/abs/2407.01493)|null|
@@ -306,6 +307,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**Effective Targeted Testing of Smart Contracts**|Mahdi Fooladgar et.al.|[2407.04250](http://arxiv.org/abs/2407.04250)|null|
 |**2024-07-01**|**Hybrid RAG-empowered Multi-modal LLM for Secure Healthcare Data Management: A Diffusion-based Contract Theory Approach**|Cheng Su et.al.|[2407.00978](http://arxiv.org/abs/2407.00978)|null|
 |**2024-06-24**|**A Multi-Party, Multi-Blockchain Atomic Swap Protocol with Universal Adaptor Secret**|Shengewei You et.al.|[2406.16822](http://arxiv.org/abs/2406.16822)|null|
 |**2024-06-23**|**SmartAxe: Detecting Cross-Chain Vulnerabilities in Bridge Smart Contracts via Fine-Grained Static Analysis**|Zeqin Liao et.al.|[2406.15999](http://arxiv.org/abs/2406.15999)|null|
@@ -348,6 +350,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**Scalable Zero-Knowledge Proofs for Verifying Cryptographic Hashing in Blockchain Applications**|Oleksandr Kuznetsov et.al.|[2407.03511](http://arxiv.org/abs/2407.03511)|null|
 |**2024-07-02**|**RollupTheCrowd: Leveraging ZkRollups for a Scalable and Privacy-Preserving Reputation-based Crowdsourcing Platform**|Ahmed Mounsf Rafik Bendada et.al.|[2407.02226](http://arxiv.org/abs/2407.02226)|null|
 |**2024-06-27**|**Towards Credential-based Device Registration in DApps for DePINs with ZKPs**|Jonathan Heiss et.al.|[2406.19042](http://arxiv.org/abs/2406.19042)|null|
 |**2024-06-26**|**Blockchain Based Zero-Knowledge Proof of Location in IoT**|Wei Wu et.al.|[2406.18389](http://arxiv.org/abs/2406.18389)|null|
@@ -432,6 +435,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**Differentially Private Inductive Miner**|Max Schulze et.al.|[2407.04595](http://arxiv.org/abs/2407.04595)|**[link](https://github.com/Schulze-M/DPIM)**|
+|**2024-07-05**|**Smart Sampling: Helping from Friendly Neighbors for Decentralized Federated Learning**|Lin Wang et.al.|[2407.04460](http://arxiv.org/abs/2407.04460)|null|
+|**2024-07-05**|**Temporal fingerprints: Identity matching across fully encrypted domain**|Shahar Somin et.al.|[2407.04350](http://arxiv.org/abs/2407.04350)|null|
+|**2024-07-05**|**Fair Federated Data Clustering through Personalization: Bridging the Gap between Diverse Data Distributions**|Shivam Gupta et.al.|[2407.04302](http://arxiv.org/abs/2407.04302)|null|
+|**2024-07-04**|**Support Vector Based Anomaly Detection in Federated Learning**|Massimo Frasson et.al.|[2407.03920](http://arxiv.org/abs/2407.03920)|null|
+|**2024-07-04**|**FedSat: A Statistical Aggregation Approach for Class Imbalaced Clients in Federated Learning**|Sujit Chowdhury et.al.|[2407.03862](http://arxiv.org/abs/2407.03862)|null|
+|**2024-07-04**|**Google Topics as a way out of the cookie dilemma?**|Marius Köppel et.al.|[2407.03846](http://arxiv.org/abs/2407.03846)|null|
+|**2024-07-04**|**MSfusion: A Dynamic Model Splitting Approach for Resource-Constrained Machines to Collaboratively Train Larger Models**|Jin Xie et.al.|[2407.03622](http://arxiv.org/abs/2407.03622)|null|
+|**2024-07-03**|**Enhancement of Over-the-Air Federated Learning by Using AI-based Fluid Antenna System**|Mohsen Ahmadzadeh et.al.|[2407.03481](http://arxiv.org/abs/2407.03481)|null|
+|**2024-07-03**|**Prosody-Driven Privacy-Preserving Dementia Detection**|Dominika Woszczyk et.al.|[2407.03470](http://arxiv.org/abs/2407.03470)|null|
 |**2024-07-03**|**Correlated Privacy Mechanisms for Differentially Private Distributed Mean Estimation**|Sajani Vithana et.al.|[2407.03289](http://arxiv.org/abs/2407.03289)|null|
 |**2024-07-03**|**Bridging Model Heterogeneity in Federated Learning via Uncertainty-based Asymmetrical Reciprocity Learning**|Jiaqi Wang et.al.|[2407.03247](http://arxiv.org/abs/2407.03247)|null|
 |**2024-07-03**|**Venomancer: Towards Imperceptible and Target-on-Demand Backdoor Attacks in Federated Learning**|Son Nguyen et.al.|[2407.03144](http://arxiv.org/abs/2407.03144)|null|
