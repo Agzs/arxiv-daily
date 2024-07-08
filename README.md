@@ -499,7 +499,7 @@
 |**2024-06-20**|**Communication-Efficient Byzantine-Resilient Federated Zero-Order Optimization**|Afonso de Sá Delgado Neto et.al.|[2406.14362](http://arxiv.org/abs/2406.14362)|null|
 |**2024-06-20**|**NAC-QFL: Noise Aware Clustered Quantum Federated Learning**|Himanshu Sahu et.al.|[2406.14236](http://arxiv.org/abs/2406.14236)|null|
 |**2024-06-20**|**Defending Against Sophisticated Poisoning Attacks with RL-based Aggregation in Federated Learning**|Yujing Wang et.al.|[2406.14217](http://arxiv.org/abs/2406.14217)|null|
-|**2024-06-20**|**FLoCoRA: Federated learning compression with low-rank adaptation**|Lucas Grativol Ribeiro et.al.|[2406.14082](http://arxiv.org/abs/2406.14082)|null|
+|**2024-06-20**|**FLoCoRA: Federated learning compression with low-rank adaptation**|Lucas Grativol Ribeiro et.al.|[2406.14082](http://arxiv.org/abs/2406.14082)|**[link](https://github.com/lgrativol/flocora_eusipco24)**|
 |**2024-06-19**|**Privacy-Preserving ECG Data Analysis with Differential Privacy: A Literature Review and A Case Study**|Arin Ghazarian et.al.|[2406.13880](http://arxiv.org/abs/2406.13880)|**[link](https://github.com/arin-gzn/differential-privacy-arrhythmia-analysis)**|
 |**2024-06-19**|**Bayes' capacity as a measure for reconstruction attacks in federated learning**|Sayan Biswas et.al.|[2406.13569](http://arxiv.org/abs/2406.13569)|null|
 |**2024-06-19**|**Image Distillation for Safe Data Sharing in Histopathology**|Zhe Li et.al.|[2406.13536](http://arxiv.org/abs/2406.13536)|**[link](https://github.com/ZheLi2020/InfoDist)**|
@@ -1138,7 +1138,7 @@
 |**2024-02-21**|**Protect and Extend -- Using GANs for Synthetic Data Generation of Time-Series Medical Records**|Navid Ashrafi et.al.|[2402.14042](http://arxiv.org/abs/2402.14042)|null|
 |**2024-02-21**|**FedADMM-InSa: An Inexact and Self-Adaptive ADMM for Federated Learning**|Yongcun Song et.al.|[2402.13989](http://arxiv.org/abs/2402.13989)|null|
 |**2024-02-21**|**On the Conflict of Robustness and Learning in Collaborative Machine Learning**|Mathilde Raynal et.al.|[2402.13700](http://arxiv.org/abs/2402.13700)|null|
-|**2024-02-21**|**Privacy-Preserving Instructions for Aligning Large Language Models**|Da Yu et.al.|[2402.13659](http://arxiv.org/abs/2402.13659)|null|
+|**2024-02-21**|**Privacy-Preserving Instructions for Aligning Large Language Models**|Da Yu et.al.|[2402.13659](http://arxiv.org/abs/2402.13659)|**[link](https://github.com/google-research/google-research)**|
 |**2024-02-20**|**Federated Learning for Iot/Edge/Fog Computing Systems**|Balqees Talal Hasan et.al.|[2402.13029](http://arxiv.org/abs/2402.13029)|null|
 |**2024-02-20**|**Energy-Efficient Wireless Federated Learning via Doubly Adaptive Quantization**|Xuefeng Han et.al.|[2402.12957](http://arxiv.org/abs/2402.12957)|null|
 |**2024-02-20**|**Stochastic Approximation Approach to Federated Machine Learning**|Srihari P V et.al.|[2402.12945](http://arxiv.org/abs/2402.12945)|null|
@@ -1260,7 +1260,7 @@
 |**2024-01-29**|**PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model**|Abhinav Chakraborty et.al.|[2401.16596](http://arxiv.org/abs/2401.16596)|null|
 |**2024-01-29**|**Data and Physics driven Deep Learning Models for Fast MRI Reconstruction: Fundamentals and Methodologies**|Jiahao Huang et.al.|[2401.16564](http://arxiv.org/abs/2401.16564)|null|
 |**2024-01-29**|**FedFair^3: Unlocking Threefold Fairness in Federated Learning**|Simin Javaherian et.al.|[2401.16350](http://arxiv.org/abs/2401.16350)|null|
-|**2024-01-30**|**Cross-silo Federated Learning with Record-level Personalized Differential Privacy**|Junxu Liu et.al.|[2401.16251](http://arxiv.org/abs/2401.16251)|null|
+|**2024-01-30**|**Cross-silo Federated Learning with Record-level Personalized Differential Privacy**|Junxu Liu et.al.|[2401.16251](http://arxiv.org/abs/2401.16251)|**[link](https://github.com/emory-aims/rpdp-fl)**|
 |**2024-01-29**|**A Privacy-preserving key transmission protocol to distribute QRNG keys using zk-SNARKs**|David Soler et.al.|[2401.16170](http://arxiv.org/abs/2401.16170)|null|
 |**2024-01-29**|**Federated unsupervised random forest for privacy-preserving patient stratification**|Bastian Pfeifer et.al.|[2401.16094](http://arxiv.org/abs/2401.16094)|null|
 |**2024-01-29**|**EchoPFL: Asynchronous Personalized Federated Learning on Mobile Devices with On-Demand Staleness Control**|Xiaochen Li et.al.|[2401.15960](http://arxiv.org/abs/2401.15960)|null|
@@ -1508,7 +1508,7 @@
 |**2023-12-05**|**The Landscape of Modern Machine Learning: A Review of Machine, Distributed and Federated Learning**|Omer Subasi et.al.|[2312.03120](http://arxiv.org/abs/2312.03120)|null|
 |**2023-12-05**|**Think Twice Before Selection: Federated Evidential Active Learning for Medical Image Analysis with Domain Shifts**|Jiayi Chen et.al.|[2312.02567](http://arxiv.org/abs/2312.02567)|**[link](https://github.com/jiayichen815/feal)**|
 |**2023-12-05**|**Towards Fast and Stable Federated Learning: Confronting Heterogeneity via Knowledge Anchor**|Jinqian Chen et.al.|[2312.02416](http://arxiv.org/abs/2312.02416)|**[link](https://github.com/J1nqianChen/FedKA)**|
-|**2023-12-04**|**FLea: Improving federated learning on scarce and label-skewed data via privacy-preserving feature augmentation**|Tong Xia et.al.|[2312.02327](http://arxiv.org/abs/2312.02327)|null|
+|**2023-12-04**|**FLea: Improving federated learning on scarce and label-skewed data via privacy-preserving feature augmentation**|Tong Xia et.al.|[2312.02327](http://arxiv.org/abs/2312.02327)|**[link](https://github.com/xtxiatong/flea)**|
 |**2023-12-04**|**Federated Active Learning for Target Domain Generalisation**|Razvan Caramalau et.al.|[2312.02247](http://arxiv.org/abs/2312.02247)|**[link](https://github.com/razvancaramalau/fedalv)**|
 |**2023-12-04**|**Hot PATE: Private Aggregation of Distributions for Diverse Task**|Edith Cohen et.al.|[2312.02132](http://arxiv.org/abs/2312.02132)|null|
 |**2023-12-04**|**Mitigating Data Injection Attacks on Federated Learning**|Or Shalom et.al.|[2312.02102](http://arxiv.org/abs/2312.02102)|null|
