@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-08**|**Towards Understanding the Bugs in Solidity Compiler**|Haoyang Ma et.al.|[2407.05981](http://arxiv.org/abs/2407.05981)|null|
+|**2024-07-07**|**Vulnerability-Hunter: An Adaptive Feature Perception Attention Network for Smart Contract Vulnerabilities**|Yizhou Chen et.al.|[2407.05318](http://arxiv.org/abs/2407.05318)|null|
 |**2024-07-05**|**Effective Targeted Testing of Smart Contracts**|Mahdi Fooladgar et.al.|[2407.04250](http://arxiv.org/abs/2407.04250)|null|
 |**2024-07-03**|**Balancing Patient Privacy and Health Data Security: The Role of Compliance in Protected Health Information (PHI) Sharing**|Md Al Amin et.al.|[2407.02766](http://arxiv.org/abs/2407.02766)|null|
 |**2024-07-02**|**RollupTheCrowd: Leveraging ZkRollups for a Scalable and Privacy-Preserving Reputation-based Crowdsourcing Platform**|Ahmed Mounsf Rafik Bendada et.al.|[2407.02226](http://arxiv.org/abs/2407.02226)|null|
@@ -423,6 +425,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-08**|**DFedSat: Communication-Efficient and Robust Decentralized Federated Learning for LEO Satellite Constellations**|Minghao Yang et.al.|[2407.05850](http://arxiv.org/abs/2407.05850)|null|
+|**2024-07-08**|**FedMRL: Data Heterogeneity Aware Federated Multi-agent Deep Reinforcement Learning for Medical Imaging**|Pranab Sahoo et.al.|[2407.05800](http://arxiv.org/abs/2407.05800)|**[link](https://github.com/pranabiitp/fedmrl)**|
+|**2024-07-08**|**A Benchmark for Multi-speaker Anonymization**|Xiaoxiao Miao et.al.|[2407.05608](http://arxiv.org/abs/2407.05608)|null|
+|**2024-07-07**|**Understanding Professional Needs to Create Privacy-Preserving and Secure Emergent Digital Artworks**|Kathryn Lichlyter et.al.|[2407.05450](http://arxiv.org/abs/2407.05450)|null|
+|**2024-07-07**|**Gradient Diffusion: A Perturbation-Resilient Gradient Leakage Attack**|Xuan Liu et.al.|[2407.05285](http://arxiv.org/abs/2407.05285)|null|
+|**2024-07-07**|**BFLN: A Blockchain-based Federated Learning Model for Non-IID Data**|Yang Li et.al.|[2407.05276](http://arxiv.org/abs/2407.05276)|null|
+|**2024-07-07**|**Federated Knowledge Transfer Fine-tuning Large Server Model with Resource-Constrained IoT Clients**|Shaoyuan Chen et.al.|[2407.05268](http://arxiv.org/abs/2407.05268)|null|
+|**2024-07-06**|**Synthetic Data Aided Federated Learning Using Foundation Models**|Fatima Abacha et.al.|[2407.05174](http://arxiv.org/abs/2407.05174)|null|
+|**2024-07-06**|**Impact of Network Topology on Byzantine Resilience in Decentralized Federated Learning**|Siddhartha Bhattacharya et.al.|[2407.05141](http://arxiv.org/abs/2407.05141)|**[link](https://github.com/sidb70/DFL-Secure-Aggregation)**|
+|**2024-07-06**|**A Joint Approach to Local Updating and Gradient Compression for Efficient Asynchronous Federated Learning**|Jiajun Song et.al.|[2407.05125](http://arxiv.org/abs/2407.05125)|null|
 |**2024-07-05**|**Differentially Private Inductive Miner**|Max Schulze et.al.|[2407.04595](http://arxiv.org/abs/2407.04595)|**[link](https://github.com/Schulze-M/DPIM)**|
 |**2024-07-05**|**Smart Sampling: Helping from Friendly Neighbors for Decentralized Federated Learning**|Lin Wang et.al.|[2407.04460](http://arxiv.org/abs/2407.04460)|null|
 |**2024-07-05**|**Temporal fingerprints: Identity matching across fully encrypted domain**|Shahar Somin et.al.|[2407.04350](http://arxiv.org/abs/2407.04350)|null|
