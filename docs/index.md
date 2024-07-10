@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.09
+## Updated on 2024.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -430,7 +430,7 @@ layout: default
 |**2024-07-08**|**A Benchmark for Multi-speaker Anonymization**|Xiaoxiao Miao et.al.|[2407.05608](http://arxiv.org/abs/2407.05608)|null|
 |**2024-07-07**|**Understanding Professional Needs to Create Privacy-Preserving and Secure Emergent Digital Artworks**|Kathryn Lichlyter et.al.|[2407.05450](http://arxiv.org/abs/2407.05450)|null|
 |**2024-07-07**|**Gradient Diffusion: A Perturbation-Resilient Gradient Leakage Attack**|Xuan Liu et.al.|[2407.05285](http://arxiv.org/abs/2407.05285)|null|
-|**2024-07-07**|**BFLN: A Blockchain-based Federated Learning Model for Non-IID Data**|Yang Li et.al.|[2407.05276](http://arxiv.org/abs/2407.05276)|null|
+|**2024-07-09**|**BFLN: A Blockchain-based Federated Learning Model for Non-IID Data**|Yang Li et.al.|[2407.05276](http://arxiv.org/abs/2407.05276)|null|
 |**2024-07-07**|**Federated Knowledge Transfer Fine-tuning Large Server Model with Resource-Constrained IoT Clients**|Shaoyuan Chen et.al.|[2407.05268](http://arxiv.org/abs/2407.05268)|null|
 |**2024-07-06**|**Synthetic Data Aided Federated Learning Using Foundation Models**|Fatima Abacha et.al.|[2407.05174](http://arxiv.org/abs/2407.05174)|null|
 |**2024-07-06**|**Impact of Network Topology on Byzantine Resilience in Decentralized Federated Learning**|Siddhartha Bhattacharya et.al.|[2407.05141](http://arxiv.org/abs/2407.05141)|**[link](https://github.com/sidb70/DFL-Secure-Aggregation)**|
