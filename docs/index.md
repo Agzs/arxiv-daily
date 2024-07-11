@@ -7,13 +7,19 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.10
+## Updated on 2024.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**A Differentially Private Blockchain-Based Approach for Vertical Federated Learning**|Linh Tran et.al.|[2407.07054](http://arxiv.org/abs/2407.07054)|null|
+|**2024-07-09**|**Using Large Language Models for Generating Smart Contracts for Health Insurance from Textual Policies**|Inwon Kang et.al.|[2407.07019](http://arxiv.org/abs/2407.07019)|null|
+|**2024-07-09**|**Trust and Resilience in Federated Learning Through Smart Contracts Enabled Decentralized Systems**|Lorenzo Cassano et.al.|[2407.06862](http://arxiv.org/abs/2407.06862)|null|
+|**2024-07-09**|**The Cost of Executing Business Processes on Next-Generation Blockchains: The Case of Algorand**|Fabian Stiehle et.al.|[2407.06725](http://arxiv.org/abs/2407.06725)|null|
+|**2024-07-09**|**Toychain: A Simple Blockchain for Research in Swarm Robotics**|Alexandre Pacheco et.al.|[2407.06630](http://arxiv.org/abs/2407.06630)|null|
+|**2024-07-08**|**FORAY: Towards Effective Attack Synthesis against Deep Logical Vulnerabilities in DeFi Protocols**|Hongbo Wen et.al.|[2407.06348](http://arxiv.org/abs/2407.06348)|null|
 |**2024-07-08**|**Towards Understanding the Bugs in Solidity Compiler**|Haoyang Ma et.al.|[2407.05981](http://arxiv.org/abs/2407.05981)|null|
 |**2024-07-07**|**Vulnerability-Hunter: An Adaptive Feature Perception Attention Network for Smart Contract Vulnerabilities**|Yizhou Chen et.al.|[2407.05318](http://arxiv.org/abs/2407.05318)|null|
 |**2024-07-05**|**Effective Targeted Testing of Smart Contracts**|Mahdi Fooladgar et.al.|[2407.04250](http://arxiv.org/abs/2407.04250)|null|
@@ -425,6 +431,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**Stabilized Proximal-Point Methods for Federated Optimization**|Xiaowen Jiang et.al.|[2407.07084](http://arxiv.org/abs/2407.07084)|null|
+|**2024-07-09**|**A Differentially Private Blockchain-Based Approach for Vertical Federated Learning**|Linh Tran et.al.|[2407.07054](http://arxiv.org/abs/2407.07054)|null|
+|**2024-07-09**|**Bayesian Federated Learning with Hamiltonian Monte Carlo: Algorithm and Theory**|Jiajun Liang et.al.|[2407.06935](http://arxiv.org/abs/2407.06935)|null|
+|**2024-07-09**|**Trust and Resilience in Federated Learning Through Smart Contracts Enabled Decentralized Systems**|Lorenzo Cassano et.al.|[2407.06862](http://arxiv.org/abs/2407.06862)|null|
+|**2024-07-09**|**Threats and Defenses in Federated Learning Life Cycle: A Comprehensive Survey and Challenges**|Yanli Li et.al.|[2407.06754](http://arxiv.org/abs/2407.06754)|null|
+|**2024-07-08**|**Exposing Privacy Gaps: Membership Inference Attack on Preference Data for LLM Alignment**|Qizhang Feng et.al.|[2407.06443](http://arxiv.org/abs/2407.06443)|null|
 |**2024-07-08**|**DFedSat: Communication-Efficient and Robust Decentralized Federated Learning for LEO Satellite Constellations**|Minghao Yang et.al.|[2407.05850](http://arxiv.org/abs/2407.05850)|null|
 |**2024-07-08**|**FedMRL: Data Heterogeneity Aware Federated Multi-agent Deep Reinforcement Learning for Medical Imaging**|Pranab Sahoo et.al.|[2407.05800](http://arxiv.org/abs/2407.05800)|**[link](https://github.com/pranabiitp/fedmrl)**|
 |**2024-07-08**|**A Benchmark for Multi-speaker Anonymization**|Xiaoxiao Miao et.al.|[2407.05608](http://arxiv.org/abs/2407.05608)|null|
