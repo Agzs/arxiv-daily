@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.14
+## Updated on 2024.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -437,12 +437,12 @@ layout: default
 |**2024-07-11**|**DART: A Solution for Decentralized Federated Learning Model Robustness Analysis**|Chao Feng et.al.|[2407.08652](http://arxiv.org/abs/2407.08652)|null|
 |**2024-07-11**|**CAR-MFL: Cross-Modal Augmentation by Retrieval for Multimodal Federated Learning with Missing Modalities**|Pranav Poudel et.al.|[2407.08648](http://arxiv.org/abs/2407.08648)|**[link](https://github.com/bhattarailab/car-mfl)**|
 |**2024-07-11**|**Distributed Edge Analytics in Edge-Fog-Cloud Continuum**|Satish Narayana Srirama et.al.|[2407.08543](http://arxiv.org/abs/2407.08543)|null|
-|**2024-07-11**|**Enhancing Privacy of Spatiotemporal Federated Learning against Gradient Inversion Attacks**|Lele Zheng et.al.|[2407.08529](http://arxiv.org/abs/2407.08529)|null|
+|**2024-07-12**|**Enhancing Privacy of Spatiotemporal Federated Learning against Gradient Inversion Attacks**|Lele Zheng et.al.|[2407.08529](http://arxiv.org/abs/2407.08529)|null|
 |**2024-07-11**|**Distributed Deep Reinforcement Learning Based Gradient Quantization for Federated Learning Enabled Vehicle Edge Computing**|Cui Zhang et.al.|[2407.08462](http://arxiv.org/abs/2407.08462)|null|
 |**2024-07-11**|**FedLog: Personalized Federated Classification with Less Communication and More Flexibility**|Haolin Yu et.al.|[2407.08337](http://arxiv.org/abs/2407.08337)|null|
 |**2024-07-11**|**Feature Diversification and Adaptation for Federated Domain Generalization**|Seunghan Yang et.al.|[2407.08245](http://arxiv.org/abs/2407.08245)|null|
 |**2024-07-11**|**Privacy-Preserving Data Deduplication for Enhancing Federated Learning of Language Models**|Aydin Abadi et.al.|[2407.08152](http://arxiv.org/abs/2407.08152)|null|
-|**2024-07-11**|**Federated Learning and AI Regulation in the European Union: Who is liable? An Interdisciplinary Analysis**|Herbert Woisetschläger et.al.|[2407.08105](http://arxiv.org/abs/2407.08105)|null|
+|**2024-07-12**|**Federated Learning and AI Regulation in the European Union: Who is Responsible? -- An Interdisciplinary Analysis**|Herbert Woisetschläger et.al.|[2407.08105](http://arxiv.org/abs/2407.08105)|null|
 |**2024-07-10**|**Federated Foundation Model for Cardiac CT Imaging**|Malte Tölle et.al.|[2407.07557](http://arxiv.org/abs/2407.07557)|**[link](https://github.com/cardio-ai/fed-foundation-model-cardiac-ct)**|
 |**2024-07-10**|**FUNAvg: Federated Uncertainty Weighted Averaging for Datasets with Diverse Labels**|Malte Tölle et.al.|[2407.07488](http://arxiv.org/abs/2407.07488)|**[link](https://github.com/cardio-ai/funavg)**|
 |**2024-07-10**|**TDML -- A Trustworthy Distributed Machine Learning Framework**|Zhen Wang et.al.|[2407.07339](http://arxiv.org/abs/2407.07339)|null|
