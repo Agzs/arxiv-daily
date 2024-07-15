@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Thunderbolt: Causal Concurrent Consensus and Execution**|Junchao Chen et.al.|[2407.09409](http://arxiv.org/abs/2407.09409)|null|
+|**2024-07-12**|**Private Blockchain-based Procurement and Asset Management System with QR Code**|Alonel A. Hugo et.al.|[2407.09353](http://arxiv.org/abs/2407.09353)|null|
+|**2024-07-12**|**Detect Llama -- Finding Vulnerabilities in Smart Contracts using Large Language Models**|Peter Ince et.al.|[2407.08969](http://arxiv.org/abs/2407.08969)|null|
 |**2024-07-11**|**Balancing Participation and Decentralization in Proof-of-Stake Cryptocurrencies**|Aggelos Kiayias et.al.|[2407.08686](http://arxiv.org/abs/2407.08686)|null|
 |**2024-07-11**|**BriDe Arbitrager: Enhancing Arbitrage in Ethereum 2.0 via Bribery-enabled Delayed Block Production**|Hulin Yang et.al.|[2407.08537](http://arxiv.org/abs/2407.08537)|null|
 |**2024-07-11**|**Inductive Predicate Synthesis Modulo Programs (Extended)**|Scott Wesley et.al.|[2407.08455](http://arxiv.org/abs/2407.08455)|null|
@@ -361,6 +364,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**PriRoAgg: Achieving Robust Model Aggregation with Minimum Privacy Leakage for Federated Learning**|Sizai Hou et.al.|[2407.08954](http://arxiv.org/abs/2407.08954)|null|
 |**2024-07-03**|**Scalable Zero-Knowledge Proofs for Verifying Cryptographic Hashing in Blockchain Applications**|Oleksandr Kuznetsov et.al.|[2407.03511](http://arxiv.org/abs/2407.03511)|null|
 |**2024-07-02**|**RollupTheCrowd: Leveraging ZkRollups for a Scalable and Privacy-Preserving Reputation-based Crowdsourcing Platform**|Ahmed Mounsf Rafik Bendada et.al.|[2407.02226](http://arxiv.org/abs/2407.02226)|**[link](https://github.com/0xmoncif213/RollupTheCrowd)**|
 |**2024-06-27**|**Towards Credential-based Device Registration in DApps for DePINs with ZKPs**|Jonathan Heiss et.al.|[2406.19042](http://arxiv.org/abs/2406.19042)|null|
@@ -446,6 +450,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Novel clustered federated learning based on local loss**|Endong Gu et.al.|[2407.09360](http://arxiv.org/abs/2407.09360)|null|
+|**2024-07-12**|**Provable Privacy Advantages of Decentralized Federated Learning via Distributed Optimization**|Wenrui Yu et.al.|[2407.09324](http://arxiv.org/abs/2407.09324)|null|
+|**2024-07-12**|**FedVAE: Trajectory privacy preserving based on Federated Variational AutoEncoder**|Yuchen Jiang et.al.|[2407.09239](http://arxiv.org/abs/2407.09239)|null|
+|**2024-07-12**|**Multi-Modal Dataset Creation for Federated~Learning with DICOM Structured Reports**|Malte Tölle et.al.|[2407.09064](http://arxiv.org/abs/2407.09064)|null|
+|**2024-07-12**|**Privacy-Preserving Collaborative Genomic Research: A Real-Life Deployment and Vision**|Zahra Rahmani et.al.|[2407.09004](http://arxiv.org/abs/2407.09004)|null|
+|**2024-07-12**|**CURE: Privacy-Preserving Split Learning Done Right**|Halil Ibrahim Kanpak et.al.|[2407.08977](http://arxiv.org/abs/2407.08977)|null|
+|**2024-07-12**|**PriRoAgg: Achieving Robust Model Aggregation with Minimum Privacy Leakage for Federated Learning**|Sizai Hou et.al.|[2407.08954](http://arxiv.org/abs/2407.08954)|null|
+|**2024-07-12**|**Distributed Backdoor Attacks on Federated Graph Learning and Certified Defenses**|Yuxin Yang et.al.|[2407.08935](http://arxiv.org/abs/2407.08935)|null|
+|**2024-07-11**|**FedMedICL: Towards Holistic Evaluation of Distribution Shifts in Federated Medical Imaging**|Kumail Alhamoud et.al.|[2407.08822](http://arxiv.org/abs/2407.08822)|**[link](https://github.com/m1k2zoo/fedmedicl)**|
+|**2024-07-11**|**ProxyGPT: Enabling Anonymous Queries in AI Chatbots with (Un)Trustworthy Browser Proxies**|Dzung Pham et.al.|[2407.08792](http://arxiv.org/abs/2407.08792)|null|
 |**2024-07-11**|**DART: A Solution for Decentralized Federated Learning Model Robustness Analysis**|Chao Feng et.al.|[2407.08652](http://arxiv.org/abs/2407.08652)|null|
 |**2024-07-11**|**CAR-MFL: Cross-Modal Augmentation by Retrieval for Multimodal Federated Learning with Missing Modalities**|Pranav Poudel et.al.|[2407.08648](http://arxiv.org/abs/2407.08648)|**[link](https://github.com/bhattarailab/car-mfl)**|
 |**2024-07-11**|**Distributed Edge Analytics in Edge-Fog-Cloud Continuum**|Satish Narayana Srirama et.al.|[2407.08543](http://arxiv.org/abs/2407.08543)|null|
