@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Code Documentation and Analysis to Secure Software Development**|Paul Attie et.al.|[2407.11934](http://arxiv.org/abs/2407.11934)|null|
+|**2024-07-16**|**End-user Comprehension of Transfer Risks in Smart Contracts**|Yustynn Panicker et.al.|[2407.11440](http://arxiv.org/abs/2407.11440)|null|
 |**2024-07-14**|**The Feasibility of a Smart Contract "Kill Switch"**|Oshani Seneviratne et.al.|[2407.10302](http://arxiv.org/abs/2407.10302)|null|
 |**2024-07-14**|**OpenTracer: A Dynamic Transaction Trace Analyzer for Smart Contract Invariant Generation and Beyond**|Zhiyang Chen et.al.|[2407.10039](http://arxiv.org/abs/2407.10039)|null|
 |**2024-07-12**|**Thunderbolt: Causal Concurrent Consensus and Execution**|Junchao Chen et.al.|[2407.09409](http://arxiv.org/abs/2407.09409)|null|
@@ -453,6 +455,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Urban mobility and learning: analyzing the influence of commuting time on students' GPA at Politecnico di Milano**|Arianna Burzacchi et.al.|[2407.11893](http://arxiv.org/abs/2407.11893)|null|
+|**2024-07-16**|**R-SFLLM: Jamming Resilient Framework for Split Federated Learning with Large Language Models**|Aladin Djuhera et.al.|[2407.11654](http://arxiv.org/abs/2407.11654)|null|
+|**2024-07-16**|**CCVA-FL: Cross-Client Variations Adaptive Federated Learning for Medical Imaging**|Sunny Gupta et.al.|[2407.11652](http://arxiv.org/abs/2407.11652)|null|
+|**2024-07-16**|**DiNO-Diffusion. Scaling Medical Diffusion via Self-Supervised Pre-Training**|Guillermo Jimenez-Perez et.al.|[2407.11594](http://arxiv.org/abs/2407.11594)|null|
+|**2024-07-16**|**Enhancing stop location detection for incomplete urban mobility datasets**|Margherita Bertè et.al.|[2407.11579](http://arxiv.org/abs/2407.11579)|null|
+|**2024-07-16**|**Probing the Efficacy of Federated Parameter-Efficient Fine-Tuning of Vision Transformers for Medical Image Classification**|Naif Alkhunaizi et.al.|[2407.11573](http://arxiv.org/abs/2407.11573)|null|
+|**2024-07-16**|**Federated Learning Forecasting for Strengthening Grid Reliability and Enabling Markets for Resilience**|Lucas Pereira et.al.|[2407.11571](http://arxiv.org/abs/2407.11571)|null|
+|**2024-07-16**|**Feature Inference Attack on Shapley Values**|Xinjian Luo et.al.|[2407.11359](http://arxiv.org/abs/2407.11359)|null|
+|**2024-07-16**|**Detection of Global Anomalies on Distributed IoT Edges with Device-to-Device Communication**|Hideya Ochiai et.al.|[2407.11308](http://arxiv.org/abs/2407.11308)|null|
+|**2024-07-15**|**Intelligent Cross-Organizational Process Mining: A Survey and New Perspectives**|Yiyuan Yang et.al.|[2407.11280](http://arxiv.org/abs/2407.11280)|null|
 |**2024-07-13**|**Harvesting Private Medical Images in Federated Learning Systems with Crafted Models**|Shanghao Shi et.al.|[2407.09972](http://arxiv.org/abs/2407.09972)|null|
 |**2024-07-13**|**Partner in Crime: Boosting Targeted Poisoning Attacks against Federated Learning**|Shihua Sun et.al.|[2407.09958](http://arxiv.org/abs/2407.09958)|null|
 |**2024-07-13**|**LFFR: Logistic Function For (single-output) Regression**|John Chiang et.al.|[2407.09955](http://arxiv.org/abs/2407.09955)|null|
