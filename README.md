@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.18
+## Updated on 2024.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2024-07-16**|**Code Documentation and Analysis to Secure Software Development**|Paul Attie et.al.|[2407.11934](http://arxiv.org/abs/2407.11934)|null|
 |**2024-07-16**|**End-user Comprehension of Transfer Risks in Smart Contracts**|Yustynn Panicker et.al.|[2407.11440](http://arxiv.org/abs/2407.11440)|null|
 |**2024-07-14**|**The Feasibility of a Smart Contract "Kill Switch"**|Oshani Seneviratne et.al.|[2407.10302](http://arxiv.org/abs/2407.10302)|null|
-|**2024-07-14**|**OpenTracer: A Dynamic Transaction Trace Analyzer for Smart Contract Invariant Generation and Beyond**|Zhiyang Chen et.al.|[2407.10039](http://arxiv.org/abs/2407.10039)|null|
+|**2024-07-14**|**OpenTracer: A Dynamic Transaction Trace Analyzer for Smart Contract Invariant Generation and Beyond**|Zhiyang Chen et.al.|[2407.10039](http://arxiv.org/abs/2407.10039)|**[link](https://github.com/jeffchen006/opentracer)**|
 |**2024-07-12**|**Thunderbolt: Causal Concurrent Consensus and Execution**|Junchao Chen et.al.|[2407.09409](http://arxiv.org/abs/2407.09409)|null|
 |**2024-07-12**|**Private Blockchain-based Procurement and Asset Management System with QR Code**|Alonel A. Hugo et.al.|[2407.09353](http://arxiv.org/abs/2407.09353)|null|
 |**2024-07-12**|**Detect Llama -- Finding Vulnerabilities in Smart Contracts using Large Language Models**|Peter Ince et.al.|[2407.08969](http://arxiv.org/abs/2407.08969)|null|
@@ -320,7 +320,7 @@
 |**2023-08-01**|**Game Theoretic Modelling of a Ransom and Extortion Attack on Ethereum Validators**|Alpesh Bhudia et.al.|[2308.00590](http://arxiv.org/abs/2308.00590)|null|
 |**2023-07-27**|**Self-stabilizing Byzantine-tolerant Recycling**|Chryssis Georgiou et.al.|[2307.14801](http://arxiv.org/abs/2307.14801)|null|
 
-<p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240719>back to top</a>)</p>
 
 ## crosschain
 
@@ -364,7 +364,7 @@
 |**2023-04-20**|**Analyzing the Performance of the Inter-Blockchain Communication Protocol**|Joao Otavio Chervinski et.al.|[2303.10844](http://arxiv.org/abs/2303.10844)|**[link](https://github.com/joaotav/ibc-benchmarking)**|
 |**2023-01-14**|**The Design Principle of Blockchain: An Initiative for the SoK of SoKs**|Luyao Sunshine Zhang et.al.|[2301.00479](http://arxiv.org/abs/2301.00479)|**[link](https://github.com/sunshineluyao/design-principle-blockchain)**|
 
-<p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240719>back to top</a>)</p>
 
 ## zero-knowledge-proof
 
@@ -450,7 +450,7 @@
 |**2023-07-02**|**zkFi: Privacy-Preserving and Regulation Compliant Transactions using Zero Knowledge Proofs**|Naveen Sahu et.al.|[2307.00521](http://arxiv.org/abs/2307.00521)|null|
 |**2023-06-21**|**A Survey of Multivariate Polynomial Commitment Schemes**|Ihyun Nam et.al.|[2306.11383](http://arxiv.org/abs/2306.11383)|null|
 
-<p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240719>back to top</a>)</p>
 
 ## secureaggregation
 
@@ -461,11 +461,11 @@
 |**2024-07-17**|**FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning in Uncertain Scenarios**|Zekai Chen et.al.|[2407.12729](http://arxiv.org/abs/2407.12729)|null|
 |**2024-07-17**|**Enhancing the Utility of Privacy-Preserving Cancer Classification using Synthetic Data**|Richard Osuala et.al.|[2407.12669](http://arxiv.org/abs/2407.12669)|null|
 |**2024-07-17**|**Privacy-Preserving Adaptive Re-Identification without Image Transfer**|Hamza Rami et.al.|[2407.12589](http://arxiv.org/abs/2407.12589)|**[link](https://github.com/ramiMMhamza/Fed-Protoid)**|
-|**2024-07-17**|**Non-parametric regularization for class imbalance federated medical image classification**|Jeffry Wicaksana et.al.|[2407.12446](http://arxiv.org/abs/2407.12446)|null|
+|**2024-07-17**|**Non-parametric regularization for class imbalance federated medical image classification**|Jeffry Wicaksana et.al.|[2407.12446](http://arxiv.org/abs/2407.12446)|**[link](https://github.com/Jwicaksana/FedNPR)**|
 |**2024-07-17**|**Proximity-based Self-Federated Learning**|Davide Domini et.al.|[2407.12410](http://arxiv.org/abs/2407.12410)|null|
 |**2024-07-17**|**Private and Federated Stochastic Convex Optimization: Efficient Strategies for Centralized Systems**|Roie Reshef et.al.|[2407.12396](http://arxiv.org/abs/2407.12396)|null|
 |**2024-07-17**|**CDFL: Efficient Federated Human Activity Recognition using Contrastive Learning and Deep Clustering**|Ensieh Khazaei et.al.|[2407.12287](http://arxiv.org/abs/2407.12287)|null|
-|**2024-07-17**|**Individualized Federated Learning for Traffic Prediction with Error Driven Aggregation**|Hang Chen et.al.|[2407.12226](http://arxiv.org/abs/2407.12226)|null|
+|**2024-07-17**|**Individualized Federated Learning for Traffic Prediction with Error Driven Aggregation**|Hang Chen et.al.|[2407.12226](http://arxiv.org/abs/2407.12226)|**[link](https://github.com/hanglearning/NeighborFL)**|
 |**2024-07-16**|**Urban mobility and learning: analyzing the influence of commuting time on students' GPA at Politecnico di Milano**|Arianna Burzacchi et.al.|[2407.11893](http://arxiv.org/abs/2407.11893)|null|
 |**2024-07-16**|**R-SFLLM: Jamming Resilient Framework for Split Federated Learning with Large Language Models**|Aladin Djuhera et.al.|[2407.11654](http://arxiv.org/abs/2407.11654)|null|
 |**2024-07-16**|**CCVA-FL: Cross-Client Variations Adaptive Federated Learning for Medical Imaging**|Sunny Gupta et.al.|[2407.11652](http://arxiv.org/abs/2407.11652)|null|
@@ -1634,7 +1634,7 @@
 |**2023-11-29**|**Addressing Membership Inference Attack in Federated Learning with Model Compression**|Gergely Dániel Németh et.al.|[2311.17750](http://arxiv.org/abs/2311.17750)|**[link](https://github.com/negedng/ma-fl-mia)**|
 |**2023-11-30**|**Grounding Foundation Models through Federated Transfer Learning: A General Framework**|Yan Kang et.al.|[2311.17431](http://arxiv.org/abs/2311.17431)|null|
 
-<p align=right>(<a href=#updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240719>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/agzs/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/agzs/arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.18
+## Updated on 2024.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -18,7 +18,7 @@ layout: default
 |**2024-07-16**|**Code Documentation and Analysis to Secure Software Development**|Paul Attie et.al.|[2407.11934](http://arxiv.org/abs/2407.11934)|null|
 |**2024-07-16**|**End-user Comprehension of Transfer Risks in Smart Contracts**|Yustynn Panicker et.al.|[2407.11440](http://arxiv.org/abs/2407.11440)|null|
 |**2024-07-14**|**The Feasibility of a Smart Contract "Kill Switch"**|Oshani Seneviratne et.al.|[2407.10302](http://arxiv.org/abs/2407.10302)|null|
-|**2024-07-14**|**OpenTracer: A Dynamic Transaction Trace Analyzer for Smart Contract Invariant Generation and Beyond**|Zhiyang Chen et.al.|[2407.10039](http://arxiv.org/abs/2407.10039)|null|
+|**2024-07-14**|**OpenTracer: A Dynamic Transaction Trace Analyzer for Smart Contract Invariant Generation and Beyond**|Zhiyang Chen et.al.|[2407.10039](http://arxiv.org/abs/2407.10039)|**[link](https://github.com/jeffchen006/opentracer)**|
 |**2024-07-12**|**Thunderbolt: Causal Concurrent Consensus and Execution**|Junchao Chen et.al.|[2407.09409](http://arxiv.org/abs/2407.09409)|null|
 |**2024-07-12**|**Private Blockchain-based Procurement and Asset Management System with QR Code**|Alonel A. Hugo et.al.|[2407.09353](http://arxiv.org/abs/2407.09353)|null|
 |**2024-07-12**|**Detect Llama -- Finding Vulnerabilities in Smart Contracts using Large Language Models**|Peter Ince et.al.|[2407.08969](http://arxiv.org/abs/2407.08969)|null|
@@ -449,11 +449,11 @@ layout: default
 |**2024-07-17**|**FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning in Uncertain Scenarios**|Zekai Chen et.al.|[2407.12729](http://arxiv.org/abs/2407.12729)|null|
 |**2024-07-17**|**Enhancing the Utility of Privacy-Preserving Cancer Classification using Synthetic Data**|Richard Osuala et.al.|[2407.12669](http://arxiv.org/abs/2407.12669)|null|
 |**2024-07-17**|**Privacy-Preserving Adaptive Re-Identification without Image Transfer**|Hamza Rami et.al.|[2407.12589](http://arxiv.org/abs/2407.12589)|**[link](https://github.com/ramiMMhamza/Fed-Protoid)**|
-|**2024-07-17**|**Non-parametric regularization for class imbalance federated medical image classification**|Jeffry Wicaksana et.al.|[2407.12446](http://arxiv.org/abs/2407.12446)|null|
+|**2024-07-17**|**Non-parametric regularization for class imbalance federated medical image classification**|Jeffry Wicaksana et.al.|[2407.12446](http://arxiv.org/abs/2407.12446)|**[link](https://github.com/Jwicaksana/FedNPR)**|
 |**2024-07-17**|**Proximity-based Self-Federated Learning**|Davide Domini et.al.|[2407.12410](http://arxiv.org/abs/2407.12410)|null|
 |**2024-07-17**|**Private and Federated Stochastic Convex Optimization: Efficient Strategies for Centralized Systems**|Roie Reshef et.al.|[2407.12396](http://arxiv.org/abs/2407.12396)|null|
 |**2024-07-17**|**CDFL: Efficient Federated Human Activity Recognition using Contrastive Learning and Deep Clustering**|Ensieh Khazaei et.al.|[2407.12287](http://arxiv.org/abs/2407.12287)|null|
-|**2024-07-17**|**Individualized Federated Learning for Traffic Prediction with Error Driven Aggregation**|Hang Chen et.al.|[2407.12226](http://arxiv.org/abs/2407.12226)|null|
+|**2024-07-17**|**Individualized Federated Learning for Traffic Prediction with Error Driven Aggregation**|Hang Chen et.al.|[2407.12226](http://arxiv.org/abs/2407.12226)|**[link](https://github.com/hanglearning/NeighborFL)**|
 |**2024-07-16**|**Urban mobility and learning: analyzing the influence of commuting time on students' GPA at Politecnico di Milano**|Arianna Burzacchi et.al.|[2407.11893](http://arxiv.org/abs/2407.11893)|null|
 |**2024-07-16**|**R-SFLLM: Jamming Resilient Framework for Split Federated Learning with Large Language Models**|Aladin Djuhera et.al.|[2407.11654](http://arxiv.org/abs/2407.11654)|null|
 |**2024-07-16**|**CCVA-FL: Cross-Client Variations Adaptive Federated Learning for Medical Imaging**|Sunny Gupta et.al.|[2407.11652](http://arxiv.org/abs/2407.11652)|null|
