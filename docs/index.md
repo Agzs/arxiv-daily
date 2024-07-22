@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.21
+## Updated on 2024.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-18**|**Identifying Smart Contract Security Issues in Code Snippets from Stack Overflow**|Jiachi Chen et.al.|[2407.13271](http://arxiv.org/abs/2407.13271)|null|
-|**2024-07-17**|**Automated Gateways: A Smart Contract-Powered Solution for Interoperability Across Blockchains**|Koosha Esmaeilzadeh Khorasani et.al.|[2407.13001](http://arxiv.org/abs/2407.13001)|null|
+|**2024-07-19**|**Automated Gateways: A Smart Contract-Powered Solution for Interoperability Across Blockchains**|Koosha Esmaeilzadeh Khorasani et.al.|[2407.13001](http://arxiv.org/abs/2407.13001)|null|
 |**2024-07-16**|**Gaming and Blockchain: Hype and Reality**|Max McGuinness et.al.|[2407.12134](http://arxiv.org/abs/2407.12134)|null|
 |**2024-07-16**|**Code Documentation and Analysis to Secure Software Development**|Paul Attie et.al.|[2407.11934](http://arxiv.org/abs/2407.11934)|null|
 |**2024-07-16**|**End-user Comprehension of Transfer Risks in Smart Contracts**|Yustynn Panicker et.al.|[2407.11440](http://arxiv.org/abs/2407.11440)|null|
@@ -320,7 +320,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-17**|**Automated Gateways: A Smart Contract-Powered Solution for Interoperability Across Blockchains**|Koosha Esmaeilzadeh Khorasani et.al.|[2407.13001](http://arxiv.org/abs/2407.13001)|null|
+|**2024-07-19**|**Automated Gateways: A Smart Contract-Powered Solution for Interoperability Across Blockchains**|Koosha Esmaeilzadeh Khorasani et.al.|[2407.13001](http://arxiv.org/abs/2407.13001)|null|
 |**2024-07-15**|**Investigating shocking events in the Ethereum stablecoin ecosystem through temporal multilayer graph structure**|Cheick Tidiane Ba et.al.|[2407.10614](http://arxiv.org/abs/2407.10614)|null|
 |**2024-07-05**|**Effective Targeted Testing of Smart Contracts**|Mahdi Fooladgar et.al.|[2407.04250](http://arxiv.org/abs/2407.04250)|null|
 |**2024-07-01**|**Hybrid RAG-empowered Multi-modal LLM for Secure Healthcare Data Management: A Diffusion-based Contract Theory Approach**|Cheng Su et.al.|[2407.00978](http://arxiv.org/abs/2407.00978)|null|
@@ -449,7 +449,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-18**|**How Private is Low-Frequency Speech Audio in the Wild? An Analysis of Verbal Intelligibility by Humans and Machines**|Ailin Liu et.al.|[2407.13266](http://arxiv.org/abs/2407.13266)|null|
 |**2024-07-17**|**INTELLECT: Adapting Cyber Threat Detection to Heterogeneous Computing Environments**|Simone Magnani et.al.|[2407.13043](http://arxiv.org/abs/2407.13043)|null|
-|**2024-07-17**|**From Principles to Practices: Lessons Learned from Applying Partnership on AI's (PAI) Synthetic Media Framework to 11 Use Cases**|Claire R. Leibowicz et.al.|[2407.13025](http://arxiv.org/abs/2407.13025)|null|
+|**2024-07-19**|**From Principles to Practices: Lessons Learned from Applying Partnership on AI's (PAI) Synthetic Media Framework to 11 Use Cases**|Claire R. Leibowicz et.al.|[2407.13025](http://arxiv.org/abs/2407.13025)|null|
 |**2024-07-17**|**Proof-of-Collaborative-Learning: A Multi-winner Federated Learning Consensus Algorithm**|Amirreza Sokhankhosh et.al.|[2407.13018](http://arxiv.org/abs/2407.13018)|null|
 |**2024-07-17**|**A Framework for testing Federated Learning algorithms using an edge-like environment**|Felipe Machado Schwanck et.al.|[2407.12980](http://arxiv.org/abs/2407.12980)|null|
 |**2024-07-17**|**Jigsaw Game: Federated Clustering**|Jinxuan Xu et.al.|[2407.12764](http://arxiv.org/abs/2407.12764)|null|
