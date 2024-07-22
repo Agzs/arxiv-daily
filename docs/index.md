@@ -23,7 +23,7 @@ layout: default
 |**2024-07-14**|**OpenTracer: A Dynamic Transaction Trace Analyzer for Smart Contract Invariant Generation and Beyond**|Zhiyang Chen et.al.|[2407.10039](http://arxiv.org/abs/2407.10039)|**[link](https://github.com/jeffchen006/opentracer)**|
 |**2024-07-12**|**Thunderbolt: Causal Concurrent Consensus and Execution**|Junchao Chen et.al.|[2407.09409](http://arxiv.org/abs/2407.09409)|null|
 |**2024-07-12**|**Private Blockchain-based Procurement and Asset Management System with QR Code**|Alonel A. Hugo et.al.|[2407.09353](http://arxiv.org/abs/2407.09353)|null|
-|**2024-07-12**|**Detect Llama -- Finding Vulnerabilities in Smart Contracts using Large Language Models**|Peter Ince et.al.|[2407.08969](http://arxiv.org/abs/2407.08969)|null|
+|**2024-07-12**|**Detect Llama -- Finding Vulnerabilities in Smart Contracts using Large Language Models**|Peter Ince et.al.|[2407.08969](http://arxiv.org/abs/2407.08969)|**[link](https://github.com/peterdouglas/detect-llama-evaluation)**|
 |**2024-07-11**|**Balancing Participation and Decentralization in Proof-of-Stake Cryptocurrencies**|Aggelos Kiayias et.al.|[2407.08686](http://arxiv.org/abs/2407.08686)|null|
 |**2024-07-11**|**BriDe Arbitrager: Enhancing Arbitrage in Ethereum 2.0 via Bribery-enabled Delayed Block Production**|Hulin Yang et.al.|[2407.08537](http://arxiv.org/abs/2407.08537)|null|
 |**2024-07-11**|**Inductive Predicate Synthesis Modulo Programs (Extended)**|Scott Wesley et.al.|[2407.08455](http://arxiv.org/abs/2407.08455)|null|
@@ -391,7 +391,7 @@ layout: default
 |**2024-03-06**|**SoK: What don't we know? Understanding Security Vulnerabilities in SNARKs**|Stefanos Chaliasos et.al.|[2402.15293](http://arxiv.org/abs/2402.15293)|null|
 |**2024-02-23**|**Chu-ko-nu: A Reliable, Efficient, and Anonymously Authentication-Enabled Realization for Multi-Round Secure Aggregation in Federated Learning**|Kaiping Cui et.al.|[2402.15111](http://arxiv.org/abs/2402.15111)|null|
 |**2024-02-21**|**ModSRAM: Algorithm-Hardware Co-Design for Large Number Modular Multiplication in SRAM**|Jonathan Ku et.al.|[2402.14152](http://arxiv.org/abs/2402.14152)|null|
-|**2024-02-19**|**FairProof : Confidential and Certifiable Fairness for Neural Networks**|Chhavi Yadav et.al.|[2402.12572](http://arxiv.org/abs/2402.12572)|null|
+|**2024-02-19**|**FairProof : Confidential and Certifiable Fairness for Neural Networks**|Chhavi Yadav et.al.|[2402.12572](http://arxiv.org/abs/2402.12572)|**[link](https://github.com/infinite-pursuits/fairproof)**|
 |**2024-02-19**|**zk-IoT: Securing the Internet of Things with Zero-Knowledge Proofs on Blockchain Platforms**|Gholamreza Ramezan et.al.|[2402.08322](http://arxiv.org/abs/2402.08322)|null|
 |**2024-02-13**|**On black-box separations of quantum digital signatures from pseudorandom states**|Andrea Coladangelo et.al.|[2402.08194](http://arxiv.org/abs/2402.08194)|null|
 |**2024-02-09**|**Trust the Process: Zero-Knowledge Machine Learning to Enhance Trust in Generative AI Interactions**|Bianca-Mihaela Ganescu et.al.|[2402.06414](http://arxiv.org/abs/2402.06414)|null|
@@ -485,9 +485,9 @@ layout: default
 |**2024-07-12**|**Privacy-Preserving Collaborative Genomic Research: A Real-Life Deployment and Vision**|Zahra Rahmani et.al.|[2407.09004](http://arxiv.org/abs/2407.09004)|null|
 |**2024-07-12**|**CURE: Privacy-Preserving Split Learning Done Right**|Halil Ibrahim Kanpak et.al.|[2407.08977](http://arxiv.org/abs/2407.08977)|null|
 |**2024-07-12**|**PriRoAgg: Achieving Robust Model Aggregation with Minimum Privacy Leakage for Federated Learning**|Sizai Hou et.al.|[2407.08954](http://arxiv.org/abs/2407.08954)|null|
-|**2024-07-12**|**Distributed Backdoor Attacks on Federated Graph Learning and Certified Defenses**|Yuxin Yang et.al.|[2407.08935](http://arxiv.org/abs/2407.08935)|null|
+|**2024-07-12**|**Distributed Backdoor Attacks on Federated Graph Learning and Certified Defenses**|Yuxin Yang et.al.|[2407.08935](http://arxiv.org/abs/2407.08935)|**[link](https://github.com/yuxin104/opt-gdba)**|
 |**2024-07-11**|**FedMedICL: Towards Holistic Evaluation of Distribution Shifts in Federated Medical Imaging**|Kumail Alhamoud et.al.|[2407.08822](http://arxiv.org/abs/2407.08822)|**[link](https://github.com/m1k2zoo/fedmedicl)**|
-|**2024-07-11**|**ProxyGPT: Enabling Anonymous Queries in AI Chatbots with (Un)Trustworthy Browser Proxies**|Dzung Pham et.al.|[2407.08792](http://arxiv.org/abs/2407.08792)|null|
+|**2024-07-11**|**ProxyGPT: Enabling Anonymous Queries in AI Chatbots with (Un)Trustworthy Browser Proxies**|Dzung Pham et.al.|[2407.08792](http://arxiv.org/abs/2407.08792)|**[link](https://github.com/dzungvpham/proxygpt)**|
 |**2024-07-11**|**DART: A Solution for Decentralized Federated Learning Model Robustness Analysis**|Chao Feng et.al.|[2407.08652](http://arxiv.org/abs/2407.08652)|null|
 |**2024-07-11**|**CAR-MFL: Cross-Modal Augmentation by Retrieval for Multimodal Federated Learning with Missing Modalities**|Pranav Poudel et.al.|[2407.08648](http://arxiv.org/abs/2407.08648)|**[link](https://github.com/bhattarailab/car-mfl)**|
 |**2024-07-11**|**Distributed Edge Analytics in Edge-Fog-Cloud Continuum**|Satish Narayana Srirama et.al.|[2407.08543](http://arxiv.org/abs/2407.08543)|null|
@@ -495,7 +495,7 @@ layout: default
 |**2024-07-11**|**Distributed Deep Reinforcement Learning Based Gradient Quantization for Federated Learning Enabled Vehicle Edge Computing**|Cui Zhang et.al.|[2407.08462](http://arxiv.org/abs/2407.08462)|null|
 |**2024-07-11**|**FedLog: Personalized Federated Classification with Less Communication and More Flexibility**|Haolin Yu et.al.|[2407.08337](http://arxiv.org/abs/2407.08337)|null|
 |**2024-07-11**|**Feature Diversification and Adaptation for Federated Domain Generalization**|Seunghan Yang et.al.|[2407.08245](http://arxiv.org/abs/2407.08245)|null|
-|**2024-07-11**|**Privacy-Preserving Data Deduplication for Enhancing Federated Learning of Language Models**|Aydin Abadi et.al.|[2407.08152](http://arxiv.org/abs/2407.08152)|null|
+|**2024-07-11**|**Privacy-Preserving Data Deduplication for Enhancing Federated Learning of Language Models**|Aydin Abadi et.al.|[2407.08152](http://arxiv.org/abs/2407.08152)|**[link](https://github.com/vdasu/deduplication)**|
 |**2024-07-12**|**Federated Learning and AI Regulation in the European Union: Who is Responsible? -- An Interdisciplinary Analysis**|Herbert Woisetschläger et.al.|[2407.08105](http://arxiv.org/abs/2407.08105)|null|
 |**2024-07-10**|**Federated Foundation Model for Cardiac CT Imaging**|Malte Tölle et.al.|[2407.07557](http://arxiv.org/abs/2407.07557)|**[link](https://github.com/cardio-ai/fed-foundation-model-cardiac-ct)**|
 |**2024-07-10**|**FUNAvg: Federated Uncertainty Weighted Averaging for Datasets with Diverse Labels**|Malte Tölle et.al.|[2407.07488](http://arxiv.org/abs/2407.07488)|**[link](https://github.com/cardio-ai/funavg)**|
@@ -923,7 +923,7 @@ layout: default
 |**2024-04-19**|**A Survey on Federated Analytics: Taxonomy, Enabling Techniques, Applications and Open Issues**|Zibo Wang et.al.|[2404.12666](http://arxiv.org/abs/2404.12666)|null|
 |**2024-04-19**|**End-to-End Verifiable Decentralized Federated Learning**|Chaehyeon Lee et.al.|[2404.12623](http://arxiv.org/abs/2404.12623)|**[link](https://github.com/eechn/End-to-End-Verifiable-Decentralized-Federated-Learning)**|
 |**2024-04-18**|**Centralized vs. Decentralized Multi-Agent Reinforcement Learning for Enhanced Control of Electric Vehicle Charging Networks**|Amin Shojaeighadikolaei et.al.|[2404.12520](http://arxiv.org/abs/2404.12520)|null|
-|**2024-04-18**|**Towards Multi-modal Transformers in Federated Learning**|Guangyu Sun et.al.|[2404.12467](http://arxiv.org/abs/2404.12467)|null|
+|**2024-04-18**|**Towards Multi-modal Transformers in Federated Learning**|Guangyu Sun et.al.|[2404.12467](http://arxiv.org/abs/2404.12467)|**[link](https://github.com/imguangyu/fedcola)**|
 |**2024-04-18**|**KDk: A Defense Mechanism Against Label Inference Attacks in Vertical Federated Learning**|Marco Arazzi et.al.|[2404.12369](http://arxiv.org/abs/2404.12369)|null|
 |**2024-04-18**|**FedEval-LLM: Federated Evaluation of Large Language Models on Downstream Tasks with Collective Wisdom**|Yuanqin He et.al.|[2404.12273](http://arxiv.org/abs/2404.12273)|null|
 |**2024-04-18**|**Privacy-Preserving UCB Decision Process Verification via zk-SNARKs**|Xikun Jiang et.al.|[2404.12186](http://arxiv.org/abs/2404.12186)|null|
@@ -1467,7 +1467,7 @@ layout: default
 |**2024-01-04**|**Comprehensive Exploration of Synthetic Data Generation: A Survey**|André Bauer et.al.|[2401.02524](http://arxiv.org/abs/2401.02524)|null|
 |**2024-01-04**|**Adaptive Differential Privacy in Federated Learning: A Priority-Based Approach**|Mahtab Talaei et.al.|[2401.02453](http://arxiv.org/abs/2401.02453)|null|
 |**2024-01-04**|**Not all Minorities are Equal: Empty-Class-Aware Distillation for Heterogeneous Federated Learning**|Kuangpu Guo et.al.|[2401.02329](http://arxiv.org/abs/2401.02329)|null|
-|**2024-01-04**|**Federated Class-Incremental Learning with Prototype Guided Transformer**|Haiyang Guo et.al.|[2401.02094](http://arxiv.org/abs/2401.02094)|null|
+|**2024-01-04**|**Federated Class-Incremental Learning with Prototype Guided Transformer**|Haiyang Guo et.al.|[2401.02094](http://arxiv.org/abs/2401.02094)|**[link](https://github.com/ghy0501/pilora)**|
 |**2024-01-03**|**IoT in the Era of Generative AI: Vision and Challenges**|Xin Wang et.al.|[2401.01923](http://arxiv.org/abs/2401.01923)|null|
 |**2024-01-03**|**Step length measurement in the wild using FMCW radar**|Parthipan Siva et.al.|[2401.01868](http://arxiv.org/abs/2401.01868)|null|
 |**2024-01-03**|**Will 6G be Semantic Communications? Opportunities and Challenges from Task Oriented and Secure Communications to Integrated Sensing**|Yalin E. Sagduyu et.al.|[2401.01531](http://arxiv.org/abs/2401.01531)|null|
