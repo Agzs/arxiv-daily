@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**Preventing Out-of-Gas Exceptions by Typing**|Luca Aceto et.al.|[2407.15676](http://arxiv.org/abs/2407.15676)|null|
+|**2024-07-20**|**Retrieval Augmented Generation Integrated Large Language Models in Smart Contract Vulnerability Detection**|Jeffy Yu et.al.|[2407.14838](http://arxiv.org/abs/2407.14838)|null|
 |**2024-07-19**|**A trustworthy blockchain-based energy trading scheme for V2G operations in distributed power grids via integrated scheduling and trading framework**|Yunwang Chen et.al.|[2407.13988](http://arxiv.org/abs/2407.13988)|null|
 |**2024-07-18**|**SecureVAX: A Blockchain-Enabled Secure Vaccine Passport System**|Debendranath Das et.al.|[2407.13852](http://arxiv.org/abs/2407.13852)|null|
 |**2024-07-18**|**Identifying Smart Contract Security Issues in Code Snippets from Stack Overflow**|Jiachi Chen et.al.|[2407.13271](http://arxiv.org/abs/2407.13271)|null|
@@ -462,6 +464,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**A Life-long Learning Intrusion Detection System for 6G-Enabled IoV**|Abdelaziz Amara korba et.al.|[2407.15700](http://arxiv.org/abs/2407.15700)|null|
+|**2024-07-22**|**A New Theoretical Perspective on Data Heterogeneity in Federated Optimization**|Jiayi Wang et.al.|[2407.15567](http://arxiv.org/abs/2407.15567)|null|
+|**2024-07-22**|**Enhancing Wireless Networks with Attention Mechanisms: Insights from Mobile Crowdsensing**|Yaoqi Yang et.al.|[2407.15483](http://arxiv.org/abs/2407.15483)|null|
+|**2024-07-22**|**The Diversity Bonus: Learning from Dissimilar Distributed Clients in Personalized Federated Learning**|Xinghao Wu et.al.|[2407.15464](http://arxiv.org/abs/2407.15464)|null|
+|**2024-07-22**|**Resource-Efficient Federated Multimodal Learning via Layer-wise and Progressive Training**|Ye Lin Tun et.al.|[2407.15426](http://arxiv.org/abs/2407.15426)|null|
+|**2024-07-22**|**Tackling Selfish Clients in Federated Learning**|Andrea Augello et.al.|[2407.15402](http://arxiv.org/abs/2407.15402)|**[link](https://github.com/ndslab-group/RFL-Self)**|
+|**2024-07-22**|**Poisoning with A Pill: Circumventing Detection in Federated Learning**|Hanxi Guo et.al.|[2407.15389](http://arxiv.org/abs/2407.15389)|null|
+|**2024-07-21**|**A Learning-Based Attack Framework to Break SOTA Poisoning Defenses in Federated Learning**|Yuxin Yang et.al.|[2407.15267](http://arxiv.org/abs/2407.15267)|null|
+|**2024-07-21**|**PUFFLE: Balancing Privacy, Utility, and Fairness in Federated Learning**|Luca Corbucci et.al.|[2407.15224](http://arxiv.org/abs/2407.15224)|null|
+|**2024-07-21**|**Privacy-Preserving Multi-Center Differential Protein Abundance Analysis with FedProt**|Yuliya Burankova et.al.|[2407.15220](http://arxiv.org/abs/2407.15220)|null|
 |**2024-07-19**|**Personalized Multi-tier Federated Learning**|Sourasekhar Banerjee et.al.|[2407.14251](http://arxiv.org/abs/2407.14251)|null|
 |**2024-07-19**|**Where is the Testbed for my Federated Learning Research?**|Janez Božič et.al.|[2407.14154](http://arxiv.org/abs/2407.14154)|null|
 |**2024-07-19**|**A Secure and Efficient Distributed Semantic Communication System for Heterogeneous Internet of Things Devices**|Weihao Zeng et.al.|[2407.14140](http://arxiv.org/abs/2407.14140)|null|
