@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**Versioned Analysis of Software Quality Indicators and Self-admitted Technical Debt in Ethereum Smart Contracts with Ethstractor**|Khalid Hassan et.al.|[2407.15967](http://arxiv.org/abs/2407.15967)|null|
 |**2024-07-22**|**Preventing Out-of-Gas Exceptions by Typing**|Luca Aceto et.al.|[2407.15676](http://arxiv.org/abs/2407.15676)|null|
 |**2024-07-20**|**Retrieval Augmented Generation Integrated Large Language Models in Smart Contract Vulnerability Detection**|Jeffy Yu et.al.|[2407.14838](http://arxiv.org/abs/2407.14838)|null|
 |**2024-07-19**|**A trustworthy blockchain-based energy trading scheme for V2G operations in distributed power grids via integrated scheduling and trading framework**|Yunwang Chen et.al.|[2407.13988](http://arxiv.org/abs/2407.13988)|null|
@@ -452,6 +453,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**COALA: A Practical and Vision-Centric Federated Learning Platform**|Weiming Zhuang et.al.|[2407.16560](http://arxiv.org/abs/2407.16560)|null|
+|**2024-07-23**|**On ADMM in Heterogeneous Federated Learning: Personalization, Robustness, and Fairness**|Shengkun Zhu et.al.|[2407.16397](http://arxiv.org/abs/2407.16397)|**[link](https://github.com/zsk66/flame)**|
+|**2024-07-23**|**Federated Learning for Face Recognition via Intra-subject Self-supervised Learning**|Hansol Kim et.al.|[2407.16289](http://arxiv.org/abs/2407.16289)|null|
+|**2024-07-23**|**Addressing Trust Issues for Vehicle to Grid in Distributed Power Grids Using Blockchains**|Yunwang Chen et.al.|[2407.16180](http://arxiv.org/abs/2407.16180)|null|
+|**2024-07-23**|**Representation Magnitude has a Liability to Privacy Vulnerability**|Xingli Fang et.al.|[2407.16164](http://arxiv.org/abs/2407.16164)|**[link](https://github.com/jekimlab/aies2024_srcm)**|
+|**2024-07-23**|**Tackling Feature-Classifier Mismatch in Federated Learning via Prompt-Driven Feature Transformation**|Xinghao Wu et.al.|[2407.16139](http://arxiv.org/abs/2407.16139)|null|
 |**2024-07-22**|**A Life-long Learning Intrusion Detection System for 6G-Enabled IoV**|Abdelaziz Amara korba et.al.|[2407.15700](http://arxiv.org/abs/2407.15700)|null|
 |**2024-07-22**|**A New Theoretical Perspective on Data Heterogeneity in Federated Optimization**|Jiayi Wang et.al.|[2407.15567](http://arxiv.org/abs/2407.15567)|null|
 |**2024-07-22**|**Enhancing Wireless Networks with Attention Mechanisms: Insights from Mobile Crowdsensing**|Yaoqi Yang et.al.|[2407.15483](http://arxiv.org/abs/2407.15483)|null|
