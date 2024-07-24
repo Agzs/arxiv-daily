@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.23
+## Updated on 2024.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -18,7 +18,7 @@ layout: default
 |**2024-07-20**|**Retrieval Augmented Generation Integrated Large Language Models in Smart Contract Vulnerability Detection**|Jeffy Yu et.al.|[2407.14838](http://arxiv.org/abs/2407.14838)|null|
 |**2024-07-19**|**A trustworthy blockchain-based energy trading scheme for V2G operations in distributed power grids via integrated scheduling and trading framework**|Yunwang Chen et.al.|[2407.13988](http://arxiv.org/abs/2407.13988)|null|
 |**2024-07-18**|**SecureVAX: A Blockchain-Enabled Secure Vaccine Passport System**|Debendranath Das et.al.|[2407.13852](http://arxiv.org/abs/2407.13852)|null|
-|**2024-07-18**|**Identifying Smart Contract Security Issues in Code Snippets from Stack Overflow**|Jiachi Chen et.al.|[2407.13271](http://arxiv.org/abs/2407.13271)|null|
+|**2024-07-23**|**Identifying Smart Contract Security Issues in Code Snippets from Stack Overflow**|Jiachi Chen et.al.|[2407.13271](http://arxiv.org/abs/2407.13271)|null|
 |**2024-07-19**|**Automated Gateways: A Smart Contract-Powered Solution for Interoperability Across Blockchains**|Koosha Esmaeilzadeh Khorasani et.al.|[2407.13001](http://arxiv.org/abs/2407.13001)|null|
 |**2024-07-16**|**Gaming and Blockchain: Hype and Reality**|Max McGuinness et.al.|[2407.12134](http://arxiv.org/abs/2407.12134)|null|
 |**2024-07-16**|**Code Documentation and Analysis to Secure Software Development**|Paul Attie et.al.|[2407.11934](http://arxiv.org/abs/2407.11934)|null|
