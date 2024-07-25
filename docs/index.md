@@ -368,6 +368,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**Bridging Trust into the Blockchain: A Systematic Review on On-Chain Identity**|Awid Vaziry et.al.|[2407.17276](http://arxiv.org/abs/2407.17276)|null|
 |**2024-07-01**|**Offline Digital Euro: a Minimum Viable CBDC using Groth-Sahai proofs**|Leon Kempen et.al.|[2407.13776](http://arxiv.org/abs/2407.13776)|null|
 |**2024-07-12**|**PriRoAgg: Achieving Robust Model Aggregation with Minimum Privacy Leakage for Federated Learning**|Sizai Hou et.al.|[2407.08954](http://arxiv.org/abs/2407.08954)|null|
 |**2024-07-03**|**Scalable Zero-Knowledge Proofs for Verifying Cryptographic Hashing in Blockchain Applications**|Oleksandr Kuznetsov et.al.|[2407.03511](http://arxiv.org/abs/2407.03511)|null|
@@ -453,6 +454,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**A Hybrid Federated Kernel Regularized Least Squares Algorithm**|Celeste Damiani et.al.|[2407.17228](http://arxiv.org/abs/2407.17228)|null|
+|**2024-07-24**|**Synthetic Trajectory Generation Through Convolutional Neural Networks**|Jesse Merhi et.al.|[2407.16938](http://arxiv.org/abs/2407.16938)|**[link](https://github.com/jesse-merhi/CNN-TRAJGAN)**|
+|**2024-07-24**|**Federated Automatic Latent Variable Selection in Multi-output Gaussian Processes**|Jingyi Gao et.al.|[2407.16935](http://arxiv.org/abs/2407.16935)|null|
+|**2024-07-23**|**Inference Load-Aware Orchestration for Hierarchical Federated Learning**|Anna Lackinger et.al.|[2407.16836](http://arxiv.org/abs/2407.16836)|null|
+|**2024-07-23**|**Theoretical Analysis of Privacy Leakage in Trustworthy Federated Learning: A Perspective from Linear Algebra and Optimization Theory**|Xiaojin Zhang et.al.|[2407.16735](http://arxiv.org/abs/2407.16735)|null|
+|**2024-07-23**|**PateGail: A Privacy-Preserving Mobility Trajectory Generator with Imitation Learning**|Huandong Wang et.al.|[2407.16729](http://arxiv.org/abs/2407.16729)|**[link](https://github.com/tsinghua-fib-lab/pategail)**|
 |**2024-07-23**|**COALA: A Practical and Vision-Centric Federated Learning Platform**|Weiming Zhuang et.al.|[2407.16560](http://arxiv.org/abs/2407.16560)|null|
 |**2024-07-23**|**On ADMM in Heterogeneous Federated Learning: Personalization, Robustness, and Fairness**|Shengkun Zhu et.al.|[2407.16397](http://arxiv.org/abs/2407.16397)|**[link](https://github.com/zsk66/flame)**|
 |**2024-07-23**|**Federated Learning for Face Recognition via Intra-subject Self-supervised Learning**|Hansol Kim et.al.|[2407.16289](http://arxiv.org/abs/2407.16289)|null|
