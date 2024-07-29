@@ -496,7 +496,7 @@
 |**2024-07-21**|**A Learning-Based Attack Framework to Break SOTA Poisoning Defenses in Federated Learning**|Yuxin Yang et.al.|[2407.15267](http://arxiv.org/abs/2407.15267)|null|
 |**2024-07-21**|**PUFFLE: Balancing Privacy, Utility, and Fairness in Federated Learning**|Luca Corbucci et.al.|[2407.15224](http://arxiv.org/abs/2407.15224)|null|
 |**2024-07-21**|**Privacy-Preserving Multi-Center Differential Protein Abundance Analysis with FedProt**|Yuliya Burankova et.al.|[2407.15220](http://arxiv.org/abs/2407.15220)|null|
-|**2024-07-19**|**Personalized Multi-tier Federated Learning**|Sourasekhar Banerjee et.al.|[2407.14251](http://arxiv.org/abs/2407.14251)|null|
+|**2024-07-19**|**Personalized Multi-tier Federated Learning**|Sourasekhar Banerjee et.al.|[2407.14251](http://arxiv.org/abs/2407.14251)|**[link](https://github.com/sourasb05/PerMFL_1)**|
 |**2024-07-19**|**Where is the Testbed for my Federated Learning Research?**|Janez Božič et.al.|[2407.14154](http://arxiv.org/abs/2407.14154)|null|
 |**2024-07-19**|**A Secure and Efficient Distributed Semantic Communication System for Heterogeneous Internet of Things Devices**|Weihao Zeng et.al.|[2407.14140](http://arxiv.org/abs/2407.14140)|null|
 |**2024-07-18**|**PowerTrain: Fast, Generalizable Time and Power Prediction Models to Optimize DNN Training on Accelerated Edges**|Prashanthi S. K. et.al.|[2407.13944](http://arxiv.org/abs/2407.13944)|null|
@@ -506,7 +506,7 @@
 |**2024-07-21**|**INTELLECT: Adapting Cyber Threat Detection to Heterogeneous Computing Environments**|Simone Magnani et.al.|[2407.13043](http://arxiv.org/abs/2407.13043)|null|
 |**2024-07-19**|**From Principles to Practices: Lessons Learned from Applying Partnership on AI's (PAI) Synthetic Media Framework to 11 Use Cases**|Claire R. Leibowicz et.al.|[2407.13025](http://arxiv.org/abs/2407.13025)|null|
 |**2024-07-17**|**Proof-of-Collaborative-Learning: A Multi-winner Federated Learning Consensus Algorithm**|Amirreza Sokhankhosh et.al.|[2407.13018](http://arxiv.org/abs/2407.13018)|null|
-|**2024-07-17**|**A Framework for testing Federated Learning algorithms using an edge-like environment**|Felipe Machado Schwanck et.al.|[2407.12980](http://arxiv.org/abs/2407.12980)|null|
+|**2024-07-17**|**A Framework for testing Federated Learning algorithms using an edge-like environment**|Felipe Machado Schwanck et.al.|[2407.12980](http://arxiv.org/abs/2407.12980)|**[link](https://github.com/open-digital-twin/framework-fl-testing)**|
 |**2024-07-17**|**Jigsaw Game: Federated Clustering**|Jinxuan Xu et.al.|[2407.12764](http://arxiv.org/abs/2407.12764)|null|
 |**2024-07-17**|**Comparing Federated Stochastic Gradient Descent and Federated Averaging for Predicting Hospital Length of Stay**|Mehmet Yigit Balik et.al.|[2407.12741](http://arxiv.org/abs/2407.12741)|null|
 |**2024-07-17**|**FlexFL: Heterogeneous Federated Learning via APoZ-Guided Flexible Pruning in Uncertain Scenarios**|Zekai Chen et.al.|[2407.12729](http://arxiv.org/abs/2407.12729)|null|
@@ -788,7 +788,7 @@
 |**2024-05-24**|**DAGER: Exact Gradient Inversion for Large Language Models**|Ivo Petrov et.al.|[2405.15586](http://arxiv.org/abs/2405.15586)|null|
 |**2024-05-24**|**Certifiably Robust RAG against Retrieval Corruption**|Chong Xiang et.al.|[2405.15556](http://arxiv.org/abs/2405.15556)|null|
 |**2024-05-24**|**Thinking Forward: Memory-Efficient Federated Finetuning of Language Models**|Kunjal Panchal et.al.|[2405.15551](http://arxiv.org/abs/2405.15551)|**[link](https://github.com/astuary/spry)**|
-|**2024-05-24**|**Unlearning during Learning: An Efficient Federated Machine Unlearning Method**|Hanlin Gu et.al.|[2405.15474](http://arxiv.org/abs/2405.15474)|null|
+|**2024-05-24**|**Unlearning during Learning: An Efficient Federated Machine Unlearning Method**|Hanlin Gu et.al.|[2405.15474](http://arxiv.org/abs/2405.15474)|**[link](https://github.com/Liar-Mask/FedAU)**|
 |**2024-05-24**|**FedCal: Achieving Local and Global Calibration in Federated Learning via Aggregated Parameterized Scaler**|Hongyi Peng et.al.|[2405.15458](http://arxiv.org/abs/2405.15458)|**[link](https://github.com/PengHongyiNTU/FedCal)**|
 |**2024-05-24**|**Towards Client Driven Federated Learning**|Songze Li et.al.|[2405.15407](http://arxiv.org/abs/2405.15407)|null|
 |**2024-05-24**|**Transformer-based Federated Learning for Multi-Label Remote Sensing Image Classification**|Barış Büyüktaş et.al.|[2405.15405](http://arxiv.org/abs/2405.15405)|null|
@@ -819,7 +819,7 @@
 |**2024-05-19**|**Securing Health Data on the Blockchain: A Differential Privacy and Federated Learning Framework**|Daniel Commey et.al.|[2405.11580](http://arxiv.org/abs/2405.11580)|null|
 |**2024-05-19**|**Overcoming Data and Model Heterogeneities in Decentralized Federated Learning via Synthetic Anchors**|Chun-Yin Huang et.al.|[2405.11525](http://arxiv.org/abs/2405.11525)|null|
 |**2024-05-21**|**A GAN-Based Data Poisoning Attack Against Federated Learning Systems and Its Countermeasure**|Wei Sun et.al.|[2405.11440](http://arxiv.org/abs/2405.11440)|**[link](https://github.com/ssssweissss/vaguegan-data-poisoning-attack-and-its-countermeasure)**|
-|**2024-05-17**|**Multicenter Privacy-Preserving Model Training for Deep Learning Brain Metastases Autosegmentation**|Yixing Huang et.al.|[2405.10870](http://arxiv.org/abs/2405.10870)|null|
+|**2024-05-17**|**Multicenter Privacy-Preserving Model Training for Deep Learning Brain Metastases Autosegmentation**|Yixing Huang et.al.|[2405.10870](http://arxiv.org/abs/2405.10870)|**[link](https://github.com/yixinghuang/deepmedicpytorch)**|
 |**2024-05-17**|**Air Signing and Privacy-Preserving Signature Verification for Digital Documents**|P. Sarveswarasarma et.al.|[2405.10868](http://arxiv.org/abs/2405.10868)|**[link](https://github.com/FYP-Air-Signature/Air-Signature)**|
 |**2024-05-17**|**The Future of Large Language Model Pre-training is Federated**|Lorenzo Sani et.al.|[2405.10853](http://arxiv.org/abs/2405.10853)|null|
 |**2024-05-17**|**Cyclical Weight Consolidation: Towards Solving Catastrophic Forgetting in Serial Federated Learning**|Haoyue Song et.al.|[2405.10647](http://arxiv.org/abs/2405.10647)|null|
@@ -1389,7 +1389,7 @@
 |**2024-02-02**|**Towards Quantum-Safe Federated Learning via Homomorphic Encryption: Learning with Gradients**|Guangfeng Yan et.al.|[2402.01154](http://arxiv.org/abs/2402.01154)|null|
 |**2024-02-02**|**TransFR: Transferable Federated Recommendation with Pre-trained Language Models**|Honglei Zhang et.al.|[2402.01124](http://arxiv.org/abs/2402.01124)|null|
 |**2024-02-02**|**FedShift: Tackling Dual Heterogeneity Problem of Federated Learning via Weight Shift Aggregation**|Jungwon Seo et.al.|[2402.01070](http://arxiv.org/abs/2402.01070)|null|
-|**2024-02-01**|**Unconditional Latent Diffusion Models Memorize Patient Imaging Data**|Salman Ul Hassan Dar et.al.|[2402.01054](http://arxiv.org/abs/2402.01054)|null|
+|**2024-02-01**|**Unconditional Latent Diffusion Models Memorize Patient Imaging Data**|Salman Ul Hassan Dar et.al.|[2402.01054](http://arxiv.org/abs/2402.01054)|**[link](https://github.com/Cardio-AI/memorization-ldm)**|
 |**2024-02-01**|**In-Bed Pose Estimation: A Review**|Ziya Ata Yazıcı et.al.|[2402.00700](http://arxiv.org/abs/2402.00700)|null|
 |**2024-02-01**|**Survey of Privacy Threats and Countermeasures in Federated Learning**|Masahiro Hayashitani et.al.|[2402.00342](http://arxiv.org/abs/2402.00342)|null|
 |**2024-02-01**|**Optimized Parameter Design for Channel State Information-Free Location Spoofing**|Jianxiu Li et.al.|[2402.00329](http://arxiv.org/abs/2402.00329)|null|
