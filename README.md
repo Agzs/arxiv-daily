@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-26**|**Vulnerability Detection in Ethereum Smart Contracts via Machine Learning: A Qualitative Analysis**|Dalila Ressi et.al.|[2407.18639](http://arxiv.org/abs/2407.18639)|null|
 |**2024-07-25**|**Utilizing Blockchain and Smart Contracts for Enhanced Fraud Prevention and Minimization in Health Insurance through Multi-Signature Claim Processing**|Md Al Amin et.al.|[2407.17765](http://arxiv.org/abs/2407.17765)|null|
 |**2024-07-22**|**Versioned Analysis of Software Quality Indicators and Self-admitted Technical Debt in Ethereum Smart Contracts with Ethstractor**|Khalid Hassan et.al.|[2407.15967](http://arxiv.org/abs/2407.15967)|null|
 |**2024-07-22**|**Preventing Out-of-Gas Exceptions by Typing**|Luca Aceto et.al.|[2407.15676](http://arxiv.org/abs/2407.15676)|null|
@@ -467,6 +468,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-26**|**FLUE: Federated Learning with Un-Encrypted model weights**|Elie Atallah et.al.|[2407.18750](http://arxiv.org/abs/2407.18750)|null|
+|**2024-07-26**|**Unveiling Privacy Vulnerabilities: Investigating the Role of Structure in Graph Data**|Hanyang Yuan et.al.|[2407.18564](http://arxiv.org/abs/2407.18564)|null|
+|**2024-07-26**|**Homomorphic Encryption-Enabled Federated Learning for Privacy-Preserving Intrusion Detection in Resource-Constrained IoV Networks**|Bui Duc Manh et.al.|[2407.18503](http://arxiv.org/abs/2407.18503)|null|
+|**2024-07-26**|**FedUD: Exploiting Unaligned Data for Cross-Platform Federated Click-Through Rate Prediction**|Wentao Ouyang et.al.|[2407.18472](http://arxiv.org/abs/2407.18472)|null|
+|**2024-07-25**|**SCALE: Self-regulated Clustered federAted LEarning in a Homogeneous Environment**|Sai Puppala et.al.|[2407.18387](http://arxiv.org/abs/2407.18387)|null|
+|**2024-07-25**|**FADAS: Towards Federated Adaptive Asynchronous Optimization**|Yujia Wang et.al.|[2407.18365](http://arxiv.org/abs/2407.18365)|**[link](https://github.com/yujiaw98/fadas)**|
+|**2024-07-25**|**Generative AI like ChatGPT in Blockchain Federated Learning: use cases, opportunities and future**|Sai Puppala et.al.|[2407.18358](http://arxiv.org/abs/2407.18358)|null|
+|**2024-07-25**|**Privacy-Preserving Model-Distributed Inference at the Edge**|Fatemeh Jafarian Dehkordi et.al.|[2407.18353](http://arxiv.org/abs/2407.18353)|null|
 |**2024-07-25**|**Sparse Incremental Aggregation in Multi-Hop Federated Learning**|Sourav Mukherjee et.al.|[2407.18200](http://arxiv.org/abs/2407.18200)|null|
 |**2024-07-25**|**Privacy Threats and Countermeasures in Federated Learning for Internet of Things: A Systematic Review**|Adel ElZemity et.al.|[2407.18096](http://arxiv.org/abs/2407.18096)|null|
 |**2024-07-25**|**Lightweight Industrial Cohorted Federated Learning for Heterogeneous Assets**|Madapu Amarlingam et.al.|[2407.17999](http://arxiv.org/abs/2407.17999)|null|
