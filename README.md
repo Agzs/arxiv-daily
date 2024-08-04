@@ -381,6 +381,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-01**|**A Zero-Knowledge Proof of Knowledge for Subgroup Distance Problem**|Cansu Betin Onur et.al.|[2408.00395](http://arxiv.org/abs/2408.00395)|null|
+|**2024-08-01**|**A Survey on the Applications of Zero-Knowledge Proofs**|Ryan Lavin et.al.|[2408.00243](http://arxiv.org/abs/2408.00243)|null|
 |**2024-07-29**|**Efficient Byzantine-Robust and Provably Privacy-Preserving Federated Learning**|Chenfei Nie et.al.|[2407.19703](http://arxiv.org/abs/2407.19703)|null|
 |**2024-07-28**|**Complete Security and Privacy for AI Inference in Decentralized Systems**|Hongyang Zhang et.al.|[2407.19401](http://arxiv.org/abs/2407.19401)|null|
 |**2024-07-09**|**Towards a Novel Privacy-Preserving Distributed Multiparty Data Outsourcing Scheme for Cloud Computing with Quantum Key Distribution**|D. Dhinakaran et.al.|[2407.18923](http://arxiv.org/abs/2407.18923)|null|
@@ -472,6 +474,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-01**|**Privacy-preserving datasets by capturing feature distributions with Conditional VAEs**|Francesco Di Salvo et.al.|[2408.00639](http://arxiv.org/abs/2408.00639)|null|
+|**2024-08-01**|**Long-Term Conversation Analysis: Privacy-Utility Trade-off under Noise and Reverberation**|Jule Pohlhausen et.al.|[2408.00382](http://arxiv.org/abs/2408.00382)|null|
+|**2024-08-01**|**Mobility-Aware Federated Self-supervised Learning in Vehicular Network**|Xueying Gu et.al.|[2408.00256](http://arxiv.org/abs/2408.00256)|null|
+|**2024-08-01**|**Load Balancing in Federated Learning**|Alireza Javani et.al.|[2408.00217](http://arxiv.org/abs/2408.00217)|null|
+|**2024-07-31**|**Algorithms for Collaborative Machine Learning under Statistical Heterogeneity**|Seok-Ju Hahn et.al.|[2408.00050](http://arxiv.org/abs/2408.00050)|null|
 |**2024-07-31**|**A Federated Learning-Friendly Approach for Parameter-Efficient Fine-Tuning of SAM in 3D Segmentation**|Mothilal Asokan et.al.|[2407.21739](http://arxiv.org/abs/2407.21739)|null|
 |**2024-07-31**|**Explainable Artificial Intelligence for Quantifying Interfering and High-Risk Behaviors in Autism Spectrum Disorder in a Real-World Classroom Environment Using Privacy-Preserving Video Analysis**|Barun Das et.al.|[2407.21691](http://arxiv.org/abs/2407.21691)|null|
 |**2024-07-31**|**FSSC: Federated Learning of Transformer Neural Networks for Semantic Image Communication**|Yuna Yan et.al.|[2407.21507](http://arxiv.org/abs/2407.21507)|null|
