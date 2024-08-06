@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-04**|**Secure and Transparent Medical Record Management System Using Python and Blockchain**|Atchiyya Naidu Chitikela et.al.|[2408.02081](http://arxiv.org/abs/2408.02081)|null|
+|**2024-08-04**|**Remote Staking with Economic Safety**|Xinshu Dong et.al.|[2408.01896](http://arxiv.org/abs/2408.01896)|null|
 |**2024-07-27**|**Smart Contracts, Smarter Payments: Innovating Cross Border Payments and Reporting Transactions**|Maruf Ahmed Mridul et.al.|[2407.19283](http://arxiv.org/abs/2407.19283)|null|
 |**2024-07-26**|**Vulnerability Detection in Ethereum Smart Contracts via Machine Learning: A Qualitative Analysis**|Dalila Ressi et.al.|[2407.18639](http://arxiv.org/abs/2407.18639)|null|
 |**2024-07-25**|**Utilizing Blockchain and Smart Contracts for Enhanced Fraud Prevention and Minimization in Health Insurance through Multi-Signature Claim Processing**|Md Al Amin et.al.|[2407.17765](http://arxiv.org/abs/2407.17765)|null|
@@ -462,6 +464,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**Fair Resource Allocation For Hierarchical Federated Edge Learning in Space-Air-Ground Integrated Networks via Deep Reinforcement Learning with Hybrid Control**|Chong Huang et.al.|[2408.02501](http://arxiv.org/abs/2408.02501)|null|
+|**2024-08-05**|**Strategic Federated Learning: Application to Smart Meter Data Clustering**|Hassan Mohamad et.al.|[2408.02384](http://arxiv.org/abs/2408.02384)|null|
+|**2024-08-04**|**Model Hijacking Attack in Federated Learning**|Zheng Li et.al.|[2408.02131](http://arxiv.org/abs/2408.02131)|null|
+|**2024-08-04**|**Personalized Federated Learning on Heterogeneous and Long-Tailed Data via Expert Collaborative Learning**|Fengling Lv et.al.|[2408.02019](http://arxiv.org/abs/2408.02019)|null|
+|**2024-08-03**|**Joint Model Pruning and Resource Allocation for Wireless Time-triggered Federated Learning**|Xinlu Zhang et.al.|[2408.01765](http://arxiv.org/abs/2408.01765)|null|
+|**2024-08-03**|**TreeCSS: An Efficient Framework for Vertical Federated Learning**|Qinbo Zhang et.al.|[2408.01691](http://arxiv.org/abs/2408.01691)|null|
+|**2024-08-03**|**IDNet: A Novel Dataset for Identity Document Analysis and Fraud Detection**|Hong Guan et.al.|[2408.01690](http://arxiv.org/abs/2408.01690)|null|
+|**2024-08-03**|**Fed-RD: Privacy-Preserving Federated Learning for Financial Crime Detection**|Md. Saikat Islam Khan et.al.|[2408.01609](http://arxiv.org/abs/2408.01609)|null|
 |**2024-08-02**|**Improving Energy Efficiency in Federated Learning Through the Optimization of Communication Resources Scheduling of Wireless IoT Networks**|Renan R. de Oliveira et.al.|[2408.01286](http://arxiv.org/abs/2408.01286)|null|
 |**2024-08-02**|**Privacy-Preserving Split Learning with Vision Transformers using Patch-Wise Random and Noisy CutMix**|Seungeun Oh et.al.|[2408.01040](http://arxiv.org/abs/2408.01040)|null|
 |**2024-08-01**|**PrivateGaze: Preserving User Privacy in Black-box Mobile Gaze Tracking Services**|Lingyu Du et.al.|[2408.00950](http://arxiv.org/abs/2408.00950)|null|
