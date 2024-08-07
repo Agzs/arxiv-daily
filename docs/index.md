@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**Interoperability and Explicable AI-based Zero-Day Attacks Detection Process in Smart Community**|Mohammad Sayduzzaman et.al.|[2408.02921](http://arxiv.org/abs/2408.02921)|null|
 |**2024-08-04**|**Secure and Transparent Medical Record Management System Using Python and Blockchain**|Atchiyya Naidu Chitikela et.al.|[2408.02081](http://arxiv.org/abs/2408.02081)|null|
 |**2024-08-04**|**Remote Staking with Economic Safety**|Xinshu Dong et.al.|[2408.01896](http://arxiv.org/abs/2408.01896)|null|
 |**2024-07-27**|**Smart Contracts, Smarter Payments: Innovating Cross Border Payments and Reporting Transactions**|Maruf Ahmed Mridul et.al.|[2407.19283](http://arxiv.org/abs/2407.19283)|null|
@@ -464,6 +465,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**Masked Random Noise for Communication Efficient Federaetd Learning**|Shiwei Li et.al.|[2408.03220](http://arxiv.org/abs/2408.03220)|null|
+|**2024-08-06**|**FedBAT: Communication-Efficient Federated Learning via Learnable Binarization**|Shiwei Li et.al.|[2408.03215](http://arxiv.org/abs/2408.03215)|null|
+|**2024-08-06**|**Personalizing Federated Instrument Segmentation with Visual Trait Priors in Robotic Surgery**|Jialang Xu et.al.|[2408.03208](http://arxiv.org/abs/2408.03208)|null|
+|**2024-08-06**|**Federated Learning Architectures: A Performance Evaluation with Crop Yield Prediction Application**|Anwesha Mukherjee et.al.|[2408.02998](http://arxiv.org/abs/2408.02998)|null|
+|**2024-08-06**|**HARMONIC: Harnessing LLMs for Tabular Data Synthesis and Privacy Protection**|Yuxin Wang et.al.|[2408.02927](http://arxiv.org/abs/2408.02927)|null|
+|**2024-08-05**|**Mitigating Malicious Attacks in Federated Learning via Confidence-aware Defense**|Qilei Li et.al.|[2408.02813](http://arxiv.org/abs/2408.02813)|null|
 |**2024-08-05**|**Fair Resource Allocation For Hierarchical Federated Edge Learning in Space-Air-Ground Integrated Networks via Deep Reinforcement Learning with Hybrid Control**|Chong Huang et.al.|[2408.02501](http://arxiv.org/abs/2408.02501)|null|
 |**2024-08-05**|**Strategic Federated Learning: Application to Smart Meter Data Clustering**|Hassan Mohamad et.al.|[2408.02384](http://arxiv.org/abs/2408.02384)|null|
 |**2024-08-04**|**Model Hijacking Attack in Federated Learning**|Zheng Li et.al.|[2408.02131](http://arxiv.org/abs/2408.02131)|null|
