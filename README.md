@@ -477,6 +477,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-07**|**Speech privacy-preserving methods using secret key for convolutional neural network models and their robustness evaluation**|Shoko Niwa et.al.|[2408.03897](http://arxiv.org/abs/2408.03897)|null|
+|**2024-08-07**|**Soft-Hard Attention U-Net Model and Benchmark Dataset for Multiscale Image Shadow Removal**|Eirini Cholopoulou et.al.|[2408.03734](http://arxiv.org/abs/2408.03734)|null|
+|**2024-08-06**|**Optimizing NOMA Transmissions to Advance Federated Learning in Vehicular Networks**|Ziru Chen et.al.|[2408.03446](http://arxiv.org/abs/2408.03446)|null|
 |**2024-08-06**|**Masked Random Noise for Communication Efficient Federaetd Learning**|Shiwei Li et.al.|[2408.03220](http://arxiv.org/abs/2408.03220)|null|
 |**2024-08-06**|**FedBAT: Communication-Efficient Federated Learning via Learnable Binarization**|Shiwei Li et.al.|[2408.03215](http://arxiv.org/abs/2408.03215)|null|
 |**2024-08-06**|**Personalizing Federated Instrument Segmentation with Visual Trait Priors in Robotic Surgery**|Jialang Xu et.al.|[2408.03208](http://arxiv.org/abs/2408.03208)|null|
