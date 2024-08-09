@@ -465,6 +465,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**FedAD-Bench: A Unified Benchmark for Federated Unsupervised Anomaly Detection in Tabular Data**|Ahmed Anwar et.al.|[2408.04442](http://arxiv.org/abs/2408.04442)|null|
+|**2024-08-08**|**Federated Cubic Regularized Newton Learning with Sparsification-amplified Differential Privacy**|Wei Huo et.al.|[2408.04315](http://arxiv.org/abs/2408.04315)|null|
+|**2024-08-08**|**Constructing Adversarial Examples for Vertical Federated Learning: Optimal Client Corruption through Multi-Armed Bandit**|Duanyi Yao et.al.|[2408.04310](http://arxiv.org/abs/2408.04310)|null|
+|**2024-08-08**|**Tackling Noisy Clients in Federated Learning with End-to-end Label Correction**|Xuefeng Jiang et.al.|[2408.04301](http://arxiv.org/abs/2408.04301)|**[link](https://github.com/sprinter1999/fedelc)**|
+|**2024-08-08**|**Trustworthy Semantic-Enabled 6G Communication: A Task-oriented and Privacy-preserving Perspective**|Shuaishuai Guo et.al.|[2408.04188](http://arxiv.org/abs/2408.04188)|null|
 |**2024-08-07**|**Speech privacy-preserving methods using secret key for convolutional neural network models and their robustness evaluation**|Shoko Niwa et.al.|[2408.03897](http://arxiv.org/abs/2408.03897)|null|
 |**2024-08-07**|**Soft-Hard Attention U-Net Model and Benchmark Dataset for Multiscale Image Shadow Removal**|Eirini Cholopoulou et.al.|[2408.03734](http://arxiv.org/abs/2408.03734)|null|
 |**2024-08-06**|**Optimizing NOMA Transmissions to Advance Federated Learning in Vehicular Networks**|Ziru Chen et.al.|[2408.03446](http://arxiv.org/abs/2408.03446)|null|
