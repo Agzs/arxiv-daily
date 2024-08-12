@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-09**|**Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts**|Jiashuo Zhang et.al.|[2408.04939](http://arxiv.org/abs/2408.04939)|null|
+|**2024-08-08**|**Redefining Accountability: Navigating Legal Challenges of Participant Liability in Decentralized Autonomous Organizations**|Aneta Napieralska et.al.|[2408.04717](http://arxiv.org/abs/2408.04717)|null|
 |**2024-08-06**|**Interoperability and Explicable AI-based Zero-Day Attacks Detection Process in Smart Community**|Mohammad Sayduzzaman et.al.|[2408.02921](http://arxiv.org/abs/2408.02921)|null|
 |**2024-08-04**|**Secure and Transparent Medical Record Management System Using Python and Blockchain**|Atchiyya Naidu Chitikela et.al.|[2408.02081](http://arxiv.org/abs/2408.02081)|null|
 |**2024-08-04**|**Remote Staking with Economic Safety**|Xinshu Dong et.al.|[2408.01896](http://arxiv.org/abs/2408.01896)|null|
@@ -477,6 +479,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-10**|**Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions**|Michele Miranda et.al.|[2408.05212](http://arxiv.org/abs/2408.05212)|null|
+|**2024-08-09**|**Federated Hypergraph Learning with Hyperedge Completion**|Linfeng Luo et.al.|[2408.05160](http://arxiv.org/abs/2408.05160)|null|
+|**2024-08-09**|**PriPHiT: Privacy-Preserving Hierarchical Training of Deep Neural Networks**|Yamin Sepehri et.al.|[2408.05092](http://arxiv.org/abs/2408.05092)|null|
+|**2024-08-09**|**LiD-FL: Towards List-Decodable Federated Learning**|Hong Liu et.al.|[2408.04963](http://arxiv.org/abs/2408.04963)|null|
+|**2024-08-09**|**Privacy-Preserved Taxi Demand Prediction System Utilizing Distributed Data**|Ren Ozeki et.al.|[2408.04931](http://arxiv.org/abs/2408.04931)|null|
+|**2024-08-08**|**Hybrid Student-Teacher Large Language Model Refinement for Cancer Toxicity Symptom Extraction**|Reza Khanmohammadi et.al.|[2408.04775](http://arxiv.org/abs/2408.04775)|null|
+|**2024-08-08**|**Counter Denial of Service for Next-Generation Networks within the Artificial Intelligence and Post-Quantum Era**|Saleh Darzi et.al.|[2408.04725](http://arxiv.org/abs/2408.04725)|null|
+|**2024-08-08**|**Overlay-based Decentralized Federated Learning in Bandwidth-limited Networks**|Yudi Huang et.al.|[2408.04705](http://arxiv.org/abs/2408.04705)|null|
 |**2024-08-08**|**FedAD-Bench: A Unified Benchmark for Federated Unsupervised Anomaly Detection in Tabular Data**|Ahmed Anwar et.al.|[2408.04442](http://arxiv.org/abs/2408.04442)|null|
 |**2024-08-08**|**Federated Cubic Regularized Newton Learning with Sparsification-amplified Differential Privacy**|Wei Huo et.al.|[2408.04315](http://arxiv.org/abs/2408.04315)|null|
 |**2024-08-08**|**Constructing Adversarial Examples for Vertical Federated Learning: Optimal Client Corruption through Multi-Armed Bandit**|Duanyi Yao et.al.|[2408.04310](http://arxiv.org/abs/2408.04310)|null|
