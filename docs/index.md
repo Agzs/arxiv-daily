@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**A Practical System Architecture for Contract Automation: Design and Uses**|Emanuel Palm et.al.|[2408.06084](http://arxiv.org/abs/2408.06084)|null|
+|**2024-08-12**|**Hyperion: Unveiling DApp Inconsistencies using LLM and Dataflow-Guided Symbolic Execution**|Shuo Yang et.al.|[2408.06037](http://arxiv.org/abs/2408.06037)|null|
 |**2024-08-09**|**Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts**|Jiashuo Zhang et.al.|[2408.04939](http://arxiv.org/abs/2408.04939)|null|
 |**2024-08-08**|**Redefining Accountability: Navigating Legal Challenges of Participant Liability in Decentralized Autonomous Organizations**|Aneta Napieralska et.al.|[2408.04717](http://arxiv.org/abs/2408.04717)|null|
 |**2024-08-06**|**Interoperability and Explicable AI-based Zero-Day Attacks Detection Process in Smart Community**|Mohammad Sayduzzaman et.al.|[2408.02921](http://arxiv.org/abs/2408.02921)|null|
@@ -376,6 +378,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**SZKP: A Scalable Accelerator Architecture for Zero-Knowledge Proofs**|Alhad Daftardar et.al.|[2408.05890](http://arxiv.org/abs/2408.05890)|null|
 |**2024-08-01**|**A Zero-Knowledge Proof of Knowledge for Subgroup Distance Problem**|Cansu Betin Onur et.al.|[2408.00395](http://arxiv.org/abs/2408.00395)|null|
 |**2024-08-01**|**A Survey on the Applications of Zero-Knowledge Proofs**|Ryan Lavin et.al.|[2408.00243](http://arxiv.org/abs/2408.00243)|null|
 |**2024-07-29**|**Efficient Byzantine-Robust and Provably Privacy-Preserving Federated Learning**|Chenfei Nie et.al.|[2407.19703](http://arxiv.org/abs/2407.19703)|null|
@@ -467,6 +470,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Decentralized Intelligence Health Network (DIHN)**|Abraham Nash et.al.|[2408.06240](http://arxiv.org/abs/2408.06240)|null|
+|**2024-08-12**|**Lancelot: Towards Efficient and Privacy-Preserving Byzantine-Robust Federated Learning within Fully Homomorphic Encryption**|Siyang Jiang et.al.|[2408.06197](http://arxiv.org/abs/2408.06197)|null|
+|**2024-08-12**|**Centralized and Federated Heart Disease Classification Models Using UCI Dataset and their Shapley-value Based Interpretability**|Mario Padilla Rodriguez et.al.|[2408.06183](http://arxiv.org/abs/2408.06183)|null|
+|**2024-08-12**|**Blind-Match: Efficient Homomorphic Encryption-Based 1:N Matching for Privacy-Preserving Biometric Identification**|Hyunmin Choi et.al.|[2408.06167](http://arxiv.org/abs/2408.06167)|**[link](https://github.com/hm-choi/blind-match)**|
+|**2024-08-12**|**Understanding Byzantine Robustness in Federated Learning with A Black-box Server**|Fangyuan Zhao et.al.|[2408.06042](http://arxiv.org/abs/2408.06042)|**[link](https://github.com/alibaba/federatedscope)**|
+|**2024-08-12**|**Online-Score-Aided Federated Learning: Taming the Resource Constraints in Wireless Networks**|Md Ferdous Pervej et.al.|[2408.05886](http://arxiv.org/abs/2408.05886)|null|
+|**2024-08-11**|**On the Convergence of a Federated Expectation-Maximization Algorithm**|Zhixu Tao et.al.|[2408.05819](http://arxiv.org/abs/2408.05819)|null|
+|**2024-08-11**|**Personalized Federated Learning for improving radar based precipitation nowcasting on heterogeneous areas**|Judith Sáinz-Pardo Díaz et.al.|[2408.05761](http://arxiv.org/abs/2408.05761)|null|
+|**2024-08-11**|**Disposable-key-based image encryption for collaborative learning of Vision Transformer**|Rei Aso et.al.|[2408.05737](http://arxiv.org/abs/2408.05737)|null|
+|**2024-08-11**|**Deep Learning with Data Privacy via Residual Perturbation**|Wenqi Tao et.al.|[2408.05723](http://arxiv.org/abs/2408.05723)|null|
 |**2024-08-10**|**Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions**|Michele Miranda et.al.|[2408.05212](http://arxiv.org/abs/2408.05212)|null|
 |**2024-08-09**|**Federated Hypergraph Learning with Hyperedge Completion**|Linfeng Luo et.al.|[2408.05160](http://arxiv.org/abs/2408.05160)|null|
 |**2024-08-09**|**PriPHiT: Privacy-Preserving Hierarchical Training of Deep Neural Networks**|Yamin Sepehri et.al.|[2408.05092](http://arxiv.org/abs/2408.05092)|null|
