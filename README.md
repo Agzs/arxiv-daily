@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**Theorem-Carrying-Transaction: Runtime Certification to Ensure Safety for Smart Contract Transactions**|Nikolaj S. Bjørner et.al.|[2408.06478](http://arxiv.org/abs/2408.06478)|null|
 |**2024-08-12**|**A Practical System Architecture for Contract Automation: Design and Uses**|Emanuel Palm et.al.|[2408.06084](http://arxiv.org/abs/2408.06084)|null|
 |**2024-08-12**|**Hyperion: Unveiling DApp Inconsistencies using LLM and Dataflow-Guided Symbolic Execution**|Shuo Yang et.al.|[2408.06037](http://arxiv.org/abs/2408.06037)|null|
 |**2024-08-09**|**Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts**|Jiashuo Zhang et.al.|[2408.04939](http://arxiv.org/abs/2408.04939)|null|
@@ -482,6 +483,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**TableGuard -- Securing Structured & Unstructured Data**|Anantha Sharma et.al.|[2408.07045](http://arxiv.org/abs/2408.07045)|null|
+|**2024-08-13**|**Heterogeneity: An Open Challenge for Federated On-board Machine Learning**|Maria Hartmann et.al.|[2408.06903](http://arxiv.org/abs/2408.06903)|null|
+|**2024-08-13**|**Voltran: Unlocking Trust and Confidentiality in Decentralized Federated Learning Aggregation**|Hao Wang et.al.|[2408.06885](http://arxiv.org/abs/2408.06885)|null|
+|**2024-08-13**|**Specialized Change Detection using Segment Anything**|Tahir Ahmad et.al.|[2408.06644](http://arxiv.org/abs/2408.06644)|null|
+|**2024-08-13**|**Prioritizing Modalities: Flexible Importance Scheduling in Federated Multimodal Learning**|Jieming Bian et.al.|[2408.06549](http://arxiv.org/abs/2408.06549)|null|
 |**2024-08-13**|**Decentralized Intelligence Health Network (DIHN)**|Abraham Nash et.al.|[2408.06240](http://arxiv.org/abs/2408.06240)|null|
 |**2024-08-12**|**Lancelot: Towards Efficient and Privacy-Preserving Byzantine-Robust Federated Learning within Fully Homomorphic Encryption**|Siyang Jiang et.al.|[2408.06197](http://arxiv.org/abs/2408.06197)|null|
 |**2024-08-12**|**Centralized and Federated Heart Disease Classification Models Using UCI Dataset and their Shapley-value Based Interpretability**|Mario Padilla Rodriguez et.al.|[2408.06183](http://arxiv.org/abs/2408.06183)|null|
