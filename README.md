@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**ML Study of MaliciousTransactions in Ethereum**|Natan Katz et.al.|[2408.08749](http://arxiv.org/abs/2408.08749)|null|
 |**2024-08-12**|**OFL-W3: A One-shot Federated Learning System on Web 3.0**|Linshan Jiang et.al.|[2408.07096](http://arxiv.org/abs/2408.07096)|null|
 |**2024-08-12**|**Theorem-Carrying-Transaction: Runtime Certification to Ensure Safety for Smart Contract Transactions**|Nikolaj S. Bjørner et.al.|[2408.06478](http://arxiv.org/abs/2408.06478)|null|
 |**2024-08-12**|**A Practical System Architecture for Contract Automation: Design and Uses**|Emanuel Palm et.al.|[2408.06084](http://arxiv.org/abs/2408.06084)|null|
@@ -484,6 +485,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**A Hassle-free Algorithm for Private Learning in Practice: Don't Use Tree Aggregation, Use BLTs**|H. Brendan McMahan et.al.|[2408.08868](http://arxiv.org/abs/2408.08868)|null|
+|**2024-08-16**|**A Novel Buffered Federated Learning Framework for Privacy-Driven Anomaly Detection in IIoT**|Samira Kamali Poorazad et.al.|[2408.08722](http://arxiv.org/abs/2408.08722)|null|
+|**2024-08-16**|**RBLA: Rank-Based-LoRA-Aggregation for Fine-tuning Heterogeneous Models in FLaaS**|Shuaijun Chen et.al.|[2408.08699](http://arxiv.org/abs/2408.08699)|null|
+|**2024-08-16**|**A Multivocal Literature Review on Privacy and Fairness in Federated Learning**|Beatrice Balbierer et.al.|[2408.08666](http://arxiv.org/abs/2408.08666)|null|
+|**2024-08-16**|**Mitigating Backdoor Attacks in Federated Learning via Flipping Weight Updates of Low-Activation Input Neurons**|Binbin Ding et.al.|[2408.08655](http://arxiv.org/abs/2408.08655)|null|
+|**2024-08-16**|**The Power of Bias: Optimizing Client Selection in Federated Learning with Heterogeneous Differential Privacy**|Jiating Ma et.al.|[2408.08642](http://arxiv.org/abs/2408.08642)|null|
+|**2024-08-16**|**A survey on secure decentralized optimization and learning**|Changxin Liu et.al.|[2408.08628](http://arxiv.org/abs/2408.08628)|null|
+|**2024-08-16**|**Privacy-Preserving Vision Transformer Using Images Encrypted with Restricted Random Permutation Matrices**|Kouki Horio et.al.|[2408.08529](http://arxiv.org/abs/2408.08529)|null|
+|**2024-08-16**|**Fairness Issues and Mitigations in (Differentially Private) Socio-demographic Data Processes**|Joonhyuk Ko et.al.|[2408.08471](http://arxiv.org/abs/2408.08471)|null|
+|**2024-08-15**|**A Robust Multi-Stage Intrusion Detection System for In-Vehicle Network Security using Hierarchical Federated Learning**|Muzun Althunayyan et.al.|[2408.08433](http://arxiv.org/abs/2408.08433)|null|
 |**2024-08-15**|**Federated Fairness Analytics: Quantifying Fairness in Federated Learning**|Oscar Dilley et.al.|[2408.08214](http://arxiv.org/abs/2408.08214)|**[link](https://github.com/oscardilley/federated-fairness)**|
 |**2024-08-15**|**Communication-robust and Privacy-safe Distributed Estimation for Heterogeneous Community-level Behind-the-meter Solar Power Generation**|Jinglei Feng et.al.|[2408.08107](http://arxiv.org/abs/2408.08107)|null|
 |**2024-08-15**|**Asteroid: Resource-Efficient Hybrid Pipeline Parallelism for Collaborative DNN Training on Heterogeneous Edge Devices**|Shengyuan Ye et.al.|[2408.08015](http://arxiv.org/abs/2408.08015)|null|
