@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.19
+## Updated on 2024.08.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -18,8 +18,8 @@ layout: default
 |**2024-08-12**|**OFL-W3: A One-shot Federated Learning System on Web 3.0**|Linshan Jiang et.al.|[2408.07096](http://arxiv.org/abs/2408.07096)|null|
 |**2024-08-12**|**Theorem-Carrying-Transaction: Runtime Certification to Ensure Safety for Smart Contract Transactions**|Nikolaj S. Bjørner et.al.|[2408.06478](http://arxiv.org/abs/2408.06478)|null|
 |**2024-08-12**|**A Practical System Architecture for Contract Automation: Design and Uses**|Emanuel Palm et.al.|[2408.06084](http://arxiv.org/abs/2408.06084)|null|
-|**2024-08-12**|**Hyperion: Unveiling DApp Inconsistencies using LLM and Dataflow-Guided Symbolic Execution**|Shuo Yang et.al.|[2408.06037](http://arxiv.org/abs/2408.06037)|null|
-|**2024-08-09**|**Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts**|Jiashuo Zhang et.al.|[2408.04939](http://arxiv.org/abs/2408.04939)|null|
+|**2024-08-12**|**Hyperion: Unveiling DApp Inconsistencies using LLM and Dataflow-Guided Symbolic Execution**|Shuo Yang et.al.|[2408.06037](http://arxiv.org/abs/2408.06037)|**[link](https://github.com/shuo-young/Hyperion)**|
+|**2024-08-09**|**Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts**|Jiashuo Zhang et.al.|[2408.04939](http://arxiv.org/abs/2408.04939)|**[link](https://github.com/jiashuo-zhang/crysol)**|
 |**2024-08-08**|**Redefining Accountability: Navigating Legal Challenges of Participant Liability in Decentralized Autonomous Organizations**|Aneta Napieralska et.al.|[2408.04717](http://arxiv.org/abs/2408.04717)|null|
 |**2024-08-06**|**Interoperability and Explicable AI-based Zero-Day Attacks Detection Process in Smart Community**|Mohammad Sayduzzaman et.al.|[2408.02921](http://arxiv.org/abs/2408.02921)|null|
 |**2024-08-04**|**Secure and Transparent Medical Record Management System Using Python and Blockchain**|Atchiyya Naidu Chitikela et.al.|[2408.02081](http://arxiv.org/abs/2408.02081)|null|
