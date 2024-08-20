@@ -20,6 +20,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**Vulseye: Detect Smart Contract Vulnerabilities via Stateful Directed Graybox Fuzzing**|Ruichao Liang et.al.|[2408.10116](http://arxiv.org/abs/2408.10116)|null|
+|**2024-08-19**|**Validation of the Results of Cross-chain Smart Contract Based on Confirmation Method**|Hong Su et.al.|[2408.09962](http://arxiv.org/abs/2408.09962)|null|
+|**2024-08-17**|**Der Weg zur digitalen Arbeitsmappe: Digitales Prüfungswesen mit Zertifizierung**|Martin Becke et.al.|[2408.09184](http://arxiv.org/abs/2408.09184)|null|
+|**2024-08-14**|**A Survey on Blockchain-based Supply Chain Finance with Progress and Future directions**|Zhengdong Luo et.al.|[2408.08915](http://arxiv.org/abs/2408.08915)|null|
 |**2024-08-16**|**ML Study of MaliciousTransactions in Ethereum**|Natan Katz et.al.|[2408.08749](http://arxiv.org/abs/2408.08749)|null|
 |**2024-08-12**|**OFL-W3: A One-shot Federated Learning System on Web 3.0**|Linshan Jiang et.al.|[2408.07096](http://arxiv.org/abs/2408.07096)|null|
 |**2024-08-12**|**Theorem-Carrying-Transaction: Runtime Certification to Ensure Safety for Smart Contract Transactions**|Nikolaj S. Bjørner et.al.|[2408.06478](http://arxiv.org/abs/2408.06478)|null|
@@ -346,6 +350,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**Validation of the Results of Cross-chain Smart Contract Based on Confirmation Method**|Hong Su et.al.|[2408.09962](http://arxiv.org/abs/2408.09962)|null|
 |**2024-07-19**|**Automated Gateways: A Smart Contract-Powered Solution for Interoperability Across Blockchains**|Koosha Esmaeilzadeh Khorasani et.al.|[2407.13001](http://arxiv.org/abs/2407.13001)|null|
 |**2024-07-15**|**Investigating shocking events in the Ethereum stablecoin ecosystem through temporal multilayer graph structure**|Cheick Tidiane Ba et.al.|[2407.10614](http://arxiv.org/abs/2407.10614)|null|
 |**2024-07-05**|**Effective Targeted Testing of Smart Contracts**|Mahdi Fooladgar et.al.|[2407.04250](http://arxiv.org/abs/2407.04250)|null|
@@ -485,6 +490,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**Federated Frank-Wolfe Algorithm**|Ali Dadras et.al.|[2408.10090](http://arxiv.org/abs/2408.10090)|null|
+|**2024-08-19**|**Towards Robust Federated Image Classification: An Empirical Study of Weight Selection Strategies in Manufacturing**|Vinit Hegiste et.al.|[2408.10024](http://arxiv.org/abs/2408.10024)|null|
+|**2024-08-19**|**Privacy Technologies for Financial Intelligence**|Yang Li et.al.|[2408.09935](http://arxiv.org/abs/2408.09935)|null|
+|**2024-08-19**|**ALTBI: Constructing Improved Outlier Detection Models via Optimization of Inlier-Memorization Effect**|Seoyoung Cho et.al.|[2408.09791](http://arxiv.org/abs/2408.09791)|null|
+|**2024-08-19**|**Sequential Federated Learning in Hierarchical Architecture on Non-IID Datasets**|Xingrun Yan et.al.|[2408.09762](http://arxiv.org/abs/2408.09762)|null|
+|**2024-08-18**|**Addressing Heterogeneity in Federated Learning: Challenges and Solutions for a Shared Production Environment**|Tatjana Legler et.al.|[2408.09556](http://arxiv.org/abs/2408.09556)|null|
+|**2024-08-18**|**Seamless Integration: Sampling Strategies in Federated Learning Systems**|Tatjana Legler et.al.|[2408.09545](http://arxiv.org/abs/2408.09545)|null|
+|**2024-08-18**|**Byzantine-resilient Federated Learning Employing Normalized Gradients on Non-IID Datasets**|Shiyuan Zuo et.al.|[2408.09539](http://arxiv.org/abs/2408.09539)|null|
+|**2024-08-18**|**Orchestrating Federated Learning in Space-Air-Ground Integrated Networks: Adaptive Data Offloading and Seamless Handover**|Dong-Jun Han et.al.|[2408.09522](http://arxiv.org/abs/2408.09522)|null|
+|**2024-08-18**|**Mitigating Noise Detriment in Differentially Private Federated Learning with Model Pre-training**|Huitong Jin et.al.|[2408.09478](http://arxiv.org/abs/2408.09478)|null|
 |**2024-08-16**|**A Hassle-free Algorithm for Private Learning in Practice: Don't Use Tree Aggregation, Use BLTs**|H. Brendan McMahan et.al.|[2408.08868](http://arxiv.org/abs/2408.08868)|null|
 |**2024-08-16**|**A Novel Buffered Federated Learning Framework for Privacy-Driven Anomaly Detection in IIoT**|Samira Kamali Poorazad et.al.|[2408.08722](http://arxiv.org/abs/2408.08722)|null|
 |**2024-08-16**|**RBLA: Rank-Based-LoRA-Aggregation for Fine-tuning Heterogeneous Models in FLaaS**|Shuaijun Chen et.al.|[2408.08699](http://arxiv.org/abs/2408.08699)|null|
