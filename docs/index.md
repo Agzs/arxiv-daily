@@ -479,6 +479,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-21**|**RFID based Health Adherence Medicine Case Using Fair Federated Learning**|Ali Kamrani khodaei et.al.|[2408.11782](http://arxiv.org/abs/2408.11782)|null|
+|**2024-08-21**|**FedGS: Federated Gradient Scaling for Heterogeneous Medical Image Segmentation**|Philip Schutte et.al.|[2408.11701](http://arxiv.org/abs/2408.11701)|**[link](https://github.com/trustworthy-ai-uu-nki/federated-learning-disentanglement)**|
+|**2024-08-21**|**Video-to-Text Pedestrian Monitoring (VTPM): Leveraging Computer Vision and Large Language Models for Privacy-Preserve Pedestrian Activity Monitoring at Intersections**|Ahmed S. Abdelrahman et.al.|[2408.11649](http://arxiv.org/abs/2408.11649)|null|
+|**2024-08-21**|**Confidential Computing on Heterogeneous Systems: Survey and Implications**|Qifan Wang et.al.|[2408.11601](http://arxiv.org/abs/2408.11601)|null|
+|**2024-08-21**|**Technical Report: Coopetition in Heterogeneous Cross-Silo Federated Learning**|Chao Huang et.al.|[2408.11355](http://arxiv.org/abs/2408.11355)|null|
+|**2024-08-21**|**FedMoE: Personalized Federated Learning via Heterogeneous Mixture of Experts**|Hanzi Mei et.al.|[2408.11304](http://arxiv.org/abs/2408.11304)|null|
+|**2024-08-21**|**Privacy Preservation in Delay-Based Localization Systems: Artificial Noise or Artificial Multipath?**|Yuchen Zhang et.al.|[2408.11290](http://arxiv.org/abs/2408.11290)|null|
+|**2024-08-21**|**The Key of Parameter Skew in Federated Learning**|Sifan Wang et.al.|[2408.11278](http://arxiv.org/abs/2408.11278)|null|
+|**2024-08-21**|**Privacy-Preserving Data Management using Blockchains**|Michael Mireku Kwakye et.al.|[2408.11263](http://arxiv.org/abs/2408.11263)|null|
 |**2024-08-20**|**NeuLite: Memory-Efficient Federated Learning via Elastic Progressive Training**|Yebo Wu et.al.|[2408.10826](http://arxiv.org/abs/2408.10826)|null|
 |**2024-08-20**|**Security Assessment of Hierarchical Federated Deep Learning**|D Alqattan et.al.|[2408.10752](http://arxiv.org/abs/2408.10752)|null|
 |**2024-08-20**|**Fine-Tuning a Local LLaMA-3 Large Language Model for Automated Privacy-Preserving Physician Letter Generation in Radiation Oncology**|Yihao Hou et.al.|[2408.10715](http://arxiv.org/abs/2408.10715)|null|
