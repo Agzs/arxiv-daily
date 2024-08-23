@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Decoding Decentralized Finance Transactions through Ego Network Motif Mining**|Natkamon Tovanich et.al.|[2408.12311](http://arxiv.org/abs/2408.12311)|null|
 |**2024-08-20**|**Smart Contract Coordinated Privacy Preserving Crowd-Sensing Campaigns**|Luca Bedogni et.al.|[2408.10648](http://arxiv.org/abs/2408.10648)|null|
 |**2024-08-19**|**Vulseye: Detect Smart Contract Vulnerabilities via Stateful Directed Graybox Fuzzing**|Ruichao Liang et.al.|[2408.10116](http://arxiv.org/abs/2408.10116)|null|
 |**2024-08-19**|**Validation of the Results of Cross-chain Smart Contract Based on Confirmation Method**|Hong Su et.al.|[2408.09962](http://arxiv.org/abs/2408.09962)|null|
@@ -479,7 +480,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-21**|**RFID based Health Adherence Medicine Case Using Fair Federated Learning**|Ali Kamrani khodaei et.al.|[2408.11782](http://arxiv.org/abs/2408.11782)|null|
+|**2024-08-22**|**WhisperMask: A Noise Suppressive Mask-Type Microphone for Whisper Speech**|Hirotaka Hiraki et.al.|[2408.12500](http://arxiv.org/abs/2408.12500)|null|
+|**2024-08-22**|**Tackling Data Heterogeneity in Federated Learning via Loss Decomposition**|Shuang Zeng et.al.|[2408.12300](http://arxiv.org/abs/2408.12300)|**[link](https://github.com/zeng-shuang/fedld)**|
+|**2024-08-22**|**Weight Scope Alignment: A Frustratingly Easy Method for Model Merging**|Yichu Xu et.al.|[2408.12237](http://arxiv.org/abs/2408.12237)|null|
+|**2024-08-22**|**Empowering Over-the-Air Personalized Federated Learning via RIS**|Wei Shi et.al.|[2408.12162](http://arxiv.org/abs/2408.12162)|null|
+|**2024-08-22**|**Understanding Data Reconstruction Leakage in Federated Learning from a Theoretical Perspective**|Zifan Wang et.al.|[2408.12119](http://arxiv.org/abs/2408.12119)|null|
+|**2024-08-21**|**Federated Diabetes Prediction in Canadian Adults Using Real-world Cross-Province Primary Care Data**|Guojun Tang et.al.|[2408.12029](http://arxiv.org/abs/2408.12029)|null|
+|**2024-08-21**|**On the design of stabilizing FIR controllers**|Janis Adamek et.al.|[2408.11959](http://arxiv.org/abs/2408.11959)|null|
+|**2024-08-21**|**RFID based Health Adherence Medicine Case Using Fair Federated Learning**|Ali Kamrani khodaei et.al.|[2408.11782](http://arxiv.org/abs/2408.11782)|**[link](https://github.com/MibclAric/Smart-Pill-Case)**|
 |**2024-08-21**|**FedGS: Federated Gradient Scaling for Heterogeneous Medical Image Segmentation**|Philip Schutte et.al.|[2408.11701](http://arxiv.org/abs/2408.11701)|**[link](https://github.com/trustworthy-ai-uu-nki/federated-learning-disentanglement)**|
 |**2024-08-21**|**Video-to-Text Pedestrian Monitoring (VTPM): Leveraging Computer Vision and Large Language Models for Privacy-Preserve Pedestrian Activity Monitoring at Intersections**|Ahmed S. Abdelrahman et.al.|[2408.11649](http://arxiv.org/abs/2408.11649)|null|
 |**2024-08-21**|**Confidential Computing on Heterogeneous Systems: Survey and Implications**|Qifan Wang et.al.|[2408.11601](http://arxiv.org/abs/2408.11601)|null|
