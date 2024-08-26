@@ -502,10 +502,10 @@ layout: default
 |**2024-08-20**|**Federated Clustering: An Unsupervised Cluster-Wise Training for Decentralized Data Distributions**|Mirko Nardi et.al.|[2408.10664](http://arxiv.org/abs/2408.10664)|null|
 |**2024-08-20**|**Smart Contract Coordinated Privacy Preserving Crowd-Sensing Campaigns**|Luca Bedogni et.al.|[2408.10648](http://arxiv.org/abs/2408.10648)|null|
 |**2024-08-20**|**Privacy-preserving Universal Adversarial Defense for Black-box Models**|Qiao Li et.al.|[2408.10647](http://arxiv.org/abs/2408.10647)|null|
-|**2024-08-19**|**Differentially Private Stochastic Gradient Descent with Fixed-Size Minibatches: Tighter RDP Guarantees with or without Replacement**|Jeremiah Birrell et.al.|[2408.10456](http://arxiv.org/abs/2408.10456)|null|
+|**2024-08-19**|**Differentially Private Stochastic Gradient Descent with Fixed-Size Minibatches: Tighter RDP Guarantees with or without Replacement**|Jeremiah Birrell et.al.|[2408.10456](http://arxiv.org/abs/2408.10456)|**[link](https://github.com/star-ailab/FSRDP)**|
 |**2024-08-19**|**Federated Learning of Large ASR Models in the Real World**|Yonghui Xiao et.al.|[2408.10443](http://arxiv.org/abs/2408.10443)|null|
 |**2024-08-19**|**Feasibility of assessing cognitive impairment via distributed camera network and privacy-preserving edge computing**|Chaitra Hegde et.al.|[2408.10442](http://arxiv.org/abs/2408.10442)|null|
-|**2024-08-19**|**Federated Frank-Wolfe Algorithm**|Ali Dadras et.al.|[2408.10090](http://arxiv.org/abs/2408.10090)|null|
+|**2024-08-19**|**Federated Frank-Wolfe Algorithm**|Ali Dadras et.al.|[2408.10090](http://arxiv.org/abs/2408.10090)|**[link](https://github.com/sourasb05/Federated-Frank-Wolfe)**|
 |**2024-08-19**|**Towards Robust Federated Image Classification: An Empirical Study of Weight Selection Strategies in Manufacturing**|Vinit Hegiste et.al.|[2408.10024](http://arxiv.org/abs/2408.10024)|null|
 |**2024-08-19**|**Privacy Technologies for Financial Intelligence**|Yang Li et.al.|[2408.09935](http://arxiv.org/abs/2408.09935)|null|
 |**2024-08-19**|**ALTBI: Constructing Improved Outlier Detection Models via Optimization of Inlier-Memorization Effect**|Seoyoung Cho et.al.|[2408.09791](http://arxiv.org/abs/2408.09791)|null|
@@ -855,7 +855,7 @@ layout: default
 |**2024-06-09**|**Comments on "Federated Learning with Differential Privacy: Algorithms and Performance Analysis"**|Mahtab Talaei et.al.|[2406.05858](http://arxiv.org/abs/2406.05858)|null|
 |**2024-06-08**|**Privacy-Preserving Optimal Parameter Selection for Collaborative Clustering**|Maryam Ghasemian et.al.|[2406.05545](http://arxiv.org/abs/2406.05545)|null|
 |**2024-06-08**|**Blockchain Integrated Federated Learning in Edge-Fog-Cloud Systems for IoT based Healthcare Applications A Survey**|Shinu M. Rajagopal et.al.|[2406.05517](http://arxiv.org/abs/2406.05517)|null|
-|**2024-06-08**|**PTF-FSR: A Parameter Transmission-Free Federated Sequential Recommender System**|Wei Yuan et.al.|[2406.05387](http://arxiv.org/abs/2406.05387)|null|
+|**2024-06-08**|**PTF-FSR: A Parameter Transmission-Free Federated Sequential Recommender System**|Wei Yuan et.al.|[2406.05387](http://arxiv.org/abs/2406.05387)|**[link](https://github.com/hi-weiyuan/PTF-FSR)**|
 |**2024-06-07**|**FedLLM-Bench: Realistic Benchmarks for Federated Learning of Large Language Models**|Rui Ye et.al.|[2406.04845](http://arxiv.org/abs/2406.04845)|**[link](https://github.com/rui-ye/fedllm-bench)**|
 |**2024-06-07**|**When Swarm Learning meets energy series data: A decentralized collaborative learning design based on blockchain**|Lei Xu et.al.|[2406.04743](http://arxiv.org/abs/2406.04743)|null|
 |**2024-06-07**|**Marking the Pace: A Blockchain-Enhanced Privacy-Traceable Strategy for Federated Recommender Systems**|Zhen Cai et.al.|[2406.04702](http://arxiv.org/abs/2406.04702)|null|
@@ -1393,7 +1393,7 @@ layout: default
 |**2024-03-01**|**OPAF: Optimized Secure Two-Party Computation Protocols for Nonlinear Activation Functions in Recurrent Neural Network**|Qian Feng et.al.|[2403.00239](http://arxiv.org/abs/2403.00239)|**[link](https://github.com/samsara430381/2pc)**|
 |**2024-02-29**|**Privacy-Preserving Distributed Optimization and Learning**|Ziqin Chen et.al.|[2403.00157](http://arxiv.org/abs/2403.00157)|null|
 |**2024-02-29**|**FedStruct: Federated Decoupled Learning over Interconnected Graphs**|Javad Aliakbari et.al.|[2402.19163](http://arxiv.org/abs/2402.19163)|null|
-|**2024-02-29**|**CollaFuse: Navigating Limited Resources and Privacy in Collaborative Generative AI**|Domenique Zipperling et.al.|[2402.19105](http://arxiv.org/abs/2402.19105)|null|
+|**2024-02-29**|**CollaFuse: Navigating Limited Resources and Privacy in Collaborative Generative AI**|Domenique Zipperling et.al.|[2402.19105](http://arxiv.org/abs/2402.19105)|**[link](https://github.com/simeonallmendinger/collafuse_imagen)**|
 |**2024-02-29**|**RobWE: Robust Watermark Embedding for Personalized Federated Learning Model Ownership Protection**|Yang Xu et.al.|[2402.19054](http://arxiv.org/abs/2402.19054)|null|
 |**2024-02-29**|**SPriFed-OMP: A Differentially Private Federated Learning Algorithm for Sparse Basis Recovery**|Ajinkya Kiran Mulay et.al.|[2402.19016](http://arxiv.org/abs/2402.19016)|null|
 |**2024-02-29**|**PrivatEyes: Appearance-based Gaze Estimation Using Federated Secure Multi-Party Computation**|Mayar Elfares et.al.|[2402.18970](http://arxiv.org/abs/2402.18970)|null|
