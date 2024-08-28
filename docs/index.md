@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-23**|**IoT Monitoring with Blockchain: Generating Smart Contracts from Service Level Agreements**|Adam Booth et.al.|[2408.15016](http://arxiv.org/abs/2408.15016)|null|
+|**2024-08-26**|**Instrumenting Transaction Trace Properties in Smart Contracts: Extending the EVM for Real-Time Security**|Zhiyang Chen et.al.|[2408.14621](http://arxiv.org/abs/2408.14621)|null|
 |**2024-08-22**|**Decoding Decentralized Finance Transactions through Ego Network Motif Mining**|Natkamon Tovanich et.al.|[2408.12311](http://arxiv.org/abs/2408.12311)|null|
 |**2024-08-20**|**Smart Contract Coordinated Privacy Preserving Crowd-Sensing Campaigns**|Luca Bedogni et.al.|[2408.10648](http://arxiv.org/abs/2408.10648)|null|
 |**2024-08-19**|**Vulseye: Detect Smart Contract Vulnerabilities via Stateful Directed Graybox Fuzzing**|Ruichao Liang et.al.|[2408.10116](http://arxiv.org/abs/2408.10116)|null|
@@ -481,6 +483,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-27**|**DCT-CryptoNets: Scaling Private Inference in the Frequency Domain**|Arjun Roy et.al.|[2408.15231](http://arxiv.org/abs/2408.15231)|null|
+|**2024-08-27**|**MMASD+: A Novel Dataset for Privacy-Preserving Behavior Analysis of Children with Autism Spectrum Disorder**|Pavan Uttej Ravva et.al.|[2408.15077](http://arxiv.org/abs/2408.15077)|**[link](https://github.com/pavanravva/enhanced-mmasd)**|
+|**2024-08-27**|**Effective Anonymous Messaging: the Role of Altruism**|Marcell Frank et.al.|[2408.14980](http://arxiv.org/abs/2408.14980)|null|
+|**2024-08-27**|**Bandwidth-Aware and Overlap-Weighted Compression for Communication-Efficient Federated Learning**|Zichen Tang et.al.|[2408.14736](http://arxiv.org/abs/2408.14736)|null|
+|**2024-08-27**|**PPVF: An Efficient Privacy-Preserving Online Video Fetching Framework with Correlated Differential Privacy**|Xianzhi Zhang et.al.|[2408.14735](http://arxiv.org/abs/2408.14735)|null|
+|**2024-08-26**|**Federated User Preference Modeling for Privacy-Preserving Cross-Domain Recommendation**|Li Wang et.al.|[2408.14689](http://arxiv.org/abs/2408.14689)|**[link](https://github.com/lili1013/fupm)**|
 |**2024-08-26**|**Hyperdimensional Computing Empowered Federated Foundation Model over Wireless Networks for Metaverse**|Yahao Ding et.al.|[2408.14416](http://arxiv.org/abs/2408.14416)|null|
 |**2024-08-26**|**PHEVA: A Privacy-preserving Human-centric Video Anomaly Detection Dataset**|Ghazal Alinezhad Noghre et.al.|[2408.14329](http://arxiv.org/abs/2408.14329)|**[link](https://github.com/tecsar-uncc/pheva)**|
 |**2024-08-26**|**Resource Efficient Asynchronous Federated Learning for Digital Twin Empowered IoT Network**|Shunfeng Chu et.al.|[2408.14298](http://arxiv.org/abs/2408.14298)|null|
