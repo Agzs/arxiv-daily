@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**EdgeLinker: Practical Blockchain-based Framework for Healthcare Fog Applications to Enhance Security in Edge-IoT Data Communications**|Mahdi Akbari Zarkesh et.al.|[2408.15838](http://arxiv.org/abs/2408.15838)|null|
+|**2024-08-27**|**CrossInspector: A Static Analysis Approach for Cross-Contract Vulnerability Detection**|Xiao Chen et.al.|[2408.15292](http://arxiv.org/abs/2408.15292)|null|
 |**2024-08-23**|**IoT Monitoring with Blockchain: Generating Smart Contracts from Service Level Agreements**|Adam Booth et.al.|[2408.15016](http://arxiv.org/abs/2408.15016)|null|
 |**2024-08-26**|**Instrumenting Transaction Trace Properties in Smart Contracts: Extending the EVM for Real-Time Security**|Zhiyang Chen et.al.|[2408.14621](http://arxiv.org/abs/2408.14621)|null|
 |**2024-08-22**|**Decoding Decentralized Finance Transactions through Ego Network Motif Mining**|Natkamon Tovanich et.al.|[2408.12311](http://arxiv.org/abs/2408.12311)|null|
@@ -394,7 +396,7 @@ layout: default
 |**2024-08-12**|**SZKP: A Scalable Accelerator Architecture for Zero-Knowledge Proofs**|Alhad Daftardar et.al.|[2408.05890](http://arxiv.org/abs/2408.05890)|null|
 |**2024-08-01**|**A Zero-Knowledge Proof of Knowledge for Subgroup Distance Problem**|Cansu Betin Onur et.al.|[2408.00395](http://arxiv.org/abs/2408.00395)|null|
 |**2024-08-01**|**A Survey on the Applications of Zero-Knowledge Proofs**|Ryan Lavin et.al.|[2408.00243](http://arxiv.org/abs/2408.00243)|null|
-|**2024-07-29**|**Efficient Byzantine-Robust and Provably Privacy-Preserving Federated Learning**|Chenfei Nie et.al.|[2407.19703](http://arxiv.org/abs/2407.19703)|null|
+|**2024-07-29**|**Efficient Byzantine-Robust and Provably Privacy-Preserving Federated Learning**|Chenfei Nie et.al.|[2407.19703](http://arxiv.org/abs/2407.19703)|**[link](https://github.com/bpfl/bpfl)**|
 |**2024-07-28**|**Complete Security and Privacy for AI Inference in Decentralized Systems**|Hongyang Zhang et.al.|[2407.19401](http://arxiv.org/abs/2407.19401)|null|
 |**2024-07-09**|**Towards a Novel Privacy-Preserving Distributed Multiparty Data Outsourcing Scheme for Cloud Computing with Quantum Key Distribution**|D. Dhinakaran et.al.|[2407.18923](http://arxiv.org/abs/2407.18923)|null|
 |**2024-07-25**|**SoK: Bridging Trust into the Blockchain. A Systematic Review on On-Chain Identity**|Awid Vaziry et.al.|[2407.17276](http://arxiv.org/abs/2407.17276)|null|
@@ -483,6 +485,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**ModalityMirror: Improving Audio Classification in Modality Heterogeneity Federated Learning with Multimodal Distillation**|Tiantian Feng et.al.|[2408.15803](http://arxiv.org/abs/2408.15803)|null|
+|**2024-08-28**|**Protecting Privacy in Federated Time Series Analysis: A Pragmatic Technology Review for Application Developers**|Daniel Bachlechner et.al.|[2408.15694](http://arxiv.org/abs/2408.15694)|null|
+|**2024-08-28**|**PDSR: A Privacy-Preserving Diversified Service Recommendation Method on Distributed Data**|Lina Wang et.al.|[2408.15688](http://arxiv.org/abs/2408.15688)|null|
+|**2024-08-28**|**Convergent Differential Privacy Analysis for General Federated Learning: the f-DP Perspective**|Yan Sun et.al.|[2408.15621](http://arxiv.org/abs/2408.15621)|null|
+|**2024-08-28**|**Exploring Selective Layer Fine-Tuning in Federated Learning**|Yuchang Sun et.al.|[2408.15600](http://arxiv.org/abs/2408.15600)|null|
+|**2024-08-28**|**VFLIP: A Backdoor Defense for Vertical Federated Learning via Identification and Purification**|Yungi Cho et.al.|[2408.15591](http://arxiv.org/abs/2408.15591)|**[link](https://github.com/blingcho/vflip-esorics24)**|
 |**2024-08-27**|**DCT-CryptoNets: Scaling Private Inference in the Frequency Domain**|Arjun Roy et.al.|[2408.15231](http://arxiv.org/abs/2408.15231)|null|
 |**2024-08-27**|**MMASD+: A Novel Dataset for Privacy-Preserving Behavior Analysis of Children with Autism Spectrum Disorder**|Pavan Uttej Ravva et.al.|[2408.15077](http://arxiv.org/abs/2408.15077)|**[link](https://github.com/pavanravva/enhanced-mmasd)**|
 |**2024-08-27**|**Effective Anonymous Messaging: the Role of Altruism**|Marcell Frank et.al.|[2408.14980](http://arxiv.org/abs/2408.14980)|null|
