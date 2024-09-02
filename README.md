@@ -497,6 +497,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-30**|**Privacy-Preserving Set-Based Estimation Using Differential Privacy and Zonotopes**|Mohammed M. Dawoud et.al.|[2408.17263](http://arxiv.org/abs/2408.17263)|null|
+|**2024-08-30**|**Democratizing AI in Africa: FL for Low-Resource Edge Devices**|Jorge Fabila et.al.|[2408.17216](http://arxiv.org/abs/2408.17216)|null|
+|**2024-08-30**|**Towards Hyper-parameter-free Federated Learning**|Geetika et.al.|[2408.17145](http://arxiv.org/abs/2408.17145)|**[link](https://github.com/zk23du/fedli)**|
+|**2024-08-30**|**FissionVAE: Federated Non-IID Image Generation with Latent Space and Decoder Decomposition**|Chen Hu et.al.|[2408.17090](http://arxiv.org/abs/2408.17090)|**[link](https://github.com/rand2ai/fissionvae)**|
+|**2024-08-30**|**SPOQchain: Platform for Secure, Scalable, and Privacy-Preserving Supply Chain Tracing and Counterfeit Protection**|Moritz Finke et.al.|[2408.17049](http://arxiv.org/abs/2408.17049)|null|
 |**2024-08-28**|**ModalityMirror: Improving Audio Classification in Modality Heterogeneity Federated Learning with Multimodal Distillation**|Tiantian Feng et.al.|[2408.15803](http://arxiv.org/abs/2408.15803)|null|
 |**2024-08-28**|**Protecting Privacy in Federated Time Series Analysis: A Pragmatic Technology Review for Application Developers**|Daniel Bachlechner et.al.|[2408.15694](http://arxiv.org/abs/2408.15694)|null|
 |**2024-08-28**|**PDSR: A Privacy-Preserving Diversified Service Recommendation Method on Distributed Data**|Lina Wang et.al.|[2408.15688](http://arxiv.org/abs/2408.15688)|null|
