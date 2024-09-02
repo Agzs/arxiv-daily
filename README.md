@@ -647,7 +647,7 @@
 |**2024-07-29**|**Private and Secure Fuzzy Name Matching**|Harsh Kasyap et.al.|[2407.19979](http://arxiv.org/abs/2407.19979)|null|
 |**2024-07-29**|**FedDEO: Description-Enhanced One-Shot Federated Learning with Diffusion Models**|Mingzhao Yang et.al.|[2407.19953](http://arxiv.org/abs/2407.19953)|null|
 |**2024-07-29**|**Federated Learning based Latent Factorization of Tensors for Privacy-Preserving QoS Prediction**|Shuai Zhong et.al.|[2407.19828](http://arxiv.org/abs/2407.19828)|null|
-|**2024-07-29**|**Efficient Byzantine-Robust and Provably Privacy-Preserving Federated Learning**|Chenfei Nie et.al.|[2407.19703](http://arxiv.org/abs/2407.19703)|null|
+|**2024-07-29**|**Efficient Byzantine-Robust and Provably Privacy-Preserving Federated Learning**|Chenfei Nie et.al.|[2407.19703](http://arxiv.org/abs/2407.19703)|**[link](https://github.com/bpfl/bpfl)**|
 |**2024-07-28**|**Reputation-Driven Asynchronous Federated Learning for Enhanced Trajectory Prediction with Blockchain**|Weiliang Chen et.al.|[2407.19428](http://arxiv.org/abs/2407.19428)|null|
 |**2024-07-28**|**FIARSE: Model-Heterogeneous Federated Learning via Importance-Aware Submodel Extraction**|Feijie Wu et.al.|[2407.19389](http://arxiv.org/abs/2407.19389)|null|
 |**2024-07-27**|**Enhancing Group Fairness in Federated Learning through Personalization**|Yifan Yang et.al.|[2407.19331](http://arxiv.org/abs/2407.19331)|null|
@@ -1764,7 +1764,7 @@
 |**2023-12-21**|**HElium: A Language and Compiler for Fully Homomorphic Encryption with Support for Proxy Re-Encryption**|Mirko Günther et.al.|[2312.14250](http://arxiv.org/abs/2312.14250)|null|
 |**2023-12-21**|**Fed-CO $_{2}$ : Cooperation of Online and Offline Models for Severe Data Heterogeneity in Federated Learning**|Zhongyi Cai et.al.|[2312.13923](http://arxiv.org/abs/2312.13923)|**[link](https://github.com/zhyczy/fed-co2)**|
 |**2023-12-21**|**Sparse Training for Federated Learning with Regularized Error Correction**|Ran Greidi et.al.|[2312.13795](http://arxiv.org/abs/2312.13795)|null|
-|**2023-12-21**|**ProvFL: Client-Driven Interpretability of Global Model Predictions in Federated Learning**|Waris Gill et.al.|[2312.13632](http://arxiv.org/abs/2312.13632)|null|
+|**2023-12-21**|**ProvFL: Client-Driven Interpretability of Global Model Predictions in Federated Learning**|Waris Gill et.al.|[2312.13632](http://arxiv.org/abs/2312.13632)|**[link](https://github.com/warisgill/tracefl)**|
 |**2023-12-21**|**Topology Learning for Heterogeneous Decentralized Federated Learning over Unreliable D2D Networks**|Zheshun Wu et.al.|[2312.13611](http://arxiv.org/abs/2312.13611)|null|
 |**2023-12-21**|**Hierarchical Optimization of Metaheuristic Algorithms and Federated Learning for Enhanced Capacity Management and Load Balancing in HetNets**|Saimin Chen Zhang et.al.|[2312.13592](http://arxiv.org/abs/2312.13592)|null|
 |**2023-12-21**|**Multimodal Federated Learning with Missing Modality via Prototype Mask and Contrast**|Guangyin Bao et.al.|[2312.13508](http://arxiv.org/abs/2312.13508)|null|
