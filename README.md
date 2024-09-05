@@ -20,6 +20,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Dissecting Payload-based Transaction Phishing on Ethereum**|Zhuo Chen et.al.|[2409.02386](http://arxiv.org/abs/2409.02386)|null|
+|**2024-09-02**|**The Role of Transformer Models in Advancing Blockchain Technology: A Systematic Review**|Tianxu Liu et.al.|[2409.02139](http://arxiv.org/abs/2409.02139)|null|
+|**2024-09-03**|**Securing Federated Learning in Robot Swarms using Blockchain Technology**|Alexandre Pacheco et.al.|[2409.01900](http://arxiv.org/abs/2409.01900)|null|
+|**2024-09-03**|**Strengthening Solidity Invariant Generation: From Post- to Pre-Deployment**|Kartik Kaushik et.al.|[2409.01804](http://arxiv.org/abs/2409.01804)|null|
+|**2024-09-03**|**DogeFuzz: A Simple Yet Efficient Grey-box Fuzzer for Ethereum Smart Contracts**|Ismael Medeiros et.al.|[2409.01788](http://arxiv.org/abs/2409.01788)|null|
 |**2024-08-28**|**EdgeLinker: Practical Blockchain-based Framework for Healthcare Fog Applications to Enhance Security in Edge-IoT Data Communications**|Mahdi Akbari Zarkesh et.al.|[2408.15838](http://arxiv.org/abs/2408.15838)|null|
 |**2024-08-27**|**CrossInspector: A Static Analysis Approach for Cross-Contract Vulnerability Detection**|Xiao Chen et.al.|[2408.15292](http://arxiv.org/abs/2408.15292)|null|
 |**2024-08-23**|**IoT Monitoring with Blockchain: Generating Smart Contracts from Service Level Agreements**|Adam Booth et.al.|[2408.15016](http://arxiv.org/abs/2408.15016)|null|
@@ -402,6 +407,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-03**|**Benchmarking ZK-Friendly Hash Functions and SNARK Proving Systems for EVM-compatible Blockchains**|Hanze Guo et.al.|[2409.01976](http://arxiv.org/abs/2409.01976)|null|
+|**2024-09-03**|**Private Electronic Payments with Self-Custody and Zero-Knowledge Verified Reissuance**|Daniele Friolo et.al.|[2409.01958](http://arxiv.org/abs/2409.01958)|null|
 |**2024-08-24**|**Tatami Printer: Physical ZKPs for Tatami Puzzles**|Suthee Ruangwises et.al.|[2408.13507](http://arxiv.org/abs/2408.13507)|null|
 |**2024-08-12**|**SZKP: A Scalable Accelerator Architecture for Zero-Knowledge Proofs**|Alhad Daftardar et.al.|[2408.05890](http://arxiv.org/abs/2408.05890)|null|
 |**2024-08-01**|**A Zero-Knowledge Proof of Knowledge for Subgroup Distance Problem**|Cansu Betin Onur et.al.|[2408.00395](http://arxiv.org/abs/2408.00395)|null|
@@ -497,6 +504,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Jäger: Automated Telephone Call Traceback**|David Adei et.al.|[2409.02839](http://arxiv.org/abs/2409.02839)|null|
+|**2024-09-04**|**Federated Quantum-Train with Batched Parameter Generation**|Chen-Yu Liu et.al.|[2409.02763](http://arxiv.org/abs/2409.02763)|null|
+|**2024-09-04**|**A Joint Time and Energy-Efficient Federated Learning-based Computation Offloading Method for Mobile Edge Computing**|Anwesha Mukherjee et.al.|[2409.02548](http://arxiv.org/abs/2409.02548)|null|
+|**2024-09-04**|**CoAst: Validation-Free Contribution Assessment for Federated Learning based on Cross-Round Valuation**|Hao Wu et.al.|[2409.02495](http://arxiv.org/abs/2409.02495)|null|
+|**2024-09-04**|**Learning Privacy-Preserving Student Networks via Discriminative-Generative Distillation**|Shiming Ge et.al.|[2409.02404](http://arxiv.org/abs/2409.02404)|null|
+|**2024-09-04**|**Robust Federated Finetuning of Foundation Models via Alternating Minimization of LoRA**|Shuangyi Chen et.al.|[2409.02346](http://arxiv.org/abs/2409.02346)|null|
+|**2024-09-03**|**Collaboratively Learning Federated Models from Noisy Decentralized Data**|Haoyuan Li et.al.|[2409.02189](http://arxiv.org/abs/2409.02189)|null|
+|**2024-09-03**|**Personalized Federated Learning via Active Sampling**|Alexander Jung et.al.|[2409.02064](http://arxiv.org/abs/2409.02064)|null|
+|**2024-09-03**|**FedMinds: Privacy-Preserving Personalized Brain Visual Decoding**|Guangyin Bao et.al.|[2409.02044](http://arxiv.org/abs/2409.02044)|null|
+|**2024-09-03**|**QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems**|Bozhidar Stevanoski et.al.|[2409.01992](http://arxiv.org/abs/2409.01992)|null|
 |**2024-08-30**|**Privacy-Preserving Set-Based Estimation Using Differential Privacy and Zonotopes**|Mohammed M. Dawoud et.al.|[2408.17263](http://arxiv.org/abs/2408.17263)|null|
 |**2024-08-30**|**Democratizing AI in Africa: FL for Low-Resource Edge Devices**|Jorge Fabila et.al.|[2408.17216](http://arxiv.org/abs/2408.17216)|null|
 |**2024-08-30**|**Towards Hyper-parameter-free Federated Learning**|Geetika et.al.|[2408.17145](http://arxiv.org/abs/2408.17145)|**[link](https://github.com/zk23du/fedli)**|
