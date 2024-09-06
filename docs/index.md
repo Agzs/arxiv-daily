@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**Practical Forecasting of Cryptocoins Timeseries using Correlation Patterns**|Pasquale De Rosa et.al.|[2409.03674](http://arxiv.org/abs/2409.03674)|**[link](https://github.com/quapsale/cryptoanalytics)**|
 |**2024-09-04**|**Dissecting Payload-based Transaction Phishing on Ethereum**|Zhuo Chen et.al.|[2409.02386](http://arxiv.org/abs/2409.02386)|null|
 |**2024-09-05**|**The Role of Transformer Models in Advancing Blockchain Technology: A Systematic Survey**|Tianxu Liu et.al.|[2409.02139](http://arxiv.org/abs/2409.02139)|null|
 |**2024-09-03**|**Securing Federated Learning in Robot Swarms using Blockchain Technology**|Alexandre Pacheco et.al.|[2409.01900](http://arxiv.org/abs/2409.01900)|null|
@@ -353,6 +354,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**A Comprehensive Survey of Blockchain Scalability: Shaping Inner-Chain and Inter-Chain Perspectives**|Baochao Chen et.al.|[2409.02968](http://arxiv.org/abs/2409.02968)|null|
 |**2024-08-19**|**Validation of the Results of Cross-chain Smart Contract Based on Confirmation Method**|Hong Su et.al.|[2408.09962](http://arxiv.org/abs/2408.09962)|null|
 |**2024-07-19**|**Automated Gateways: A Smart Contract-Powered Solution for Interoperability Across Blockchains**|Koosha Esmaeilzadeh Khorasani et.al.|[2407.13001](http://arxiv.org/abs/2407.13001)|null|
 |**2024-07-15**|**Investigating shocking events in the Ethereum stablecoin ecosystem through temporal multilayer graph structure**|Cheick Tidiane Ba et.al.|[2407.10614](http://arxiv.org/abs/2407.10614)|null|
@@ -397,6 +399,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**On the Relativistic Zero Knowledge Quantum Proofs of Knowledge**|Kaiyan Shi et.al.|[2409.03635](http://arxiv.org/abs/2409.03635)|null|
 |**2024-09-03**|**Benchmarking ZK-Friendly Hash Functions and SNARK Proving Systems for EVM-compatible Blockchains**|Hanze Guo et.al.|[2409.01976](http://arxiv.org/abs/2409.01976)|null|
 |**2024-09-03**|**Private Electronic Payments with Self-Custody and Zero-Knowledge Verified Reissuance**|Daniele Friolo et.al.|[2409.01958](http://arxiv.org/abs/2409.01958)|null|
 |**2024-08-24**|**Tatami Printer: Physical ZKPs for Tatami Puzzles**|Suthee Ruangwises et.al.|[2408.13507](http://arxiv.org/abs/2408.13507)|null|
@@ -492,6 +495,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**Wind turbine condition monitoring based on intra- and inter-farm federated learning**|Albin Grataloup et.al.|[2409.03672](http://arxiv.org/abs/2409.03672)|**[link](https://github.com/EnergyWeatherAI/FL-Wind-NBM)**|
+|**2024-09-05**|**VFLGAN-TS: Vertical Federated Learning-based Generative Adversarial Networks for Publication of Vertically Partitioned Time-Series Data**|Xun Yuan et.al.|[2409.03612](http://arxiv.org/abs/2409.03612)|null|
+|**2024-09-05**|**Enabling Practical and Privacy-Preserving Image Processing**|Chao Wang et.al.|[2409.03568](http://arxiv.org/abs/2409.03568)|null|
+|**2024-09-05**|**Enhancing User-Centric Privacy Protection: An Interactive Framework through Diffusion Models and Machine Unlearning**|Huaxi Huang et.al.|[2409.03326](http://arxiv.org/abs/2409.03326)|null|
+|**2024-09-05**|**Federated Prototype-based Contrastive Learning for Privacy-Preserving Cross-domain Recommendation**|Li Wang et.al.|[2409.03294](http://arxiv.org/abs/2409.03294)|null|
+|**2024-09-04**|**Resilient Two-Time-Scale Local Stochastic Gradient Descent for Byzantine Federated Learning**|Amit Dutta et.al.|[2409.03092](http://arxiv.org/abs/2409.03092)|null|
+|**2024-09-04**|**VECA: Reliable and Confidential Resource Clustering for Volunteer Edge-Cloud Computing**|Hemanth Sai Yeddulapalli et.al.|[2409.03057](http://arxiv.org/abs/2409.03057)|null|
 |**2024-09-04**|**Jäger: Automated Telephone Call Traceback**|David Adei et.al.|[2409.02839](http://arxiv.org/abs/2409.02839)|null|
 |**2024-09-04**|**Federated Quantum-Train with Batched Parameter Generation**|Chen-Yu Liu et.al.|[2409.02763](http://arxiv.org/abs/2409.02763)|null|
 |**2024-09-04**|**A Joint Time and Energy-Efficient Federated Learning-based Computation Offloading Method for Mobile Edge Computing**|Anwesha Mukherjee et.al.|[2409.02548](http://arxiv.org/abs/2409.02548)|null|
