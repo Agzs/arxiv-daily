@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.05
+## Updated on 2024.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-04**|**Dissecting Payload-based Transaction Phishing on Ethereum**|Zhuo Chen et.al.|[2409.02386](http://arxiv.org/abs/2409.02386)|null|
-|**2024-09-02**|**The Role of Transformer Models in Advancing Blockchain Technology: A Systematic Review**|Tianxu Liu et.al.|[2409.02139](http://arxiv.org/abs/2409.02139)|null|
+|**2024-09-05**|**The Role of Transformer Models in Advancing Blockchain Technology: A Systematic Survey**|Tianxu Liu et.al.|[2409.02139](http://arxiv.org/abs/2409.02139)|null|
 |**2024-09-03**|**Securing Federated Learning in Robot Swarms using Blockchain Technology**|Alexandre Pacheco et.al.|[2409.01900](http://arxiv.org/abs/2409.01900)|null|
 |**2024-09-03**|**Strengthening Solidity Invariant Generation: From Post- to Pre-Deployment**|Kartik Kaushik et.al.|[2409.01804](http://arxiv.org/abs/2409.01804)|null|
 |**2024-09-03**|**DogeFuzz: A Simple Yet Efficient Grey-box Fuzzer for Ethereum Smart Contracts**|Ismael Medeiros et.al.|[2409.01788](http://arxiv.org/abs/2409.01788)|null|
