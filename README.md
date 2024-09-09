@@ -524,7 +524,7 @@
 |**2024-09-03**|**Personalized Federated Learning via Active Sampling**|Alexander Jung et.al.|[2409.02064](http://arxiv.org/abs/2409.02064)|null|
 |**2024-09-03**|**FedMinds: Privacy-Preserving Personalized Brain Visual Decoding**|Guangyin Bao et.al.|[2409.02044](http://arxiv.org/abs/2409.02044)|null|
 |**2024-09-03**|**QueryCheetah: Fast Automated Discovery of Attribute Inference Attacks Against Query-Based Systems**|Bozhidar Stevanoski et.al.|[2409.01992](http://arxiv.org/abs/2409.01992)|null|
-|**2024-08-30**|**Privacy-Preserving Set-Based Estimation Using Differential Privacy and Zonotopes**|Mohammed M. Dawoud et.al.|[2408.17263](http://arxiv.org/abs/2408.17263)|null|
+|**2024-08-30**|**Privacy-Preserving Set-Based Estimation Using Differential Privacy and Zonotopes**|Mohammed M. Dawoud et.al.|[2408.17263](http://arxiv.org/abs/2408.17263)|**[link](https://github.com/mohammed-dawoud/differentially-private-set-based-estimation-using-zonotopes)**|
 |**2024-08-30**|**Democratizing AI in Africa: FL for Low-Resource Edge Devices**|Jorge Fabila et.al.|[2408.17216](http://arxiv.org/abs/2408.17216)|null|
 |**2024-08-30**|**Towards Hyper-parameter-free Federated Learning**|Geetika et.al.|[2408.17145](http://arxiv.org/abs/2408.17145)|**[link](https://github.com/zk23du/fedli)**|
 |**2024-08-30**|**FissionVAE: Federated Non-IID Image Generation with Latent Space and Decoder Decomposition**|Chen Hu et.al.|[2408.17090](http://arxiv.org/abs/2408.17090)|**[link](https://github.com/rand2ai/fissionvae)**|
@@ -537,7 +537,7 @@
 |**2024-08-29**|**VFLIP: A Backdoor Defense for Vertical Federated Learning via Identification and Purification**|Yungi Cho et.al.|[2408.15591](http://arxiv.org/abs/2408.15591)|**[link](https://github.com/blingcho/vflip-esorics24)**|
 |**2024-08-27**|**DCT-CryptoNets: Scaling Private Inference in the Frequency Domain**|Arjun Roy et.al.|[2408.15231](http://arxiv.org/abs/2408.15231)|null|
 |**2024-08-28**|**MMASD+: A Novel Dataset for Privacy-Preserving Behavior Analysis of Children with Autism Spectrum Disorder**|Pavan Uttej Ravva et.al.|[2408.15077](http://arxiv.org/abs/2408.15077)|**[link](https://github.com/pavanravva/enhanced-mmasd)**|
-|**2024-08-27**|**Effective Anonymous Messaging: the Role of Altruism**|Marcell Frank et.al.|[2408.14980](http://arxiv.org/abs/2408.14980)|null|
+|**2024-08-27**|**Effective Anonymous Messaging: the Role of Altruism**|Marcell Frank et.al.|[2408.14980](http://arxiv.org/abs/2408.14980)|**[link](https://github.com/m9framar/fmd-gt)**|
 |**2024-08-27**|**Bandwidth-Aware and Overlap-Weighted Compression for Communication-Efficient Federated Learning**|Zichen Tang et.al.|[2408.14736](http://arxiv.org/abs/2408.14736)|null|
 |**2024-08-27**|**PPVF: An Efficient Privacy-Preserving Online Video Fetching Framework with Correlated Differential Privacy**|Xianzhi Zhang et.al.|[2408.14735](http://arxiv.org/abs/2408.14735)|null|
 |**2024-08-26**|**Federated User Preference Modeling for Privacy-Preserving Cross-Domain Recommendation**|Li Wang et.al.|[2408.14689](http://arxiv.org/abs/2408.14689)|**[link](https://github.com/lili1013/fupm)**|
@@ -573,7 +573,7 @@
 |**2024-08-21**|**The Key of Parameter Skew in Federated Learning**|Sifan Wang et.al.|[2408.11278](http://arxiv.org/abs/2408.11278)|null|
 |**2024-08-21**|**Privacy-Preserving Data Management using Blockchains**|Michael Mireku Kwakye et.al.|[2408.11263](http://arxiv.org/abs/2408.11263)|null|
 |**2024-08-20**|**NeuLite: Memory-Efficient Federated Learning via Elastic Progressive Training**|Yebo Wu et.al.|[2408.10826](http://arxiv.org/abs/2408.10826)|null|
-|**2024-08-20**|**Security Assessment of Hierarchical Federated Deep Learning**|D Alqattan et.al.|[2408.10752](http://arxiv.org/abs/2408.10752)|null|
+|**2024-08-20**|**Security Assessment of Hierarchical Federated Deep Learning**|D Alqattan et.al.|[2408.10752](http://arxiv.org/abs/2408.10752)|**[link](https://github.com/dalqattan/sechfl)**|
 |**2024-08-20**|**Fine-Tuning a Local LLaMA-3 Large Language Model for Automated Privacy-Preserving Physician Letter Generation in Radiation Oncology**|Yihao Hou et.al.|[2408.10715](http://arxiv.org/abs/2408.10715)|null|
 |**2024-08-20**|**Federated Clustering: An Unsupervised Cluster-Wise Training for Decentralized Data Distributions**|Mirko Nardi et.al.|[2408.10664](http://arxiv.org/abs/2408.10664)|null|
 |**2024-08-20**|**Smart Contract Coordinated Privacy Preserving Crowd-Sensing Campaigns**|Luca Bedogni et.al.|[2408.10648](http://arxiv.org/abs/2408.10648)|null|
@@ -1057,7 +1057,7 @@
 |**2024-05-16**|**Federated Learning for Misbehaviour Detection with Variational Autoencoders and Gaussian Mixture Models**|Enrique Mármol Campos et.al.|[2405.09903](http://arxiv.org/abs/2405.09903)|**[link](https://github.com/enrique-marmol/federated-learning-for-misbehaviour-detection-with-variational-autoencoder-and-gaussian-mixture-mode)**|
 |**2024-05-16**|**Balancing Similarity and Complementarity for Federated Learning**|Kunda Yan et.al.|[2405.09892](http://arxiv.org/abs/2405.09892)|null|
 |**2024-05-16**|**Advances in Robust Federated Learning: Heterogeneity Considerations**|Chuan Chen et.al.|[2405.09839](http://arxiv.org/abs/2405.09839)|null|
-|**2024-05-16**|**Harmonizing Generalization and Personalization in Federated Prompt Learning**|Tianyu Cui et.al.|[2405.09771](http://arxiv.org/abs/2405.09771)|null|
+|**2024-05-16**|**Harmonizing Generalization and Personalization in Federated Prompt Learning**|Tianyu Cui et.al.|[2405.09771](http://arxiv.org/abs/2405.09771)|**[link](https://github.com/tianyucuiovo/fedpgp)**|
 |**2024-05-15**|**DP-RuL: Differentially-Private Rule Learning for Clinical Decision Support Systems**|Josephine Lamp et.al.|[2405.09721](http://arxiv.org/abs/2405.09721)|**[link](https://github.com/jozieLamp/DP_Rule_Learning_for_CDSS)**|
 |**2024-05-15**|**MicroPython Testbed for Federated Learning Algorithms**|Miroslav Popovic et.al.|[2405.09423](http://arxiv.org/abs/2405.09423)|**[link](https://github.com/miroslav-popovic/ptbfla)**|
 |**2024-05-15**|**Real-World Federated Learning in Radiology: Hurdles to overcome and Benefits to gain**|Markus R. Bujotzek et.al.|[2405.09409](http://arxiv.org/abs/2405.09409)|null|
