@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-08**|**CONNECTOR: Enhancing the Traceability of Decentralized Bridge Applications via Automatic Cross-chain Transaction Association**|Dan Lin et.al.|[2409.04937](http://arxiv.org/abs/2409.04937)|null|
+|**2024-09-06**|**Detecting Buggy Contracts via Smart Testing**|Sally Junsong Wang et.al.|[2409.04597](http://arxiv.org/abs/2409.04597)|null|
 |**2024-09-05**|**Practical Forecasting of Cryptocoins Timeseries using Correlation Patterns**|Pasquale De Rosa et.al.|[2409.03674](http://arxiv.org/abs/2409.03674)|**[link](https://github.com/quapsale/cryptoanalytics)**|
 |**2024-09-04**|**Dissecting Payload-based Transaction Phishing on Ethereum**|Zhuo Chen et.al.|[2409.02386](http://arxiv.org/abs/2409.02386)|null|
 |**2024-09-05**|**The Role of Transformer Models in Advancing Blockchain Technology: A Systematic Survey**|Tianxu Liu et.al.|[2409.02139](http://arxiv.org/abs/2409.02139)|null|
@@ -354,6 +356,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-08**|**CONNECTOR: Enhancing the Traceability of Decentralized Bridge Applications via Automatic Cross-chain Transaction Association**|Dan Lin et.al.|[2409.04937](http://arxiv.org/abs/2409.04937)|null|
 |**2024-09-04**|**A Comprehensive Survey of Blockchain Scalability: Shaping Inner-Chain and Inter-Chain Perspectives**|Baochao Chen et.al.|[2409.02968](http://arxiv.org/abs/2409.02968)|null|
 |**2024-08-19**|**Validation of the Results of Cross-chain Smart Contract Based on Confirmation Method**|Hong Su et.al.|[2408.09962](http://arxiv.org/abs/2408.09962)|null|
 |**2024-07-19**|**Automated Gateways: A Smart Contract-Powered Solution for Interoperability Across Blockchains**|Koosha Esmaeilzadeh Khorasani et.al.|[2407.13001](http://arxiv.org/abs/2407.13001)|null|
@@ -495,6 +498,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Consensus-based Distributed Quantum Kernel Learning for Speech Recognition**|Kuan-Cheng Chen et.al.|[2409.05770](http://arxiv.org/abs/2409.05770)|null|
+|**2024-09-09**|**pFedGPA: Diffusion-based Generative Parameter Aggregation for Personalized Federated Learning**|Jiahao Lai et.al.|[2409.05701](http://arxiv.org/abs/2409.05701)|null|
+|**2024-09-09**|**FedBrain-Distill: Communication-Efficient Federated Brain Tumor Classification Using Ensemble Knowledge Distillation on Non-IID Data**|Rasoul Jafari Gohari et.al.|[2409.05359](http://arxiv.org/abs/2409.05359)|null|
+|**2024-09-09**|**TriplePlay: Enhancing Federated Learning with CLIP for Non-IID Data and Resource Efficiency**|Ahmed Imteaj et.al.|[2409.05347](http://arxiv.org/abs/2409.05347)|null|
+|**2024-09-09**|**Towards Practical Overlay Networks for Decentralized Federated Learning**|Yifan Hua et.al.|[2409.05331](http://arxiv.org/abs/2409.05331)|null|
+|**2024-09-08**|**FedFT: Improving Communication Performance for Federated Learning with Frequency Space Transformation**|Chamath Palihawadana et.al.|[2409.05242](http://arxiv.org/abs/2409.05242)|null|
+|**2024-09-08**|**Efficient Homomorphically Encrypted Convolutional Neural Network Without Rotation**|Sajjad Akherati et.al.|[2409.05205](http://arxiv.org/abs/2409.05205)|null|
+|**2024-09-08**|**Some Results on Neural Network Stability, Consistency, and Convergence: Insights into Non-IID Data, High-Dimensional Settings, and Physics-Informed Neural Networks**|Ronald Katende et.al.|[2409.05030](http://arxiv.org/abs/2409.05030)|null|
+|**2024-09-08**|**DynamicFL: Federated Learning with Dynamic Communication Resource Allocation**|Qi Le et.al.|[2409.04986](http://arxiv.org/abs/2409.04986)|null|
+|**2024-09-08**|**Balancing Security and Accuracy: A Novel Federated Learning Approach for Cyberattack Detection in Blockchain Networks**|Tran Viet Khoa et.al.|[2409.04972](http://arxiv.org/abs/2409.04972)|null|
 |**2024-09-06**|**Towards Privacy-Preserving Relational Data Synthesis via Probabilistic Relational Models**|Malte Luttermann et.al.|[2409.04194](http://arxiv.org/abs/2409.04194)|null|
 |**2024-09-06**|**Active-Passive Federated Learning for Vertically Partitioned Multi-view Data**|Jiyuan Liu et.al.|[2409.04111](http://arxiv.org/abs/2409.04111)|null|
 |**2024-09-06**|**A First Look At Efficient And Secure On-Device LLM Inference Against KV Leakage**|Huan Yang et.al.|[2409.04040](http://arxiv.org/abs/2409.04040)|null|
