@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**DroneXNFT: An NFT-Driven Framework for Secure Autonomous UAV Operations and Flight Data Management**|Khaoula Hidawi et.al.|[2409.06507](http://arxiv.org/abs/2409.06507)|null|
+|**2024-09-10**|**BACKRUNNER: Mitigating Smart Contract Attacks in the Real World**|Chaofan Shou et.al.|[2409.06213](http://arxiv.org/abs/2409.06213)|null|
 |**2024-09-08**|**CONNECTOR: Enhancing the Traceability of Decentralized Bridge Applications via Automatic Cross-chain Transaction Association**|Dan Lin et.al.|[2409.04937](http://arxiv.org/abs/2409.04937)|null|
 |**2024-09-06**|**Detecting Buggy Contracts via Smart Testing**|Sally Junsong Wang et.al.|[2409.04597](http://arxiv.org/abs/2409.04597)|null|
 |**2024-09-05**|**Practical Forecasting of Cryptocoins Timeseries using Correlation Patterns**|Pasquale De Rosa et.al.|[2409.03674](http://arxiv.org/abs/2409.03674)|**[link](https://github.com/quapsale/cryptoanalytics)**|
@@ -510,6 +512,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**DroneXNFT: An NFT-Driven Framework for Secure Autonomous UAV Operations and Flight Data Management**|Khaoula Hidawi et.al.|[2409.06507](http://arxiv.org/abs/2409.06507)|null|
+|**2024-09-10**|**Advancing Hybrid Defense for Byzantine Attacks in Federated Learning**|Kai Yue et.al.|[2409.06474](http://arxiv.org/abs/2409.06474)|null|
+|**2024-09-10**|**A Pervasive, Efficient and Private Future: Realizing Privacy-Preserving Machine Learning Through Hybrid Homomorphic Encryption**|Khoa Nguyen et.al.|[2409.06422](http://arxiv.org/abs/2409.06422)|null|
+|**2024-09-10**|**Compute-Update Federated Learning: A Lattice Coding Approach**|Seyed Mohammad Azimi-Abarghouyi et.al.|[2409.06343](http://arxiv.org/abs/2409.06343)|null|
+|**2024-09-10**|**Rate-Constrained Quantization for Communication-Efficient Federated Learning**|Shayan Mohajer Hamidi et.al.|[2409.06319](http://arxiv.org/abs/2409.06319)|null|
+|**2024-09-10**|**Contrastive Federated Learning with Tabular Data Silos**|Achmad Ginanjar et.al.|[2409.06123](http://arxiv.org/abs/2409.06123)|null|
+|**2024-09-09**|**Privacy-Preserving Data Linkage Across Private and Public Datasets for Collaborative Agriculture Research**|Osama Zafar et.al.|[2409.06069](http://arxiv.org/abs/2409.06069)|null|
+|**2024-09-09**|**MLLM-FL: Multimodal Large Language Model Assisted Federated Learning on Heterogeneous and Long-tailed Data**|Jianyi Zhang et.al.|[2409.06067](http://arxiv.org/abs/2409.06067)|null|
+|**2024-09-09**|**FLoRA: Federated Fine-Tuning Large Language Models with Heterogeneous Low-Rank Adaptations**|Ziyao Wang et.al.|[2409.05976](http://arxiv.org/abs/2409.05976)|**[link](https://github.com/atp-1010/federatedllm)**|
 |**2024-09-09**|**Consensus-based Distributed Quantum Kernel Learning for Speech Recognition**|Kuan-Cheng Chen et.al.|[2409.05770](http://arxiv.org/abs/2409.05770)|null|
 |**2024-09-09**|**pFedGPA: Diffusion-based Generative Parameter Aggregation for Personalized Federated Learning**|Jiahao Lai et.al.|[2409.05701](http://arxiv.org/abs/2409.05701)|null|
 |**2024-09-09**|**FedBrain-Distill: Communication-Efficient Federated Brain Tumor Classification Using Ensemble Knowledge Distillation on Non-IID Data**|Rasoul Jafari Gohari et.al.|[2409.05359](http://arxiv.org/abs/2409.05359)|**[link](https://github.com/russelljeffrey/FedBrain-Distill)**|
