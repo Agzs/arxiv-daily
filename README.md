@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**A Novel Voting System for Medical Catalogues in National Health Insurance**|Xingyuan Liang et.al.|[2409.07057](http://arxiv.org/abs/2409.07057)|null|
 |**2024-09-10**|**DroneXNFT: An NFT-Driven Framework for Secure Autonomous UAV Operations and Flight Data Management**|Khaoula Hidawi et.al.|[2409.06507](http://arxiv.org/abs/2409.06507)|null|
 |**2024-09-10**|**BACKRUNNER: Mitigating Smart Contract Attacks in the Real World**|Chaofan Shou et.al.|[2409.06213](http://arxiv.org/abs/2409.06213)|null|
 |**2024-09-08**|**CONNECTOR: Enhancing the Traceability of Decentralized Bridge Applications via Automatic Cross-chain Transaction Association**|Dan Lin et.al.|[2409.04937](http://arxiv.org/abs/2409.04937)|null|
@@ -512,6 +513,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Federated Impression for Learning with Distributed Heterogeneous Data**|Sana Ayromlou et.al.|[2409.07351](http://arxiv.org/abs/2409.07351)|null|
+|**2024-09-11**|**Exploring User-level Gradient Inversion with a Diffusion Prior**|Zhuohang Li et.al.|[2409.07291](http://arxiv.org/abs/2409.07291)|null|
+|**2024-09-11**|**Federated $\mathcal{X}$ -armed Bandit with Flexible Personalisation**|Ali Arabzadeh et.al.|[2409.07251](http://arxiv.org/abs/2409.07251)|null|
+|**2024-09-11**|**Riemannian Federated Learning via Averaging Gradient Stream**|Zhenwei Huang et.al.|[2409.07223](http://arxiv.org/abs/2409.07223)|null|
+|**2024-09-11**|**Is merging worth it? Securely evaluating the information gain for causal dataset acquisition**|Jake Fawkes et.al.|[2409.07215](http://arxiv.org/abs/2409.07215)|null|
+|**2024-09-11**|**Heterogeneity-Aware Coordination for Federated Learning via Stitching Pre-trained blocks**|Shichen Zhan et.al.|[2409.07202](http://arxiv.org/abs/2409.07202)|null|
+|**2024-09-11**|**Privacy-Preserving Federated Learning with Consistency via Knowledge Distillation Using Conditional Generator**|Kangyang Luo et.al.|[2409.06955](http://arxiv.org/abs/2409.06955)|null|
+|**2024-09-10**|**Applied Federated Model Personalisation in the Industrial Domain: A Comparative Study**|Ilias Siniosoglou et.al.|[2409.06904](http://arxiv.org/abs/2409.06904)|null|
+|**2024-09-10**|**Personalized Federated Learning Techniques: Empirical Analysis**|Azal Ahmad Khan et.al.|[2409.06805](http://arxiv.org/abs/2409.06805)|null|
+|**2024-09-10**|**Understanding and Mitigating the Impacts of Differentially Private Census Data on State Level Redistricting**|Christian Cianfarani et.al.|[2409.06801](http://arxiv.org/abs/2409.06801)|null|
 |**2024-09-10**|**DroneXNFT: An NFT-Driven Framework for Secure Autonomous UAV Operations and Flight Data Management**|Khaoula Hidawi et.al.|[2409.06507](http://arxiv.org/abs/2409.06507)|null|
 |**2024-09-10**|**Advancing Hybrid Defense for Byzantine Attacks in Federated Learning**|Kai Yue et.al.|[2409.06474](http://arxiv.org/abs/2409.06474)|null|
 |**2024-09-10**|**A Pervasive, Efficient and Private Future: Realizing Privacy-Preserving Machine Learning Through Hybrid Homomorphic Encryption**|Khoa Nguyen et.al.|[2409.06422](http://arxiv.org/abs/2409.06422)|null|
