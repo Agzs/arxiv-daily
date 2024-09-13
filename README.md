@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Analyzing the Impact of Copying-and-Pasting Vulnerable Solidity Code Snippets from Question-and-Answer Websites**|Konrad Weiss et.al.|[2409.07586](http://arxiv.org/abs/2409.07586)|null|
 |**2024-09-11**|**A Novel Voting System for Medical Catalogues in National Health Insurance**|Xingyuan Liang et.al.|[2409.07057](http://arxiv.org/abs/2409.07057)|null|
 |**2024-09-10**|**DroneXNFT: An NFT-Driven Framework for Secure Autonomous UAV Operations and Flight Data Management**|Khaoula Hidawi et.al.|[2409.06507](http://arxiv.org/abs/2409.06507)|null|
 |**2024-09-10**|**BACKRUNNER: Mitigating Smart Contract Attacks in the Real World**|Chaofan Shou et.al.|[2409.06213](http://arxiv.org/abs/2409.06213)|null|
@@ -513,6 +514,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**Multi-Model based Federated Learning Against Model Poisoning Attack: A Deep Learning Based Model Selection for MEC Systems**|Somayeh Kianpisheh et.al.|[2409.08237](http://arxiv.org/abs/2409.08237)|null|
+|**2024-09-12**|**Privacy-preserving federated prediction of pain intensity change based on multi-center survey data**|Supratim Das et.al.|[2409.07997](http://arxiv.org/abs/2409.07997)|null|
+|**2024-09-12**|**Over-the-Air Federated Learning via Weighted Aggregation**|Seyed Mohammad Azimi-Abarghouyi et.al.|[2409.07822](http://arxiv.org/abs/2409.07822)|null|
+|**2024-09-12**|**FedHide: Federated Learning by Hiding in the Neighbors**|Hyunsin Park et.al.|[2409.07808](http://arxiv.org/abs/2409.07808)|null|
+|**2024-09-12**|**PDC-FRS: Privacy-preserving Data Contribution for Federated Recommender System**|Chaoqun Yang et.al.|[2409.07773](http://arxiv.org/abs/2409.07773)|null|
+|**2024-09-12**|**Efficient Privacy-Preserving KAN Inference Using Homomorphic Encryption**|Zhizheng Lai et.al.|[2409.07751](http://arxiv.org/abs/2409.07751)|null|
+|**2024-09-12**|**DFDG: Data-Free Dual-Generator Adversarial Distillation for One-Shot Federated Learning**|Kangyang Luo et.al.|[2409.07734](http://arxiv.org/abs/2409.07734)|null|
+|**2024-09-11**|**HERL: Tiered Federated Learning with Adaptive Homomorphic Encryption using Reinforcement Learning**|Jiaxang Tang et.al.|[2409.07631](http://arxiv.org/abs/2409.07631)|null|
 |**2024-09-11**|**Federated Impression for Learning with Distributed Heterogeneous Data**|Sana Ayromlou et.al.|[2409.07351](http://arxiv.org/abs/2409.07351)|null|
 |**2024-09-11**|**Exploring User-level Gradient Inversion with a Diffusion Prior**|Zhuohang Li et.al.|[2409.07291](http://arxiv.org/abs/2409.07291)|null|
 |**2024-09-11**|**Federated $\mathcal{X}$ -armed Bandit with Flexible Personalisation**|Ali Arabzadeh et.al.|[2409.07251](http://arxiv.org/abs/2409.07251)|null|
