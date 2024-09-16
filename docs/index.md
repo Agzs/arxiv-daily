@@ -25,7 +25,7 @@ layout: default
 |**2024-09-05**|**The Role of Transformer Models in Advancing Blockchain Technology: A Systematic Survey**|Tianxu Liu et.al.|[2409.02139](http://arxiv.org/abs/2409.02139)|null|
 |**2024-09-03**|**Securing Federated Learning in Robot Swarms using Blockchain Technology**|Alexandre Pacheco et.al.|[2409.01900](http://arxiv.org/abs/2409.01900)|null|
 |**2024-09-03**|**Strengthening Solidity Invariant Generation: From Post- to Pre-Deployment**|Kartik Kaushik et.al.|[2409.01804](http://arxiv.org/abs/2409.01804)|null|
-|**2024-09-03**|**DogeFuzz: A Simple Yet Efficient Grey-box Fuzzer for Ethereum Smart Contracts**|Ismael Medeiros et.al.|[2409.01788](http://arxiv.org/abs/2409.01788)|null|
+|**2024-09-03**|**DogeFuzz: A Simple Yet Efficient Grey-box Fuzzer for Ethereum Smart Contracts**|Ismael Medeiros et.al.|[2409.01788](http://arxiv.org/abs/2409.01788)|**[link](https://github.com/pamunb/dogefuzz_sbseg_artifact)**|
 |**2024-08-28**|**EdgeLinker: Practical Blockchain-based Framework for Healthcare Fog Applications to Enhance Security in Edge-IoT Data Communications**|Mahdi Akbari Zarkesh et.al.|[2408.15838](http://arxiv.org/abs/2408.15838)|null|
 |**2024-08-27**|**CrossInspector: A Static Analysis Approach for Cross-Contract Vulnerability Detection**|Xiao Chen et.al.|[2408.15292](http://arxiv.org/abs/2408.15292)|null|
 |**2024-08-23**|**IoT Monitoring with Blockchain: Generating Smart Contracts from Service Level Agreements**|Adam Booth et.al.|[2408.15016](http://arxiv.org/abs/2408.15016)|null|
@@ -545,7 +545,7 @@ layout: default
 |**2024-09-06**|**Heterogeneity-Aware Cooperative Federated Edge Learning with Adaptive Computation and Communication Compression**|Zhenxiao Zhang et.al.|[2409.04022](http://arxiv.org/abs/2409.04022)|null|
 |**2024-09-05**|**Can We Theoretically Quantify the Impacts of Local Updates on the Generalization Performance of Federated Learning?**|Peizhong Ju et.al.|[2409.03863](http://arxiv.org/abs/2409.03863)|null|
 |**2024-09-05**|**Wind turbine condition monitoring based on intra- and inter-farm federated learning**|Albin Grataloup et.al.|[2409.03672](http://arxiv.org/abs/2409.03672)|**[link](https://github.com/EnergyWeatherAI/FL-Wind-NBM)**|
-|**2024-09-05**|**VFLGAN-TS: Vertical Federated Learning-based Generative Adversarial Networks for Publication of Vertically Partitioned Time-Series Data**|Xun Yuan et.al.|[2409.03612](http://arxiv.org/abs/2409.03612)|null|
+|**2024-09-05**|**VFLGAN-TS: Vertical Federated Learning-based Generative Adversarial Networks for Publication of Vertically Partitioned Time-Series Data**|Xun Yuan et.al.|[2409.03612](http://arxiv.org/abs/2409.03612)|**[link](https://github.com/YuanXun2024/VFLGAN-TS)**|
 |**2024-09-05**|**Enabling Practical and Privacy-Preserving Image Processing**|Chao Wang et.al.|[2409.03568](http://arxiv.org/abs/2409.03568)|null|
 |**2024-09-05**|**Enhancing User-Centric Privacy Protection: An Interactive Framework through Diffusion Models and Machine Unlearning**|Huaxi Huang et.al.|[2409.03326](http://arxiv.org/abs/2409.03326)|null|
 |**2024-09-05**|**Federated Prototype-based Contrastive Learning for Privacy-Preserving Cross-domain Recommendation**|Li Wang et.al.|[2409.03294](http://arxiv.org/abs/2409.03294)|null|
@@ -1512,7 +1512,7 @@ layout: default
 |**2024-02-29**|**PrivatEyes: Appearance-based Gaze Estimation Using Federated Secure Multi-Party Computation**|Mayar Elfares et.al.|[2402.18970](http://arxiv.org/abs/2402.18970)|null|
 |**2024-02-29**|**Improving Group Connectivity for Generalization of Federated Deep Learning**|Zexi Li et.al.|[2402.18949](http://arxiv.org/abs/2402.18949)|null|
 |**2024-03-01**|**Uncertainty-Based Extensible Codebook for Discrete Federated Learning in Heterogeneous Data Silos**|Tianyi Zhang et.al.|[2402.18888](http://arxiv.org/abs/2402.18888)|**[link](https://github.com/destiny301/uefl)**|
-|**2024-02-29**|**Privacy-Preserving Autoencoder for Collaborative Object Detection**|Bardia Azizian et.al.|[2402.18864](http://arxiv.org/abs/2402.18864)|null|
+|**2024-02-29**|**Privacy-Preserving Autoencoder for Collaborative Object Detection**|Bardia Azizian et.al.|[2402.18864](http://arxiv.org/abs/2402.18864)|**[link](https://github.com/bardia-az/ppa-code)**|
 |**2024-02-28**|**Energy-Aware Heterogeneous Federated Learning via Approximate Systolic DNN Accelerators**|Kilian Pfeiffer et.al.|[2402.18569](http://arxiv.org/abs/2402.18569)|null|
 |**2024-02-28**|**HyperFedNet: Communication-Efficient Personalized Federated Learning Via Hypernetwork**|Xingyun Chen et.al.|[2402.18445](http://arxiv.org/abs/2402.18445)|null|
 |**2024-02-27**|**FedUV: Uniformity and Variance for Heterogeneous Federated Learning**|Ha Min Son et.al.|[2402.18372](http://arxiv.org/abs/2402.18372)|null|
