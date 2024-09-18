@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**The Incredible Shrinking Context... in a decompiler near you**|Sifis Lagouvardos et.al.|[2409.11157](http://arxiv.org/abs/2409.11157)|null|
+|**2024-09-16**|**Deterministic Bounds in Committee Selection: Enhancing Decentralization and Scalability in Distributed Ledgers**|Grigorii Melnikov et.al.|[2409.10727](http://arxiv.org/abs/2409.10727)|null|
+|**2024-09-15**|**Detection Made Easy: Potentials of Large Language Models for Solidity Vulnerabilities**|Md Tauseef Alam et.al.|[2409.10574](http://arxiv.org/abs/2409.10574)|null|
 |**2024-09-15**|**ContractTinker: LLM-Empowered Vulnerability Repair for Real-World Smart Contracts**|Che Wang et.al.|[2409.09661](http://arxiv.org/abs/2409.09661)|null|
 |**2024-09-13**|**Research on Data Right Confirmation Mechanism of Federated Learning based on Blockchain**|Xiaogang Cheng et.al.|[2409.08476](http://arxiv.org/abs/2409.08476)|null|
 |**2024-09-12**|**Automated Cybersecurity Compliance and Threat Response Using AI, Blockchain & Smart Contracts**|Lampis Alevizos et.al.|[2409.08390](http://arxiv.org/abs/2409.08390)|null|
@@ -506,11 +509,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**Federated Learning with Integrated Sensing, Communication, and Computation: Frameworks and Performance Analysis**|Yipeng Liang et.al.|[2409.11240](http://arxiv.org/abs/2409.11240)|null|
+|**2024-09-17**|**Optimizing TinyML: The Impact of Reduced Data Acquisition Rates for Time Series Classification on Microcontrollers**|Riya Samanta et.al.|[2409.10942](http://arxiv.org/abs/2409.10942)|null|
+|**2024-09-16**|**Federated Learning for Smart Grid: A Survey on Applications and Potential Vulnerabilities**|Zikai Zhang et.al.|[2409.10764](http://arxiv.org/abs/2409.10764)|null|
+|**2024-09-16**|**On the effects of similarity metrics in decentralized deep learning under distributional shift**|Edvin Listo Zec et.al.|[2409.10720](http://arxiv.org/abs/2409.10720)|null|
 |**2024-09-16**|**TPFL: Tsetlin-Personalized Federated Learning with Confidence-Based Clustering**|Rasoul Jafari Gohari et.al.|[2409.10392](http://arxiv.org/abs/2409.10392)|null|
 |**2024-09-16**|**Privacy-Preserving Distributed Maximum Consensus Without Accuracy Loss**|Wenrui Yu et.al.|[2409.10226](http://arxiv.org/abs/2409.10226)|null|
 |**2024-09-16**|**PrePaMS: Privacy-Preserving Participant Management System for Studies with Rewards and Prerequisites**|Echo Meißner et.al.|[2409.10192](http://arxiv.org/abs/2409.10192)|null|
 |**2024-09-16**|**A Response to: A Note on "Privacy Preserving n-Party Scalar Product Protocol"**|Florian van Daalen et.al.|[2409.10057](http://arxiv.org/abs/2409.10057)|null|
-|**2024-09-17**|**Generating Synthetic Free-text Medical Records with Low Re-identification Risk using Masked Language Modeling**|Samuel Belkadi et.al.|[2409.09831](http://arxiv.org/abs/2409.09831)|null|
+|**2024-09-17**|**Generating Synthetic Free-text Medical Records with Low Re-identification Risk using Masked Language Modeling**|Samuel Belkadi et.al.|[2409.09831](http://arxiv.org/abs/2409.09831)|**[link](https://github.com/SamySam0/SynDeidMLM)**|
 |**2024-09-15**|**Federated Learning in Adversarial Environments: Testbed Design and Poisoning Resilience in Cybersecurity**|Hao Jian Huang et.al.|[2409.09794](http://arxiv.org/abs/2409.09794)|null|
 |**2024-09-15**|**From Challenges and Pitfalls to Recommendations and Opportunities: Implementing Federated Learning in Healthcare**|Ming Li et.al.|[2409.09727](http://arxiv.org/abs/2409.09727)|null|
 |**2024-09-14**|**A Statistical Viewpoint on Differential Privacy: Hypothesis Testing, Representation and Blackwell's Theorem**|Weijie J. Su et.al.|[2409.09558](http://arxiv.org/abs/2409.09558)|null|
