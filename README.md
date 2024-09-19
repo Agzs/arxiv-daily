@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Semantic Interoperability on Blockchain by Generating Smart Contracts Based on Knowledge Graphs**|William Van Woensel et.al.|[2409.12171](http://arxiv.org/abs/2409.12171)|null|
+|**2024-09-18**|**Empowering Visual Artists with Tokenized Digital Assets with NFTs**|Ruiqiang Li et.al.|[2409.11790](http://arxiv.org/abs/2409.11790)|null|
+|**2024-09-17**|**CountChain: A Decentralized Oracle Network for Counting Systems**|Behkish Nassirzadeh et.al.|[2409.11592](http://arxiv.org/abs/2409.11592)|null|
 |**2024-09-17**|**The Incredible Shrinking Context... in a decompiler near you**|Sifis Lagouvardos et.al.|[2409.11157](http://arxiv.org/abs/2409.11157)|null|
 |**2024-09-16**|**Deterministic Bounds in Committee Selection: Enhancing Decentralization and Scalability in Distributed Ledgers**|Grigorii Melnikov et.al.|[2409.10727](http://arxiv.org/abs/2409.10727)|null|
 |**2024-09-15**|**Detection Made Easy: Potentials of Large Language Models for Solidity Vulnerabilities**|Md Tauseef Alam et.al.|[2409.10574](http://arxiv.org/abs/2409.10574)|null|
@@ -521,6 +524,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**FedLF: Adaptive Logit Adjustment and Feature Optimization in Federated Long-Tailed Learning**|Xiuhua Lu et.al.|[2409.12105](http://arxiv.org/abs/2409.12105)|**[link](https://github.com/18sym/fedlf)**|
+|**2024-09-18**|**Promise and Peril of Collaborative Code Generation Models: Balancing Effectiveness and Memorization**|Zhi Chen et.al.|[2409.12020](http://arxiv.org/abs/2409.12020)|null|
+|**2024-09-18**|**GReDP: A More Robust Approach for Differential Privacy Training with Gradient-Preserving Noise Reduction**|Haodi Wang et.al.|[2409.11663](http://arxiv.org/abs/2409.11663)|null|
+|**2024-09-17**|**Advances in APPFL: A Comprehensive and Extensible Federated Learning Framework**|Zilinghan Li et.al.|[2409.11585](http://arxiv.org/abs/2409.11585)|**[link](https://github.com/appfl/appfl)**|
+|**2024-09-17**|**Obfuscation Based Privacy Preserving Representations are Recoverable Using Neighborhood Information**|Kunal Chelani et.al.|[2409.11536](http://arxiv.org/abs/2409.11536)|null|
+|**2024-09-17**|**FedNE: Surrogate-Assisted Federated Neighbor Embedding for Dimensionality Reduction**|Ziwei Li et.al.|[2409.11509](http://arxiv.org/abs/2409.11509)|null|
 |**2024-09-17**|**Federated Learning with Integrated Sensing, Communication, and Computation: Frameworks and Performance Analysis**|Yipeng Liang et.al.|[2409.11240](http://arxiv.org/abs/2409.11240)|null|
 |**2024-09-17**|**Optimizing TinyML: The Impact of Reduced Data Acquisition Rates for Time Series Classification on Microcontrollers**|Riya Samanta et.al.|[2409.10942](http://arxiv.org/abs/2409.10942)|null|
 |**2024-09-16**|**Federated Learning for Smart Grid: A Survey on Applications and Potential Vulnerabilities**|Zikai Zhang et.al.|[2409.10764](http://arxiv.org/abs/2409.10764)|null|
