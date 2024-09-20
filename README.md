@@ -29,7 +29,7 @@
 |**2024-09-15**|**ContractTinker: LLM-Empowered Vulnerability Repair for Real-World Smart Contracts**|Che Wang et.al.|[2409.09661](http://arxiv.org/abs/2409.09661)|null|
 |**2024-09-13**|**Research on Data Right Confirmation Mechanism of Federated Learning based on Blockchain**|Xiaogang Cheng et.al.|[2409.08476](http://arxiv.org/abs/2409.08476)|null|
 |**2024-09-12**|**Automated Cybersecurity Compliance and Threat Response Using AI, Blockchain & Smart Contracts**|Lampis Alevizos et.al.|[2409.08390](http://arxiv.org/abs/2409.08390)|null|
-|**2024-09-11**|**Analyzing the Impact of Copying-and-Pasting Vulnerable Solidity Code Snippets from Question-and-Answer Websites**|Konrad Weiss et.al.|[2409.07586](http://arxiv.org/abs/2409.07586)|null|
+|**2024-09-11**|**Analyzing the Impact of Copying-and-Pasting Vulnerable Solidity Code Snippets from Question-and-Answer Websites**|Konrad Weiss et.al.|[2409.07586](http://arxiv.org/abs/2409.07586)|**[link](https://github.com/christoftorres/contract-clone-detector)**|
 |**2024-09-11**|**A Novel Voting System for Medical Catalogues in National Health Insurance**|Xingyuan Liang et.al.|[2409.07057](http://arxiv.org/abs/2409.07057)|null|
 |**2024-09-10**|**DroneXNFT: An NFT-Driven Framework for Secure Autonomous UAV Operations and Flight Data Management**|Khaoula Hidawi et.al.|[2409.06507](http://arxiv.org/abs/2409.06507)|null|
 |**2024-09-10**|**BACKRUNNER: Mitigating Smart Contract Attacks in the Real World**|Chaofan Shou et.al.|[2409.06213](http://arxiv.org/abs/2409.06213)|null|
