@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.22
+## Updated on 2024.09.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-11**|**Semantic Interoperability on Blockchain by Generating Smart Contracts Based on Knowledge Graphs**|William Van Woensel et.al.|[2409.12171](http://arxiv.org/abs/2409.12171)|null|
-|**2024-09-18**|**Empowering Visual Artists with Tokenized Digital Assets with NFTs**|Ruiqiang Li et.al.|[2409.11790](http://arxiv.org/abs/2409.11790)|null|
+|**2024-09-20**|**Empowering Visual Artists with Tokenized Digital Assets with NFTs**|Ruiqiang Li et.al.|[2409.11790](http://arxiv.org/abs/2409.11790)|null|
 |**2024-09-17**|**CountChain: A Decentralized Oracle Network for Counting Systems**|Behkish Nassirzadeh et.al.|[2409.11592](http://arxiv.org/abs/2409.11592)|null|
 |**2024-09-17**|**The Incredible Shrinking Context... in a decompiler near you**|Sifis Lagouvardos et.al.|[2409.11157](http://arxiv.org/abs/2409.11157)|null|
 |**2024-09-16**|**Deterministic Bounds in Committee Selection: Enhancing Decentralization and Scalability in Distributed Ledgers**|Grigorii Melnikov et.al.|[2409.10727](http://arxiv.org/abs/2409.10727)|null|
