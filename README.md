@@ -20,6 +20,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**Vulnerabilities that arise from poor governance in Distributed Ledger Technologies**|Aida Manzano Kharman et.al.|[2409.15947](http://arxiv.org/abs/2409.15947)|null|
+|**2024-09-23**|**MECURY: Practical Cross-Chain Exchange via Trusted Hardware**|Xiaoqing Wen et.al.|[2409.14640](http://arxiv.org/abs/2409.14640)|null|
+|**2024-09-22**|**An Integrated Blockchain and IPFS Solution for Secure and Efficient Source Code Repository Hosting using Middleman Approach**|Md. Rafid Haque et.al.|[2409.14530](http://arxiv.org/abs/2409.14530)|null|
+|**2024-09-21**|**Cyber-Physical Authentication Scheme for Secure V2G Transactions Using Blockchain and Smart Contracts**|Yunwang Chen et.al.|[2409.14008](http://arxiv.org/abs/2409.14008)|null|
+|**2024-09-20**|**Proxion: Uncovering Hidden Proxy Smart Contracts for Finding Collision Vulnerabilities in Ethereum**|Cheng-Kang Chen et.al.|[2409.13563](http://arxiv.org/abs/2409.13563)|null|
 |**2024-09-11**|**Semantic Interoperability on Blockchain by Generating Smart Contracts Based on Knowledge Graphs**|William Van Woensel et.al.|[2409.12171](http://arxiv.org/abs/2409.12171)|null|
 |**2024-09-20**|**Empowering Visual Artists with Tokenized Digital Assets with NFTs**|Ruiqiang Li et.al.|[2409.11790](http://arxiv.org/abs/2409.11790)|null|
 |**2024-09-17**|**CountChain: A Decentralized Oracle Network for Counting Systems**|Behkish Nassirzadeh et.al.|[2409.11592](http://arxiv.org/abs/2409.11592)|null|
@@ -377,6 +382,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-23**|**MECURY: Practical Cross-Chain Exchange via Trusted Hardware**|Xiaoqing Wen et.al.|[2409.14640](http://arxiv.org/abs/2409.14640)|null|
 |**2024-09-08**|**CONNECTOR: Enhancing the Traceability of Decentralized Bridge Applications via Automatic Cross-chain Transaction Association**|Dan Lin et.al.|[2409.04937](http://arxiv.org/abs/2409.04937)|null|
 |**2024-09-04**|**A Comprehensive Survey of Blockchain Scalability: Shaping Inner-Chain and Inter-Chain Perspectives**|Baochao Chen et.al.|[2409.02968](http://arxiv.org/abs/2409.02968)|null|
 |**2024-08-19**|**Validation of the Results of Cross-chain Smart Contract Based on Confirmation Method**|Hong Su et.al.|[2408.09962](http://arxiv.org/abs/2408.09962)|null|
@@ -425,6 +431,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-23**|**PrivaMatch: A Privacy-Preserving DNA Matching Scheme for Forensic Investigation**|Sankha Das et.al.|[2409.14798](http://arxiv.org/abs/2409.14798)|null|
+|**2024-09-23**|**TeeRollup: Efficient Rollup Design Using Heterogeneous TEE**|Xiaoqing Wen et.al.|[2409.14647](http://arxiv.org/abs/2409.14647)|null|
+|**2024-09-22**|**NP-Completeness and Physical Zero-Knowledge Proofs for Zeiger**|Suthee Ruangwises et.al.|[2409.14308](http://arxiv.org/abs/2409.14308)|null|
 |**2024-09-16**|**PrePaMS: Privacy-Preserving Participant Management System for Studies with Rewards and Prerequisites**|Echo Meißner et.al.|[2409.10192](http://arxiv.org/abs/2409.10192)|null|
 |**2024-09-05**|**On the Relativistic Zero Knowledge Quantum Proofs of Knowledge**|Kaiyan Shi et.al.|[2409.03635](http://arxiv.org/abs/2409.03635)|null|
 |**2024-09-03**|**Benchmarking ZK-Friendly Hash Functions and SNARK Proving Systems for EVM-compatible Blockchains**|Hanze Guo et.al.|[2409.01976](http://arxiv.org/abs/2409.01976)|null|
@@ -524,6 +533,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**PhD Forum: Efficient Privacy-Preserving Processing via Memory-Centric Computing**|Mpoki Mwaisela et.al.|[2409.16777](http://arxiv.org/abs/2409.16777)|null|
+|**2024-09-24**|**Flight: A FaaS-Based Framework for Complex and Hierarchical Federated Learning**|Nathaniel Hudson et.al.|[2409.16495](http://arxiv.org/abs/2409.16495)|null|
+|**2024-09-24**|**Communication and Energy Efficient Federated Learning using Zero-Order Optimization Technique**|Elissa Mhanna et.al.|[2409.16456](http://arxiv.org/abs/2409.16456)|null|
+|**2024-09-24**|**Artificial Intelligence for Secured Information Systems in Smart Cities: Collaborative IoT Computing with Deep Reinforcement Learning and Blockchain**|Amin Zakaie Far et.al.|[2409.16444](http://arxiv.org/abs/2409.16444)|null|
+|**2024-09-24**|**Towards Synthetic Data Generation for Improved Pain Recognition in Videos under Patient Constraints**|Jonas Nasimzada et.al.|[2409.16382](http://arxiv.org/abs/2409.16382)|**[link](https://github.com/JonasNasimzada/LetsPlay4Emotion)**|
+|**2024-09-24**|**Future-Proofing Medical Imaging with Privacy-Preserving Federated Learning and Uncertainty Quantification: A Review**|Nikolas Koutsoubis et.al.|[2409.16340](http://arxiv.org/abs/2409.16340)|null|
+|**2024-09-24**|**LLMCount: Enhancing Stationary mmWave Detection with Multimodal-LLM**|Boyan Li et.al.|[2409.16209](http://arxiv.org/abs/2409.16209)|null|
+|**2024-09-25**|**Historical Trajectory Assisted Zeroth-Order Federated Optimization**|Xiaoyu He et.al.|[2409.15955](http://arxiv.org/abs/2409.15955)|null|
+|**2024-09-25**|**FedRepOpt: Gradient Re-parameterized Optimizers in Federated Learning**|Kin Wai Lau et.al.|[2409.15898](http://arxiv.org/abs/2409.15898)|null|
+|**2024-09-24**|**A Multi-Level Approach for Class Imbalance Problem in Federated Learning for Remote Industry 4.0 Applications**|Razin Farhan Hussain et.al.|[2409.15802](http://arxiv.org/abs/2409.15802)|null|
 |**2024-09-18**|**FedLF: Adaptive Logit Adjustment and Feature Optimization in Federated Long-Tailed Learning**|Xiuhua Lu et.al.|[2409.12105](http://arxiv.org/abs/2409.12105)|**[link](https://github.com/18sym/fedlf)**|
 |**2024-09-18**|**Promise and Peril of Collaborative Code Generation Models: Balancing Effectiveness and Memorization**|Zhi Chen et.al.|[2409.12020](http://arxiv.org/abs/2409.12020)|null|
 |**2024-09-21**|**GReDP: A More Robust Approach for Differential Private Training with Gradient-Preserving Noise Reduction**|Haodi Wang et.al.|[2409.11663](http://arxiv.org/abs/2409.11663)|null|
