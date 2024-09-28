@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.27
+## Updated on 2024.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**Stackelberg Attack on Protocol Fee Governance**|Alexandre Hajjar et.al.|[2409.17756](http://arxiv.org/abs/2409.17756)|null|
+|**2024-09-26**|**BioZero: An Efficient and Privacy-Preserving Decentralized Biometric Authentication Protocol on Open Blockchain**|Junhao Lai et.al.|[2409.17509](http://arxiv.org/abs/2409.17509)|null|
 |**2024-09-24**|**Vulnerabilities that arise from poor governance in Distributed Ledger Technologies**|Aida Manzano Kharman et.al.|[2409.15947](http://arxiv.org/abs/2409.15947)|null|
 |**2024-09-23**|**MECURY: Practical Cross-Chain Exchange via Trusted Hardware**|Xiaoqing Wen et.al.|[2409.14640](http://arxiv.org/abs/2409.14640)|null|
 |**2024-09-22**|**An Integrated Blockchain and IPFS Solution for Secure and Efficient Source Code Repository Hosting using Middleman Approach**|Md. Rafid Haque et.al.|[2409.14530](http://arxiv.org/abs/2409.14530)|null|
@@ -376,7 +378,7 @@
 |**2023-08-01**|**Game Theoretic Modelling of a Ransom and Extortion Attack on Ethereum Validators**|Alpesh Bhudia et.al.|[2308.00590](http://arxiv.org/abs/2308.00590)|null|
 |**2023-07-27**|**Self-stabilizing Byzantine-tolerant Recycling**|Chryssis Georgiou et.al.|[2307.14801](http://arxiv.org/abs/2307.14801)|null|
 
-<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240928>back to top</a>)</p>
 
 ## crosschain
 
@@ -425,12 +427,14 @@
 |**2023-04-20**|**Analyzing the Performance of the Inter-Blockchain Communication Protocol**|Joao Otavio Chervinski et.al.|[2303.10844](http://arxiv.org/abs/2303.10844)|**[link](https://github.com/joaotav/ibc-benchmarking)**|
 |**2023-01-14**|**The Design Principle of Blockchain: An Initiative for the SoK of SoKs**|Luyao Sunshine Zhang et.al.|[2301.00479](http://arxiv.org/abs/2301.00479)|**[link](https://github.com/sunshineluyao/design-principle-blockchain)**|
 
-<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240928>back to top</a>)</p>
 
 ## zero-knowledge-proof
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**A Comprehensive Review of TLSNotary Protocol**|Maciej Kalka et.al.|[2409.17670](http://arxiv.org/abs/2409.17670)|null|
+|**2024-09-26**|**BioZero: An Efficient and Privacy-Preserving Decentralized Biometric Authentication Protocol on Open Blockchain**|Junhao Lai et.al.|[2409.17509](http://arxiv.org/abs/2409.17509)|null|
 |**2024-09-23**|**PrivaMatch: A Privacy-Preserving DNA Matching Scheme for Forensic Investigation**|Sankha Das et.al.|[2409.14798](http://arxiv.org/abs/2409.14798)|null|
 |**2024-09-23**|**TeeRollup: Efficient Rollup Design Using Heterogeneous TEE**|Xiaoqing Wen et.al.|[2409.14647](http://arxiv.org/abs/2409.14647)|null|
 |**2024-09-22**|**NP-Completeness and Physical Zero-Knowledge Proofs for Zeiger**|Suthee Ruangwises et.al.|[2409.14308](http://arxiv.org/abs/2409.14308)|null|
@@ -527,12 +531,22 @@
 |**2023-07-02**|**zkFi: Privacy-Preserving and Regulation Compliant Transactions using Zero Knowledge Proofs**|Naveen Sahu et.al.|[2307.00521](http://arxiv.org/abs/2307.00521)|null|
 |**2023-06-21**|**A Survey of Multivariate Polynomial Commitment Schemes**|Ihyun Nam et.al.|[2306.11383](http://arxiv.org/abs/2306.11383)|null|
 
-<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240928>back to top</a>)</p>
 
 ## secureaggregation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**Upper-Body Pose-based Gaze Estimation for Privacy-Preserving 3D Gaze Target Detection**|Andrea Toaiari et.al.|[2409.17886](http://arxiv.org/abs/2409.17886)|**[link](https://github.com/intelligolabs/privacy-gtd-3d)**|
+|**2024-09-26**|**Federated Learning under Attack: Improving Gradient Inversion for Batch of Images**|Luiz Leite et.al.|[2409.17767](http://arxiv.org/abs/2409.17767)|null|
+|**2024-09-26**|**Byzantine-Robust Aggregation for Securing Decentralized Federated Learning**|Diego Cajaraville-Aboy et.al.|[2409.17754](http://arxiv.org/abs/2409.17754)|null|
+|**2024-09-26**|**TADAR: Thermal Array-based Detection and Ranging for Privacy-Preserving Human Sensing**|Xie Zhang et.al.|[2409.17742](http://arxiv.org/abs/2409.17742)|null|
+|**2024-09-26**|**ID $^3$ : Identity-Preserving-yet-Diversified Diffusion Models for Synthetic Face Recognition**|Shen Li et.al.|[2409.17576](http://arxiv.org/abs/2409.17576)|null|
+|**2024-09-26**|**Privacy-Preserving Redaction of Diagnosis Data through Source Code Analysis**|Lixi Zhou et.al.|[2409.17535](http://arxiv.org/abs/2409.17535)|null|
+|**2024-09-26**|**Dataset Distillation-based Hybrid Federated Learning on Non-IID Data**|Xiufang Shi et.al.|[2409.17517](http://arxiv.org/abs/2409.17517)|null|
+|**2024-09-26**|**BioZero: An Efficient and Privacy-Preserving Decentralized Biometric Authentication Protocol on Open Blockchain**|Junhao Lai et.al.|[2409.17509](http://arxiv.org/abs/2409.17509)|null|
+|**2024-09-26**|**Does Worst-Performing Agent Lead the Pack? Analyzing Agent Dynamics in Unified Distributed SGD**|Jie Hu et.al.|[2409.17499](http://arxiv.org/abs/2409.17499)|null|
+|**2024-09-26**|**Efficient Federated Learning against Heterogeneous and Non-stationary Client Unavailability**|Ming Xiang et.al.|[2409.17446](http://arxiv.org/abs/2409.17446)|null|
 |**2024-09-25**|**PhD Forum: Efficient Privacy-Preserving Processing via Memory-Centric Computing**|Mpoki Mwaisela et.al.|[2409.16777](http://arxiv.org/abs/2409.16777)|null|
 |**2024-09-24**|**Flight: A FaaS-Based Framework for Complex and Hierarchical Federated Learning**|Nathaniel Hudson et.al.|[2409.16495](http://arxiv.org/abs/2409.16495)|null|
 |**2024-09-24**|**Communication and Energy Efficient Federated Learning using Zero-Order Optimization Technique**|Elissa Mhanna et.al.|[2409.16456](http://arxiv.org/abs/2409.16456)|null|
@@ -2014,7 +2028,7 @@
 |**2023-11-29**|**Addressing Membership Inference Attack in Federated Learning with Model Compression**|Gergely Dániel Németh et.al.|[2311.17750](http://arxiv.org/abs/2311.17750)|**[link](https://github.com/negedng/ma-fl-mia)**|
 |**2023-11-30**|**Grounding Foundation Models through Federated Transfer Learning: A General Framework**|Yan Kang et.al.|[2311.17431](http://arxiv.org/abs/2311.17431)|null|
 
-<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240928>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/agzs/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/agzs/arxiv-daily/graphs/contributors
