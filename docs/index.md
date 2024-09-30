@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**Drawing the boundaries between Blockchain and Blockchain-like systems: A Comprehensive Survey on Distributed Ledger Technologies**|Badr Bellaj et.al.|[2409.18799](http://arxiv.org/abs/2409.18799)|null|
+|**2024-09-27**|**SmartReco: Detecting Read-Only Reentrancy via Fine-Grained Cross-DApp Analysis**|Jingwen Zhang et.al.|[2409.18468](http://arxiv.org/abs/2409.18468)|null|
+|**2024-09-27**|**Architecture for Protecting Data Privacy in Decentralized Social Networks**|Quang Cao et.al.|[2409.18360](http://arxiv.org/abs/2409.18360)|null|
 |**2024-09-26**|**Stackelberg Attack on Protocol Fee Governance**|Alexandre Hajjar et.al.|[2409.17756](http://arxiv.org/abs/2409.17756)|null|
 |**2024-09-26**|**BioZero: An Efficient and Privacy-Preserving Decentralized Biometric Authentication Protocol on Open Blockchain**|Junhao Lai et.al.|[2409.17509](http://arxiv.org/abs/2409.17509)|null|
 |**2024-09-24**|**Vulnerabilities that arise from poor governance in Distributed Ledger Technologies**|Aida Manzano Kharman et.al.|[2409.15947](http://arxiv.org/abs/2409.15947)|null|
@@ -525,6 +528,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**A-FedPD: Aligning Dual-Drift is All Federated Primal-Dual Learning Needs**|Yan Sun et.al.|[2409.18915](http://arxiv.org/abs/2409.18915)|null|
+|**2024-09-27**|**In-depth Analysis of Privacy Threats in Federated Learning for Medical Data**|Badhan Chandra Das et.al.|[2409.18907](http://arxiv.org/abs/2409.18907)|null|
+|**2024-09-27**|**Hierarchical Federated ADMM**|Seyed Mohammad Azimi-Abarghouyi et.al.|[2409.18796](http://arxiv.org/abs/2409.18796)|null|
+|**2024-09-27**|**Enhancing Spectrum Efficiency in 6G Satellite Networks: A GAIL-Powered Policy Learning via Asynchronous Federated Inverse Reinforcement Learning**|Sheikh Salman Hassan et.al.|[2409.18718](http://arxiv.org/abs/2409.18718)|null|
+|**2024-09-27**|**Differentially Private Non Parametric Copulas: Generating synthetic data with non parametric copulas under privacy guarantees**|Pablo A. Osorio-Marulanda et.al.|[2409.18611](http://arxiv.org/abs/2409.18611)|null|
+|**2024-09-27**|**Privacy-Preserving Quantum Annealing for Quadratic Unconstrained Binary Optimization (QUBO) Problems**|Moyang Xie et.al.|[2409.18601](http://arxiv.org/abs/2409.18601)|null|
+|**2024-09-27**|**An Enhanced Federated Prototype Learning Method under Domain Shift**|Liang Kuang et.al.|[2409.18578](http://arxiv.org/abs/2409.18578)|null|
+|**2024-09-27**|**HSTFL: A Heterogeneous Federated Learning Framework for Misaligned Spatiotemporal Forecasting**|Shuowei Cai et.al.|[2409.18482](http://arxiv.org/abs/2409.18482)|null|
+|**2024-09-27**|**Towards Diverse Device Heterogeneous Federated Learning via Task Arithmetic Knowledge Integration**|Mahdi Morafah et.al.|[2409.18461](http://arxiv.org/abs/2409.18461)|**[link](https://github.com/mmorafah/takfl)**|
+|**2024-09-27**|**Hierarchical Federated Learning with Multi-Timescale Gradient Correction**|Wenzhi Fang et.al.|[2409.18448](http://arxiv.org/abs/2409.18448)|**[link](https://github.com/wenzhifang/mtgc)**|
 |**2024-09-26**|**Upper-Body Pose-based Gaze Estimation for Privacy-Preserving 3D Gaze Target Detection**|Andrea Toaiari et.al.|[2409.17886](http://arxiv.org/abs/2409.17886)|**[link](https://github.com/intelligolabs/privacy-gtd-3d)**|
 |**2024-09-26**|**Federated Learning under Attack: Improving Gradient Inversion for Batch of Images**|Luiz Leite et.al.|[2409.17767](http://arxiv.org/abs/2409.17767)|null|
 |**2024-09-26**|**Byzantine-Robust Aggregation for Securing Decentralized Federated Learning**|Diego Cajaraville-Aboy et.al.|[2409.17754](http://arxiv.org/abs/2409.17754)|null|
