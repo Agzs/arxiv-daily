@@ -438,7 +438,7 @@
 |**2024-09-23**|**PrivaMatch: A Privacy-Preserving DNA Matching Scheme for Forensic Investigation**|Sankha Das et.al.|[2409.14798](http://arxiv.org/abs/2409.14798)|null|
 |**2024-09-23**|**TeeRollup: Efficient Rollup Design Using Heterogeneous TEE**|Xiaoqing Wen et.al.|[2409.14647](http://arxiv.org/abs/2409.14647)|null|
 |**2024-09-22**|**NP-Completeness and Physical Zero-Knowledge Proofs for Zeiger**|Suthee Ruangwises et.al.|[2409.14308](http://arxiv.org/abs/2409.14308)|null|
-|**2024-09-16**|**PrePaMS: Privacy-Preserving Participant Management System for Studies with Rewards and Prerequisites**|Echo Meißner et.al.|[2409.10192](http://arxiv.org/abs/2409.10192)|null|
+|**2024-09-16**|**PrePaMS: Privacy-Preserving Participant Management System for Studies with Rewards and Prerequisites**|Echo Meißner et.al.|[2409.10192](http://arxiv.org/abs/2409.10192)|**[link](https://github.com/vs-uulm/prepams)**|
 |**2024-09-05**|**On the Relativistic Zero Knowledge Quantum Proofs of Knowledge**|Kaiyan Shi et.al.|[2409.03635](http://arxiv.org/abs/2409.03635)|null|
 |**2024-09-03**|**Benchmarking ZK-Friendly Hash Functions and SNARK Proving Systems for EVM-compatible Blockchains**|Hanze Guo et.al.|[2409.01976](http://arxiv.org/abs/2409.01976)|null|
 |**2024-09-03**|**Private Electronic Payments with Self-Custody and Zero-Knowledge Verified Reissuance**|Daniele Friolo et.al.|[2409.01958](http://arxiv.org/abs/2409.01958)|null|
@@ -569,7 +569,7 @@
 |**2024-09-16**|**On the effects of similarity metrics in decentralized deep learning under distributional shift**|Edvin Listo Zec et.al.|[2409.10720](http://arxiv.org/abs/2409.10720)|null|
 |**2024-09-16**|**TPFL: Tsetlin-Personalized Federated Learning with Confidence-Based Clustering**|Rasoul Jafari Gohari et.al.|[2409.10392](http://arxiv.org/abs/2409.10392)|**[link](https://github.com/russelljeffrey/TPFL_Tsetlin-Personalized-Federated-Learning-with-Confidence-Based-Clustering)**|
 |**2024-09-16**|**Privacy-Preserving Distributed Maximum Consensus Without Accuracy Loss**|Wenrui Yu et.al.|[2409.10226](http://arxiv.org/abs/2409.10226)|null|
-|**2024-09-16**|**PrePaMS: Privacy-Preserving Participant Management System for Studies with Rewards and Prerequisites**|Echo Meißner et.al.|[2409.10192](http://arxiv.org/abs/2409.10192)|null|
+|**2024-09-16**|**PrePaMS: Privacy-Preserving Participant Management System for Studies with Rewards and Prerequisites**|Echo Meißner et.al.|[2409.10192](http://arxiv.org/abs/2409.10192)|**[link](https://github.com/vs-uulm/prepams)**|
 |**2024-09-16**|**A Response to: A Note on "Privacy Preserving n-Party Scalar Product Protocol"**|Florian van Daalen et.al.|[2409.10057](http://arxiv.org/abs/2409.10057)|null|
 |**2024-09-17**|**Generating Synthetic Free-text Medical Records with Low Re-identification Risk using Masked Language Modeling**|Samuel Belkadi et.al.|[2409.09831](http://arxiv.org/abs/2409.09831)|**[link](https://github.com/SamySam0/SynDeidMLM)**|
 |**2024-09-15**|**Federated Learning in Adversarial Environments: Testbed Design and Poisoning Resilience in Cybersecurity**|Hao Jian Huang et.al.|[2409.09794](http://arxiv.org/abs/2409.09794)|null|
@@ -1055,7 +1055,7 @@
 |**2024-06-07**|**Marking the Pace: A Blockchain-Enhanced Privacy-Traceable Strategy for Federated Recommender Systems**|Zhen Cai et.al.|[2406.04702](http://arxiv.org/abs/2406.04702)|null|
 |**2024-06-07**|**Federated Representation Learning in the Under-Parameterized Regime**|Renpu Liu et.al.|[2406.04596](http://arxiv.org/abs/2406.04596)|**[link](https://github.com/RenpuLiu/flute)**|
 |**2024-06-06**|**R-CONV: An Analytical Approach for Efficient Data Reconstruction via Convolutional Gradients**|Tamer Ahmed Eltaras et.al.|[2406.04227](http://arxiv.org/abs/2406.04227)|null|
-|**2024-06-06**|**LenslessFace: An End-to-End Optimized Lensless System for Privacy-Preserving Face Verification**|Xin Cai et.al.|[2406.04129](http://arxiv.org/abs/2406.04129)|null|
+|**2024-06-06**|**LenslessFace: An End-to-End Optimized Lensless System for Privacy-Preserving Face Verification**|Xin Cai et.al.|[2406.04129](http://arxiv.org/abs/2406.04129)|**[link](https://github.com/OpenImagingLab/LenslessFace)**|
 |**2024-06-06**|**Federated TrustChain: Blockchain-Enhanced LLM Training and Unlearning**|Xuhan Zuo et.al.|[2406.04076](http://arxiv.org/abs/2406.04076)|null|
 |**2024-06-06**|**Memorization in deep learning: A survey**|Jiaheng Wei et.al.|[2406.03880](http://arxiv.org/abs/2406.03880)|null|
 |**2024-06-06**|**Privacy Preserving Semi-Decentralized Mean Estimation over Intermittently-Connected Networks**|Rajarshi Saha et.al.|[2406.03766](http://arxiv.org/abs/2406.03766)|**[link](https://github.com/rajarshisaha95/private-collaborative-relaying)**|
