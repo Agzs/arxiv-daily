@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.29
+## Updated on 2024.09.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -423,7 +423,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-26**|**A Comprehensive Review of TLSNotary Protocol**|Maciej Kalka et.al.|[2409.17670](http://arxiv.org/abs/2409.17670)|null|
+|**2024-09-27**|**A Comprehensive Review of TLSNotary Protocol**|Maciej Kalka et.al.|[2409.17670](http://arxiv.org/abs/2409.17670)|null|
 |**2024-09-26**|**BioZero: An Efficient and Privacy-Preserving Decentralized Biometric Authentication Protocol on Open Blockchain**|Junhao Lai et.al.|[2409.17509](http://arxiv.org/abs/2409.17509)|null|
 |**2024-09-23**|**PrivaMatch: A Privacy-Preserving DNA Matching Scheme for Forensic Investigation**|Sankha Das et.al.|[2409.14798](http://arxiv.org/abs/2409.14798)|null|
 |**2024-09-23**|**TeeRollup: Efficient Rollup Design Using Heterogeneous TEE**|Xiaoqing Wen et.al.|[2409.14647](http://arxiv.org/abs/2409.14647)|null|
