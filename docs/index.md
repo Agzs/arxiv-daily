@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.30
+## Updated on 2024.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -22,7 +22,7 @@ layout: default
 |**2024-09-24**|**Vulnerabilities that arise from poor governance in Distributed Ledger Technologies**|Aida Manzano Kharman et.al.|[2409.15947](http://arxiv.org/abs/2409.15947)|null|
 |**2024-09-23**|**MECURY: Practical Cross-Chain Exchange via Trusted Hardware**|Xiaoqing Wen et.al.|[2409.14640](http://arxiv.org/abs/2409.14640)|null|
 |**2024-09-22**|**An Integrated Blockchain and IPFS Solution for Secure and Efficient Source Code Repository Hosting using Middleman Approach**|Md. Rafid Haque et.al.|[2409.14530](http://arxiv.org/abs/2409.14530)|null|
-|**2024-09-21**|**Cyber-Physical Authentication Scheme for Secure V2G Transactions Using Blockchain and Smart Contracts**|Yunwang Chen et.al.|[2409.14008](http://arxiv.org/abs/2409.14008)|null|
+|**2024-09-28**|**Cyber-Physical Authentication Scheme for Secure V2G Transactions Using Blockchain and Smart Contracts**|Yunwang Chen et.al.|[2409.14008](http://arxiv.org/abs/2409.14008)|null|
 |**2024-09-20**|**Proxion: Uncovering Hidden Proxy Smart Contracts for Finding Collision Vulnerabilities in Ethereum**|Cheng-Kang Chen et.al.|[2409.13563](http://arxiv.org/abs/2409.13563)|null|
 |**2024-09-11**|**Semantic Interoperability on Blockchain by Generating Smart Contracts Based on Knowledge Graphs**|William Van Woensel et.al.|[2409.12171](http://arxiv.org/abs/2409.12171)|null|
 |**2024-09-20**|**Empowering Visual Artists with Tokenized Digital Assets with NFTs**|Ruiqiang Li et.al.|[2409.11790](http://arxiv.org/abs/2409.11790)|null|
