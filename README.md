@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**DBNode: A Decentralized Storage System for Big Data Storage in Consortium Blockchains**|Narges Dadkhah et.al.|[2409.20123](http://arxiv.org/abs/2409.20123)|null|
+|**2024-09-29**|**Blockchain-enhanced Integrity Verification in Educational Content Assessment Platform: A Lightweight and Cost-Efficient Approach**|Talgar Bayan et.al.|[2409.19828](http://arxiv.org/abs/2409.19828)|null|
 |**2024-09-26**|**Drawing the boundaries between Blockchain and Blockchain-like systems: A Comprehensive Survey on Distributed Ledger Technologies**|Badr Bellaj et.al.|[2409.18799](http://arxiv.org/abs/2409.18799)|null|
 |**2024-09-27**|**SmartReco: Detecting Read-Only Reentrancy via Fine-Grained Cross-DApp Analysis**|Jingwen Zhang et.al.|[2409.18468](http://arxiv.org/abs/2409.18468)|null|
 |**2024-09-27**|**Architecture for Protecting Data Privacy in Decentralized Social Networks**|Quang Cao et.al.|[2409.18360](http://arxiv.org/abs/2409.18360)|null|
@@ -540,6 +542,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**Fine-Tuning Personalization in Federated Learning to Mitigate Adversarial Clients**|Youssef Allouah et.al.|[2409.20329](http://arxiv.org/abs/2409.20329)|null|
+|**2024-09-30**|**Quantum Fast Implementation of Private Information Retrieval and Functional Bootstrapping**|Guangsheng Ma et.al.|[2409.20182](http://arxiv.org/abs/2409.20182)|null|
+|**2024-09-30**|**Federated Instruction Tuning of LLMs with Domain Coverage Augmentation**|Zezhou Wang et.al.|[2409.20135](http://arxiv.org/abs/2409.20135)|null|
+|**2024-09-30**|**Enhancing Security Using Random Binary Weights in Privacy-Preserving Federated Learning**|Hiroto Sawada et.al.|[2409.19988](http://arxiv.org/abs/2409.19988)|null|
+|**2024-09-30**|**Comments on "Privacy-Enhanced Federated Learning Against Poisoning Adversaries"**|Thomas Schneider et.al.|[2409.19964](http://arxiv.org/abs/2409.19964)|null|
+|**2024-09-30**|**Leveraging Pre-trained Models for Robust Federated Learning for Kidney Stone Type Recognition**|Ivan Reyes-Amezcua et.al.|[2409.19934](http://arxiv.org/abs/2409.19934)|null|
+|**2024-09-30**|**HYDRA-FL: Hybrid Knowledge Distillation for Robust and Accurate Federated Learning**|Momin Ahmad Khan et.al.|[2409.19912](http://arxiv.org/abs/2409.19912)|null|
+|**2024-09-30**|**Opt-in Camera: Person Identification in Video via UWB Localization and Its Application to Opt-in Systems**|Matthew Ishige et.al.|[2409.19891](http://arxiv.org/abs/2409.19891)|null|
+|**2024-09-29**|**Advances in Privacy Preserving Federated Learning to Realize a Truly Learning Healthcare System**|Ravi Madduri et.al.|[2409.19756](http://arxiv.org/abs/2409.19756)|null|
+|**2024-09-29**|**Tailored Federated Learning: Leveraging Direction Regulation & Knowledge Distillation**|Huidong Tang et.al.|[2409.19741](http://arxiv.org/abs/2409.19741)|null|
 |**2024-09-27**|**A-FedPD: Aligning Dual-Drift is All Federated Primal-Dual Learning Needs**|Yan Sun et.al.|[2409.18915](http://arxiv.org/abs/2409.18915)|null|
 |**2024-09-27**|**In-depth Analysis of Privacy Threats in Federated Learning for Medical Data**|Badhan Chandra Das et.al.|[2409.18907](http://arxiv.org/abs/2409.18907)|null|
 |**2024-09-27**|**Hierarchical Federated ADMM**|Seyed Mohammad Azimi-Abarghouyi et.al.|[2409.18796](http://arxiv.org/abs/2409.18796)|null|
