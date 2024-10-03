@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-01**|**Review of blockchain application with Graph Neural Networks, Graph Convolutional Networks and Convolutional Neural Networks**|Amy Ancelotti et.al.|[2410.00875](http://arxiv.org/abs/2410.00875)|null|
+|**2024-10-01**|**Enhancing Web Spam Detection through a Blockchain-Enabled Crowdsourcing Mechanism**|Noah Kader et.al.|[2410.00860](http://arxiv.org/abs/2410.00860)|null|
+|**2024-09-30**|**Smart Contract Vulnerability Detection based on Static Analysis and Multi-Objective Search**|Dongcheng Li et.al.|[2410.00282](http://arxiv.org/abs/2410.00282)|null|
 |**2024-09-30**|**DBNode: A Decentralized Storage System for Big Data Storage in Consortium Blockchains**|Narges Dadkhah et.al.|[2409.20123](http://arxiv.org/abs/2409.20123)|null|
 |**2024-09-29**|**Blockchain-enhanced Integrity Verification in Educational Content Assessment Platform: A Lightweight and Cost-Efficient Approach**|Talgar Bayan et.al.|[2409.19828](http://arxiv.org/abs/2409.19828)|null|
 |**2024-09-26**|**Drawing the boundaries between Blockchain and Blockchain-like systems: A Comprehensive Survey on Distributed Ledger Technologies**|Badr Bellaj et.al.|[2409.18799](http://arxiv.org/abs/2409.18799)|null|
@@ -389,6 +392,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-01**|**Count of Monte Crypto: Accounting-based Defenses for Cross-Chain Bridges**|Enze Liu et.al.|[2410.01107](http://arxiv.org/abs/2410.01107)|null|
+|**2024-09-13**|**Interpool: a liquidity pool designed for interoperability that mints, exchanges, and burns**|Henrique de Carvalho Videira et.al.|[2410.00011](http://arxiv.org/abs/2410.00011)|null|
 |**2024-09-23**|**MECURY: Practical Cross-Chain Exchange via Trusted Hardware**|Xiaoqing Wen et.al.|[2409.14640](http://arxiv.org/abs/2409.14640)|null|
 |**2024-09-08**|**CONNECTOR: Enhancing the Traceability of Decentralized Bridge Applications via Automatic Cross-chain Transaction Association**|Dan Lin et.al.|[2409.04937](http://arxiv.org/abs/2409.04937)|null|
 |**2024-09-04**|**A Comprehensive Survey of Blockchain Scalability: Shaping Inner-Chain and Inter-Chain Perspectives**|Baochao Chen et.al.|[2409.02968](http://arxiv.org/abs/2409.02968)|null|
@@ -438,6 +443,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-29**|**Survey of Security and Data Attacks on Machine Unlearning In Financial and E-Commerce**|Carl E. J. Brodzinski et.al.|[2410.00055](http://arxiv.org/abs/2410.00055)|null|
 |**2024-09-27**|**A Comprehensive Review of TLSNotary Protocol**|Maciej Kalka et.al.|[2409.17670](http://arxiv.org/abs/2409.17670)|null|
 |**2024-09-26**|**BioZero: An Efficient and Privacy-Preserving Decentralized Biometric Authentication Protocol on Open Blockchain**|Junhao Lai et.al.|[2409.17509](http://arxiv.org/abs/2409.17509)|null|
 |**2024-09-23**|**PrivaMatch: A Privacy-Preserving DNA Matching Scheme for Forensic Investigation**|Sankha Das et.al.|[2409.14798](http://arxiv.org/abs/2409.14798)|null|
@@ -542,6 +548,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**A Novel Framework of Horizontal-Vertical Hybrid Federated Learning for EdgeIoT**|Kai Li et.al.|[2410.01644](http://arxiv.org/abs/2410.01644)|null|
+|**2024-10-02**|**Personalized Federated Learning on Flowing Data Heterogeneity under Restricted Storage**|Sixing Tan et.al.|[2410.01502](http://arxiv.org/abs/2410.01502)|null|
+|**2024-10-02**|**Selective Aggregation for Low-Rank Adaptation in Federated Learning**|Pengxin Guo et.al.|[2410.01463](http://arxiv.org/abs/2410.01463)|null|
+|**2024-10-02**|**On the Convergence of FedProx with Extrapolation and Inexact Prox**|Hanmin Li et.al.|[2410.01410](http://arxiv.org/abs/2410.01410)|null|
+|**2024-10-02**|**Overpredictive Signal Analytics in Federated Learning: Algorithms and Analysis**|Vijay Anavangot et.al.|[2410.01399](http://arxiv.org/abs/2410.01399)|null|
+|**2024-10-02**|**FLAME: Adaptive and Reactive Concept Drift Mitigation for Federated Learning Deployments**|Ioannis Mavromatis et.al.|[2410.01386](http://arxiv.org/abs/2410.01386)|null|
+|**2024-10-02**|**ParallelSFL: A Novel Split Federated Learning Framework Tackling Heterogeneity Issues**|Yunming Liao et.al.|[2410.01256](http://arxiv.org/abs/2410.01256)|null|
+|**2024-10-02**|**Debiasing Federated Learning with Correlated Client Participation**|Zhenyu Sun et.al.|[2410.01209](http://arxiv.org/abs/2410.01209)|null|
+|**2024-10-01**|**Thinking Outside of the Differential Privacy Box: A Case Study in Text Privatization with Language Model Prompting**|Stephen Meisenbacher et.al.|[2410.00751](http://arxiv.org/abs/2410.00751)|null|
+|**2024-10-01**|**Integrating PETs into Software Applications: A Game-Based Learning Approach**|Maisha Boteju et.al.|[2410.00661](http://arxiv.org/abs/2410.00661)|null|
 |**2024-09-30**|**Fine-Tuning Personalization in Federated Learning to Mitigate Adversarial Clients**|Youssef Allouah et.al.|[2409.20329](http://arxiv.org/abs/2409.20329)|null|
 |**2024-09-30**|**Quantum Fast Implementation of Private Information Retrieval and Functional Bootstrapping**|Guangsheng Ma et.al.|[2409.20182](http://arxiv.org/abs/2409.20182)|null|
 |**2024-10-02**|**Federated Instruction Tuning of LLMs with Domain Coverage Augmentation**|Zezhou Wang et.al.|[2409.20135](http://arxiv.org/abs/2409.20135)|null|
