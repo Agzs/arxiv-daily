@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**FRESCO: Fast and Reliable Edge Offloading with Reputation-based Hybrid Smart Contracts**|Josip Zilic et.al.|[2410.06715](http://arxiv.org/abs/2410.06715)|null|
+|**2024-10-08**|**SC-Bench: A Large-Scale Dataset for Smart Contract Auditing**|Shihao Xia et.al.|[2410.06176](http://arxiv.org/abs/2410.06176)|null|
+|**2024-10-08**|**blockLAW: Blockchain Technology for Legal Automation and Workflow -- Cyber Ethics and Cybersecurity Platforms**|Bishwo Prakash Pokharel et.al.|[2410.06143](http://arxiv.org/abs/2410.06143)|null|
 |**2024-10-07**|**Block MedCare: Advancing healthcare through blockchain integration**|Oliver Simonoski et.al.|[2410.05251](http://arxiv.org/abs/2410.05251)|null|
 |**2024-10-05**|**Compound V3 Economic Audit Report**|Rik Ghosh et.al.|[2410.04085](http://arxiv.org/abs/2410.04085)|null|
 |**2024-10-01**|**Review of blockchain application with Graph Neural Networks, Graph Convolutional Networks and Convolutional Neural Networks**|Amy Ancelotti et.al.|[2410.00875](http://arxiv.org/abs/2410.00875)|null|
@@ -446,7 +449,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-04**|**Research Directions for Verifiable Crypto-Physically Secure TEEs**|Sylvain Bellemare et.al.|[2410.03183](http://arxiv.org/abs/2410.03183)|null|
+|**2024-10-08**|**Research Directions for Verifiable Crypto-Physically Secure TEEs**|Sylvain Bellemare et.al.|[2410.03183](http://arxiv.org/abs/2410.03183)|null|
 |**2024-09-17**|**OATH: Efficient and Flexible Zero-Knowledge Proofs of End-to-End ML Fairness**|Olive Franzese et.al.|[2410.02777](http://arxiv.org/abs/2410.02777)|null|
 |**2024-09-29**|**Survey of Security and Data Attacks on Machine Unlearning In Financial and E-Commerce**|Carl E. J. Brodzinski et.al.|[2410.00055](http://arxiv.org/abs/2410.00055)|null|
 |**2024-09-27**|**A Comprehensive Review of TLSNotary Protocol**|Maciej Kalka et.al.|[2409.17670](http://arxiv.org/abs/2409.17670)|null|
@@ -553,6 +556,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**Distributionally Robust Clustered Federated Learning: A Case Study in Healthcare**|Xenia Konti et.al.|[2410.07039](http://arxiv.org/abs/2410.07039)|null|
+|**2024-10-09**|**Forgetting Through Transforming: Enabling Federated Unlearning via Class-Aware Representation Transformation**|Qi Guo et.al.|[2410.06848](http://arxiv.org/abs/2410.06848)|null|
+|**2024-10-09**|**PFAttack: Stealthy Attack Bypassing Group Fairness in Federated Learning**|Jiashi Gao et.al.|[2410.06509](http://arxiv.org/abs/2410.06509)|null|
+|**2024-10-09**|**FedL2G: Learning to Guide Local Training in Heterogeneous Federated Learning**|Jianqing Zhang et.al.|[2410.06490](http://arxiv.org/abs/2410.06490)|null|
+|**2024-10-09**|**OledFL: Unleashing the Potential of Decentralized Federated Learning via Opposite Lookahead Enhancement**|Qinglun Li et.al.|[2410.06482](http://arxiv.org/abs/2410.06482)|null|
+|**2024-10-08**|**MIRACLE 3D: Memory-efficient Integrated Robust Approach for Continual Learning on Point Clouds via Shape Model construction**|Hossein Resani et.al.|[2410.06418](http://arxiv.org/abs/2410.06418)|null|
+|**2024-10-08**|**Communication-Efficient Federated Group Distributionally Robust Optimization**|Zhishuai Guo et.al.|[2410.06369](http://arxiv.org/abs/2410.06369)|null|
+|**2024-10-08**|**De-VertiFL: A Solution for Decentralized Vertical Federated Learning**|Alberto Huertas Celdrán et.al.|[2410.06127](http://arxiv.org/abs/2410.06127)|null|
+|**2024-10-08**|**Privacy-Enhanced Over-the-Air Federated Learning via Client-Driven Power Balancing**|Bumjun Kim et.al.|[2410.05907](http://arxiv.org/abs/2410.05907)|null|
+|**2024-10-08**|**Private and Communication-Efficient Federated Learning based on Differentially Private Sketches**|Meifan Zhang et.al.|[2410.05733](http://arxiv.org/abs/2410.05733)|null|
 |**2024-10-07**|**FRIDA: Free-Rider Detection using Privacy Attacks**|Pol G. Recasens et.al.|[2410.05020](http://arxiv.org/abs/2410.05020)|null|
 |**2024-10-07**|**FELLAS: Enhancing Federated Sequential Recommendation with LLM as External Services**|Wei Yuan et.al.|[2410.04927](http://arxiv.org/abs/2410.04927)|null|
 |**2024-10-07**|**FedBiP: Heterogeneous One-Shot Federated Learning with Personalized Latent Diffusion Models**|Haokun Chen et.al.|[2410.04810](http://arxiv.org/abs/2410.04810)|null|
