@@ -20,6 +20,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**Ormer: A Manipulation-resistant and Gas-efficient Blockchain Pricing Oracle for DeFi**|Dongbin Bai et.al.|[2410.07893](http://arxiv.org/abs/2410.07893)|null|
+|**2024-10-10**|**A Cloud in the Sky: Geo-Aware On-board Data Services for LEO Satellites**|Thomas Sandholm et.al.|[2410.07586](http://arxiv.org/abs/2410.07586)|null|
+|**2024-10-09**|**A Blockchain and Artificial Intelligence based System for Halal Food Traceability**|Abdulla Alourani et.al.|[2410.07305](http://arxiv.org/abs/2410.07305)|null|
+|**2024-10-08**|**BlockMEDC: Blockchain Smart Contracts for Securing Moroccan Higher Education Digital Certificates**|Mohamed Fartitchou et.al.|[2410.07258](http://arxiv.org/abs/2410.07258)|null|
 |**2024-10-09**|**FRESCO: Fast and Reliable Edge Offloading with Reputation-based Hybrid Smart Contracts**|Josip Zilic et.al.|[2410.06715](http://arxiv.org/abs/2410.06715)|null|
 |**2024-10-08**|**SC-Bench: A Large-Scale Dataset for Smart Contract Auditing**|Shihao Xia et.al.|[2410.06176](http://arxiv.org/abs/2410.06176)|null|
 |**2024-10-08**|**blockLAW: Blockchain Technology for Legal Automation and Workflow -- Cyber Ethics and Cybersecurity Platforms**|Bishwo Prakash Pokharel et.al.|[2410.06143](http://arxiv.org/abs/2410.06143)|null|
@@ -556,6 +560,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**PP-GWAS: Privacy Preserving Multi-Site Genome-wide Association Studies**|Arjhun Swaminathan et.al.|[2410.08122](http://arxiv.org/abs/2410.08122)|null|
+|**2024-10-10**|**AI Surrogate Model for Distributed Computing Workloads**|David K. Park et.al.|[2410.07940](http://arxiv.org/abs/2410.07940)|null|
+|**2024-10-10**|**A Comprehensive Survey on Joint Resource Allocation Strategies in Federated Edge Learning**|Jingbo Zhang et.al.|[2410.07881](http://arxiv.org/abs/2410.07881)|null|
+|**2024-10-10**|**Enhancing Federated Domain Adaptation with Multi-Domain Prototype-Based Federated Fine-Tuning**|Jingyuan Zhang et.al.|[2410.07738](http://arxiv.org/abs/2410.07738)|null|
+|**2024-10-10**|**FedEP: Tailoring Attention to Heterogeneous Data Distribution with Entropy Pooling for Decentralized Federated Learning**|Chao Feng et.al.|[2410.07678](http://arxiv.org/abs/2410.07678)|null|
+|**2024-10-10**|**Scalable and Resource-Efficient Second-Order Federated Learning via Over-the-Air Aggregation**|Abdulmomen Ghalkha et.al.|[2410.07662](http://arxiv.org/abs/2410.07662)|null|
+|**2024-10-09**|**Bayes-Nash Generative Privacy Protection Against Membership Inference Attacks**|Tao Zhang et.al.|[2410.07414](http://arxiv.org/abs/2410.07414)|null|
+|**2024-10-09**|**Benchmarking Data Heterogeneity Evaluation Approaches for Personalized Federated Learning**|Zhilong Li et.al.|[2410.07286](http://arxiv.org/abs/2410.07286)|**[link](https://github.com/xiaoni-61/dh-benchmark)**|
 |**2024-10-09**|**Distributionally Robust Clustered Federated Learning: A Case Study in Healthcare**|Xenia Konti et.al.|[2410.07039](http://arxiv.org/abs/2410.07039)|null|
 |**2024-10-09**|**Forgetting Through Transforming: Enabling Federated Unlearning via Class-Aware Representation Transformation**|Qi Guo et.al.|[2410.06848](http://arxiv.org/abs/2410.06848)|null|
 |**2024-10-09**|**PFAttack: Stealthy Attack Bypassing Group Fairness in Federated Learning**|Jiashi Gao et.al.|[2410.06509](http://arxiv.org/abs/2410.06509)|null|
