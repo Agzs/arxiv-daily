@@ -25,7 +25,7 @@
 |**2024-10-09**|**A Blockchain and Artificial Intelligence based System for Halal Food Traceability**|Abdulla Alourani et.al.|[2410.07305](http://arxiv.org/abs/2410.07305)|null|
 |**2024-10-08**|**BlockMEDC: Blockchain Smart Contracts for Securing Moroccan Higher Education Digital Certificates**|Mohamed Fartitchou et.al.|[2410.07258](http://arxiv.org/abs/2410.07258)|null|
 |**2024-10-09**|**FRESCO: Fast and Reliable Edge Offloading with Reputation-based Hybrid Smart Contracts**|Josip Zilic et.al.|[2410.06715](http://arxiv.org/abs/2410.06715)|null|
-|**2024-10-08**|**SC-Bench: A Large-Scale Dataset for Smart Contract Auditing**|Shihao Xia et.al.|[2410.06176](http://arxiv.org/abs/2410.06176)|null|
+|**2024-10-08**|**SC-Bench: A Large-Scale Dataset for Smart Contract Auditing**|Shihao Xia et.al.|[2410.06176](http://arxiv.org/abs/2410.06176)|**[link](https://github.com/system-pclub/SC-Bench)**|
 |**2024-10-08**|**blockLAW: Blockchain Technology for Legal Automation and Workflow -- Cyber Ethics and Cybersecurity Platforms**|Bishwo Prakash Pokharel et.al.|[2410.06143](http://arxiv.org/abs/2410.06143)|null|
 |**2024-10-07**|**Block MedCare: Advancing healthcare through blockchain integration**|Oliver Simonoski et.al.|[2410.05251](http://arxiv.org/abs/2410.05251)|null|
 |**2024-10-05**|**Compound V3 Economic Audit Report**|Rik Ghosh et.al.|[2410.04085](http://arxiv.org/abs/2410.04085)|null|
