@@ -393,6 +393,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Cross-chain Sharing of Personal Health Records: Heterogeneous and Interoperable Blockchains**|Yongyang Lv et.al.|[2410.08762](http://arxiv.org/abs/2410.08762)|null|
 |**2024-10-02**|**XChainWatcher: Monitoring and Identifying Attacks in Cross-Chain Bridges**|André Augusto et.al.|[2410.02029](http://arxiv.org/abs/2410.02029)|null|
 |**2024-10-01**|**Count of Monte Crypto: Accounting-based Defenses for Cross-Chain Bridges**|Enze Liu et.al.|[2410.01107](http://arxiv.org/abs/2410.01107)|null|
 |**2024-09-13**|**Interpool: a liquidity pool designed for interoperability that mints, exchanges, and burns**|Henrique de Carvalho Videira et.al.|[2410.00011](http://arxiv.org/abs/2410.00011)|null|
@@ -548,6 +549,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Evaluating Federated Kolmogorov-Arnold Networks on Non-IID Data**|Arthur Mendonça Sasse et.al.|[2410.08961](http://arxiv.org/abs/2410.08961)|null|
+|**2024-10-11**|**The Effect of Personalization in FedProx: A Fine-grained Analysis on Statistical Accuracy and Communication Efficiency**|Xin Yu et.al.|[2410.08934](http://arxiv.org/abs/2410.08934)|null|
+|**2024-10-11**|**Federated Learning in Practice: Reflections and Projections**|Katharine Daly et.al.|[2410.08892](http://arxiv.org/abs/2410.08892)|null|
+|**2024-10-11**|**Unlocking FedNL: Self-Contained Compute-Optimized Implementation**|Konstantin Burlachenko et.al.|[2410.08760](http://arxiv.org/abs/2410.08760)|null|
+|**2024-10-11**|**Privacy-Preserving Optimal State Estimation with Low Complexity via Cramér-Rao Lower Bound Approach**|Liping Guo et.al.|[2410.08756](http://arxiv.org/abs/2410.08756)|null|
+|**2024-10-11**|**Gradients Stand-in for Defending Deep Leakage in Federated Learning**|H. Yi et.al.|[2410.08734](http://arxiv.org/abs/2410.08734)|null|
+|**2024-10-11**|**DistDD: Distributed Data Distillation Aggregation through Gradient Matching**|Peiran Wang et.al.|[2410.08665](http://arxiv.org/abs/2410.08665)|null|
+|**2024-10-11**|**GAI-Enabled Explainable Personalized Federated Semi-Supervised Learning**|Yubo Peng et.al.|[2410.08634](http://arxiv.org/abs/2410.08634)|null|
+|**2024-10-11**|**Accelerated Distributed Stochastic Non-Convex Optimization over Time-Varying Directed Networks**|Yiyue Chen et.al.|[2410.08508](http://arxiv.org/abs/2410.08508)|null|
+|**2024-10-10**|**Evaluating Differentially Private Synthetic Data Generation in High-Stakes Domains**|Krithika Ramesh et.al.|[2410.08327](http://arxiv.org/abs/2410.08327)|null|
 |**2024-10-10**|**PP-GWAS: Privacy Preserving Multi-Site Genome-wide Association Studies**|Arjhun Swaminathan et.al.|[2410.08122](http://arxiv.org/abs/2410.08122)|null|
 |**2024-10-10**|**AI Surrogate Model for Distributed Computing Workloads**|David K. Park et.al.|[2410.07940](http://arxiv.org/abs/2410.07940)|null|
 |**2024-10-10**|**A Comprehensive Survey on Joint Resource Allocation Strategies in Federated Edge Learning**|Jingbo Zhang et.al.|[2410.07881](http://arxiv.org/abs/2410.07881)|null|
