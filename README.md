@@ -20,6 +20,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**From x*y=k to Uniswap Hooks; A Comparative Review of Decentralized Exchanges (DEX)**|Mohammad Ali Asef et.al.|[2410.10162](http://arxiv.org/abs/2410.10162)|null|
+|**2024-10-14**|**Mastering AI: Big Data, Deep Learning, and the Evolution of Large Language Models -- Blockchain and Applications**|Pohsun Feng et.al.|[2410.10110](http://arxiv.org/abs/2410.10110)|null|
+|**2024-10-12**|**LLM-SmartAudit: Advanced Smart Contract Vulnerability Detection**|Zhiyuan Wei et.al.|[2410.09381](http://arxiv.org/abs/2410.09381)|null|
+|**2024-10-12**|**BAKUP: Automated, Flexible, and Capital-Efficient Insurance Protocol for Decentralized Finance**|Srisht Fateh Singh et.al.|[2410.09341](http://arxiv.org/abs/2410.09341)|null|
 |**2024-10-10**|**Ormer: A Manipulation-resistant and Gas-efficient Blockchain Pricing Oracle for DeFi**|Dongbin Bai et.al.|[2410.07893](http://arxiv.org/abs/2410.07893)|null|
 |**2024-10-10**|**A Cloud in the Sky: Geo-Aware On-board Data Services for LEO Satellites**|Thomas Sandholm et.al.|[2410.07586](http://arxiv.org/abs/2410.07586)|null|
 |**2024-10-09**|**A Blockchain and Artificial Intelligence based System for Halal Food Traceability**|Abdulla Alourani et.al.|[2410.07305](http://arxiv.org/abs/2410.07305)|null|
@@ -401,6 +405,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**Mastering AI: Big Data, Deep Learning, and the Evolution of Large Language Models -- Blockchain and Applications**|Pohsun Feng et.al.|[2410.10110](http://arxiv.org/abs/2410.10110)|null|
 |**2024-10-11**|**Cross-chain Sharing of Personal Health Records: Heterogeneous and Interoperable Blockchains**|Yongyang Lv et.al.|[2410.08762](http://arxiv.org/abs/2410.08762)|null|
 |**2024-10-02**|**XChainWatcher: Monitoring and Identifying Attacks in Cross-Chain Bridges**|André Augusto et.al.|[2410.02029](http://arxiv.org/abs/2410.02029)|null|
 |**2024-10-01**|**Count of Monte Crypto: Accounting-based Defenses for Cross-Chain Bridges**|Enze Liu et.al.|[2410.01107](http://arxiv.org/abs/2410.01107)|null|
@@ -454,6 +459,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Efficient Zero-Knowledge Proofs for Set Membership in Blockchain-Based Sensor Networks: A Novel OR-Aggregation Approach**|Oleksandr Kuznetsov et.al.|[2410.09169](http://arxiv.org/abs/2410.09169)|null|
+|**2024-10-11**|**SoK: Verifiable Cross-Silo FL**|Aleksei Korneev et.al.|[2410.09124](http://arxiv.org/abs/2410.09124)|null|
 |**2024-10-08**|**Research Directions for Verifiable Crypto-Physically Secure TEEs**|Sylvain Bellemare et.al.|[2410.03183](http://arxiv.org/abs/2410.03183)|null|
 |**2024-09-17**|**OATH: Efficient and Flexible Zero-Knowledge Proofs of End-to-End ML Fairness**|Olive Franzese et.al.|[2410.02777](http://arxiv.org/abs/2410.02777)|null|
 |**2024-09-29**|**Survey of Security and Data Attacks on Machine Unlearning In Financial and E-Commerce**|Carl E. J. Brodzinski et.al.|[2410.00055](http://arxiv.org/abs/2410.00055)|null|
@@ -561,6 +568,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**Model-Based Differentially Private Knowledge Transfer for Large Language Models**|Zhaomin Wu et.al.|[2410.10481](http://arxiv.org/abs/2410.10481)|null|
+|**2024-10-14**|**Mobility-Aware Federated Learning: Multi-Armed Bandit Based Selection in Vehicular Network**|Haoyu Tu et.al.|[2410.10451](http://arxiv.org/abs/2410.10451)|null|
+|**2024-10-14**|**Fed-piLot: Optimizing LoRA Assignment for Efficient Federated Foundation Model Fine-Tuning**|Zikai Zhang et.al.|[2410.10200](http://arxiv.org/abs/2410.10200)|null|
+|**2024-10-14**|**Differentially Private Selection using Smooth Sensitivity**|Akito Yamamoto et.al.|[2410.10187](http://arxiv.org/abs/2410.10187)|null|
+|**2024-10-14**|**DecKG: Decentralized Collaborative Learning with Knowledge Graph Enhancement for POI Recommendation**|Ruiqi Zheng et.al.|[2410.10130](http://arxiv.org/abs/2410.10130)|null|
+|**2024-10-14**|**Mixture of Experts Made Personalized: Federated Prompt Learning for Vision-Language Models**|Jun Luo et.al.|[2410.10114](http://arxiv.org/abs/2410.10114)|null|
+|**2024-10-13**|**Improving accuracy and convergence of federated learning edge computing methods for generalized DER forecasting applications in power grid**|Vineet Jagadeesan Nair et.al.|[2410.10018](http://arxiv.org/abs/2410.10018)|null|
+|**2024-10-13**|**FedECADO: A Dynamical System Model of Federated Learning**|Aayushya Agarwal et.al.|[2410.09933](http://arxiv.org/abs/2410.09933)|null|
+|**2024-10-13**|**"I inherently just trust that it works": Investigating Mental Models of Open-Source Libraries for Differential Privacy**|Patrick Song et.al.|[2410.09721](http://arxiv.org/abs/2410.09721)|null|
+|**2024-10-13**|**Uncovering Attacks and Defenses in Secure Aggregation for Federated Deep Learning**|Yiwei Zhang et.al.|[2410.09676](http://arxiv.org/abs/2410.09676)|null|
 |**2024-10-11**|**Evaluating Federated Kolmogorov-Arnold Networks on Non-IID Data**|Arthur Mendonça Sasse et.al.|[2410.08961](http://arxiv.org/abs/2410.08961)|null|
 |**2024-10-11**|**The Effect of Personalization in FedProx: A Fine-grained Analysis on Statistical Accuracy and Communication Efficiency**|Xin Yu et.al.|[2410.08934](http://arxiv.org/abs/2410.08934)|null|
 |**2024-10-11**|**Federated Learning in Practice: Reflections and Projections**|Katharine Daly et.al.|[2410.08892](http://arxiv.org/abs/2410.08892)|null|
