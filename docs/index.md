@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.15
+## Updated on 2024.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -19,7 +19,7 @@ layout: default
 |**2024-10-12**|**LLM-SmartAudit: Advanced Smart Contract Vulnerability Detection**|Zhiyuan Wei et.al.|[2410.09381](http://arxiv.org/abs/2410.09381)|null|
 |**2024-10-12**|**BAKUP: Automated, Flexible, and Capital-Efficient Insurance Protocol for Decentralized Finance**|Srisht Fateh Singh et.al.|[2410.09341](http://arxiv.org/abs/2410.09341)|null|
 |**2024-10-10**|**Ormer: A Manipulation-resistant and Gas-efficient Blockchain Pricing Oracle for DeFi**|Dongbin Bai et.al.|[2410.07893](http://arxiv.org/abs/2410.07893)|null|
-|**2024-10-10**|**A Cloud in the Sky: Geo-Aware On-board Data Services for LEO Satellites**|Thomas Sandholm et.al.|[2410.07586](http://arxiv.org/abs/2410.07586)|null|
+|**2024-10-14**|**A Cloud in the Sky: Geo-Aware On-board Data Services for LEO Satellites**|Thomas Sandholm et.al.|[2410.07586](http://arxiv.org/abs/2410.07586)|null|
 |**2024-10-09**|**A Blockchain and Artificial Intelligence based System for Halal Food Traceability**|Abdulla Alourani et.al.|[2410.07305](http://arxiv.org/abs/2410.07305)|null|
 |**2024-10-08**|**BlockMEDC: Blockchain Smart Contracts for Securing Moroccan Higher Education Digital Certificates**|Mohamed Fartitchou et.al.|[2410.07258](http://arxiv.org/abs/2410.07258)|null|
 |**2024-10-09**|**FRESCO: Fast and Reliable Edge Offloading with Reputation-based Hybrid Smart Contracts**|Josip Zilic et.al.|[2410.06715](http://arxiv.org/abs/2410.06715)|null|
@@ -557,7 +557,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-14**|**Model-Based Differentially Private Knowledge Transfer for Large Language Models**|Zhaomin Wu et.al.|[2410.10481](http://arxiv.org/abs/2410.10481)|null|
-|**2024-10-14**|**Mobility-Aware Federated Learning: Multi-Armed Bandit Based Selection in Vehicular Network**|Haoyu Tu et.al.|[2410.10451](http://arxiv.org/abs/2410.10451)|null|
+|**2024-10-15**|**Mobility-Aware Federated Learning: Multi-Armed Bandit Based Selection in Vehicular Network**|Haoyu Tu et.al.|[2410.10451](http://arxiv.org/abs/2410.10451)|null|
 |**2024-10-14**|**Fed-piLot: Optimizing LoRA Assignment for Efficient Federated Foundation Model Fine-Tuning**|Zikai Zhang et.al.|[2410.10200](http://arxiv.org/abs/2410.10200)|null|
 |**2024-10-14**|**Differentially Private Selection using Smooth Sensitivity**|Akito Yamamoto et.al.|[2410.10187](http://arxiv.org/abs/2410.10187)|null|
 |**2024-10-14**|**DecKG: Decentralized Collaborative Learning with Knowledge Graph Enhancement for POI Recommendation**|Ruiqi Zheng et.al.|[2410.10130](http://arxiv.org/abs/2410.10130)|null|
