@@ -460,6 +460,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-16**|**fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup**|Zihao Li et.al.|[2410.12210](http://arxiv.org/abs/2410.12210)|null|
 |**2024-10-11**|**Efficient Zero-Knowledge Proofs for Set Membership in Blockchain-Based Sensor Networks: A Novel OR-Aggregation Approach**|Oleksandr Kuznetsov et.al.|[2410.09169](http://arxiv.org/abs/2410.09169)|null|
 |**2024-10-11**|**SoK: Verifiable Cross-Silo FL**|Aleksei Korneev et.al.|[2410.09124](http://arxiv.org/abs/2410.09124)|null|
 |**2024-10-08**|**Research Directions for Verifiable Crypto-Physically Secure TEEs**|Sylvain Bellemare et.al.|[2410.03183](http://arxiv.org/abs/2410.03183)|null|
@@ -569,8 +570,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-16**|**Vaccinating Federated Learning for Robust Modulation Classification in Distributed Wireless Networks**|Hunmin Lee et.al.|[2410.12772](http://arxiv.org/abs/2410.12772)|null|
+|**2024-10-16**|**Federated Learning and Free-riding in a Competitive Market**|Jiajun Meng et.al.|[2410.12723](http://arxiv.org/abs/2410.12723)|null|
+|**2024-10-16**|**Disentangling data distribution for Federated Learning**|Xinyuan Zhao et.al.|[2410.12530](http://arxiv.org/abs/2410.12530)|null|
+|**2024-10-16**|**Generating Synthetic Functional Data for Privacy-Preserving GPS Trajectories**|Arianna Burzacchi et.al.|[2410.12514](http://arxiv.org/abs/2410.12514)|null|
+|**2024-10-16**|**Privacy-Preserving Synthetically Augmented Knowledge Graphs with Semantic Utility**|Luigi Bellomarini et.al.|[2410.12418](http://arxiv.org/abs/2410.12418)|null|
+|**2024-10-16**|**TPFL: A Trustworthy Personalized Federated Learning Framework via Subjective Logic**|Jinqian Chen et.al.|[2410.12316](http://arxiv.org/abs/2410.12316)|null|
+|**2024-10-16**|**Correction to Local Information Privacy and Its Applications to Data Aggregation**|Bo Jiang et.al.|[2410.12309](http://arxiv.org/abs/2410.12309)|null|
+|**2024-10-15**|**Age-of-Gradient Updates for Federated Learning over Random Access Channels**|Yu Heng Wu et.al.|[2410.11986](http://arxiv.org/abs/2410.11986)|null|
 |**2024-10-15**|**Federated Learning framework for LoRaWAN-enabled IIoT communication: A case study**|Oscar Torres Sanchez et.al.|[2410.11612](http://arxiv.org/abs/2410.11612)|null|
-|**2024-10-16**|**Why Go Full? Elevating Federated Learning Through Partial Network Updates**|Haolin Wang et.al.|[2410.11559](http://arxiv.org/abs/2410.11559)|null|
+|**2024-10-16**|**Why Go Full? Elevating Federated Learning Through Partial Network Updates**|Haolin Wang et.al.|[2410.11559](http://arxiv.org/abs/2410.11559)|**[link](https://github.com/FLAIR-Community/Fling)**|
 |**2024-10-15**|**Data Quality Control in Federated Instruction-tuning of Large Language Models**|Yaxin Du et.al.|[2410.11540](http://arxiv.org/abs/2410.11540)|null|
 |**2024-10-15**|**FOOGD: Federated Collaboration for Both Out-of-distribution Generalization and Detection**|Xinting Liao et.al.|[2410.11397](http://arxiv.org/abs/2410.11397)|**[link](https://github.com/xenialll/foogd-main)**|
 |**2024-10-15**|**WPFed: Web-based Personalized Federation for Decentralized Systems**|Guanhua Ye et.al.|[2410.11378](http://arxiv.org/abs/2410.11378)|null|
