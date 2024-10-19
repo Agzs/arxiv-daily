@@ -27,7 +27,7 @@
 |**2024-10-14**|**Mastering AI: Big Data, Deep Learning, and the Evolution of Large Language Models -- Blockchain and Applications**|Pohsun Feng et.al.|[2410.10110](http://arxiv.org/abs/2410.10110)|null|
 |**2024-10-12**|**LLM-SmartAudit: Advanced Smart Contract Vulnerability Detection**|Zhiyuan Wei et.al.|[2410.09381](http://arxiv.org/abs/2410.09381)|null|
 |**2024-10-12**|**BAKUP: Automated, Flexible, and Capital-Efficient Insurance Protocol for Decentralized Finance**|Srisht Fateh Singh et.al.|[2410.09341](http://arxiv.org/abs/2410.09341)|null|
-|**2024-10-10**|**Ormer: A Manipulation-resistant and Gas-efficient Blockchain Pricing Oracle for DeFi**|Dongbin Bai et.al.|[2410.07893](http://arxiv.org/abs/2410.07893)|null|
+|**2024-10-10**|**Ormer: A Manipulation-resistant and Gas-efficient Blockchain Pricing Oracle for DeFi**|Dongbin Bai et.al.|[2410.07893](http://arxiv.org/abs/2410.07893)|**[link](https://github.com/EvanBin/Ormer)**|
 |**2024-10-14**|**A Cloud in the Sky: Geo-Aware On-board Data Services for LEO Satellites**|Thomas Sandholm et.al.|[2410.07586](http://arxiv.org/abs/2410.07586)|null|
 |**2024-10-09**|**A Blockchain and Artificial Intelligence based System for Halal Food Traceability**|Abdulla Alourani et.al.|[2410.07305](http://arxiv.org/abs/2410.07305)|null|
 |**2024-10-08**|**BlockMEDC: Blockchain Smart Contracts for Securing Moroccan Higher Education Digital Certificates**|Mohamed Fartitchou et.al.|[2410.07258](http://arxiv.org/abs/2410.07258)|null|
