@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**ZK-DPPS: A Zero-Knowledge Decentralised Data Sharing and Processing Middleware**|Amir Jabbari et.al.|[2410.15568](http://arxiv.org/abs/2410.15568)|null|
+|**2024-10-20**|**Attention Is All You Need for LLM-based Code Vulnerability Localization**|Yue Li et.al.|[2410.15288](http://arxiv.org/abs/2410.15288)|null|
+|**2024-10-20**|**MAD: Move AI Decompiler to Improve Transparency and Auditability on Non-Open-Source Blockchain Smart Contract**|Eason Chen et.al.|[2410.15275](http://arxiv.org/abs/2410.15275)|null|
 |**2024-10-18**|**Blockchain-Based Trust and Transparency in Airline Reservation Systems using Microservices Architecture**|Biman Barua et.al.|[2410.14518](http://arxiv.org/abs/2410.14518)|null|
 |**2024-10-17**|**Leveraging Fine-Tuned Language Models for Efficient and Accurate Smart Contract Auditing**|Zhiyuan Wei et.al.|[2410.13918](http://arxiv.org/abs/2410.13918)|**[link](https://github.com/LLMSmartAudit/FTSmartAudit)**|
 |**2024-10-17**|**Optimal MEV Extraction Using Absolute Commitments**|Daji Landis et.al.|[2410.13624](http://arxiv.org/abs/2410.13624)|null|
@@ -410,6 +413,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**Efficient and Universally Accessible Cross-Chain Options without Upfront Holder Collateral**|Zifan Peng et.al.|[2410.15724](http://arxiv.org/abs/2410.15724)|null|
 |**2024-10-18**|**Safeguarding Blockchain Ecosystem: Understanding and Detecting Attack Transactions on Cross-chain Bridges**|Jiajing Wu et.al.|[2410.14493](http://arxiv.org/abs/2410.14493)|null|
 |**2024-10-14**|**Mastering AI: Big Data, Deep Learning, and the Evolution of Large Language Models -- Blockchain and Applications**|Pohsun Feng et.al.|[2410.10110](http://arxiv.org/abs/2410.10110)|null|
 |**2024-10-11**|**Cross-chain Sharing of Personal Health Records: Heterogeneous and Interoperable Blockchains**|Yongyang Lv et.al.|[2410.08762](http://arxiv.org/abs/2410.08762)|null|
@@ -465,6 +469,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**ZK-DPPS: A Zero-Knowledge Decentralised Data Sharing and Processing Middleware**|Amir Jabbari et.al.|[2410.15568](http://arxiv.org/abs/2410.15568)|null|
 |**2024-10-16**|**fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup**|Zihao Li et.al.|[2410.12210](http://arxiv.org/abs/2410.12210)|null|
 |**2024-10-11**|**Efficient Zero-Knowledge Proofs for Set Membership in Blockchain-Based Sensor Networks: A Novel OR-Aggregation Approach**|Oleksandr Kuznetsov et.al.|[2410.09169](http://arxiv.org/abs/2410.09169)|null|
 |**2024-10-11**|**SoK: Verifiable Cross-Silo FL**|Aleksei Korneev et.al.|[2410.09124](http://arxiv.org/abs/2410.09124)|null|
@@ -575,6 +580,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**DMM: Distributed Matrix Mechanism for Differentially-Private Federated Learning using Packed Secret Sharing**|Alexander Bienstock et.al.|[2410.16161](http://arxiv.org/abs/2410.16161)|null|
+|**2024-10-21**|**Extracting Spatiotemporal Data from Gradients with Large Language Models**|Lele Zheng et.al.|[2410.16121](http://arxiv.org/abs/2410.16121)|null|
+|**2024-10-21**|**TS-ACL: A Time Series Analytic Continual Learning Framework for Privacy-Preserving and Class-Incremental Pattern Recognition**|Kejia Fan et.al.|[2410.15954](http://arxiv.org/abs/2410.15954)|null|
+|**2024-10-21**|**A Low-Cost Privacy-Preserving Digital Wallet for Humanitarian Aid Distribution**|Eva Luvison et.al.|[2410.15942](http://arxiv.org/abs/2410.15942)|null|
+|**2024-10-21**|**Distributed Learning for UAV Swarms**|Chen Hu et.al.|[2410.15882](http://arxiv.org/abs/2410.15882)|null|
+|**2024-10-21**|**Private, Efficient and Scalable Kernel Learning for Medical Image Analysis**|Anika Hannemann et.al.|[2410.15840](http://arxiv.org/abs/2410.15840)|null|
+|**2024-10-21**|**Geographical Node Clustering and Grouping to Guarantee Data IIDness in Federated Learning**|Minkwon Lee et.al.|[2410.15693](http://arxiv.org/abs/2410.15693)|null|
+|**2024-10-21**|**Federated Learning with MMD-based Early Stopping for Adaptive GNSS Interference Classification**|Nishant S. Gaikwad et.al.|[2410.15681](http://arxiv.org/abs/2410.15681)|null|
+|**2024-10-21**|**ZK-DPPS: A Zero-Knowledge Decentralised Data Sharing and Processing Middleware**|Amir Jabbari et.al.|[2410.15568](http://arxiv.org/abs/2410.15568)|null|
+|**2024-10-20**|**Bayesian data fusion for distributed learning**|Peng Wu et.al.|[2410.15473](http://arxiv.org/abs/2410.15473)|null|
 |**2024-10-18**|**Personalizing Low-Rank Bayesian Neural Networks Via Federated Learning**|Boning Zhang et.al.|[2410.14390](http://arxiv.org/abs/2410.14390)|null|
 |**2024-10-18**|**Comparative Evaluation of Clustered Federated Learning Method**|Michael Ben Ali et.al.|[2410.14212](http://arxiv.org/abs/2410.14212)|**[link](https://github.com/leahcimali/Comparative-Evaluation-of-Clustered-Federated-Learning-Methods)**|
 |**2024-10-18**|**FedMSE: Federated learning for IoT network intrusion detection**|Van Tuan Nguyen et.al.|[2410.14121](http://arxiv.org/abs/2410.14121)|**[link](https://github.com/dino-chiio/fedmse)**|
