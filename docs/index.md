@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Vulnerability anti-patterns in Solidity: Increasing smart contracts security by reducing false alarms**|Tommaso Oss et.al.|[2410.17204](http://arxiv.org/abs/2410.17204)|null|
 |**2024-10-21**|**ZK-DPPS: A Zero-Knowledge Decentralised Data Sharing and Processing Middleware**|Amir Jabbari et.al.|[2410.15568](http://arxiv.org/abs/2410.15568)|null|
 |**2024-10-20**|**Attention Is All You Need for LLM-based Code Vulnerability Localization**|Yue Li et.al.|[2410.15288](http://arxiv.org/abs/2410.15288)|null|
 |**2024-10-20**|**MAD: Move AI Decompiler to Improve Transparency and Auditability on Non-Open-Source Blockchain Smart Contract**|Eason Chen et.al.|[2410.15275](http://arxiv.org/abs/2410.15275)|null|
@@ -459,6 +460,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Feature Homomorphism -- A Cryptographic Scheme For Data Verification Under Ciphertext-Only Conditions**|Huang Neng et.al.|[2410.17106](http://arxiv.org/abs/2410.17106)|null|
 |**2024-10-21**|**ZK-DPPS: A Zero-Knowledge Decentralised Data Sharing and Processing Middleware**|Amir Jabbari et.al.|[2410.15568](http://arxiv.org/abs/2410.15568)|null|
 |**2024-10-16**|**fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup**|Zihao Li et.al.|[2410.12210](http://arxiv.org/abs/2410.12210)|null|
 |**2024-10-11**|**Efficient Zero-Knowledge Proofs for Set Membership in Blockchain-Based Sensor Networks: A Novel OR-Aggregation Approach**|Oleksandr Kuznetsov et.al.|[2410.09169](http://arxiv.org/abs/2410.09169)|null|
@@ -568,6 +570,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**PAPILLON: PrivAcy Preservation from Internet-based and Local Language MOdel ENsembles**|Li Siyan et.al.|[2410.17127](http://arxiv.org/abs/2410.17127)|**[link](https://github.com/siyan-sylvia-li/papillon)**|
+|**2024-10-22**|**Masked Differential Privacy**|David Schneider et.al.|[2410.17098](http://arxiv.org/abs/2410.17098)|null|
+|**2024-10-22**|**UnStar: Unlearning with Self-Taught Anti-Sample Reasoning for LLMs**|Yash Sinha et.al.|[2410.17050](http://arxiv.org/abs/2410.17050)|null|
+|**2024-10-22**|**Beyond Yao's Millionaires: Secure Multi-Party Computation of Non-Polynomial Functions**|Seyed Reza Hoseini Najarkolaei et.al.|[2410.17000](http://arxiv.org/abs/2410.17000)|null|
+|**2024-10-22**|**Network Inversion for Training-Like Data Reconstruction**|Pirzada Suhail et.al.|[2410.16884](http://arxiv.org/abs/2410.16884)|null|
+|**2024-10-22**|**Federated Causal Inference: Multi-Centric ATE Estimation beyond Meta-Analysis**|Rémi Khellaf et.al.|[2410.16870](http://arxiv.org/abs/2410.16870)|null|
+|**2024-10-21**|**Scalability of memorization-based machine unlearning**|Kairan Zhao et.al.|[2410.16516](http://arxiv.org/abs/2410.16516)|null|
+|**2024-10-21**|**Subword Embedding from Bytes Gains Privacy without Sacrificing Accuracy and Complexity**|Mengjiao Zhang et.al.|[2410.16410](http://arxiv.org/abs/2410.16410)|null|
 |**2024-10-21**|**DMM: Distributed Matrix Mechanism for Differentially-Private Federated Learning using Packed Secret Sharing**|Alexander Bienstock et.al.|[2410.16161](http://arxiv.org/abs/2410.16161)|null|
 |**2024-10-21**|**Extracting Spatiotemporal Data from Gradients with Large Language Models**|Lele Zheng et.al.|[2410.16121](http://arxiv.org/abs/2410.16121)|null|
 |**2024-10-21**|**TS-ACL: A Time Series Analytic Continual Learning Framework for Privacy-Preserving and Class-Incremental Pattern Recognition**|Kejia Fan et.al.|[2410.15954](http://arxiv.org/abs/2410.15954)|null|
