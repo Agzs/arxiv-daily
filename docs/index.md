@@ -592,7 +592,7 @@ layout: default
 |**2024-10-22**|**Beyond Yao's Millionaires: Secure Multi-Party Computation of Non-Polynomial Functions**|Seyed Reza Hoseini Najarkolaei et.al.|[2410.17000](http://arxiv.org/abs/2410.17000)|null|
 |**2024-10-22**|**Network Inversion for Training-Like Data Reconstruction**|Pirzada Suhail et.al.|[2410.16884](http://arxiv.org/abs/2410.16884)|null|
 |**2024-10-22**|**Federated Causal Inference: Multi-Centric ATE Estimation beyond Meta-Analysis**|Rémi Khellaf et.al.|[2410.16870](http://arxiv.org/abs/2410.16870)|null|
-|**2024-10-21**|**Scalability of memorization-based machine unlearning**|Kairan Zhao et.al.|[2410.16516](http://arxiv.org/abs/2410.16516)|null|
+|**2024-10-21**|**Scalability of memorization-based machine unlearning**|Kairan Zhao et.al.|[2410.16516](http://arxiv.org/abs/2410.16516)|**[link](https://github.com/kairanzhao/rum)**|
 |**2024-10-21**|**Subword Embedding from Bytes Gains Privacy without Sacrificing Accuracy and Complexity**|Mengjiao Zhang et.al.|[2410.16410](http://arxiv.org/abs/2410.16410)|null|
 |**2024-10-21**|**DMM: Distributed Matrix Mechanism for Differentially-Private Federated Learning using Packed Secret Sharing**|Alexander Bienstock et.al.|[2410.16161](http://arxiv.org/abs/2410.16161)|null|
 |**2024-10-21**|**Extracting Spatiotemporal Data from Gradients with Large Language Models**|Lele Zheng et.al.|[2410.16121](http://arxiv.org/abs/2410.16121)|null|
@@ -1522,7 +1522,7 @@ layout: default
 |**2024-04-18**|**KDk: A Defense Mechanism Against Label Inference Attacks in Vertical Federated Learning**|Marco Arazzi et.al.|[2404.12369](http://arxiv.org/abs/2404.12369)|null|
 |**2024-04-18**|**FedEval-LLM: Federated Evaluation of Large Language Models on Downstream Tasks with Collective Wisdom**|Yuanqin He et.al.|[2404.12273](http://arxiv.org/abs/2404.12273)|null|
 |**2024-04-18**|**Privacy-Preserving UCB Decision Process Verification via zk-SNARKs**|Xikun Jiang et.al.|[2404.12186](http://arxiv.org/abs/2404.12186)|null|
-|**2024-04-18**|**One-Shot Sequential Federated Learning for Non-IID Data by Enhancing Local Model Diversity**|Naibo Wang et.al.|[2404.12130](http://arxiv.org/abs/2404.12130)|null|
+|**2024-04-18**|**One-Shot Sequential Federated Learning for Non-IID Data by Enhancing Local Model Diversity**|Naibo Wang et.al.|[2404.12130](http://arxiv.org/abs/2404.12130)|**[link](https://github.com/NaiboWang/FedELMY)**|
 |**2024-04-18**|**HyDiscGAN: A Hybrid Distributed cGAN for Audio-Visual Privacy Preservation in Multimodal Sentiment Analysis**|Zhuojia Wu et.al.|[2404.11938](http://arxiv.org/abs/2404.11938)|null|
 |**2024-04-18**|**FedMID: A Data-Free Method for Using Intermediate Outputs as a Defense Mechanism Against Poisoning Attacks in Federated Learning**|Sungwon Han et.al.|[2404.11905](http://arxiv.org/abs/2404.11905)|null|
 |**2024-04-18**|**FCNCP: A Coupled Nonnegative CANDECOMP/PARAFAC Decomposition Based on Federated Learning**|Yukai Cai et.al.|[2404.11890](http://arxiv.org/abs/2404.11890)|null|
