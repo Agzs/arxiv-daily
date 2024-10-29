@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-28**|**COBRA: Interaction-Aware Bytecode-Level Vulnerability Detector for Smart Contracts**|Wenkai Li et.al.|[2410.20712](http://arxiv.org/abs/2410.20712)|null|
+|**2024-10-27**|**Advancing Towards Green Blockchain: A Practical Energy-Efficient Blockchain Based Application for CV Verification**|Gabriel Fernández-Blanco et.al.|[2410.20605](http://arxiv.org/abs/2410.20605)|null|
+|**2024-10-27**|**A Comprehensive Survey on Green Blockchain: Developing the Next Generation of Energy Efficient and Sustainable Blockchain Systems**|Tiago M. Fernández-Caramés et.al.|[2410.20581](http://arxiv.org/abs/2410.20581)|null|
+|**2024-10-27**|**Smart Transport Infrastructure Maintenance: A Smart-Contract Blockchain Approach**|Fatjon Seraj et.al.|[2410.20431](http://arxiv.org/abs/2410.20431)|null|
 |**2024-10-22**|**Vulnerability anti-patterns in Solidity: Increasing smart contracts security by reducing false alarms**|Tommaso Oss et.al.|[2410.17204](http://arxiv.org/abs/2410.17204)|null|
 |**2024-10-21**|**ZK-DPPS: A Zero-Knowledge Decentralised Data Sharing and Processing Middleware**|Amir Jabbari et.al.|[2410.15568](http://arxiv.org/abs/2410.15568)|null|
 |**2024-10-20**|**Attention Is All You Need for LLM-based Code Vulnerability Localization**|Yue Li et.al.|[2410.15288](http://arxiv.org/abs/2410.15288)|null|
@@ -570,6 +574,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-28**|**On Homomorphic Encryption Based Strategies for Class Imbalance in Federated Learning**|Arpit Guleria et.al.|[2410.21192](http://arxiv.org/abs/2410.21192)|null|
+|**2024-10-28**|**Unharmful Backdoor-based Client-side Watermarking in Federated Learning**|Kaijing Luo et.al.|[2410.21179](http://arxiv.org/abs/2410.21179)|null|
+|**2024-10-28**|**Privacy-Preserving for Images in Satellite Communications: A Comprehensive Review of Chaos-Based Encryption**|Farrukh Bin Rashid et.al.|[2410.21177](http://arxiv.org/abs/2410.21177)|null|
+|**2024-10-28**|**A Unified Solution to Diverse Heterogeneities in One-shot Federated Learning**|Jun Bai et.al.|[2410.21119](http://arxiv.org/abs/2410.21119)|null|
+|**2024-10-28**|**Federated Time Series Generation on Feature and Temporally Misaligned Data**|Chenrui Fan et.al.|[2410.21072](http://arxiv.org/abs/2410.21072)|null|
+|**2024-10-28**|**Enhanced channel estimation for near-field IRS-aided multi-user MIMO system via deep residual network**|Yan Wang et.al.|[2410.20992](http://arxiv.org/abs/2410.20992)|null|
+|**2024-10-28**|**A Statistical Analysis of Deep Federated Learning for Intrinsically Low-dimensional Data**|Saptarshi Chakraborty et.al.|[2410.20659](http://arxiv.org/abs/2410.20659)|null|
+|**2024-10-27**|**Props for Machine-Learning Security**|Ari Juels et.al.|[2410.20522](http://arxiv.org/abs/2410.20522)|null|
+|**2024-10-27**|**FuseFL: One-Shot Federated Learning through the Lens of Causality with Progressive Model Fusion**|Zhenheng Tang et.al.|[2410.20380](http://arxiv.org/abs/2410.20380)|**[link](https://github.com/wizard1203/fusefl)**|
+|**2024-10-26**|**FL-DABE-BC: A Privacy-Enhanced, Decentralized Authentication, and Secure Communication for Federated Learning Framework with Decentralized Attribute-Based Encryption and Blockchain for IoT Scenarios**|Sathwik Narkedimilli et.al.|[2410.20259](http://arxiv.org/abs/2410.20259)|null|
 |**2024-10-25**|**MetaTrading: An Immersion-Aware Model Trading Framework for Vehicular Metaverse Services**|Hongjia Wu et.al.|[2410.19665](http://arxiv.org/abs/2410.19665)|null|
 |**2024-10-25**|**FLiP: Privacy-Preserving Federated Learning based on the Principle of Least Privileg**|ShiMao Xu et.al.|[2410.19548](http://arxiv.org/abs/2410.19548)|null|
 |**2024-10-25**|**Privacy-preserving server-supported decryption**|Peeter Laud et.al.|[2410.19338](http://arxiv.org/abs/2410.19338)|null|
