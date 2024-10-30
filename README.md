@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**Impact of Code Transformation on Detection of Smart Contract Vulnerabilities**|Cuong Tran Manh et.al.|[2410.21685](http://arxiv.org/abs/2410.21685)|null|
 |**2024-10-28**|**COBRA: Interaction-Aware Bytecode-Level Vulnerability Detector for Smart Contracts**|Wenkai Li et.al.|[2410.20712](http://arxiv.org/abs/2410.20712)|null|
 |**2024-10-27**|**Advancing Towards Green Blockchain: A Practical Energy-Efficient Blockchain Based Application for CV Verification**|Gabriel Fernández-Blanco et.al.|[2410.20605](http://arxiv.org/abs/2410.20605)|null|
 |**2024-10-27**|**A Comprehensive Survey on Green Blockchain: Developing the Next Generation of Energy Efficient and Sustainable Blockchain Systems**|Tiago M. Fernández-Caramés et.al.|[2410.20581](http://arxiv.org/abs/2410.20581)|null|
@@ -586,6 +587,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**$\mathsf{OPA}$ : One-shot Private Aggregation with Single Client Interaction and its Applications to Federated Learning**|Harish Karthikeyan et.al.|[2410.22303](http://arxiv.org/abs/2410.22303)|null|
+|**2024-10-29**|**Auditing $f$ -Differential Privacy in One Run**|Saeed Mahloujifar et.al.|[2410.22235](http://arxiv.org/abs/2410.22235)|null|
+|**2024-10-29**|**$r$Age-$k$ : Communication-Efficient Federated Learning Using Age Factor**|Matin Mortaheb et.al.|[2410.22192](http://arxiv.org/abs/2410.22192)|null|
+|**2024-10-29**|**Cognitive Semantic Augmentation LEO Satellite Networks for Earth Observation**|Hong-fu Chou et.al.|[2410.21916](http://arxiv.org/abs/2410.21916)|null|
+|**2024-10-29**|**Optimized Homomorphic Vector Permutation From New Decomposition Techniques**|Xirong Ma et.al.|[2410.21840](http://arxiv.org/abs/2410.21840)|null|
+|**2024-10-29**|**Secure numerical simulations using fully homomorphic encryption**|Arseniy Kholod et.al.|[2410.21824](http://arxiv.org/abs/2410.21824)|null|
+|**2024-10-29**|**Online Mirror Descent for Tchebycheff Scalarization in Multi-Objective Optimization**|Meitong Liu et.al.|[2410.21764](http://arxiv.org/abs/2410.21764)|null|
+|**2024-10-29**|**BF-Meta: Secure Blockchain-enhanced Privacy-preserving Federated Learning for Metaverse**|Wenbo Liu et.al.|[2410.21675](http://arxiv.org/abs/2410.21675)|null|
+|**2024-10-29**|**Investigating Memorization in Video Diffusion Models**|Chen Chen et.al.|[2410.21669](http://arxiv.org/abs/2410.21669)|null|
+|**2024-10-28**|**Accelerating Privacy-Preserving Medical Record Linkage: A Three-Party MPC Approach**|Şeyma Selcan Mağara et.al.|[2410.21605](http://arxiv.org/abs/2410.21605)|null|
 |**2024-10-28**|**On Homomorphic Encryption Based Strategies for Class Imbalance in Federated Learning**|Arpit Guleria et.al.|[2410.21192](http://arxiv.org/abs/2410.21192)|null|
 |**2024-10-28**|**Unharmful Backdoor-based Client-side Watermarking in Federated Learning**|Kaijing Luo et.al.|[2410.21179](http://arxiv.org/abs/2410.21179)|null|
 |**2024-10-28**|**Privacy-Preserving for Images in Satellite Communications: A Comprehensive Review of Chaos-Based Encryption**|Farrukh Bin Rashid et.al.|[2410.21177](http://arxiv.org/abs/2410.21177)|null|
