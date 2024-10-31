@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.30
+## Updated on 2024.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-29**|**Impact of Code Transformation on Detection of Smart Contract Vulnerabilities**|Cuong Tran Manh et.al.|[2410.21685](http://arxiv.org/abs/2410.21685)|null|
+|**2024-10-30**|**Impact of Code Transformation on Detection of Smart Contract Vulnerabilities**|Cuong Tran Manh et.al.|[2410.21685](http://arxiv.org/abs/2410.21685)|null|
 |**2024-10-28**|**COBRA: Interaction-Aware Bytecode-Level Vulnerability Detector for Smart Contracts**|Wenkai Li et.al.|[2410.20712](http://arxiv.org/abs/2410.20712)|null|
 |**2024-10-27**|**Advancing Towards Green Blockchain: A Practical Energy-Efficient Blockchain Based Application for CV Verification**|Gabriel Fernández-Blanco et.al.|[2410.20605](http://arxiv.org/abs/2410.20605)|null|
 |**2024-10-27**|**A Comprehensive Survey on Green Blockchain: Developing the Next Generation of Energy Efficient and Sustainable Blockchain Systems**|Tiago M. Fernández-Caramés et.al.|[2410.20581](http://arxiv.org/abs/2410.20581)|null|
