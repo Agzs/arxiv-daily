@@ -601,7 +601,7 @@
 |**2024-10-31**|**Biologically-Inspired Technologies: Integrating Brain-Computer Interface and Neuromorphic Computing for Human Digital Twins**|Chen Shang et.al.|[2410.23639](http://arxiv.org/abs/2410.23639)|null|
 |**2024-10-30**|**Communication-Efficient Federated Learning over Wireless Channels via Gradient Sketching**|Vineet Sunil Gattani et.al.|[2410.23424](http://arxiv.org/abs/2410.23424)|null|
 |**2024-10-31**|**(FL) $^2$ : Overcoming Few Labels in Federated Semi-Supervised Learning**|Seungjoo Lee et.al.|[2410.23227](http://arxiv.org/abs/2410.23227)|**[link](https://github.com/seungjoo-ai/FLFL-NeurIPS24)**|
-|**2024-10-30**|**Federated Learning under Periodic Client Participation and Heterogeneous Data: A New Communication-Efficient Algorithm and Analysis**|Michael Crawshaw et.al.|[2410.23131](http://arxiv.org/abs/2410.23131)|null|
+|**2024-10-30**|**Federated Learning under Periodic Client Participation and Heterogeneous Data: A New Communication-Efficient Algorithm and Analysis**|Michael Crawshaw et.al.|[2410.23131](http://arxiv.org/abs/2410.23131)|**[link](https://github.com/MingruiLiu-ML-Lab/FL-under-Periodic-Participation)**|
 |**2024-10-31**|**Why Gradient Subspace? Identifying and Mitigating LoRA's Bottlenecks in Federated Fine-Tuning of Large Language Models**|Navyansh Mahla et.al.|[2410.23111](http://arxiv.org/abs/2410.23111)|null|
 |**2024-10-30**|**A Study of Secure Algorithms for Vertical Federated Learning: Take Secure Logistic Regression as an Example**|Huan-Chih Wang et.al.|[2410.22960](http://arxiv.org/abs/2410.22960)|null|
 |**2024-10-30**|**CopRA: A Progressive LoRA Training Strategy**|Zhan Zhuang et.al.|[2410.22911](http://arxiv.org/abs/2410.22911)|null|
@@ -615,7 +615,7 @@
 |**2024-10-29**|**$r$Age-$k$ : Communication-Efficient Federated Learning Using Age Factor**|Matin Mortaheb et.al.|[2410.22192](http://arxiv.org/abs/2410.22192)|null|
 |**2024-10-29**|**Cognitive Semantic Augmentation LEO Satellite Networks for Earth Observation**|Hong-fu Chou et.al.|[2410.21916](http://arxiv.org/abs/2410.21916)|null|
 |**2024-10-29**|**Optimized Homomorphic Vector Permutation From New Decomposition Techniques**|Xirong Ma et.al.|[2410.21840](http://arxiv.org/abs/2410.21840)|null|
-|**2024-10-29**|**Secure numerical simulations using fully homomorphic encryption**|Arseniy Kholod et.al.|[2410.21824](http://arxiv.org/abs/2410.21824)|null|
+|**2024-10-29**|**Secure numerical simulations using fully homomorphic encryption**|Arseniy Kholod et.al.|[2410.21824](http://arxiv.org/abs/2410.21824)|**[link](https://github.com/hpsc-lab/paper-2024-secure_numerical_simulations)**|
 |**2024-10-29**|**Online Mirror Descent for Tchebycheff Scalarization in Multi-Objective Optimization**|Meitong Liu et.al.|[2410.21764](http://arxiv.org/abs/2410.21764)|null|
 |**2024-10-29**|**BF-Meta: Secure Blockchain-enhanced Privacy-preserving Federated Learning for Metaverse**|Wenbo Liu et.al.|[2410.21675](http://arxiv.org/abs/2410.21675)|null|
 |**2024-10-29**|**Investigating Memorization in Video Diffusion Models**|Chen Chen et.al.|[2410.21669](http://arxiv.org/abs/2410.21669)|null|
@@ -626,7 +626,7 @@
 |**2024-10-28**|**A Unified Solution to Diverse Heterogeneities in One-shot Federated Learning**|Jun Bai et.al.|[2410.21119](http://arxiv.org/abs/2410.21119)|null|
 |**2024-10-28**|**Federated Time Series Generation on Feature and Temporally Misaligned Data**|Chenrui Fan et.al.|[2410.21072](http://arxiv.org/abs/2410.21072)|null|
 |**2024-10-28**|**Enhanced channel estimation for near-field IRS-aided multi-user MIMO system via deep residual network**|Yan Wang et.al.|[2410.20992](http://arxiv.org/abs/2410.20992)|null|
-|**2024-10-28**|**A Statistical Analysis of Deep Federated Learning for Intrinsically Low-dimensional Data**|Saptarshi Chakraborty et.al.|[2410.20659](http://arxiv.org/abs/2410.20659)|null|
+|**2024-10-28**|**A Statistical Analysis of Deep Federated Learning for Intrinsically Low-dimensional Data**|Saptarshi Chakraborty et.al.|[2410.20659](http://arxiv.org/abs/2410.20659)|**[link](https://github.com/saptarshic27/fl)**|
 |**2024-10-27**|**Props for Machine-Learning Security**|Ari Juels et.al.|[2410.20522](http://arxiv.org/abs/2410.20522)|null|
 |**2024-10-27**|**FuseFL: One-Shot Federated Learning through the Lens of Causality with Progressive Model Fusion**|Zhenheng Tang et.al.|[2410.20380](http://arxiv.org/abs/2410.20380)|**[link](https://github.com/wizard1203/fusefl)**|
 |**2024-10-26**|**FL-DABE-BC: A Privacy-Enhanced, Decentralized Authentication, and Secure Communication for Federated Learning Framework with Decentralized Attribute-Based Encryption and Blockchain for IoT Scenarios**|Sathwik Narkedimilli et.al.|[2410.20259](http://arxiv.org/abs/2410.20259)|null|
@@ -809,7 +809,7 @@
 |**2024-09-26**|**Dataset Distillation-based Hybrid Federated Learning on Non-IID Data**|Xiufang Shi et.al.|[2409.17517](http://arxiv.org/abs/2409.17517)|null|
 |**2024-09-26**|**BioZero: An Efficient and Privacy-Preserving Decentralized Biometric Authentication Protocol on Open Blockchain**|Junhao Lai et.al.|[2409.17509](http://arxiv.org/abs/2409.17509)|null|
 |**2024-09-26**|**Does Worst-Performing Agent Lead the Pack? Analyzing Agent Dynamics in Unified Distributed SGD**|Jie Hu et.al.|[2409.17499](http://arxiv.org/abs/2409.17499)|null|
-|**2024-09-26**|**Efficient Federated Learning against Heterogeneous and Non-stationary Client Unavailability**|Ming Xiang et.al.|[2409.17446](http://arxiv.org/abs/2409.17446)|null|
+|**2024-09-26**|**Efficient Federated Learning against Heterogeneous and Non-stationary Client Unavailability**|Ming Xiang et.al.|[2409.17446](http://arxiv.org/abs/2409.17446)|**[link](https://github.com/mingxiang12/fedawe)**|
 |**2024-09-25**|**PhD Forum: Efficient Privacy-Preserving Processing via Memory-Centric Computing**|Mpoki Mwaisela et.al.|[2409.16777](http://arxiv.org/abs/2409.16777)|null|
 |**2024-09-24**|**Flight: A FaaS-Based Framework for Complex and Hierarchical Federated Learning**|Nathaniel Hudson et.al.|[2409.16495](http://arxiv.org/abs/2409.16495)|null|
 |**2024-09-24**|**Communication and Energy Efficient Federated Learning using Zero-Order Optimization Technique**|Elissa Mhanna et.al.|[2409.16456](http://arxiv.org/abs/2409.16456)|null|
@@ -916,7 +916,7 @@
 |**2024-08-28**|**Convergent Differential Privacy Analysis for General Federated Learning: the f-DP Perspective**|Yan Sun et.al.|[2408.15621](http://arxiv.org/abs/2408.15621)|null|
 |**2024-08-28**|**Exploring Selective Layer Fine-Tuning in Federated Learning**|Yuchang Sun et.al.|[2408.15600](http://arxiv.org/abs/2408.15600)|null|
 |**2024-08-29**|**VFLIP: A Backdoor Defense for Vertical Federated Learning via Identification and Purification**|Yungi Cho et.al.|[2408.15591](http://arxiv.org/abs/2408.15591)|**[link](https://github.com/blingcho/vflip-esorics24)**|
-|**2024-08-27**|**DCT-CryptoNets: Scaling Private Inference in the Frequency Domain**|Arjun Roy et.al.|[2408.15231](http://arxiv.org/abs/2408.15231)|null|
+|**2024-08-27**|**DCT-CryptoNets: Scaling Private Inference in the Frequency Domain**|Arjun Roy et.al.|[2408.15231](http://arxiv.org/abs/2408.15231)|**[link](https://github.com/ar-roy/dct-cryptonets)**|
 |**2024-08-28**|**MMASD+: A Novel Dataset for Privacy-Preserving Behavior Analysis of Children with Autism Spectrum Disorder**|Pavan Uttej Ravva et.al.|[2408.15077](http://arxiv.org/abs/2408.15077)|**[link](https://github.com/pavanravva/enhanced-mmasd)**|
 |**2024-08-27**|**Effective Anonymous Messaging: the Role of Altruism**|Marcell Frank et.al.|[2408.14980](http://arxiv.org/abs/2408.14980)|**[link](https://github.com/m9framar/fmd-gt)**|
 |**2024-08-27**|**Bandwidth-Aware and Overlap-Weighted Compression for Communication-Efficient Federated Learning**|Zichen Tang et.al.|[2408.14736](http://arxiv.org/abs/2408.14736)|null|
@@ -1051,7 +1051,7 @@
 |**2024-07-30**|**LFFR: Logistic Function For (multi-output) Regression**|John Chiang et.al.|[2407.21187](http://arxiv.org/abs/2407.21187)|null|
 |**2024-07-30**|**FL-DECO-BC: A Privacy-Preserving, Provably Secure, and Provenance-Preserving Federated Learning Framework with Decentralized Oracles on Blockchain for VANETs**|Sathwik Narkedimilli et.al.|[2407.21141](http://arxiv.org/abs/2407.21141)|null|
 |**2024-07-30**|**Federated Knowledge Recycling: Privacy-Preserving Synthetic Data Sharing**|Eugenio Lomurno et.al.|[2407.20830](http://arxiv.org/abs/2407.20830)|null|
-|**2024-07-30**|**Linear mixed modelling of federated data when only the mean, covariance, and sample size are available**|Marie Analiz April Limpoco et.al.|[2407.20796](http://arxiv.org/abs/2407.20796)|null|
+|**2024-07-30**|**Linear mixed modelling of federated data when only the mean, covariance, and sample size are available**|Marie Analiz April Limpoco et.al.|[2407.20796](http://arxiv.org/abs/2407.20796)|**[link](https://github.com/lizlimpocouhasselt/LMM-from-summary-statistics)**|
 |**2024-07-30**|**Integrating audiological datasets via federated merging of Auditory Profiles**|Samira Saak et.al.|[2407.20765](http://arxiv.org/abs/2407.20765)|null|
 |**2024-07-30**|**Federated Learning as a Service for Hierarchical Edge Networks with Heterogeneous Models**|Wentao Gao et.al.|[2407.20573](http://arxiv.org/abs/2407.20573)|null|
 |**2024-07-30**|**CELLM: An Efficient Communication in Large Language Models Training for Federated Learning**|Raja Vavekanand et.al.|[2407.20557](http://arxiv.org/abs/2407.20557)|null|
@@ -1062,7 +1062,7 @@
 |**2024-07-29**|**Federated Learning based Latent Factorization of Tensors for Privacy-Preserving QoS Prediction**|Shuai Zhong et.al.|[2407.19828](http://arxiv.org/abs/2407.19828)|null|
 |**2024-07-29**|**Efficient Byzantine-Robust and Provably Privacy-Preserving Federated Learning**|Chenfei Nie et.al.|[2407.19703](http://arxiv.org/abs/2407.19703)|**[link](https://github.com/bpfl/bpfl)**|
 |**2024-07-28**|**Reputation-Driven Asynchronous Federated Learning for Enhanced Trajectory Prediction with Blockchain**|Weiliang Chen et.al.|[2407.19428](http://arxiv.org/abs/2407.19428)|null|
-|**2024-07-28**|**FIARSE: Model-Heterogeneous Federated Learning via Importance-Aware Submodel Extraction**|Feijie Wu et.al.|[2407.19389](http://arxiv.org/abs/2407.19389)|null|
+|**2024-07-28**|**FIARSE: Model-Heterogeneous Federated Learning via Importance-Aware Submodel Extraction**|Feijie Wu et.al.|[2407.19389](http://arxiv.org/abs/2407.19389)|**[link](https://github.com/harliwu/fiarse)**|
 |**2024-07-27**|**Enhancing Group Fairness in Federated Learning through Personalization**|Yifan Yang et.al.|[2407.19331](http://arxiv.org/abs/2407.19331)|null|
 |**2024-07-27**|**On Joint Noise Scaling in Differentially Private Federated Learning with Multiple Local Steps**|Mikko A. Heikkilä et.al.|[2407.19286](http://arxiv.org/abs/2407.19286)|null|
 |**2024-07-26**|**FLUE: Federated Learning with Un-Encrypted model weights**|Elie Atallah et.al.|[2407.18750](http://arxiv.org/abs/2407.18750)|null|
