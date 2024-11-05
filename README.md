@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-02**|**Strengthening DeFi Security: A Static Analysis Approach to Flash Loan Vulnerabilities**|Ka Wai Wu et.al.|[2411.01230](http://arxiv.org/abs/2411.01230)|null|
+|**2024-11-01**|**MAP the Blockchain World: A Trustless and Scalable Blockchain Interoperability Protocol for Cross-chain Applications**|Yinfeng Cao et.al.|[2411.00422](http://arxiv.org/abs/2411.00422)|**[link](https://github.com/mapprotocol/map-contracts)**|
+|**2024-10-31**|**Blockchain Services for Digital Government: An Exploration of NFT Applications in the Metaverse**|Zachary Roch et.al.|[2411.00076](http://arxiv.org/abs/2411.00076)|null|
 |**2024-10-31**|**Leveraging Slither and Interval Analysis to build a Static Analysis Tool**|Stefan-Claudiu Susan et.al.|[2410.23766](http://arxiv.org/abs/2410.23766)|null|
 |**2024-10-29**|**Unleashing Multicore Strength for Efficient Execution of Transactions**|Ankit Ravish et.al.|[2410.22460](http://arxiv.org/abs/2410.22460)|null|
 |**2024-10-30**|**Impact of Code Transformation on Detection of Smart Contract Vulnerabilities**|Cuong Tran Manh et.al.|[2410.21685](http://arxiv.org/abs/2410.21685)|null|
@@ -421,6 +424,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-01**|**MAP the Blockchain World: A Trustless and Scalable Blockchain Interoperability Protocol for Cross-chain Applications**|Yinfeng Cao et.al.|[2411.00422](http://arxiv.org/abs/2411.00422)|**[link](https://github.com/mapprotocol/map-contracts)**|
+|**2024-10-31**|**Historical and Multichain Storage Proofs**|Marek Kirejczyk et.al.|[2411.00193](http://arxiv.org/abs/2411.00193)|null|
 |**2024-10-31**|**Memes, Markets, and Machines: The Evolution of On Chain Autonomy through Hyperstition**|Jeffy Yu et.al.|[2410.23794](http://arxiv.org/abs/2410.23794)|null|
 |**2024-10-21**|**Efficient and Universally Accessible Cross-Chain Options without Upfront Holder Collateral**|Zifan Peng et.al.|[2410.15724](http://arxiv.org/abs/2410.15724)|null|
 |**2024-10-18**|**Safeguarding Blockchain Ecosystem: Understanding and Detecting Attack Transactions on Cross-chain Bridges**|Jiajing Wu et.al.|[2410.14493](http://arxiv.org/abs/2410.14493)|null|
@@ -590,6 +595,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Digital Twin-Assisted Federated Learning with Blockchain in Multi-tier Computing Systems**|Yongyi Tang et.al.|[2411.02323](http://arxiv.org/abs/2411.02323)|null|
+|**2024-11-04**|**Federated GNNs for EEG-Based Stroke Assessment**|Andrea Protani et.al.|[2411.02286](http://arxiv.org/abs/2411.02286)|null|
+|**2024-11-04**|**FedPID: An Aggregation Method for Federated Learning**|Leon Mächler et.al.|[2411.02152](http://arxiv.org/abs/2411.02152)|null|
+|**2024-11-04**|**FedMoE-DA: Federated Mixture of Experts via Domain Aware Fine-grained Aggregation**|Ziwei Zhan et.al.|[2411.02115](http://arxiv.org/abs/2411.02115)|null|
+|**2024-11-04**|**Differentially Private Integrated Decision Gradients (IDG-DP) for Radar-based Human Activity Recognition**|Idris Zakariyya et.al.|[2411.02099](http://arxiv.org/abs/2411.02099)|null|
+|**2024-11-04**|**R+R:Understanding Hyperparameter Effects in DP-SGD**|Felix Morsbach et.al.|[2411.02051](http://arxiv.org/abs/2411.02051)|null|
+|**2024-11-04**|**Differentially private and decentralized randomized power method**|Julien Nicolas et.al.|[2411.01931](http://arxiv.org/abs/2411.01931)|null|
+|**2024-11-04**|**Exploring the Landscape for Generative Sequence Models for Specialized Data Synthesis**|Mohammad Zbeeb et.al.|[2411.01929](http://arxiv.org/abs/2411.01929)|**[link](https://github.com/moe-zbeeb/exploring-the-landscape-for-generative-models-for-specialized-data-generation)**|
+|**2024-11-04**|**Masked Autoencoders are Parameter-Efficient Federated Continual Learners**|Yuchen He et.al.|[2411.01916](http://arxiv.org/abs/2411.01916)|**[link](https://github.com/ycheoo/pmae)**|
+|**2024-11-04**|**FPPL: An Efficient and Non-IID Robust Federated Continual Learning Framework**|Yuchen He et.al.|[2411.01904](http://arxiv.org/abs/2411.01904)|**[link](https://github.com/ycheoo/fppl)**|
 |**2024-10-31**|**Federated Black-Box Adaptation for Semantic Segmentation**|Jay N. Paranjape et.al.|[2410.24181](http://arxiv.org/abs/2410.24181)|null|
 |**2024-10-31**|**Conformalized Prediction of Post-Fault Voltage Trajectories Using Pre-trained and Finetuned Attention-Driven Neural Operators**|Amirhossein Mollaali et.al.|[2410.24162](http://arxiv.org/abs/2410.24162)|null|
 |**2024-10-31**|**On Sampling Strategies for Spectral Model Sharding**|Denis Korzhenkov et.al.|[2410.24106](http://arxiv.org/abs/2410.24106)|null|
