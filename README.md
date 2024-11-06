@@ -20,10 +20,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**FedBlock: A Blockchain Approach to Federated Learning against Backdoor Attacks**|Duong H. Nguyen et.al.|[2411.02773](http://arxiv.org/abs/2411.02773)|null|
+|**2024-11-04**|**Taming the Beast of User-Programmed Transactions on Blockchains: A Declarative Transaction Approach**|Nodirbek Korchiev et.al.|[2411.02597](http://arxiv.org/abs/2411.02597)|null|
 |**2024-11-02**|**Strengthening DeFi Security: A Static Analysis Approach to Flash Loan Vulnerabilities**|Ka Wai Wu et.al.|[2411.01230](http://arxiv.org/abs/2411.01230)|null|
 |**2024-11-01**|**MAP the Blockchain World: A Trustless and Scalable Blockchain Interoperability Protocol for Cross-chain Applications**|Yinfeng Cao et.al.|[2411.00422](http://arxiv.org/abs/2411.00422)|**[link](https://github.com/mapprotocol/map-contracts)**|
 |**2024-10-31**|**Blockchain Services for Digital Government: An Exploration of NFT Applications in the Metaverse**|Zachary Roch et.al.|[2411.00076](http://arxiv.org/abs/2411.00076)|null|
-|**2024-10-31**|**Leveraging Slither and Interval Analysis to build a Static Analysis Tool**|Stefan-Claudiu Susan et.al.|[2410.23766](http://arxiv.org/abs/2410.23766)|null|
+|**2024-10-31**|**Leveraging Slither and Interval Analysis to build a Static Analysis Tool**|Stefan-Claudiu Susan et.al.|[2410.23766](http://arxiv.org/abs/2410.23766)|**[link](https://github.com/cdu55/from2024vulnerablesmartcontracts)**|
 |**2024-10-29**|**Unleashing Multicore Strength for Efficient Execution of Transactions**|Ankit Ravish et.al.|[2410.22460](http://arxiv.org/abs/2410.22460)|null|
 |**2024-10-30**|**Impact of Code Transformation on Detection of Smart Contract Vulnerabilities**|Cuong Tran Manh et.al.|[2410.21685](http://arxiv.org/abs/2410.21685)|null|
 |**2024-10-28**|**COBRA: Interaction-Aware Bytecode-Level Vulnerability Detector for Smart Contracts**|Wenkai Li et.al.|[2410.20712](http://arxiv.org/abs/2410.20712)|null|
@@ -595,6 +597,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**Formal Logic-guided Robust Federated Learning against Poisoning Attacks**|Dung Thuy Nguyen et.al.|[2411.03231](http://arxiv.org/abs/2411.03231)|null|
+|**2024-11-05**|**FEDLAD: Federated Evaluation of Deep Leakage Attacks and Defenses**|Isaac Baglin et.al.|[2411.03019](http://arxiv.org/abs/2411.03019)|null|
+|**2024-11-05**|**Rozproszone Wykrywanie Zajętości Widma Oparte na Uczeniu Federacyjnym**|Łukasz Kułacz et.al.|[2411.03017](http://arxiv.org/abs/2411.03017)|null|
+|**2024-11-05**|**Privacy-Preserving Graph-Based Machine Learning with Fully Homomorphic Encryption for Collaborative Anti-Money Laundering**|Fabrianne Effendi et.al.|[2411.02926](http://arxiv.org/abs/2411.02926)|**[link](https://github.com/fabecode/GraphML-FHE)**|
+|**2024-11-05**|**Photon: Federated LLM Pre-Training**|Lorenzo Sani et.al.|[2411.02908](http://arxiv.org/abs/2411.02908)|null|
+|**2024-11-05**|**Double Whammy: Stealthy Data Manipulation aided Reconstruction Attack on Graph Federated Learning**|Jinyin Chen et.al.|[2411.02866](http://arxiv.org/abs/2411.02866)|null|
+|**2024-11-05**|**Query-Efficient Adversarial Attack Against Vertical Federated Graph Learning**|Jinyin Chen et.al.|[2411.02809](http://arxiv.org/abs/2411.02809)|**[link](https://github.com/hgh0545/NA2)**|
+|**2024-11-05**|**FedBlock: A Blockchain Approach to Federated Learning against Backdoor Attacks**|Duong H. Nguyen et.al.|[2411.02773](http://arxiv.org/abs/2411.02773)|null|
+|**2024-11-04**|**Pseudo-Probability Unlearning: Towards Efficient and Privacy-Preserving Machine Unlearning**|Zihao Zhao et.al.|[2411.02622](http://arxiv.org/abs/2411.02622)|null|
 |**2024-11-04**|**Digital Twin-Assisted Federated Learning with Blockchain in Multi-tier Computing Systems**|Yongyi Tang et.al.|[2411.02323](http://arxiv.org/abs/2411.02323)|null|
 |**2024-11-04**|**Federated GNNs for EEG-Based Stroke Assessment**|Andrea Protani et.al.|[2411.02286](http://arxiv.org/abs/2411.02286)|null|
 |**2024-11-04**|**FedPID: An Aggregation Method for Federated Learning**|Leon Mächler et.al.|[2411.02152](http://arxiv.org/abs/2411.02152)|null|
