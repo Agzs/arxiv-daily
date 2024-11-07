@@ -485,6 +485,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**Attribute-Based Encryption With Payable Outsourced Decryption Using Blockchain and Responsive Zero Knowledge Proof**|Dongliang Cai et.al.|[2411.03844](http://arxiv.org/abs/2411.03844)|null|
 |**2024-10-23**|**Feature Homomorphism -- A Cryptographic Scheme For Data Verification Under Ciphertext-Only Conditions**|Huang Neng et.al.|[2410.17106](http://arxiv.org/abs/2410.17106)|null|
 |**2024-10-21**|**ZK-DPPS: A Zero-Knowledge Decentralised Data Sharing and Processing Middleware**|Amir Jabbari et.al.|[2410.15568](http://arxiv.org/abs/2410.15568)|null|
 |**2024-10-16**|**fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup**|Zihao Li et.al.|[2410.12210](http://arxiv.org/abs/2410.12210)|null|
@@ -597,6 +598,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**Fed-EC: Bandwidth-Efficient Clustering-Based Federated Learning For Autonomous Visual Robot Navigation**|Shreya Gummadi et.al.|[2411.04112](http://arxiv.org/abs/2411.04112)|null|
+|**2024-11-06**|**Federated mixed effects logistic regression based on one-time shared summary statistics**|Marie Analiz April Limpoco et.al.|[2411.04002](http://arxiv.org/abs/2411.04002)|**[link](https://github.com/lizlimpocouhasselt/Mixed-effects-logistic-regression-from-summary-statistics)**|
+|**2024-11-06**|**Towards Resource-Efficient Federated Learning in Industrial IoT for Multivariate Time Series Analysis**|Alexandros Gkillas et.al.|[2411.03996](http://arxiv.org/abs/2411.03996)|null|
+|**2024-11-06**|**Act in Collusion: A Persistent Distributed Multi-Target Backdoor in Federated Learning**|Tao Liu et.al.|[2411.03926](http://arxiv.org/abs/2411.03926)|null|
+|**2024-11-06**|**FedRISE: Rating Induced Sign Election of Gradients for Byzantine Tolerant Federated Aggregation**|Joseph Geo Benjamin et.al.|[2411.03861](http://arxiv.org/abs/2411.03861)|null|
+|**2024-11-06**|**Overcoming label shift in targeted federated learning**|Edvin Listo Zec et.al.|[2411.03799](http://arxiv.org/abs/2411.03799)|null|
+|**2024-11-06**|**Optimal Defenses Against Gradient Reconstruction Attacks**|Yuxiao Chen et.al.|[2411.03746](http://arxiv.org/abs/2411.03746)|**[link](https://github.com/cyx78/optimal_defenses_against_gradient_reconstruction_attacks)**|
+|**2024-11-06**|**NeurIPS 2023 Competition: Privacy Preserving Federated Learning Document VQA**|Marlon Tobaben et.al.|[2411.03730](http://arxiv.org/abs/2411.03730)|null|
+|**2024-11-06**|**Domain Generalization for Cross-Receiver Radio Frequency Fingerprint Identification**|Ying Zhang et.al.|[2411.03636](http://arxiv.org/abs/2411.03636)|null|
+|**2024-11-06**|**Privacy-Preserving Resilient Vector Consensus**|Bing Liu et.al.|[2411.03633](http://arxiv.org/abs/2411.03633)|null|
 |**2024-11-05**|**Formal Logic-guided Robust Federated Learning against Poisoning Attacks**|Dung Thuy Nguyen et.al.|[2411.03231](http://arxiv.org/abs/2411.03231)|null|
 |**2024-11-05**|**FEDLAD: Federated Evaluation of Deep Leakage Attacks and Defenses**|Isaac Baglin et.al.|[2411.03019](http://arxiv.org/abs/2411.03019)|null|
 |**2024-11-05**|**Rozproszone Wykrywanie Zajętości Widma Oparte na Uczeniu Federacyjnym**|Łukasz Kułacz et.al.|[2411.03017](http://arxiv.org/abs/2411.03017)|null|
