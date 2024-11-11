@@ -628,17 +628,17 @@
 |**2024-11-04**|**Federated GNNs for EEG-Based Stroke Assessment**|Andrea Protani et.al.|[2411.02286](http://arxiv.org/abs/2411.02286)|null|
 |**2024-11-04**|**FedPID: An Aggregation Method for Federated Learning**|Leon Mächler et.al.|[2411.02152](http://arxiv.org/abs/2411.02152)|null|
 |**2024-11-04**|**FedMoE-DA: Federated Mixture of Experts via Domain Aware Fine-grained Aggregation**|Ziwei Zhan et.al.|[2411.02115](http://arxiv.org/abs/2411.02115)|null|
-|**2024-11-04**|**Differentially Private Integrated Decision Gradients (IDG-DP) for Radar-based Human Activity Recognition**|Idris Zakariyya et.al.|[2411.02099](http://arxiv.org/abs/2411.02099)|null|
+|**2024-11-04**|**Differentially Private Integrated Decision Gradients (IDG-DP) for Radar-based Human Activity Recognition**|Idris Zakariyya et.al.|[2411.02099](http://arxiv.org/abs/2411.02099)|**[link](https://github.com/izakariyya/idg-dp)**|
 |**2024-11-04**|**R+R:Understanding Hyperparameter Effects in DP-SGD**|Felix Morsbach et.al.|[2411.02051](http://arxiv.org/abs/2411.02051)|null|
 |**2024-11-04**|**Differentially private and decentralized randomized power method**|Julien Nicolas et.al.|[2411.01931](http://arxiv.org/abs/2411.01931)|null|
 |**2024-11-04**|**Exploring the Landscape for Generative Sequence Models for Specialized Data Synthesis**|Mohammad Zbeeb et.al.|[2411.01929](http://arxiv.org/abs/2411.01929)|**[link](https://github.com/moe-zbeeb/exploring-the-landscape-for-generative-models-for-specialized-data-generation)**|
 |**2024-11-04**|**Masked Autoencoders are Parameter-Efficient Federated Continual Learners**|Yuchen He et.al.|[2411.01916](http://arxiv.org/abs/2411.01916)|**[link](https://github.com/ycheoo/pmae)**|
 |**2024-11-04**|**FPPL: An Efficient and Non-IID Robust Federated Continual Learning Framework**|Yuchen He et.al.|[2411.01904](http://arxiv.org/abs/2411.01904)|**[link](https://github.com/ycheoo/fppl)**|
-|**2024-10-31**|**Federated Black-Box Adaptation for Semantic Segmentation**|Jay N. Paranjape et.al.|[2410.24181](http://arxiv.org/abs/2410.24181)|null|
+|**2024-10-31**|**Federated Black-Box Adaptation for Semantic Segmentation**|Jay N. Paranjape et.al.|[2410.24181](http://arxiv.org/abs/2410.24181)|**[link](https://github.com/JayParanjape/blackfed)**|
 |**2024-10-31**|**Conformalized Prediction of Post-Fault Voltage Trajectories Using Pre-trained and Finetuned Attention-Driven Neural Operators**|Amirhossein Mollaali et.al.|[2410.24162](http://arxiv.org/abs/2410.24162)|null|
 |**2024-10-31**|**On Sampling Strategies for Spectral Model Sharding**|Denis Korzhenkov et.al.|[2410.24106](http://arxiv.org/abs/2410.24106)|null|
-|**2024-10-31**|**Cough-E: A multimodal, privacy-preserving cough detection algorithm for the edge**|Stefano Albini et.al.|[2410.24066](http://arxiv.org/abs/2410.24066)|null|
-|**2024-10-31**|**Generative AI-Powered Plugin for Robust Federated Learning in Heterogeneous IoT Networks**|Youngjoon Lee et.al.|[2410.23824](http://arxiv.org/abs/2410.23824)|null|
+|**2024-10-31**|**Cough-E: A multimodal, privacy-preserving cough detection algorithm for the edge**|Stefano Albini et.al.|[2410.24066](http://arxiv.org/abs/2410.24066)|**[link](https://github.com/esl-epfl/Cough-E)**|
+|**2024-10-31**|**Generative AI-Powered Plugin for Robust Federated Learning in Heterogeneous IoT Networks**|Youngjoon Lee et.al.|[2410.23824](http://arxiv.org/abs/2410.23824)|**[link](https://github.com/NAVER-INTEL-Co-Lab/gaudi-fl)**|
 |**2024-10-31**|**Converting BPMN Diagrams to Privacy Calculus**|Georgios V. Pitsiladis et.al.|[2410.23759](http://arxiv.org/abs/2410.23759)|null|
 |**2024-10-31**|**Zero-shot Class Unlearning via Layer-wise Relevance Analysis and Neuronal Path Perturbation**|Wenhan Chang et.al.|[2410.23693](http://arxiv.org/abs/2410.23693)|null|
 |**2024-10-31**|**Local Superior Soups: A Catalyst for Model Merging in Cross-Silo Federated Learning**|Minghui Chen et.al.|[2410.23660](http://arxiv.org/abs/2410.23660)|null|
@@ -663,7 +663,7 @@
 |**2024-10-29**|**Online Mirror Descent for Tchebycheff Scalarization in Multi-Objective Optimization**|Meitong Liu et.al.|[2410.21764](http://arxiv.org/abs/2410.21764)|null|
 |**2024-10-29**|**BF-Meta: Secure Blockchain-enhanced Privacy-preserving Federated Learning for Metaverse**|Wenbo Liu et.al.|[2410.21675](http://arxiv.org/abs/2410.21675)|null|
 |**2024-10-29**|**Investigating Memorization in Video Diffusion Models**|Chen Chen et.al.|[2410.21669](http://arxiv.org/abs/2410.21669)|null|
-|**2024-10-28**|**Accelerating Privacy-Preserving Medical Record Linkage: A Three-Party MPC Approach**|Şeyma Selcan Mağara et.al.|[2410.21605](http://arxiv.org/abs/2410.21605)|null|
+|**2024-10-28**|**Accelerating Privacy-Preserving Medical Record Linkage: A Three-Party MPC Approach**|Şeyma Selcan Mağara et.al.|[2410.21605](http://arxiv.org/abs/2410.21605)|**[link](https://github.com/mdppml/PPRL)**|
 |**2024-10-28**|**On Homomorphic Encryption Based Strategies for Class Imbalance in Federated Learning**|Arpit Guleria et.al.|[2410.21192](http://arxiv.org/abs/2410.21192)|null|
 |**2024-10-28**|**Unharmful Backdoor-based Client-side Watermarking in Federated Learning**|Kaijing Luo et.al.|[2410.21179](http://arxiv.org/abs/2410.21179)|null|
 |**2024-10-28**|**Privacy-Preserving for Images in Satellite Communications: A Comprehensive Review of Chaos-Based Encryption**|Farrukh Bin Rashid et.al.|[2410.21177](http://arxiv.org/abs/2410.21177)|null|
@@ -734,7 +734,7 @@
 |**2024-10-16**|**Vaccinating Federated Learning for Robust Modulation Classification in Distributed Wireless Networks**|Hunmin Lee et.al.|[2410.12772](http://arxiv.org/abs/2410.12772)|null|
 |**2024-10-16**|**Federated Learning and Free-riding in a Competitive Market**|Jiajun Meng et.al.|[2410.12723](http://arxiv.org/abs/2410.12723)|null|
 |**2024-10-16**|**Disentangling data distribution for Federated Learning**|Xinyuan Zhao et.al.|[2410.12530](http://arxiv.org/abs/2410.12530)|null|
-|**2024-10-16**|**Generating Synthetic Functional Data for Privacy-Preserving GPS Trajectories**|Arianna Burzacchi et.al.|[2410.12514](http://arxiv.org/abs/2410.12514)|null|
+|**2024-10-16**|**Generating Synthetic Functional Data for Privacy-Preserving GPS Trajectories**|Arianna Burzacchi et.al.|[2410.12514](http://arxiv.org/abs/2410.12514)|**[link](https://github.com/araiari/fdasynthesis)**|
 |**2024-10-16**|**Privacy-Preserving Synthetically Augmented Knowledge Graphs with Semantic Utility**|Luigi Bellomarini et.al.|[2410.12418](http://arxiv.org/abs/2410.12418)|null|
 |**2024-10-16**|**TPFL: A Trustworthy Personalized Federated Learning Framework via Subjective Logic**|Jinqian Chen et.al.|[2410.12316](http://arxiv.org/abs/2410.12316)|null|
 |**2024-10-16**|**Correction to Local Information Privacy and Its Applications to Data Aggregation**|Bo Jiang et.al.|[2410.12309](http://arxiv.org/abs/2410.12309)|null|
@@ -769,7 +769,7 @@
 |**2024-10-11**|**GAI-Enabled Explainable Personalized Federated Semi-Supervised Learning**|Yubo Peng et.al.|[2410.08634](http://arxiv.org/abs/2410.08634)|null|
 |**2024-10-11**|**Accelerated Distributed Stochastic Non-Convex Optimization over Time-Varying Directed Networks**|Yiyue Chen et.al.|[2410.08508](http://arxiv.org/abs/2410.08508)|null|
 |**2024-10-10**|**Evaluating Differentially Private Synthetic Data Generation in High-Stakes Domains**|Krithika Ramesh et.al.|[2410.08327](http://arxiv.org/abs/2410.08327)|null|
-|**2024-10-10**|**PP-GWAS: Privacy Preserving Multi-Site Genome-wide Association Studies**|Arjhun Swaminathan et.al.|[2410.08122](http://arxiv.org/abs/2410.08122)|null|
+|**2024-10-10**|**PP-GWAS: Privacy Preserving Multi-Site Genome-wide Association Studies**|Arjhun Swaminathan et.al.|[2410.08122](http://arxiv.org/abs/2410.08122)|**[link](https://github.com/mdppml/ppf-gwas)**|
 |**2024-10-10**|**AI Surrogate Model for Distributed Computing Workloads**|David K. Park et.al.|[2410.07940](http://arxiv.org/abs/2410.07940)|null|
 |**2024-10-10**|**A Comprehensive Survey on Joint Resource Allocation Strategies in Federated Edge Learning**|Jingbo Zhang et.al.|[2410.07881](http://arxiv.org/abs/2410.07881)|null|
 |**2024-10-10**|**Enhancing Federated Domain Adaptation with Multi-Domain Prototype-Based Federated Fine-Tuning**|Jingyuan Zhang et.al.|[2410.07738](http://arxiv.org/abs/2410.07738)|null|
@@ -1207,7 +1207,7 @@
 |**2024-07-10**|**TDML -- A Trustworthy Distributed Machine Learning Framework**|Zhen Wang et.al.|[2407.07339](http://arxiv.org/abs/2407.07339)|null|
 |**2024-07-10**|**BoostCom: Towards Efficient Universal Fully Homomorphic Encryption by Boosting the Word-wise Comparisons**|Ardhi Wiratama Baskara Yudha et.al.|[2407.07308](http://arxiv.org/abs/2407.07308)|null|
 |**2024-07-09**|**Tracing Back the Malicious Clients in Poisoning Attacks to Federated Learning**|Yuqi Jia et.al.|[2407.07221](http://arxiv.org/abs/2407.07221)|null|
-|**2024-07-09**|**Stabilized Proximal-Point Methods for Federated Optimization**|Xiaowen Jiang et.al.|[2407.07084](http://arxiv.org/abs/2407.07084)|null|
+|**2024-07-09**|**Stabilized Proximal-Point Methods for Federated Optimization**|Xiaowen Jiang et.al.|[2407.07084](http://arxiv.org/abs/2407.07084)|**[link](https://github.com/mlolab/s-dane)**|
 |**2024-07-09**|**A Differentially Private Blockchain-Based Approach for Vertical Federated Learning**|Linh Tran et.al.|[2407.07054](http://arxiv.org/abs/2407.07054)|**[link](https://github.com/AI-and-Blockchain/F23_HealthFederated)**|
 |**2024-07-09**|**Bayesian Federated Learning with Hamiltonian Monte Carlo: Algorithm and Theory**|Jiajun Liang et.al.|[2407.06935](http://arxiv.org/abs/2407.06935)|null|
 |**2024-07-09**|**Trust and Resilience in Federated Learning Through Smart Contracts Enabled Decentralized Systems**|Lorenzo Cassano et.al.|[2407.06862](http://arxiv.org/abs/2407.06862)|null|
