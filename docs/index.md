@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**SmartInv: Multimodal Learning for Smart Contract Invariant Inference**|Sally Junsong Wang et.al.|[2411.09217](http://arxiv.org/abs/2411.09217)|null|
 |**2024-11-13**|**SoliDiffy: AST Differencing for Solidity Smart Contracts**|Mojtaba Eshghie et.al.|[2411.07718](http://arxiv.org/abs/2411.07718)|**[link](https://github.com/mojtaba-eshghie/SoliDiffy)**|
 |**2024-11-12**|**A Performance Analysis of BFT Consensus for Blockchains**|J. D. Chan et.al.|[2411.07622](http://arxiv.org/abs/2411.07622)|null|
 |**2024-11-12**|**Semantic Sleuth: Identifying Ponzi Contracts via Large Language Models**|Cong Wu et.al.|[2411.07498](http://arxiv.org/abs/2411.07498)|null|
@@ -591,6 +592,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**The Communication-Friendly Privacy-Preserving Machine Learning against Malicious Adversaries**|Tianpei Lu et.al.|[2411.09287](http://arxiv.org/abs/2411.09287)|null|
+|**2024-11-14**|**Towards efficient compression and communication for prototype-based decentralized learning**|Pablo Fernández-Piñeiro et.al.|[2411.09267](http://arxiv.org/abs/2411.09267)|null|
+|**2024-11-13**|**SAFELOC: Overcoming Data Poisoning Attacks in Heterogeneous Federated Machine Learning for Indoor Localization**|Akhil Singampalli et.al.|[2411.09055](http://arxiv.org/abs/2411.09055)|null|
 |**2024-11-13**|**Locally Private Sampling with Public Data**|Behnoosh Zamanlooy et.al.|[2411.08791](http://arxiv.org/abs/2411.08791)|null|
 |**2024-11-13**|**FedSub: Introducing class-aware Subnetworks Fusion to Enhance Personalized Federated Learning in Ubiquitous Systems**|Mattia Giovanni Campana et.al.|[2411.08699](http://arxiv.org/abs/2411.08699)|null|
 |**2024-11-13**|**Time-constrained Federated Learning (FL) in Push-Pull IoT Wireless Access**|Van Phuc Bui et.al.|[2411.08607](http://arxiv.org/abs/2411.08607)|null|
