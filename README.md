@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**How the interplay between power concentration, competition, and propagation affects the resource efficiency of distributed ledgers**|Paolo Barucca et.al.|[2411.10249](http://arxiv.org/abs/2411.10249)|null|
+|**2024-11-15**|**Definition and Detection of Centralization Defects in Smart Contracts**|Zewei Lin et.al.|[2411.10169](http://arxiv.org/abs/2411.10169)|null|
+|**2024-11-15**|**SoK: Consensus for Fair Message Ordering**|Zhuolun Li et.al.|[2411.09981](http://arxiv.org/abs/2411.09981)|null|
 |**2024-11-14**|**SmartInv: Multimodal Learning for Smart Contract Invariant Inference**|Sally Junsong Wang et.al.|[2411.09217](http://arxiv.org/abs/2411.09217)|null|
 |**2024-11-13**|**SoliDiffy: AST Differencing for Solidity Smart Contracts**|Mojtaba Eshghie et.al.|[2411.07718](http://arxiv.org/abs/2411.07718)|**[link](https://github.com/mojtaba-eshghie/SoliDiffy)**|
 |**2024-11-12**|**A Performance Analysis of BFT Consensus for Blockchains**|J. D. Chan et.al.|[2411.07622](http://arxiv.org/abs/2411.07622)|null|
@@ -431,6 +434,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Omnichain Web: The Universal Framework for Streamlined Chain Abstraction and Cross-Layer Interaction**|Hardik Gajera et.al.|[2411.10132](http://arxiv.org/abs/2411.10132)|null|
 |**2024-11-01**|**MAP the Blockchain World: A Trustless and Scalable Blockchain Interoperability Protocol for Cross-chain Applications**|Yinfeng Cao et.al.|[2411.00422](http://arxiv.org/abs/2411.00422)|**[link](https://github.com/mapprotocol/map-contracts)**|
 |**2024-10-31**|**Historical and Multichain Storage Proofs**|Marek Kirejczyk et.al.|[2411.00193](http://arxiv.org/abs/2411.00193)|null|
 |**2024-10-31**|**Memes, Markets, and Machines: The Evolution of On Chain Autonomy through Hyperstition**|Jeffy Yu et.al.|[2410.23794](http://arxiv.org/abs/2410.23794)|null|
@@ -438,8 +442,8 @@
 |**2024-10-18**|**Safeguarding Blockchain Ecosystem: Understanding and Detecting Attack Transactions on Cross-chain Bridges**|Jiajing Wu et.al.|[2410.14493](http://arxiv.org/abs/2410.14493)|null|
 |**2024-10-14**|**Mastering AI: Big Data, Deep Learning, and the Evolution of Large Language Models -- Blockchain and Applications**|Pohsun Feng et.al.|[2410.10110](http://arxiv.org/abs/2410.10110)|null|
 |**2024-10-11**|**Cross-chain Sharing of Personal Health Records: Heterogeneous and Interoperable Blockchains**|Yongyang Lv et.al.|[2410.08762](http://arxiv.org/abs/2410.08762)|null|
-|**2024-10-02**|**XChainWatcher: Monitoring and Identifying Attacks in Cross-Chain Bridges**|André Augusto et.al.|[2410.02029](http://arxiv.org/abs/2410.02029)|null|
-|**2024-10-01**|**Count of Monte Crypto: Accounting-based Defenses for Cross-Chain Bridges**|Enze Liu et.al.|[2410.01107](http://arxiv.org/abs/2410.01107)|null|
+|**2024-11-15**|**XChainWatcher: Monitoring and Identifying Attacks in Cross-Chain Bridges**|André Augusto et.al.|[2410.02029](http://arxiv.org/abs/2410.02029)|null|
+|**2024-11-15**|**Count of Monte Crypto: Accounting-based Defenses for Cross-Chain Bridges**|Enze Liu et.al.|[2410.01107](http://arxiv.org/abs/2410.01107)|null|
 |**2024-09-13**|**Interpool: a liquidity pool designed for interoperability that mints, exchanges, and burns**|Henrique de Carvalho Videira et.al.|[2410.00011](http://arxiv.org/abs/2410.00011)|null|
 |**2024-09-23**|**MECURY: Practical Cross-Chain Exchange via Trusted Hardware**|Xiaoqing Wen et.al.|[2409.14640](http://arxiv.org/abs/2409.14640)|null|
 |**2024-09-08**|**CONNECTOR: Enhancing the Traceability of Decentralized Bridge Applications via Automatic Cross-chain Transaction Association**|Dan Lin et.al.|[2409.04937](http://arxiv.org/abs/2409.04937)|null|
@@ -490,6 +494,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Omnichain Web: The Universal Framework for Streamlined Chain Abstraction and Cross-Layer Interaction**|Hardik Gajera et.al.|[2411.10132](http://arxiv.org/abs/2411.10132)|null|
 |**2024-11-10**|**AMAZE: Accelerated MiMC Hardware Architecture for Zero-Knowledge Applications on the Edge**|Anees Ahmed et.al.|[2411.06350](http://arxiv.org/abs/2411.06350)|**[link](https://github.com/ACES-STAM/AMAZE)**|
 |**2024-11-06**|**Attribute-Based Encryption With Payable Outsourced Decryption Using Blockchain and Responsive Zero Knowledge Proof**|Dongliang Cai et.al.|[2411.03844](http://arxiv.org/abs/2411.03844)|null|
 |**2024-10-23**|**Feature Homomorphism -- A Cryptographic Scheme For Data Verification Under Ciphertext-Only Conditions**|Huang Neng et.al.|[2410.17106](http://arxiv.org/abs/2410.17106)|null|
@@ -604,6 +609,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Framework for Co-distillation Driven Federated Learning to Address Class Imbalance in Healthcare**|Suraj Racha et.al.|[2411.10383](http://arxiv.org/abs/2411.10383)|null|
+|**2024-11-15**|**Artificial Intelligence in Pediatric Echocardiography: Exploring Challenges, Opportunities, and Clinical Applications with Explainable AI and Federated Learning**|Mohammed Yaseen Jabarulla et.al.|[2411.10255](http://arxiv.org/abs/2411.10255)|null|
+|**2024-11-15**|**Embedding Byzantine Fault Tolerance into Federated Learning via Virtual Data-Driven Consistency Scoring Plugin**|Youngjoon Lee et.al.|[2411.10212](http://arxiv.org/abs/2411.10212)|null|
+|**2024-11-15**|**Evidential Federated Learning for Skin Lesion Image Classification**|Rutger Hendrix et.al.|[2411.10071](http://arxiv.org/abs/2411.10071)|null|
+|**2024-11-15**|**Federated Domain Generalization via Prompt Learning and Aggregation**|Shuai Gong et.al.|[2411.10063](http://arxiv.org/abs/2411.10063)|**[link](https://github.com/GongShuai8210/PLAN)**|
+|**2024-11-14**|**FedRewind: Rewinding Continual Model Exchange for Decentralized Federated Learning**|Luca Palazzo et.al.|[2411.09842](http://arxiv.org/abs/2411.09842)|null|
 |**2024-11-14**|**The Communication-Friendly Privacy-Preserving Machine Learning against Malicious Adversaries**|Tianpei Lu et.al.|[2411.09287](http://arxiv.org/abs/2411.09287)|null|
 |**2024-11-14**|**Towards efficient compression and communication for prototype-based decentralized learning**|Pablo Fernández-Piñeiro et.al.|[2411.09267](http://arxiv.org/abs/2411.09267)|null|
 |**2024-11-13**|**SAFELOC: Overcoming Data Poisoning Attacks in Heterogeneous Federated Machine Learning for Indoor Localization**|Akhil Singampalli et.al.|[2411.09055](http://arxiv.org/abs/2411.09055)|null|
