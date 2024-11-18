@@ -667,7 +667,7 @@ layout: default
 |**2024-10-31**|**Generative AI-Powered Plugin for Robust Federated Learning in Heterogeneous IoT Networks**|Youngjoon Lee et.al.|[2410.23824](http://arxiv.org/abs/2410.23824)|**[link](https://github.com/NAVER-INTEL-Co-Lab/gaudi-fl)**|
 |**2024-10-31**|**Converting BPMN Diagrams to Privacy Calculus**|Georgios V. Pitsiladis et.al.|[2410.23759](http://arxiv.org/abs/2410.23759)|null|
 |**2024-10-31**|**Zero-shot Class Unlearning via Layer-wise Relevance Analysis and Neuronal Path Perturbation**|Wenhan Chang et.al.|[2410.23693](http://arxiv.org/abs/2410.23693)|null|
-|**2024-10-31**|**Local Superior Soups: A Catalyst for Model Merging in Cross-Silo Federated Learning**|Minghui Chen et.al.|[2410.23660](http://arxiv.org/abs/2410.23660)|null|
+|**2024-10-31**|**Local Superior Soups: A Catalyst for Model Merging in Cross-Silo Federated Learning**|Minghui Chen et.al.|[2410.23660](http://arxiv.org/abs/2410.23660)|**[link](https://github.com/ubc-tea/local-superior-soups)**|
 |**2024-10-31**|**Biologically-Inspired Technologies: Integrating Brain-Computer Interface and Neuromorphic Computing for Human Digital Twins**|Chen Shang et.al.|[2410.23639](http://arxiv.org/abs/2410.23639)|null|
 |**2024-10-30**|**Communication-Efficient Federated Learning over Wireless Channels via Gradient Sketching**|Vineet Sunil Gattani et.al.|[2410.23424](http://arxiv.org/abs/2410.23424)|null|
 |**2024-10-31**|**(FL) $^2$ : Overcoming Few Labels in Federated Semi-Supervised Learning**|Seungjoo Lee et.al.|[2410.23227](http://arxiv.org/abs/2410.23227)|**[link](https://github.com/seungjoo-ai/FLFL-NeurIPS24)**|
@@ -718,7 +718,7 @@ layout: default
 |**2024-10-23**|**Enhancing Federated Learning Convergence with Dynamic Data Queue and Data Entropy-driven Participant Selection**|Charuka Herath et.al.|[2410.17792](http://arxiv.org/abs/2410.17792)|null|
 |**2024-10-23**|**Towards Active Participant-Centric Vertical Federated Learning: Some Representations May Be All You Need**|Jon Irureta et.al.|[2410.17648](http://arxiv.org/abs/2410.17648)|null|
 |**2024-10-23**|**Securing Federated Learning Against Novel and Classic Backdoor Threats During Foundation Model Integration**|Xiaohuan Bi et.al.|[2410.17573](http://arxiv.org/abs/2410.17573)|null|
-|**2024-10-23**|**Differentially Private Learning Needs Better Model Initialization and Self-Distillation**|Ivoline C. Ngong et.al.|[2410.17566](http://arxiv.org/abs/2410.17566)|null|
+|**2024-10-23**|**Differentially Private Learning Needs Better Model Initialization and Self-Distillation**|Ivoline C. Ngong et.al.|[2410.17566](http://arxiv.org/abs/2410.17566)|**[link](https://github.com/uvm-plaid/private_llm_generation)**|
 |**2024-10-23**|**Which Client is Reliable?: A Reliable and Personalized Prompt-based Federated Learning for Medical Image Question Answering**|He Zhu et.al.|[2410.17484](http://arxiv.org/abs/2410.17484)|null|
 |**2024-10-22**|**Data Obfuscation through Latent Space Projection (LSP) for Privacy-Preserving AI Governance: Case Studies in Medical Diagnosis and Finance Fraud Detection**|Mahesh Vaijainthymala Krishnamoorthy et.al.|[2410.17459](http://arxiv.org/abs/2410.17459)|null|
 |**2024-10-22**|**Meta Stackelberg Game: Robust Federated Learning against Adaptive and Mixed Poisoning Attacks**|Tao Li et.al.|[2410.17431](http://arxiv.org/abs/2410.17431)|null|
@@ -1461,7 +1461,7 @@ layout: default
 |**2024-05-24**|**CAFe: Cost and Age aware Federated Learning**|Sahan Liyanaarachchi et.al.|[2405.15744](http://arxiv.org/abs/2405.15744)|null|
 |**2024-05-24**|**Harnessing Increased Client Participation with Cohort-Parallel Federated Learning**|Akash Dhasade et.al.|[2405.15644](http://arxiv.org/abs/2405.15644)|null|
 |**2024-05-24**|**Federated Behavioural Planes: Explaining the Evolution of Client Behaviour in Federated Learning**|Dario Fenoglio et.al.|[2405.15632](http://arxiv.org/abs/2405.15632)|**[link](https://github.com/dariofenoglio98/cf_fl)**|
-|**2024-05-24**|**DAGER: Exact Gradient Inversion for Large Language Models**|Ivo Petrov et.al.|[2405.15586](http://arxiv.org/abs/2405.15586)|null|
+|**2024-05-24**|**DAGER: Exact Gradient Inversion for Large Language Models**|Ivo Petrov et.al.|[2405.15586](http://arxiv.org/abs/2405.15586)|**[link](https://github.com/insait-institute/dager-gradient-inversion)**|
 |**2024-05-24**|**Certifiably Robust RAG against Retrieval Corruption**|Chong Xiang et.al.|[2405.15556](http://arxiv.org/abs/2405.15556)|null|
 |**2024-05-24**|**Thinking Forward: Memory-Efficient Federated Finetuning of Language Models**|Kunjal Panchal et.al.|[2405.15551](http://arxiv.org/abs/2405.15551)|**[link](https://github.com/astuary/spry)**|
 |**2024-05-24**|**Unlearning during Learning: An Efficient Federated Machine Unlearning Method**|Hanlin Gu et.al.|[2405.15474](http://arxiv.org/abs/2405.15474)|**[link](https://github.com/Liar-Mask/FedAU)**|
