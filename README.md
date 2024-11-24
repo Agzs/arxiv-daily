@@ -21,7 +21,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-11-20**|**Blockchain-Enhanced Framework for Secure Third-Party Vendor Risk Management and Vigilant Security Controls**|Deepti Gupta et.al.|[2411.13447](http://arxiv.org/abs/2411.13447)|null|
-|**2024-11-15**|**How the interplay between power concentration, competition, and propagation affects the resource efficiency of distributed ledgers**|Paolo Barucca et.al.|[2411.10249](http://arxiv.org/abs/2411.10249)|null|
+|**2024-11-15**|**How the interplay between power concentration, competition, and propagation affects the resource efficiency of distributed ledgers**|Paolo Barucca et.al.|[2411.10249](http://arxiv.org/abs/2411.10249)|**[link](https://github.com/xujiahuayz/fork)**|
 |**2024-11-15**|**Definition and Detection of Centralization Defects in Smart Contracts**|Zewei Lin et.al.|[2411.10169](http://arxiv.org/abs/2411.10169)|null|
 |**2024-11-15**|**SoK: Consensus for Fair Message Ordering**|Zhuolun Li et.al.|[2411.09981](http://arxiv.org/abs/2411.09981)|null|
 |**2024-11-14**|**SmartInv: Multimodal Learning for Smart Contract Invariant Inference**|Sally Junsong Wang et.al.|[2411.09217](http://arxiv.org/abs/2411.09217)|null|
