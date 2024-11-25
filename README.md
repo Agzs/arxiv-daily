@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**Constructing Trustworthy Smart Contracts**|Devora Chait-Roth et.al.|[2411.14563](http://arxiv.org/abs/2411.14563)|null|
 |**2024-11-20**|**Blockchain-Enhanced Framework for Secure Third-Party Vendor Risk Management and Vigilant Security Controls**|Deepti Gupta et.al.|[2411.13447](http://arxiv.org/abs/2411.13447)|null|
 |**2024-11-15**|**How the interplay between power concentration, competition, and propagation affects the resource efficiency of distributed ledgers**|Paolo Barucca et.al.|[2411.10249](http://arxiv.org/abs/2411.10249)|**[link](https://github.com/xujiahuayz/fork)**|
 |**2024-11-15**|**Definition and Detection of Centralization Defects in Smart Contracts**|Zewei Lin et.al.|[2411.10169](http://arxiv.org/abs/2411.10169)|null|
@@ -495,6 +496,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-22**|**PoneglyphDB: Efficient Non-interactive Zero-Knowledge Proofs for Arbitrary SQL-Query Verification**|Binbin Gu et.al.|[2411.15031](http://arxiv.org/abs/2411.15031)|null|
 |**2024-11-15**|**Omnichain Web: The Universal Framework for Streamlined Chain Abstraction and Cross-Layer Interaction**|Hardik Gajera et.al.|[2411.10132](http://arxiv.org/abs/2411.10132)|null|
 |**2024-11-10**|**AMAZE: Accelerated MiMC Hardware Architecture for Zero-Knowledge Applications on the Edge**|Anees Ahmed et.al.|[2411.06350](http://arxiv.org/abs/2411.06350)|**[link](https://github.com/ACES-STAM/AMAZE)**|
 |**2024-11-06**|**Attribute-Based Encryption With Payable Outsourced Decryption Using Blockchain and Responsive Zero Knowledge Proof**|Dongliang Cai et.al.|[2411.03844](http://arxiv.org/abs/2411.03844)|null|
@@ -610,6 +612,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-22**|**LoRA-FAIR: Federated LoRA Fine-Tuning with Aggregation and Initialization Refinement**|Jieming Bian et.al.|[2411.14961](http://arxiv.org/abs/2411.14961)|null|
+|**2024-11-22**|**Geminio: Language-Guided Gradient Inversion Attacks in Federated Learning**|Junjie Shan et.al.|[2411.14937](http://arxiv.org/abs/2411.14937)|**[link](https://github.com/HKU-TASR/Geminio)**|
+|**2024-11-22**|**GraphTheft: Quantifying Privacy Risks in Graph Prompt Learning**|Jiani Zhu et.al.|[2411.14718](http://arxiv.org/abs/2411.14718)|null|
+|**2024-11-22**|**FedMLLM: Federated Fine-tuning MLLM on Multimodal Heterogeneity Data**|Binqian Xu et.al.|[2411.14717](http://arxiv.org/abs/2411.14717)|**[link](https://github.com/1xbq1/fedmllm)**|
+|**2024-11-22**|**mmWave Radar for Sit-to-Stand Analysis: A Comparative Study with Wearables and Kinect**|Shuting Hu et.al.|[2411.14656](http://arxiv.org/abs/2411.14656)|null|
+|**2024-11-22**|**Differentially Private Adaptation of Diffusion Models via Noisy Aggregated Embeddings**|Pura Peetathawatchai et.al.|[2411.14639](http://arxiv.org/abs/2411.14639)|null|
+|**2024-11-21**|**Privacy-Preserving Video Anomaly Detection: A Survey**|Jing Liu et.al.|[2411.14565](http://arxiv.org/abs/2411.14565)|null|
+|**2024-11-21**|**Privacy-Preserving Power Flow Analysis via Secure Multi-Party Computation**|Jonas von der Heyden et.al.|[2411.14557](http://arxiv.org/abs/2411.14557)|null|
+|**2024-11-21**|**Memory Backdoor Attacks on Neural Networks**|Eden Luzon et.al.|[2411.14516](http://arxiv.org/abs/2411.14516)|null|
 |**2024-11-21**|**Towards Adaptive Asynchronous Federated Learning for Human Activity Recognition**|Rastko Gajanin et.al.|[2411.14070](http://arxiv.org/abs/2411.14070)|null|
 |**2024-11-21**|**REFOL: Resource-Efficient Federated Online Learning for Traffic Flow Forecasting**|Qingxiang Liu et.al.|[2411.14046](http://arxiv.org/abs/2411.14046)|**[link](https://github.com/yuppielqx/refol)**|
 |**2024-11-21**|**FedRAV: Hierarchically Federated Region-Learning for Traffic Object Classification of Autonomous Vehicles**|Yijun Zhai et.al.|[2411.13979](http://arxiv.org/abs/2411.13979)|**[link](https://github.com/yjzhai-cs/fedrav)**|
