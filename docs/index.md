@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Assessing Vulnerability in Smart Contracts: The Role of Code Complexity Metrics in Security Analysis**|Masoud Jamshidiyan Tehrani et.al.|[2411.17343](http://arxiv.org/abs/2411.17343)|null|
 |**2024-11-25**|**Proxima. A DAG based cooperative distributed ledger**|Evaldas Drasutis et.al.|[2411.16456](http://arxiv.org/abs/2411.16456)|null|
 |**2024-11-19**|**Transforming Triple-Entry Accounting with Machine Learning: A Path to Enhanced Transparency Through Analytics**|Abraham Itzhak Weinberg et.al.|[2411.15190](http://arxiv.org/abs/2411.15190)|null|
 |**2024-11-21**|**Constructing Trustworthy Smart Contracts**|Devora Chait-Roth et.al.|[2411.14563](http://arxiv.org/abs/2411.14563)|null|
@@ -602,6 +603,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Synthetic Data Generation with LLM for Improved Depression Prediction**|Andrea Kang et.al.|[2411.17672](http://arxiv.org/abs/2411.17672)|null|
+|**2024-11-26**|**Privacy-Preserving Behaviour of Chatbot Users: Steering Through Trust Dynamics**|Julia Ive et.al.|[2411.17589](http://arxiv.org/abs/2411.17589)|null|
+|**2024-11-26**|**A Framework for the Security and Privacy of Biometric System Constructions under Defined Computational Assumptions**|Sam Grierson et.al.|[2411.17321](http://arxiv.org/abs/2411.17321)|null|
+|**2024-11-26**|**Privacy Preserving Federated Unsupervised Domain Adaptation with Application to Age Prediction from DNA Methylation Data**|Cem Ata Baykara et.al.|[2411.17287](http://arxiv.org/abs/2411.17287)|**[link](https://github.com/mdppml/FREDA)**|
+|**2024-11-25**|**Edit Away and My Face Will not Stay: Personal Biometric Defense against Malicious Generative Editing**|Hanhui Wang et.al.|[2411.16832](http://arxiv.org/abs/2411.16832)|null|
 |**2024-11-25**|**Distributed, communication-efficient, and differentially private estimation of KL divergence**|Mary Scott et.al.|[2411.16478](http://arxiv.org/abs/2411.16478)|null|
 |**2024-11-25**|**Distributed Online Optimization with Stochastic Agent Availability**|Juliette Achddou et.al.|[2411.16477](http://arxiv.org/abs/2411.16477)|null|
 |**2024-11-25**|**TIFeD: a Tiny Integer-based Federated learning algorithm with Direct feedback alignment**|Luca Colombo et.al.|[2411.16442](http://arxiv.org/abs/2411.16442)|**[link](https://github.com/ai-tech-research-lab/tifed)**|
