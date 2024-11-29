@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-26**|**Assessing Vulnerability in Smart Contracts: The Role of Code Complexity Metrics in Security Analysis**|Masoud Jamshidiyan Tehrani et.al.|[2411.17343](http://arxiv.org/abs/2411.17343)|null|
-|**2024-11-25**|**Proxima. A DAG based cooperative distributed ledger**|Evaldas Drasutis et.al.|[2411.16456](http://arxiv.org/abs/2411.16456)|null|
+|**2024-11-25**|**Proxima. A DAG based cooperative distributed ledger**|Evaldas Drasutis et.al.|[2411.16456](http://arxiv.org/abs/2411.16456)|**[link](https://github.com/lunfardo314/proxima)**|
 |**2024-11-19**|**Transforming Triple-Entry Accounting with Machine Learning: A Path to Enhanced Transparency Through Analytics**|Abraham Itzhak Weinberg et.al.|[2411.15190](http://arxiv.org/abs/2411.15190)|null|
 |**2024-11-21**|**Constructing Trustworthy Smart Contracts**|Devora Chait-Roth et.al.|[2411.14563](http://arxiv.org/abs/2411.14563)|null|
 |**2024-11-20**|**Blockchain-Enhanced Framework for Secure Third-Party Vendor Risk Management and Vigilant Security Controls**|Deepti Gupta et.al.|[2411.13447](http://arxiv.org/abs/2411.13447)|null|
