@@ -20,6 +20,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Leveraging Ensemble-Based Semi-Supervised Learning for Illicit Account Detection in Ethereum DeFi Transactions**|Shabnam Fazliani et.al.|[2412.02408](http://arxiv.org/abs/2412.02408)|null|
+|**2024-12-03**|**Connecting Large Language Models with Blockchain: Advancing the Evolution of Smart Contracts from Automation to Intelligence**|Youquan Xian et.al.|[2412.02263](http://arxiv.org/abs/2412.02263)|null|
+|**2024-12-02**|**Smart Contract Vulnerabilities, Tools, and Benchmarks: An Updated Systematic Literature Review**|Gerardo Iuliano et.al.|[2412.01719](http://arxiv.org/abs/2412.01719)|null|
+|**2024-12-02**|**DeFi: Concepts and Ecosystem**|Carlos J. Costa et.al.|[2412.01357](http://arxiv.org/abs/2412.01357)|null|
+|**2024-12-02**|**A Hybrid BPMN-DMN Framework for Secure Inter-organizational Processes and Decisions Collaboration on Permissioned Blockchain**|Xinzhe Shen et.al.|[2412.01196](http://arxiv.org/abs/2412.01196)|null|
+|**2024-12-01**|**On-Chain Credit Risk Score (OCCR Score) in DeFi**|Rik Ghosh et.al.|[2412.00710](http://arxiv.org/abs/2412.00710)|null|
+|**2024-12-01**|**SEAM: A Secure Automated and Maintainable Smart Contract Upgrade Framework**|Tahrim Hossain et.al.|[2412.00680](http://arxiv.org/abs/2412.00680)|null|
+|**2024-12-01**|**ChainGuard: A Blockchain-based Authentication and Access Control Scheme for Distributed Networks**|Faisal Haque Bappy et.al.|[2412.00677](http://arxiv.org/abs/2412.00677)|null|
 |**2024-11-28**|**SmartLLMSentry: A Comprehensive LLM Based Smart Contract Vulnerability Detection Framework**|Oualid Zaazaa et.al.|[2411.19234](http://arxiv.org/abs/2411.19234)|null|
 |**2024-11-28**|**Guardians of the Ledger: Protecting Decentralized Exchanges from State Derailment Defects**|Zongwei Li et.al.|[2411.18935](http://arxiv.org/abs/2411.18935)|null|
 |**2024-11-26**|**Assessing Vulnerability in Smart Contracts: The Role of Code Complexity Metrics in Security Analysis**|Masoud Jamshidiyan Tehrani et.al.|[2411.17343](http://arxiv.org/abs/2411.17343)|null|
@@ -617,6 +625,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Liquefaction: Privately Liquefying Blockchain Assets**|James Austgen et.al.|[2412.02634](http://arxiv.org/abs/2412.02634)|null|
+|**2024-12-03**|**Wasserstein Markets for Differentially-Private Data**|Saurab Chhachhi et.al.|[2412.02609](http://arxiv.org/abs/2412.02609)|**[link](https://github.com/saurabac/Wasserstein-Data-Markets)**|
+|**2024-12-03**|**Private Linear Regression with Differential Privacy and PAC Privacy**|Hillary Yang et.al.|[2412.02578](http://arxiv.org/abs/2412.02578)|null|
+|**2024-12-03**|**Fractional Order Distributed Optimization**|Andrei Lixandru et.al.|[2412.02546](http://arxiv.org/abs/2412.02546)|null|
+|**2024-12-03**|**Defending Against Diverse Attacks in Federated Learning Through Consensus-Based Bi-Level Optimization**|Nicolás García Trillos et.al.|[2412.02535](http://arxiv.org/abs/2412.02535)|null|
+|**2024-12-03**|**Federated Analytics in Practice: Engineering for Privacy, Scalability and Practicality**|Harish Srinivas et.al.|[2412.02340](http://arxiv.org/abs/2412.02340)|null|
+|**2024-12-03**|**FL-QDSNNs: Federated Learning with Quantum Dynamic Spiking Neural Networks**|Nouhaila Innan et.al.|[2412.02293](http://arxiv.org/abs/2412.02293)|null|
+|**2024-12-03**|**Learn More by Using Less: Distributed Learning with Energy-Constrained Devices**|Roberto Pereira et.al.|[2412.02289](http://arxiv.org/abs/2412.02289)|null|
+|**2024-12-03**|**Towards the efficacy of federated prediction for epidemics on networks**|Chengpeng Fu et.al.|[2412.02161](http://arxiv.org/abs/2412.02161)|null|
+|**2024-12-03**|**A privacy-preserving distributed credible evidence fusion algorithm for collective decision-making**|Chaoxiong Ma et.al.|[2412.02130](http://arxiv.org/abs/2412.02130)|null|
 |**2024-11-29**|**Rethinking the initialization of Momentum in Federated Learning with Heterogeneous Data**|Chenguang Xiao et.al.|[2411.19798](http://arxiv.org/abs/2411.19798)|null|
 |**2024-11-29**|**Privacy-Preserving Orthogonal Aggregation for Guaranteeing Gender Fairness in Federated Recommendation**|Siqing Zhang et.al.|[2411.19678](http://arxiv.org/abs/2411.19678)|null|
 |**2024-11-29**|**Knowledge-Data Fusion Based Source-Free Semi-Supervised Domain Adaptation for Seizure Subtype Classification**|Ruimin Peng et.al.|[2411.19502](http://arxiv.org/abs/2411.19502)|null|
