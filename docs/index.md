@@ -613,6 +613,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Adaptive Personalized Over-the-Air Federated Learning with Reflecting Intelligent Surfaces**|Jiayu Mao et.al.|[2412.03514](http://arxiv.org/abs/2412.03514)|null|
+|**2024-12-04**|**Reactive Orchestration for Hierarchical Federated Learning Under a Communication Cost Budget**|Ivan Čilić et.al.|[2412.03385](http://arxiv.org/abs/2412.03385)|null|
+|**2024-12-03**|**Proximal Control of UAVs with Federated Learning for Human-Robot Collaborative Domains**|Lucas Nogueira Nobrega et.al.|[2412.02863](http://arxiv.org/abs/2412.02863)|null|
+|**2024-12-03**|**Methods with Local Steps and Random Reshuffling for Generally Smooth Non-Convex Federated Optimization**|Yury Demidovich et.al.|[2412.02781](http://arxiv.org/abs/2412.02781)|null|
 |**2024-12-03**|**Liquefaction: Privately Liquefying Blockchain Assets**|James Austgen et.al.|[2412.02634](http://arxiv.org/abs/2412.02634)|null|
 |**2024-12-03**|**Wasserstein Markets for Differentially-Private Data**|Saurab Chhachhi et.al.|[2412.02609](http://arxiv.org/abs/2412.02609)|**[link](https://github.com/saurabac/Wasserstein-Data-Markets)**|
 |**2024-12-03**|**Private Linear Regression with Differential Privacy and PAC Privacy**|Hillary Yang et.al.|[2412.02578](http://arxiv.org/abs/2412.02578)|null|
