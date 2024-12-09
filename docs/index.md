@@ -27,7 +27,7 @@ layout: default
 |**2024-12-01**|**ChainGuard: A Blockchain-based Authentication and Access Control Scheme for Distributed Networks**|Faisal Haque Bappy et.al.|[2412.00677](http://arxiv.org/abs/2412.00677)|null|
 |**2024-11-28**|**SmartLLMSentry: A Comprehensive LLM Based Smart Contract Vulnerability Detection Framework**|Oualid Zaazaa et.al.|[2411.19234](http://arxiv.org/abs/2411.19234)|null|
 |**2024-11-28**|**Guardians of the Ledger: Protecting Decentralized Exchanges from State Derailment Defects**|Zongwei Li et.al.|[2411.18935](http://arxiv.org/abs/2411.18935)|null|
-|**2024-11-26**|**Assessing Vulnerability in Smart Contracts: The Role of Code Complexity Metrics in Security Analysis**|Masoud Jamshidiyan Tehrani et.al.|[2411.17343](http://arxiv.org/abs/2411.17343)|null|
+|**2024-11-26**|**Assessing Vulnerability in Smart Contracts: The Role of Code Complexity Metrics in Security Analysis**|Masoud Jamshidiyan Tehrani et.al.|[2411.17343](http://arxiv.org/abs/2411.17343)|**[link](https://github.com/MasoudJTehrani/SC-Complexity-Vulnerability)**|
 |**2024-11-25**|**Proxima. A DAG based cooperative distributed ledger**|Evaldas Drasutis et.al.|[2411.16456](http://arxiv.org/abs/2411.16456)|**[link](https://github.com/lunfardo314/proxima)**|
 |**2024-11-19**|**Transforming Triple-Entry Accounting with Machine Learning: A Path to Enhanced Transparency Through Analytics**|Abraham Itzhak Weinberg et.al.|[2411.15190](http://arxiv.org/abs/2411.15190)|null|
 |**2024-11-21**|**Constructing Trustworthy Smart Contracts**|Devora Chait-Roth et.al.|[2411.14563](http://arxiv.org/abs/2411.14563)|**[link](https://github.com/DebraChait/Asp-example-contracts)**|
@@ -211,7 +211,7 @@ layout: default
 |**2024-05-08**|**Enhancing Data Integrity and Traceability in Industry Cyber Physical Systems (ICPS) through Blockchain Technology: A Comprehensive Approach**|Mohammad Ikbal Hossain et.al.|[2405.04837](http://arxiv.org/abs/2405.04837)|null|
 |**2024-05-07**|**Self-Replicating and Self-Employed Smart Contract on Ethereum Blockchain**|Atsushi Masumori et.al.|[2405.04038](http://arxiv.org/abs/2405.04038)|null|
 |**2024-05-07**|**A Game Theoretic Analysis of Validator Strategies in Ethereum 2.0**|Chien-Chih Chen et.al.|[2405.03357](http://arxiv.org/abs/2405.03357)|null|
-|**2024-05-04**|**PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation**|Ye Liu et.al.|[2405.02580](http://arxiv.org/abs/2405.02580)|null|
+|**2024-05-04**|**PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation**|Ye Liu et.al.|[2405.02580](http://arxiv.org/abs/2405.02580)|**[link](https://github.com/pr0pertygpt/propertygpt)**|
 |**2024-05-03**|**Tokenization of Real Estate Assets Using Blockchain**|Shashank Joshi et.al.|[2405.01852](http://arxiv.org/abs/2405.01852)|null|
 |**2024-05-03**|**Sequencer Level Security**|Martin Derka et.al.|[2405.01819](http://arxiv.org/abs/2405.01819)|null|
 |**2024-04-30**|**Transforming Credit Guarantee Schemes with Distributed Ledger Technology**|Sabrina Leo et.al.|[2404.19555](http://arxiv.org/abs/2404.19555)|null|
@@ -635,7 +635,7 @@ layout: default
 |**2024-12-03**|**Wasserstein Markets for Differentially-Private Data**|Saurab Chhachhi et.al.|[2412.02609](http://arxiv.org/abs/2412.02609)|**[link](https://github.com/saurabac/Wasserstein-Data-Markets)**|
 |**2024-12-03**|**Private Linear Regression with Differential Privacy and PAC Privacy**|Hillary Yang et.al.|[2412.02578](http://arxiv.org/abs/2412.02578)|null|
 |**2024-12-03**|**Fractional Order Distributed Optimization**|Andrei Lixandru et.al.|[2412.02546](http://arxiv.org/abs/2412.02546)|null|
-|**2024-12-03**|**Defending Against Diverse Attacks in Federated Learning Through Consensus-Based Bi-Level Optimization**|Nicolás García Trillos et.al.|[2412.02535](http://arxiv.org/abs/2412.02535)|null|
+|**2024-12-03**|**Defending Against Diverse Attacks in Federated Learning Through Consensus-Based Bi-Level Optimization**|Nicolás García Trillos et.al.|[2412.02535](http://arxiv.org/abs/2412.02535)|**[link](https://github.com/SixuLi/FedCB2O)**|
 |**2024-12-03**|**Federated Analytics in Practice: Engineering for Privacy, Scalability and Practicality**|Harish Srinivas et.al.|[2412.02340](http://arxiv.org/abs/2412.02340)|null|
 |**2024-12-03**|**FL-QDSNNs: Federated Learning with Quantum Dynamic Spiking Neural Networks**|Nouhaila Innan et.al.|[2412.02293](http://arxiv.org/abs/2412.02293)|null|
 |**2024-12-03**|**Learn More by Using Less: Distributed Learning with Energy-Constrained Devices**|Roberto Pereira et.al.|[2412.02289](http://arxiv.org/abs/2412.02289)|null|
@@ -690,7 +690,7 @@ layout: default
 |**2024-11-21**|**Split Federated Learning Over Heterogeneous Edge Devices: Algorithm and Optimization**|Yunrui Sun et.al.|[2411.13907](http://arxiv.org/abs/2411.13907)|null|
 |**2024-11-21**|**Asynchronous Federated Learning Using Outdated Local Updates Over TDMA Channel**|Jaeyoung Song et.al.|[2411.13861](http://arxiv.org/abs/2411.13861)|null|
 |**2024-11-20**|**SynEHRgy: Synthesizing Mixed-Type Structured Electronic Health Records using Decoder-Only Transformers**|Hojjat Karami et.al.|[2411.13428](http://arxiv.org/abs/2411.13428)|null|
-|**2024-11-20**|**CB $^2$ O: Consensus-Based Bi-Level Optimization**|Nicolás García Trillos et.al.|[2411.13394](http://arxiv.org/abs/2411.13394)|null|
+|**2024-11-20**|**CB $^2$ O: Consensus-Based Bi-Level Optimization**|Nicolás García Trillos et.al.|[2411.13394](http://arxiv.org/abs/2411.13394)|**[link](https://github.com/sixuli/cb2o)**|
 |**2024-11-20**|**On-device Content-based Recommendation with Single-shot Embedding Pruning: A Cooperative Game Perspective**|Hung Vinh Tran et.al.|[2411.13052](http://arxiv.org/abs/2411.13052)|null|
 |**2024-11-20**|**NCAirFL: CSI-Free Over-the-Air Federated Learning Based on Non-Coherent Detection**|Haifeng Wen et.al.|[2411.13000](http://arxiv.org/abs/2411.13000)|null|
 |**2024-11-19**|**Attribute Inference Attacks for Federated Regression Tasks**|Francesco Diana et.al.|[2411.12697](http://arxiv.org/abs/2411.12697)|null|
@@ -1724,7 +1724,7 @@ layout: default
 |**2024-05-01**|**Employing Federated Learning for Training Autonomous HVAC Systems**|Fredrik Hagström et.al.|[2405.00389](http://arxiv.org/abs/2405.00389)|null|
 |**2024-05-01**|**Metric geometry of the privacy-utility tradeoff**|March Boedihardjo et.al.|[2405.00329](http://arxiv.org/abs/2405.00329)|null|
 |**2024-04-30**|**Fairness Without Demographics in Human-Centered Federated Learning**|Roy Shaily et.al.|[2404.19725](http://arxiv.org/abs/2404.19725)|null|
-|**2024-04-30**|**Leveraging Label Information for Stealthy Data Stealing in Vertical Federated Learning**|Duanyi Yao et.al.|[2404.19582](http://arxiv.org/abs/2404.19582)|null|
+|**2024-04-30**|**Leveraging Label Information for Stealthy Data Stealing in Vertical Federated Learning**|Duanyi Yao et.al.|[2404.19582](http://arxiv.org/abs/2404.19582)|**[link](https://github.com/duanyiyao/urvfl)**|
 |**2024-04-30**|**Let's Focus: Focused Backdoor Attack against Federated Transfer Learning**|Marco Arazzi et.al.|[2404.19420](http://arxiv.org/abs/2404.19420)|null|
 |**2024-04-29**|**An Aggregation-Free Federated Learning for Tackling Data Heterogeneity**|Yuan Wang et.al.|[2404.18962](http://arxiv.org/abs/2404.18962)|null|
 |**2024-04-30**|**FeDeRA:Efficient Fine-tuning of Language Models in Federated Learning Leveraging Weight Decomposition**|Yuxuan Yan et.al.|[2404.18848](http://arxiv.org/abs/2404.18848)|null|
@@ -1886,7 +1886,7 @@ layout: default
 |**2024-03-28**|**Biased Over-the-Air Federated Learning under Wireless Heterogeneity**|Muhammad Faraz Ul Abrar et.al.|[2403.19849](http://arxiv.org/abs/2403.19849)|null|
 |**2024-03-28**|**MAPL: Model Agnostic Peer-to-peer Learning**|Sayak Mukherjee et.al.|[2403.19792](http://arxiv.org/abs/2403.19792)|**[link](https://github.com/sayakmukherjee/mapl)**|
 |**2024-03-28**|**Client-supervised Federated Learning: Towards One-model-for-all Personalization**|Peng Yan et.al.|[2403.19499](http://arxiv.org/abs/2403.19499)|null|
-|**2024-03-28**|**Dual-Personalizing Adapter for Federated Foundation Models**|Yiyuan Yang et.al.|[2403.19211](http://arxiv.org/abs/2403.19211)|null|
+|**2024-03-28**|**Dual-Personalizing Adapter for Federated Foundation Models**|Yiyuan Yang et.al.|[2403.19211](http://arxiv.org/abs/2403.19211)|**[link](https://github.com/Lydia-yang/FedDPA)**|
 |**2024-03-28**|**Enhancing Trust and Privacy in Distributed Networks: A Comprehensive Survey on Blockchain-based Federated Learning**|Ji Liu et.al.|[2403.19178](http://arxiv.org/abs/2403.19178)|null|
 |**2024-03-27**|**Will You Participate? Exploring the Potential of Robotics Competitions on Human-centric Topics**|Yuchong Zhang et.al.|[2403.18616](http://arxiv.org/abs/2403.18616)|null|
 |**2024-03-27**|**Spikewhisper: Temporal Spike Backdoor Attacks on Federated Neuromorphic Learning over Low-power Devices**|Hanqing Fu et.al.|[2403.18607](http://arxiv.org/abs/2403.18607)|null|
