@@ -18,7 +18,7 @@ layout: default
 |**2024-12-05**|**JANUS: A Difference-Oriented Analyzer For Financial Centralization Risks in Smart Contracts**|Wansen Wang et.al.|[2412.03938](http://arxiv.org/abs/2412.03938)|**[link](https://github.com/secwisf/janus)**|
 |**2024-12-04**|**Securing RC Based P2P Networks: A Blockchain-based Access Control Framework utilizing Ethereum Smart Contracts for IoT and Web 3.0**|Saurav Ghosh et.al.|[2412.03709](http://arxiv.org/abs/2412.03709)|null|
 |**2024-12-03**|**Leveraging Ensemble-Based Semi-Supervised Learning for Illicit Account Detection in Ethereum DeFi Transactions**|Shabnam Fazliani et.al.|[2412.02408](http://arxiv.org/abs/2412.02408)|null|
-|**2024-12-03**|**Connecting Large Language Models with Blockchain: Advancing the Evolution of Smart Contracts from Automation to Intelligence**|Youquan Xian et.al.|[2412.02263](http://arxiv.org/abs/2412.02263)|null|
+|**2024-12-06**|**Connecting Large Language Models with Blockchain: Advancing the Evolution of Smart Contracts from Automation to Intelligence**|Youquan Xian et.al.|[2412.02263](http://arxiv.org/abs/2412.02263)|null|
 |**2024-12-02**|**Smart Contract Vulnerabilities, Tools, and Benchmarks: An Updated Systematic Literature Review**|Gerardo Iuliano et.al.|[2412.01719](http://arxiv.org/abs/2412.01719)|null|
 |**2024-12-02**|**DeFi: Concepts and Ecosystem**|Carlos J. Costa et.al.|[2412.01357](http://arxiv.org/abs/2412.01357)|null|
 |**2024-12-02**|**A Hybrid BPMN-DMN Framework for Secure Inter-organizational Processes and Decisions Collaboration on Permissioned Blockchain**|Xinzhe Shen et.al.|[2412.01196](http://arxiv.org/abs/2412.01196)|null|
@@ -617,6 +617,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-06**|**One-shot Federated Learning via Synthetic Distiller-Distillate Communication**|Junyuan Zhang et.al.|[2412.05186](http://arxiv.org/abs/2412.05186)|**[link](https://github.com/carkham/fedsd2c)**|
+|**2024-12-06**|**Privacy Drift: Evolving Privacy Concerns in Incremental Learning**|Sayyed Farid Ahamed et.al.|[2412.05183](http://arxiv.org/abs/2412.05183)|null|
+|**2024-12-06**|**A Differentially Private Kaplan-Meier Estimator for Privacy-Preserving Survival Analysis**|Narasimha Raghavan Veeraragavan et.al.|[2412.05164](http://arxiv.org/abs/2412.05164)|null|
+|**2024-12-06**|**Deterministic Algorithms to Solve the $(n,k)$ -Complete Hidden Subset Sum Problem**|Lixia Luo et.al.|[2412.04967](http://arxiv.org/abs/2412.04967)|null|
+|**2024-12-06**|**A Federated Approach to Few-Shot Hate Speech Detection for Marginalized Communities**|Haotian Ye et.al.|[2412.04942](http://arxiv.org/abs/2412.04942)|null|
+|**2024-12-06**|**NebulaFL: Effective Asynchronous Federated Learning for JointCloud Computing**|Fei Gao et.al.|[2412.04868](http://arxiv.org/abs/2412.04868)|null|
+|**2024-12-06**|**Differentially Private Random Feature Model**|Chunyang Liao et.al.|[2412.04785](http://arxiv.org/abs/2412.04785)|null|
+|**2024-12-06**|**Privacy-Preserving Retrieval Augmented Generation with Differential Privacy**|Tatsuki Koga et.al.|[2412.04697](http://arxiv.org/abs/2412.04697)|null|
+|**2024-12-05**|**Communication Compression for Distributed Learning without Control Variates**|Tomas Ortega et.al.|[2412.04538](http://arxiv.org/abs/2412.04538)|null|
 |**2024-12-05**|**FedDUAL: A Dual-Strategy with Adaptive Loss and Dynamic Aggregation for Mitigating Data Heterogeneity in Federated Learning**|Pranab Sahoo et.al.|[2412.04416](http://arxiv.org/abs/2412.04416)|**[link](https://github.com/Pranabiitp/FedDUAL)**|
 |**2024-12-05**|**Providing Differential Privacy for Federated Learning Over Wireless: A Cross-layer Framework**|Jiayu Mao et.al.|[2412.04408](http://arxiv.org/abs/2412.04408)|null|
 |**2024-12-05**|**Federated Automated Feature Engineering**|Tom Overman et.al.|[2412.04404](http://arxiv.org/abs/2412.04404)|null|
