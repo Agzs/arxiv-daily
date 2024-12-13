@@ -448,6 +448,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**Reward-based Blockchain Infrastructure for 3D IC Supply Chain Provenance**|Sulyab Thottungal Valapu et.al.|[2412.08777](http://arxiv.org/abs/2412.08777)|null|
 |**2024-11-15**|**Omnichain Web: The Universal Framework for Streamlined Chain Abstraction and Cross-Layer Interaction**|Hardik Gajera et.al.|[2411.10132](http://arxiv.org/abs/2411.10132)|null|
 |**2024-11-01**|**MAP the Blockchain World: A Trustless and Scalable Blockchain Interoperability Protocol for Cross-chain Applications**|Yinfeng Cao et.al.|[2411.00422](http://arxiv.org/abs/2411.00422)|**[link](https://github.com/mapprotocol/map-contracts)**|
 |**2024-10-31**|**Historical and Multichain Storage Proofs**|Marek Kirejczyk et.al.|[2411.00193](http://arxiv.org/abs/2411.00193)|null|
@@ -622,6 +623,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**Multi-client Functional Encryption for Set Intersection with Non-monotonic Access Structures in Federated Learning**|Ruyuan Zhang et.al.|[2412.09259](http://arxiv.org/abs/2412.09259)|null|
+|**2024-12-12**|**$(ε, δ)$ -Differentially Private Partial Least Squares Regression**|Ramin Nikzad-Langerodi et.al.|[2412.09164](http://arxiv.org/abs/2412.09164)|null|
+|**2024-12-12**|**Deep Learning Model Security: Threats and Defenses**|Tianyang Wang et.al.|[2412.08969](http://arxiv.org/abs/2412.08969)|null|
+|**2024-12-12**|**Predicting Quality of Video Gaming Experience Using Global-Scale Telemetry Data and Federated Learning**|Zhongyang Zhang et.al.|[2412.08950](http://arxiv.org/abs/2412.08950)|null|
+|**2024-12-12**|**Federated Foundation Models on Heterogeneous Time Series**|Shengchao Chen et.al.|[2412.08906](http://arxiv.org/abs/2412.08906)|null|
 |**2024-12-11**|**Protecting Confidentiality, Privacy and Integrity in Collaborative Learning**|Dong Chen et.al.|[2412.08534](http://arxiv.org/abs/2412.08534)|null|
 |**2024-12-11**|**Federated Learning for Traffic Flow Prediction with Synthetic Data Augmentation**|Fermin Orozco et.al.|[2412.08460](http://arxiv.org/abs/2412.08460)|null|
 |**2024-12-11**|**How Does the Smoothness Approximation Method Facilitate Generalization for Federated Adversarial Learning?**|Wenjun Ding et.al.|[2412.08282](http://arxiv.org/abs/2412.08282)|null|
