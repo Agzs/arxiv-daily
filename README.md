@@ -653,7 +653,7 @@
 |**2024-12-10**|**Privacy-Preserving Customer Support: A Framework for Secure and Scalable Interactions**|Anant Prakash Awasthi et.al.|[2412.07687](http://arxiv.org/abs/2412.07687)|null|
 |**2024-12-10**|**Tazza: Shuffling Neural Network Parameters for Secure and Private Federated Learning**|Kichang Lee et.al.|[2412.07454](http://arxiv.org/abs/2412.07454)|null|
 |**2024-12-10**|**When UAV Meets Federated Learning: Latency Minimization via Joint Trajectory Design and Resource Allocation**|Xuhui Zhang et.al.|[2412.07428](http://arxiv.org/abs/2412.07428)|null|
-|**2024-12-10**|**Learnable Sparse Customization in Heterogeneous Edge Computing**|Jingjing Xue et.al.|[2412.07216](http://arxiv.org/abs/2412.07216)|null|
+|**2024-12-10**|**Learnable Sparse Customization in Heterogeneous Edge Computing**|Jingjing Xue et.al.|[2412.07216](http://arxiv.org/abs/2412.07216)|**[link](https://github.com/sunnyxuejj/FedLPS)**|
 |**2024-12-10**|**Hierarchical Split Federated Learning: Convergence Analysis and System Optimization**|Zheng Lin et.al.|[2412.07197](http://arxiv.org/abs/2412.07197)|null|
 |**2024-12-10**|**A New Federated Learning Framework Against Gradient Inversion Attacks**|Pengxin Guo et.al.|[2412.07187](http://arxiv.org/abs/2412.07187)|**[link](https://github.com/pengxin-guo/hyperfl)**|
 |**2024-12-10**|**Optimizing Personalized Federated Learning through Adaptive Layer-Wise Learning**|Weihang Chen et.al.|[2412.07062](http://arxiv.org/abs/2412.07062)|null|
@@ -674,7 +674,7 @@
 |**2024-12-06**|**Deterministic Algorithms to Solve the $(n,k)$ -Complete Hidden Subset Sum Problem**|Lixia Luo et.al.|[2412.04967](http://arxiv.org/abs/2412.04967)|null|
 |**2024-12-06**|**A Federated Approach to Few-Shot Hate Speech Detection for Marginalized Communities**|Haotian Ye et.al.|[2412.04942](http://arxiv.org/abs/2412.04942)|null|
 |**2024-12-06**|**NebulaFL: Effective Asynchronous Federated Learning for JointCloud Computing**|Fei Gao et.al.|[2412.04868](http://arxiv.org/abs/2412.04868)|null|
-|**2024-12-06**|**Differentially Private Random Feature Model**|Chunyang Liao et.al.|[2412.04785](http://arxiv.org/abs/2412.04785)|null|
+|**2024-12-06**|**Differentially Private Random Feature Model**|Chunyang Liao et.al.|[2412.04785](http://arxiv.org/abs/2412.04785)|**[link](https://github.com/liaochunyang/DPRFM)**|
 |**2024-12-06**|**Privacy-Preserving Retrieval Augmented Generation with Differential Privacy**|Tatsuki Koga et.al.|[2412.04697](http://arxiv.org/abs/2412.04697)|null|
 |**2024-12-05**|**Communication Compression for Distributed Learning without Control Variates**|Tomas Ortega et.al.|[2412.04538](http://arxiv.org/abs/2412.04538)|null|
 |**2024-12-05**|**FedDUAL: A Dual-Strategy with Adaptive Loss and Dynamic Aggregation for Mitigating Data Heterogeneity in Federated Learning**|Pranab Sahoo et.al.|[2412.04416](http://arxiv.org/abs/2412.04416)|**[link](https://github.com/Pranabiitp/FedDUAL)**|
@@ -2083,7 +2083,7 @@
 |**2024-03-06**|**Do You Trust Your Model? Emerging Malware Threats in the Deep Learning Ecosystem**|Dorjan Hitaj et.al.|[2403.03593](http://arxiv.org/abs/2403.03593)|null|
 |**2024-03-06**|**Wildest Dreams: Reproducible Research in Privacy-preserving Neural Network Training**|Tanveer Khan et.al.|[2403.03592](http://arxiv.org/abs/2403.03592)|null|
 |**2024-03-05**|**Leveraging Federated Learning for Automatic Detection of Clopidogrel Treatment Failures**|Samuel Kim et.al.|[2403.03368](http://arxiv.org/abs/2403.03368)|null|
-|**2024-03-05**|**Solution Simplex Clustering for Heterogeneous Federated Learning**|Dennis Grinwald et.al.|[2403.03333](http://arxiv.org/abs/2403.03333)|null|
+|**2024-03-05**|**Solution Simplex Clustering for Heterogeneous Federated Learning**|Dennis Grinwald et.al.|[2403.03333](http://arxiv.org/abs/2403.03333)|**[link](https://github.com/dennis-grinwald/floco)**|
 |**2024-03-05**|**Leveraging Federated Learning and Edge Computing for Recommendation Systems within Cloud Computing Networks**|Yaqian Qi et.al.|[2403.03165](http://arxiv.org/abs/2403.03165)|null|
 |**2024-03-05**|**Rethinking Clustered Federated Learning in NOMA Enhanced Wireless Networks**|Yushen Lin et.al.|[2403.03157](http://arxiv.org/abs/2403.03157)|null|
 |**2024-03-05**|**Robust Federated Learning Mitigates Client-side Training Data Distribution Inference Attacks**|Yichang Xu et.al.|[2403.03149](http://arxiv.org/abs/2403.03149)|null|
