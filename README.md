@@ -20,9 +20,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-13**|**SCRUBD: Smart Contracts Reentrancy and Unhandled Exceptions Vulnerability Dataset**|Chavhan Sujeet Yashavant et.al.|[2412.09935](http://arxiv.org/abs/2412.09935)|null|
+|**2024-12-13**|**Empowering Patients for Disease Diagnosis and Clinical Treatment: A Smart Contract-Enabled Informed Consent Strategy**|Md Al Amin et.al.|[2412.09820](http://arxiv.org/abs/2412.09820)|null|
+|**2024-12-09**|**Blockchain Data Analysis in the Era of Large-Language Models**|Kentaroh Toyoda et.al.|[2412.09640](http://arxiv.org/abs/2412.09640)|null|
 |**2024-12-09**|**ICtoken: An NFT for Hardware IP Protection**|Shashank Balla et.al.|[2412.06726](http://arxiv.org/abs/2412.06726)|null|
 |**2024-12-08**|**A Dynamic Tree Structure for Hierarchical On-Chain Asset Management**|Mojtaba Eshghie et.al.|[2412.06026](http://arxiv.org/abs/2412.06026)|null|
-|**2024-12-07**|**Balancing Confidentiality and Transparency for Blockchain-based Process-Aware Information Systems**|Alessandro Marcelletti et.al.|[2412.05737](http://arxiv.org/abs/2412.05737)|null|
+|**2024-12-13**|**Balancing Confidentiality and Transparency for Blockchain-based Process-Aware Information Systems**|Alessandro Marcelletti et.al.|[2412.05737](http://arxiv.org/abs/2412.05737)|null|
 |**2024-12-03**|**Collaborative and parametric insurance on the Ethereum blockchain**|Pierre-Olivier Goffard et.al.|[2412.05321](http://arxiv.org/abs/2412.05321)|null|
 |**2024-12-05**|**WACANA: A Concolic Analyzer for Detecting On-chain Data Vulnerabilities in WASM Smart Contracts**|Wansen Wang et.al.|[2412.03946](http://arxiv.org/abs/2412.03946)|null|
 |**2024-12-05**|**JANUS: A Difference-Oriented Analyzer For Financial Centralization Risks in Smart Contracts**|Wansen Wang et.al.|[2412.03938](http://arxiv.org/abs/2412.03938)|**[link](https://github.com/secwisf/janus)**|
@@ -635,6 +638,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-13**|**Temporal Causal Discovery in Dynamic Bayesian Networks Using Federated Learning**|Jianhong Chen et.al.|[2412.09814](http://arxiv.org/abs/2412.09814)|null|
+|**2024-12-13**|**ScaleOT: Privacy-utility-scalable Offsite-tuning with Dynamic LayerReplace and Selective Rank Compression**|Kai Yao et.al.|[2412.09812](http://arxiv.org/abs/2412.09812)|null|
+|**2024-12-12**|**Private Synthetic Data Generation in Small Memory**|Rayne Holland et.al.|[2412.09756](http://arxiv.org/abs/2412.09756)|null|
 |**2024-12-12**|**Multi-client Functional Encryption for Set Intersection with Non-monotonic Access Structures in Federated Learning**|Ruyuan Zhang et.al.|[2412.09259](http://arxiv.org/abs/2412.09259)|null|
 |**2024-12-12**|**$(ε, δ)$ -Differentially Private Partial Least Squares Regression**|Ramin Nikzad-Langerodi et.al.|[2412.09164](http://arxiv.org/abs/2412.09164)|null|
 |**2024-12-12**|**Deep Learning Model Security: Threats and Defenses**|Tianyang Wang et.al.|[2412.08969](http://arxiv.org/abs/2412.08969)|null|
