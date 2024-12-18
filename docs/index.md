@@ -14,13 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Generating Move Smart Contracts based on Concepts**|Rabimba Karanjai et.al.|[2412.12513](http://arxiv.org/abs/2412.12513)|null|
+|**2024-12-16**|**Scam Detection for Ethereum Smart Contracts: Leveraging Graph Representation Learning for Secure Blockchain**|Yihong Jin et.al.|[2412.12370](http://arxiv.org/abs/2412.12370)|null|
 |**2024-12-15**|**Knowledge Migration Framework for Smart Contract Vulnerability Detection**|Luqi Wang et.al.|[2412.11175](http://arxiv.org/abs/2412.11175)|null|
 |**2024-12-13**|**SCRUBD: Smart Contracts Reentrancy and Unhandled Exceptions Vulnerability Dataset**|Chavhan Sujeet Yashavant et.al.|[2412.09935](http://arxiv.org/abs/2412.09935)|null|
 |**2024-12-13**|**Empowering Patients for Disease Diagnosis and Clinical Treatment: A Smart Contract-Enabled Informed Consent Strategy**|Md Al Amin et.al.|[2412.09820](http://arxiv.org/abs/2412.09820)|null|
 |**2024-12-09**|**Blockchain Data Analysis in the Era of Large-Language Models**|Kentaroh Toyoda et.al.|[2412.09640](http://arxiv.org/abs/2412.09640)|null|
 |**2024-12-09**|**ICtoken: An NFT for Hardware IP Protection**|Shashank Balla et.al.|[2412.06726](http://arxiv.org/abs/2412.06726)|null|
 |**2024-12-08**|**A Dynamic Tree Structure for Hierarchical On-Chain Asset Management**|Mojtaba Eshghie et.al.|[2412.06026](http://arxiv.org/abs/2412.06026)|null|
-|**2024-12-13**|**Balancing Confidentiality and Transparency for Blockchain-based Process-Aware Information Systems**|Alessandro Marcelletti et.al.|[2412.05737](http://arxiv.org/abs/2412.05737)|null|
+|**2024-12-13**|**Balancing Confidentiality and Transparency for Blockchain-based Process-Aware Information Systems**|Alessandro Marcelletti et.al.|[2412.05737](http://arxiv.org/abs/2412.05737)|**[link](https://github.com/apwbs/CONFETTY)**|
 |**2024-12-03**|**Collaborative and parametric insurance on the Ethereum blockchain**|Pierre-Olivier Goffard et.al.|[2412.05321](http://arxiv.org/abs/2412.05321)|null|
 |**2024-12-05**|**WACANA: A Concolic Analyzer for Detecting On-chain Data Vulnerabilities in WASM Smart Contracts**|Wansen Wang et.al.|[2412.03946](http://arxiv.org/abs/2412.03946)|null|
 |**2024-12-05**|**JANUS: A Difference-Oriented Analyzer For Financial Centralization Risks in Smart Contracts**|Wansen Wang et.al.|[2412.03938](http://arxiv.org/abs/2412.03938)|**[link](https://github.com/secwisf/janus)**|
@@ -452,6 +454,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**AsyncSC: An Asynchronous Sidechain for Multi-Domain Data Exchange in Internet of Things**|Lingxiao Yang et.al.|[2412.12723](http://arxiv.org/abs/2412.12723)|null|
 |**2024-12-11**|**Reward-based Blockchain Infrastructure for 3D IC Supply Chain Provenance**|Sulyab Thottungal Valapu et.al.|[2412.08777](http://arxiv.org/abs/2412.08777)|null|
 |**2024-11-15**|**Omnichain Web: The Universal Framework for Streamlined Chain Abstraction and Cross-Layer Interaction**|Hardik Gajera et.al.|[2411.10132](http://arxiv.org/abs/2411.10132)|null|
 |**2024-11-01**|**MAP the Blockchain World: A Trustless and Scalable Blockchain Interoperability Protocol for Cross-chain Applications**|Yinfeng Cao et.al.|[2411.00422](http://arxiv.org/abs/2411.00422)|**[link](https://github.com/mapprotocol/map-contracts)**|
@@ -459,7 +462,7 @@ layout: default
 |**2024-10-31**|**Memes, Markets, and Machines: The Evolution of On Chain Autonomy through Hyperstition**|Jeffy Yu et.al.|[2410.23794](http://arxiv.org/abs/2410.23794)|null|
 |**2024-10-21**|**Efficient and Universally Accessible Cross-Chain Options without Upfront Holder Collateral**|Zifan Peng et.al.|[2410.15724](http://arxiv.org/abs/2410.15724)|null|
 |**2024-10-18**|**Safeguarding Blockchain Ecosystem: Understanding and Detecting Attack Transactions on Cross-chain Bridges**|Jiajing Wu et.al.|[2410.14493](http://arxiv.org/abs/2410.14493)|null|
-|**2024-10-14**|**Mastering AI: Big Data, Deep Learning, and the Evolution of Large Language Models -- Blockchain and Applications**|Pohsun Feng et.al.|[2410.10110](http://arxiv.org/abs/2410.10110)|null|
+|**2024-12-17**|**Mastering AI: Big Data, Deep Learning, and the Evolution of Large Language Models -- Blockchain and Applications**|Pohsun Feng et.al.|[2410.10110](http://arxiv.org/abs/2410.10110)|null|
 |**2024-10-11**|**Cross-chain Sharing of Personal Health Records: Heterogeneous and Interoperable Blockchains**|Yongyang Lv et.al.|[2410.08762](http://arxiv.org/abs/2410.08762)|null|
 |**2024-11-15**|**XChainWatcher: Monitoring and Identifying Attacks in Cross-Chain Bridges**|André Augusto et.al.|[2410.02029](http://arxiv.org/abs/2410.02029)|null|
 |**2024-11-15**|**Count of Monte Crypto: Accounting-based Defenses for Cross-Chain Bridges**|Enze Liu et.al.|[2410.01107](http://arxiv.org/abs/2410.01107)|null|
@@ -511,6 +514,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**if-ZKP: Intel FPGA-Based Acceleration of Zero Knowledge Proofs**|Shahzad Ahmad Butt et.al.|[2412.12481](http://arxiv.org/abs/2412.12481)|null|
 |**2024-12-09**|**BECS: A Privacy-Preserving Computing Sharing Mechanism in 6G Computing Power Network**|Kun Yan et.al.|[2412.06196](http://arxiv.org/abs/2412.06196)|null|
 |**2024-12-05**|**Privacy-Preserving in Medical Image Analysis: A Review of Methods and Applications**|Yanming Zhu et.al.|[2412.03924](http://arxiv.org/abs/2412.03924)|null|
 |**2024-11-22**|**PoneglyphDB: Efficient Non-interactive Zero-Knowledge Proofs for Arbitrary SQL-Query Verification**|Binbin Gu et.al.|[2411.15031](http://arxiv.org/abs/2411.15031)|null|
@@ -627,6 +631,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Are Data Experts Buying into Differentially Private Synthetic Data? Gathering Community Perspectives**|Lucas Rosenblatt et.al.|[2412.13030](http://arxiv.org/abs/2412.13030)|null|
+|**2024-12-17**|**Concurrent vertical and horizontal federated learning with fuzzy cognitive maps**|Jose L Salmeron et.al.|[2412.12844](http://arxiv.org/abs/2412.12844)|null|
+|**2024-12-17**|**RemoteRAG: A Privacy-Preserving LLM Cloud RAG Service**|Yihang Cheng et.al.|[2412.12775](http://arxiv.org/abs/2412.12775)|null|
+|**2024-12-17**|**Building Gradient Bridges: Label Leakage from Restricted Gradient Sharing in Federated Learning**|Rui Zhang et.al.|[2412.12640](http://arxiv.org/abs/2412.12640)|null|
+|**2024-12-16**|**Differential Privacy Preserving Distributed Quantum Computing**|Hui Zhong et.al.|[2412.12387](http://arxiv.org/abs/2412.12387)|null|
+|**2024-12-16**|**F-RBA: A Federated Learning-based Framework for Risk-based Authentication**|Hamidreza Fereidouni et.al.|[2412.12324](http://arxiv.org/abs/2412.12324)|null|
 |**2024-12-16**|**How Private are Language Models in Abstractive Summarization?**|Anthony Hughes et.al.|[2412.12040](http://arxiv.org/abs/2412.12040)|null|
 |**2024-12-16**|**Efficiently Achieving Secure Model Training and Secure Aggregation to Ensure Bidirectional Privacy-Preservation in Federated Learning**|Xue Yang et.al.|[2412.11737](http://arxiv.org/abs/2412.11737)|null|
 |**2024-12-16**|**Just a Simple Transformation is Enough for Data Protection in Vertical Federated Learning**|Andrei Semenov et.al.|[2412.11689](http://arxiv.org/abs/2412.11689)|**[link](https://github.com/andron00e/jast)**|
