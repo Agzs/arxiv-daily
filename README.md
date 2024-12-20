@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**6GENABLERS-DLT: DLT-based Marketplace for Decentralized Trading of 6G Telco resources**|Adriana Fernández-Fernández et.al.|[2412.14977](http://arxiv.org/abs/2412.14977)|null|
 |**2024-12-18**|**Data sharing in the metaverse with key abuse resistance based on decentralized CP-ABE**|Liang Zhang et.al.|[2412.13770](http://arxiv.org/abs/2412.13770)|null|
 |**2024-12-17**|**Generating Move Smart Contracts based on Concepts**|Rabimba Karanjai et.al.|[2412.12513](http://arxiv.org/abs/2412.12513)|null|
 |**2024-12-16**|**Scam Detection for Ethereum Smart Contracts: Leveraging Graph Representation Learning for Secure Blockchain**|Yihong Jin et.al.|[2412.12370](http://arxiv.org/abs/2412.12370)|null|
@@ -525,7 +526,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-18**|**Towards an identity management solution on Arweave**|Andreea Elena Dragnoiu et.al.|[2412.13865](http://arxiv.org/abs/2412.13865)|null|
+|**2024-12-19**|**Towards an identity management solution on Arweave**|Andreea Elena Dragnoiu et.al.|[2412.13865](http://arxiv.org/abs/2412.13865)|null|
 |**2024-12-17**|**if-ZKP: Intel FPGA-Based Acceleration of Zero Knowledge Proofs**|Shahzad Ahmad Butt et.al.|[2412.12481](http://arxiv.org/abs/2412.12481)|null|
 |**2024-12-09**|**BECS: A Privacy-Preserving Computing Sharing Mechanism in 6G Computing Power Network**|Kun Yan et.al.|[2412.06196](http://arxiv.org/abs/2412.06196)|null|
 |**2024-12-05**|**Privacy-Preserving in Medical Image Analysis: A Review of Methods and Applications**|Yanming Zhu et.al.|[2412.03924](http://arxiv.org/abs/2412.03924)|null|
@@ -645,6 +646,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**Efficient Ranking, Order Statistics, and Sorting under CKKS**|Federico Mazzone et.al.|[2412.15126](http://arxiv.org/abs/2412.15126)|null|
+|**2024-12-19**|**Robust Federated Learning in the Face of Covariate Shift: A Magnitude Pruning with Hybrid Regularization Framework for Enhanced Model Aggregation**|Ozgu Goksu et.al.|[2412.15010](http://arxiv.org/abs/2412.15010)|null|
+|**2024-12-19**|**Federated Heavy Hitter Analytics with Local Differential Privacy**|Yuemin Zhang et.al.|[2412.14832](http://arxiv.org/abs/2412.14832)|null|
+|**2024-12-19**|**FLAMe: Federated Learning with Attention Mechanism using Spatio-Temporal Keypoint Transformers for Pedestrian Fall Detection in Smart Cities**|Byeonghun Kim et.al.|[2412.14768](http://arxiv.org/abs/2412.14768)|null|
+|**2024-12-19**|**LoLaFL: Low-Latency Federated Learning via Forward-only Propagation**|Jierui Zhang et.al.|[2412.14668](http://arxiv.org/abs/2412.14668)|null|
+|**2024-12-19**|**Summary of Point Transformer with Federated Learning for Predicting Breast Cancer HER2 Status from Hematoxylin and Eosin-Stained Whole Slide Images**|Kamorudeen A. Amuda et.al.|[2412.14545](http://arxiv.org/abs/2412.14545)|null|
+|**2024-12-19**|**FedMUP: Federated Learning driven Malicious User Prediction Model for Secure Data Distribution in Cloud Environments**|Kishu Gupta et.al.|[2412.14495](http://arxiv.org/abs/2412.14495)|null|
+|**2024-12-19**|**FedPIA -- Permuting and Integrating Adapters leveraging Wasserstein Barycenters for Finetuning Foundation Models in Multi-Modal Federated Learning**|Pramit Saha et.al.|[2412.14424](http://arxiv.org/abs/2412.14424)|null|
+|**2024-12-18**|**Nemesis: Noise-randomized Encryption with Modular Efficiency and Secure Integration in Machine Learning Systems**|Dongfang Zhao et.al.|[2412.14392](http://arxiv.org/abs/2412.14392)|null|
+|**2024-12-18**|**Differentially Private Multi-objective Selection: Pareto and Aggregation Approaches**|Victor A. E. Farias et.al.|[2412.14380](http://arxiv.org/abs/2412.14380)|null|
 |**2024-12-18**|**Trustworthy Transfer Learning: A Survey**|Jun Wu et.al.|[2412.14116](http://arxiv.org/abs/2412.14116)|null|
 |**2024-12-18**|**On the Robustness of Distributed Machine Learning against Transfer Attacks**|Sébastien Andreina et.al.|[2412.14080](http://arxiv.org/abs/2412.14080)|null|
 |**2024-12-18**|**Towards privacy-preserving cooperative control via encrypted distributed optimization**|Philipp Binfet et.al.|[2412.13953](http://arxiv.org/abs/2412.13953)|null|
