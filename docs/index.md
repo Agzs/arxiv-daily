@@ -25,7 +25,7 @@ layout: default
 |**2024-12-09**|**ICtoken: An NFT for Hardware IP Protection**|Shashank Balla et.al.|[2412.06726](http://arxiv.org/abs/2412.06726)|null|
 |**2024-12-08**|**A Dynamic Tree Structure for Hierarchical On-Chain Asset Management**|Mojtaba Eshghie et.al.|[2412.06026](http://arxiv.org/abs/2412.06026)|null|
 |**2024-12-13**|**Balancing Confidentiality and Transparency for Blockchain-based Process-Aware Information Systems**|Alessandro Marcelletti et.al.|[2412.05737](http://arxiv.org/abs/2412.05737)|**[link](https://github.com/apwbs/CONFETTY)**|
-|**2024-12-03**|**Collaborative and parametric insurance on the Ethereum blockchain**|Pierre-Olivier Goffard et.al.|[2412.05321](http://arxiv.org/abs/2412.05321)|null|
+|**2024-12-03**|**Collaborative and parametric insurance on the Ethereum blockchain**|Pierre-Olivier Goffard et.al.|[2412.05321](http://arxiv.org/abs/2412.05321)|**[link](https://github.com/LaGauffre/smart_parametric_insurance)**|
 |**2024-12-05**|**WACANA: A Concolic Analyzer for Detecting On-chain Data Vulnerabilities in WASM Smart Contracts**|Wansen Wang et.al.|[2412.03946](http://arxiv.org/abs/2412.03946)|null|
 |**2024-12-05**|**JANUS: A Difference-Oriented Analyzer For Financial Centralization Risks in Smart Contracts**|Wansen Wang et.al.|[2412.03938](http://arxiv.org/abs/2412.03938)|**[link](https://github.com/secwisf/janus)**|
 |**2024-12-04**|**Securing RC Based P2P Networks: A Blockchain-based Access Control Framework utilizing Ethereum Smart Contracts for IoT and Web 3.0**|Saurav Ghosh et.al.|[2412.03709](http://arxiv.org/abs/2412.03709)|null|
@@ -504,7 +504,7 @@ layout: default
 |**2023-08-11**|**BlockChain I/O: Enabling Cross-Chain Commerce**|Anwitaman Datta et.al.|[2308.02163](http://arxiv.org/abs/2308.02163)|null|
 |**2023-07-29**|**Blockchain-empowered Federated Learning for Healthcare Metaverses: User-centric Incentive Mechanism with Optimal Data Freshness**|Jiawen Kang et.al.|[2307.15975](http://arxiv.org/abs/2307.15975)|null|
 |**2023-09-22**|**A Cross-Chain Query Language for Application-Level Interoperability Between Open and Permissionless Blockchains**|Felix Härer et.al.|[2307.00951](http://arxiv.org/abs/2307.00951)|null|
-|**2023-06-20**|**CroCoDai: A Stablecoin for Cross-Chain Commerce**|Daniël Reijsbergen et.al.|[2306.09754](http://arxiv.org/abs/2306.09754)|null|
+|**2023-06-20**|**CroCoDai: A Stablecoin for Cross-Chain Commerce**|Daniël Reijsbergen et.al.|[2306.09754](http://arxiv.org/abs/2306.09754)|**[link](https://github.com/ntublockchain/crocodai)**|
 |**2023-06-16**|**PIEChain -- A Practical Blockchain Interoperability Framework**|Daniël Reijsbergen et.al.|[2306.09735](http://arxiv.org/abs/2306.09735)|null|
 |**2023-06-08**|**Cross Chain Bribery Contracts: Majority vs Mighty Minority**|Quang Tran et.al.|[2306.07984](http://arxiv.org/abs/2306.07984)|null|
 |**2023-05-26**|**CBDC-AquaSphere: Interoperable Central Bank Digital Currency Built on Trusted Computing and Blockchain**|Ivan Homoliak et.al.|[2305.16893](http://arxiv.org/abs/2305.16893)|null|
@@ -1610,7 +1610,7 @@ layout: default
 |**2024-06-07**|**When Swarm Learning meets energy series data: A decentralized collaborative learning design based on blockchain**|Lei Xu et.al.|[2406.04743](http://arxiv.org/abs/2406.04743)|null|
 |**2024-06-07**|**Marking the Pace: A Blockchain-Enhanced Privacy-Traceable Strategy for Federated Recommender Systems**|Zhen Cai et.al.|[2406.04702](http://arxiv.org/abs/2406.04702)|null|
 |**2024-06-07**|**Federated Representation Learning in the Under-Parameterized Regime**|Renpu Liu et.al.|[2406.04596](http://arxiv.org/abs/2406.04596)|**[link](https://github.com/RenpuLiu/flute)**|
-|**2024-06-06**|**R-CONV: An Analytical Approach for Efficient Data Reconstruction via Convolutional Gradients**|Tamer Ahmed Eltaras et.al.|[2406.04227](http://arxiv.org/abs/2406.04227)|null|
+|**2024-06-06**|**R-CONV: An Analytical Approach for Efficient Data Reconstruction via Convolutional Gradients**|Tamer Ahmed Eltaras et.al.|[2406.04227](http://arxiv.org/abs/2406.04227)|**[link](https://github.com/tamertaras91/RR-CONV)**|
 |**2024-06-06**|**LenslessFace: An End-to-End Optimized Lensless System for Privacy-Preserving Face Verification**|Xin Cai et.al.|[2406.04129](http://arxiv.org/abs/2406.04129)|**[link](https://github.com/OpenImagingLab/LenslessFace)**|
 |**2024-06-06**|**Federated TrustChain: Blockchain-Enhanced LLM Training and Unlearning**|Xuhan Zuo et.al.|[2406.04076](http://arxiv.org/abs/2406.04076)|null|
 |**2024-06-06**|**Memorization in deep learning: A survey**|Jiaheng Wei et.al.|[2406.03880](http://arxiv.org/abs/2406.03880)|null|
@@ -2420,7 +2420,7 @@ layout: default
 |**2024-01-05**|**Federated Learning for distribution skewed data using sample weights**|Hung Nguyen et.al.|[2401.02586](http://arxiv.org/abs/2401.02586)|null|
 |**2024-01-04**|**Comprehensive Exploration of Synthetic Data Generation: A Survey**|André Bauer et.al.|[2401.02524](http://arxiv.org/abs/2401.02524)|null|
 |**2024-01-04**|**Adaptive Differential Privacy in Federated Learning: A Priority-Based Approach**|Mahtab Talaei et.al.|[2401.02453](http://arxiv.org/abs/2401.02453)|null|
-|**2024-01-04**|**Not all Minorities are Equal: Empty-Class-Aware Distillation for Heterogeneous Federated Learning**|Kuangpu Guo et.al.|[2401.02329](http://arxiv.org/abs/2401.02329)|null|
+|**2024-01-04**|**Not all Minorities are Equal: Empty-Class-Aware Distillation for Heterogeneous Federated Learning**|Kuangpu Guo et.al.|[2401.02329](http://arxiv.org/abs/2401.02329)|**[link](https://github.com/krumpguo/fedvls)**|
 |**2024-01-04**|**Federated Class-Incremental Learning with Prototype Guided Transformer**|Haiyang Guo et.al.|[2401.02094](http://arxiv.org/abs/2401.02094)|**[link](https://github.com/ghy0501/pilora)**|
 |**2024-01-03**|**IoT in the Era of Generative AI: Vision and Challenges**|Xin Wang et.al.|[2401.01923](http://arxiv.org/abs/2401.01923)|null|
 |**2024-01-03**|**Step length measurement in the wild using FMCW radar**|Parthipan Siva et.al.|[2401.01868](http://arxiv.org/abs/2401.01868)|null|
