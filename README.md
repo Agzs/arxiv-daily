@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**Towards Secure AI-driven Industrial Metaverse with NFT Digital Twins**|Ravi Prakash et.al.|[2412.15716](http://arxiv.org/abs/2412.15716)|null|
 |**2024-12-19**|**6GENABLERS-DLT: DLT-based Marketplace for Decentralized Trading of 6G Telco resources**|Adriana Fernández-Fernández et.al.|[2412.14977](http://arxiv.org/abs/2412.14977)|null|
 |**2024-12-18**|**Data sharing in the metaverse with key abuse resistance based on decentralized CP-ABE**|Liang Zhang et.al.|[2412.13770](http://arxiv.org/abs/2412.13770)|**[link](https://github.com/appcrypto/basics)**|
 |**2024-12-17**|**Generating Move Smart Contracts based on Concepts**|Rabimba Karanjai et.al.|[2412.12513](http://arxiv.org/abs/2412.12513)|null|
@@ -526,7 +527,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-19**|**Towards an identity management solution on Arweave**|Andreea Elena Dragnoiu et.al.|[2412.13865](http://arxiv.org/abs/2412.13865)|null|
+|**2024-12-20**|**Towards an identity management solution on Arweave**|Andreea Elena Dragnoiu et.al.|[2412.13865](http://arxiv.org/abs/2412.13865)|null|
 |**2024-12-17**|**if-ZKP: Intel FPGA-Based Acceleration of Zero Knowledge Proofs**|Shahzad Ahmad Butt et.al.|[2412.12481](http://arxiv.org/abs/2412.12481)|null|
 |**2024-12-09**|**BECS: A Privacy-Preserving Computing Sharing Mechanism in 6G Computing Power Network**|Kun Yan et.al.|[2412.06196](http://arxiv.org/abs/2412.06196)|null|
 |**2024-12-05**|**Privacy-Preserving in Medical Image Analysis: A Review of Methods and Applications**|Yanming Zhu et.al.|[2412.03924](http://arxiv.org/abs/2412.03924)|null|
@@ -646,6 +647,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-20**|**FedGAT: A Privacy-Preserving Federated Approximation Algorithm for Graph Attention Networks**|Siddharth Ambekar et.al.|[2412.16144](http://arxiv.org/abs/2412.16144)|null|
+|**2024-12-20**|**Differentially Private Federated Learning of Diffusion Models for Synthetic Tabular Data Generation**|Timur Sattarov et.al.|[2412.16083](http://arxiv.org/abs/2412.16083)|null|
+|**2024-12-20**|**WebLLM: A High-Performance In-Browser LLM Inference Engine**|Charlie F. Ruan et.al.|[2412.15803](http://arxiv.org/abs/2412.15803)|**[link](https://github.com/mlc-ai/web-llm)**|
+|**2024-12-20**|**fluke: Federated Learning Utility frameworK for Experimentation and research**|Mirko Polato et.al.|[2412.15728](http://arxiv.org/abs/2412.15728)|null|
+|**2024-12-20**|**Code Review Automation Via Multi-task Federated LLM -- An Empirical Study**|Jahnavi Kumar et.al.|[2412.15676](http://arxiv.org/abs/2412.15676)|null|
+|**2024-12-20**|**AutoRank: MCDA Based Rank Personalization for LoRA-Enabled Distributed Learning**|Shuaijun Chen et.al.|[2412.15553](http://arxiv.org/abs/2412.15553)|null|
+|**2024-12-20**|**FedRLHF: A Convergence-Guaranteed Federated Framework for Privacy-Preserving and Personalized RLHF**|Flint Xiaofeng Fan et.al.|[2412.15538](http://arxiv.org/abs/2412.15538)|null|
+|**2024-12-20**|**The Impact of Cut Layer Selection in Split Federated Learning**|Justin Dachille et.al.|[2412.15536](http://arxiv.org/abs/2412.15536)|null|
+|**2024-12-20**|**Logistics Regression Model for Differentially-Private Matrix Masked Data**|Linh H Nghiem et.al.|[2412.15520](http://arxiv.org/abs/2412.15520)|null|
+|**2024-12-20**|**DualGFL: Federated Learning with a Dual-Level Coalition-Auction Game**|Xiaobing Chen et.al.|[2412.15492](http://arxiv.org/abs/2412.15492)|null|
 |**2024-12-19**|**Efficient Ranking, Order Statistics, and Sorting under CKKS**|Federico Mazzone et.al.|[2412.15126](http://arxiv.org/abs/2412.15126)|null|
 |**2024-12-19**|**Robust Federated Learning in the Face of Covariate Shift: A Magnitude Pruning with Hybrid Regularization Framework for Enhanced Model Aggregation**|Ozgu Goksu et.al.|[2412.15010](http://arxiv.org/abs/2412.15010)|null|
 |**2024-12-19**|**Federated Heavy Hitter Analytics with Local Differential Privacy**|Yuemin Zhang et.al.|[2412.14832](http://arxiv.org/abs/2412.14832)|null|
