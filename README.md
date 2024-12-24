@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**Synergistic Integration of Blockchain and Software-Defined Networking in the Internet of Energy Systems**|Vahideh Hayyolalam et.al.|[2412.17530](http://arxiv.org/abs/2412.17530)|null|
+|**2024-12-22**|**On the ETHOS of AI Agents: An Ethical Technology and Holistic Oversight System**|Tomer Jordi Chaffer et.al.|[2412.17114](http://arxiv.org/abs/2412.17114)|null|
 |**2024-12-20**|**Towards Secure AI-driven Industrial Metaverse with NFT Digital Twins**|Ravi Prakash et.al.|[2412.15716](http://arxiv.org/abs/2412.15716)|null|
 |**2024-12-19**|**6GENABLERS-DLT: DLT-based Marketplace for Decentralized Trading of 6G Telco resources**|Adriana Fernández-Fernández et.al.|[2412.14977](http://arxiv.org/abs/2412.14977)|null|
 |**2024-12-18**|**Data sharing in the metaverse with key abuse resistance based on decentralized CP-ABE**|Liang Zhang et.al.|[2412.13770](http://arxiv.org/abs/2412.13770)|**[link](https://github.com/appcrypto/basics)**|
@@ -647,6 +649,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**Asynchronous Federated Learning: A Scalable Approach for Decentralized Machine Learning**|Ali Forootani et.al.|[2412.17723](http://arxiv.org/abs/2412.17723)|**[link](https://github.com/ali-forootani/asynchronous-federated-learning)**|
+|**2024-12-23**|**FedTLU: Federated Learning with Targeted Layer Updates**|Jong-Ik Park et.al.|[2412.17692](http://arxiv.org/abs/2412.17692)|null|
+|**2024-12-23**|**Evaluation of Bio-Inspired Models under Different Learning Settings For Energy Efficiency in Network Traffic Prediction**|Theodoros Tsiolakis et.al.|[2412.17565](http://arxiv.org/abs/2412.17565)|null|
+|**2024-12-23**|**Dataset for Real-World Human Action Detection Using FMCW mmWave Radar**|Dylan jayabahu et.al.|[2412.17517](http://arxiv.org/abs/2412.17517)|null|
+|**2024-12-23**|**PointVoxelFormer -- Reviving point cloud networks for 3D medical imaging**|Mattias Paul Heinrich et.al.|[2412.17390](http://arxiv.org/abs/2412.17390)|null|
+|**2024-12-23**|**FFA Sora, video generation as fundus fluorescein angiography simulator**|Xinyuan Wu et.al.|[2412.17346](http://arxiv.org/abs/2412.17346)|null|
+|**2024-12-23**|**Better Knowledge Enhancement for Privacy-Preserving Cross-Project Defect Prediction**|Yuying Wang et.al.|[2412.17317](http://arxiv.org/abs/2412.17317)|null|
+|**2024-12-23**|**FedLEC: Effective Federated Learning Algorithm with Spiking Neural Networks Under Label Skews**|Di Yu et.al.|[2412.17305](http://arxiv.org/abs/2412.17305)|null|
+|**2024-12-23**|**FedMeld: A Model-dispersal Federated Learning Framework for Space-ground Integrated Networks**|Qian Chen et.al.|[2412.17231](http://arxiv.org/abs/2412.17231)|null|
+|**2024-12-22**|**Modular Conversational Agents for Surveys and Interviews**|Jiangbo Yu et.al.|[2412.17049](http://arxiv.org/abs/2412.17049)|null|
 |**2024-12-20**|**FedGAT: A Privacy-Preserving Federated Approximation Algorithm for Graph Attention Networks**|Siddharth Ambekar et.al.|[2412.16144](http://arxiv.org/abs/2412.16144)|null|
 |**2024-12-20**|**Differentially Private Federated Learning of Diffusion Models for Synthetic Tabular Data Generation**|Timur Sattarov et.al.|[2412.16083](http://arxiv.org/abs/2412.16083)|null|
 |**2024-12-20**|**WebLLM: A High-Performance In-Browser LLM Inference Engine**|Charlie F. Ruan et.al.|[2412.15803](http://arxiv.org/abs/2412.15803)|**[link](https://github.com/mlc-ai/web-llm)**|
