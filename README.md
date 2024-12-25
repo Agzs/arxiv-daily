@@ -20,8 +20,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**PrettiSmart: Visual Interpretation of Smart Contracts via Simulation**|Xiaolin Wen et.al.|[2412.18484](http://arxiv.org/abs/2412.18484)|null|
+|**2024-12-24**|**PonziLens+: Visualizing Bytecode Actions for Smart Ponzi Scheme Identification**|Xiaolin Wen et.al.|[2412.18470](http://arxiv.org/abs/2412.18470)|null|
+|**2024-12-24**|**Combining GPT and Code-Based Similarity Checking for Effective Smart Contract Vulnerability Detection**|Jango Zhang et.al.|[2412.18225](http://arxiv.org/abs/2412.18225)|null|
+|**2024-12-24**|**Blockchain-Driven Research in Personality-Based Distributed Pair Programming**|Marcel Valovy et.al.|[2412.18066](http://arxiv.org/abs/2412.18066)|null|
 |**2024-12-23**|**Synergistic Integration of Blockchain and Software-Defined Networking in the Internet of Energy Systems**|Vahideh Hayyolalam et.al.|[2412.17530](http://arxiv.org/abs/2412.17530)|null|
-|**2024-12-22**|**On the ETHOS of AI Agents: An Ethical Technology and Holistic Oversight System**|Tomer Jordi Chaffer et.al.|[2412.17114](http://arxiv.org/abs/2412.17114)|null|
+|**2024-12-24**|**On the ETHOS of AI Agents: An Ethical Technology and Holistic Oversight System**|Tomer Jordi Chaffer et.al.|[2412.17114](http://arxiv.org/abs/2412.17114)|null|
 |**2024-12-20**|**Towards Secure AI-driven Industrial Metaverse with NFT Digital Twins**|Ravi Prakash et.al.|[2412.15716](http://arxiv.org/abs/2412.15716)|null|
 |**2024-12-19**|**6GENABLERS-DLT: DLT-based Marketplace for Decentralized Trading of 6G Telco resources**|Adriana Fernández-Fernández et.al.|[2412.14977](http://arxiv.org/abs/2412.14977)|null|
 |**2024-12-18**|**Data sharing in the metaverse with key abuse resistance based on decentralized CP-ABE**|Liang Zhang et.al.|[2412.13770](http://arxiv.org/abs/2412.13770)|**[link](https://github.com/appcrypto/basics)**|
@@ -467,6 +471,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**XSema: A Novel Framework for Semantic Extraction of Cross-chain Transactions**|Ziye Zheng et.al.|[2412.18129](http://arxiv.org/abs/2412.18129)|null|
 |**2024-12-17**|**AsyncSC: An Asynchronous Sidechain for Multi-Domain Data Exchange in Internet of Things**|Lingxiao Yang et.al.|[2412.12723](http://arxiv.org/abs/2412.12723)|null|
 |**2024-12-11**|**Reward-based Blockchain Infrastructure for 3D IC Supply Chain Provenance**|Sulyab Thottungal Valapu et.al.|[2412.08777](http://arxiv.org/abs/2412.08777)|null|
 |**2024-11-15**|**Omnichain Web: The Universal Framework for Streamlined Chain Abstraction and Cross-Layer Interaction**|Hardik Gajera et.al.|[2411.10132](http://arxiv.org/abs/2411.10132)|null|
@@ -649,6 +654,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**FedVCK: Non-IID Robust and Communication-Efficient Federated Learning via Valuable Condensed Knowledge for Medical Image Analysis**|Guochen Yan et.al.|[2412.18557](http://arxiv.org/abs/2412.18557)|null|
+|**2024-12-24**|**FedGIG: Graph Inversion from Gradient in Federated Learning**|Tianzhe Xiao et.al.|[2412.18513](http://arxiv.org/abs/2412.18513)|null|
+|**2024-12-24**|**An Empirical Analysis of Federated Learning Models Subject to Label-Flipping Adversarial Attack**|Kunal Bhatnagar et.al.|[2412.18507](http://arxiv.org/abs/2412.18507)|null|
+|**2024-12-24**|**GeFL: Model-Agnostic Federated Learning with Generative Models**|Honggu Kang et.al.|[2412.18460](http://arxiv.org/abs/2412.18460)|null|
+|**2024-12-24**|**Addressing Spatial-Temporal Data Heterogeneity in Federated Continual Learning via Tail Anchor**|Hao Yu et.al.|[2412.18355](http://arxiv.org/abs/2412.18355)|null|
 |**2024-12-23**|**Asynchronous Federated Learning: A Scalable Approach for Decentralized Machine Learning**|Ali Forootani et.al.|[2412.17723](http://arxiv.org/abs/2412.17723)|**[link](https://github.com/ali-forootani/asynchronous-federated-learning)**|
 |**2024-12-23**|**FedTLU: Federated Learning with Targeted Layer Updates**|Jong-Ik Park et.al.|[2412.17692](http://arxiv.org/abs/2412.17692)|null|
 |**2024-12-23**|**Evaluation of Bio-Inspired Models under Different Learning Settings For Energy Efficiency in Network Traffic Prediction**|Theodoros Tsiolakis et.al.|[2412.17565](http://arxiv.org/abs/2412.17565)|null|
