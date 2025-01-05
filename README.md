@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-01**|**A Large-Scale Exploratory Study on the Proxy Pattern in Ethereum**|Amir M. Ebrahimi et.al.|[2501.00965](http://arxiv.org/abs/2501.00965)|null|
+|**2024-12-31**|**UPC Sentinel: An Accurate Approach for Detecting Upgradeability Proxy Contracts in Ethereum**|Amir M. Ebrahimi et.al.|[2501.00674](http://arxiv.org/abs/2501.00674)|null|
 |**2024-12-30**|**An Infrastructure for Systematically Collecting Smart Contract Lineages for Analyses**|Fatou Ndiaye Mbodji et.al.|[2412.20866](http://arxiv.org/abs/2412.20866)|null|
 |**2024-12-30**|**Blockchain-Empowered Cyber-Secure Federated Learning for Trustworthy Edge Computing**|Ervin Moore et.al.|[2412.20674](http://arxiv.org/abs/2412.20674)|null|
 |**2024-12-26**|**Swarm Contract: A Multi-Sovereign Agent Consensus Mechanism**|Haowei Yang et.al.|[2412.19256](http://arxiv.org/abs/2412.19256)|null|
@@ -658,6 +660,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-02**|**Privacy Preservation in MIMO-OFDM Localization Systems: A Beamforming Approach**|Yuchen Zhang et.al.|[2501.01353](http://arxiv.org/abs/2501.01353)|null|
+|**2025-01-02**|**NET-SA: An Efficient Secure Aggregation Architecture Based on In-Network Computing**|Qingqing Ren et.al.|[2501.01187](http://arxiv.org/abs/2501.01187)|null|
+|**2025-01-02**|**Communication-and-Computation Efficient Split Federated Learning: Gradient Aggregation and Resource Management**|Yipeng Liang et.al.|[2501.01078](http://arxiv.org/abs/2501.01078)|null|
+|**2025-01-02**|**FAPL-DM-BC: A Secure and Scalable FL Framework with Adaptive Privacy and Dynamic Masking, Blockchain, and XAI for the IoVs**|Sathwik Narkedimilli et.al.|[2501.01063](http://arxiv.org/abs/2501.01063)|null|
+|**2025-01-02**|**Multi-Objective Optimization-Based Anonymization of Structured Data for Machine Learning**|Yusi Wei et.al.|[2501.01002](http://arxiv.org/abs/2501.01002)|null|
+|**2025-01-01**|**Information Sifting Funnel: Privacy-preserving Collaborative Inference Against Model Inversion Attacks**|Rongke Liu et.al.|[2501.00824](http://arxiv.org/abs/2501.00824)|null|
+|**2025-01-01**|**Gradient Compression and Correlation Driven Federated Learning for Wireless Traffic Prediction**|Chuanting Zhang et.al.|[2501.00732](http://arxiv.org/abs/2501.00732)|null|
+|**2025-01-01**|**Beyond Model Scale Limits: End-Edge-Cloud Federated Learning with Self-Rectified Knowledge Agglomeration**|Zhiyuan Wu et.al.|[2501.00693](http://arxiv.org/abs/2501.00693)|null|
+|**2024-12-31**|**Privacy-Preserving Distributed Defense Framework for DC Microgrids Against Exponentially Unbounded False Data Injection Attacks**|Yi Zhang et.al.|[2501.00588](http://arxiv.org/abs/2501.00588)|null|
+|**2024-12-31**|**Federated Dropout: Convergence Analysis and Resource Allocation**|Sijing Xie et.al.|[2501.00379](http://arxiv.org/abs/2501.00379)|null|
 |**2024-12-30**|**Privacy-Aware Multi-Device Cooperative Edge Inference with Distributed Resource Bidding**|Wenhao Zhuang et.al.|[2412.21069](http://arxiv.org/abs/2412.21069)|null|
 |**2024-12-30**|**Generalizing in Net-Zero Microgrids: A Study with Federated PPO and TRPO**|Nicolas M Cuadrado Avila et.al.|[2412.20946](http://arxiv.org/abs/2412.20946)|**[link](https://github.com/Optimization-and-Machine-Learning-Lab/energy_fed_trpo)**|
 |**2024-12-31**|**A Tale of Two Imperatives: Privacy and Explainability**|Supriya Manna et.al.|[2412.20798](http://arxiv.org/abs/2412.20798)|**[link](https://github.com/humblef-oo-l/DP)**|
