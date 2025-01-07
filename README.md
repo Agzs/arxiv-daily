@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-04**|**Leveraging Large Language Models and Machine Learning for Smart Contract Vulnerability Detection**|S M Mostaq Hossain et.al.|[2501.02229](http://arxiv.org/abs/2501.02229)|null|
+|**2025-01-03**|**Dynamic Feature Fusion: Combining Global Graph Structures and Local Semantics for Blockchain Fraud Detection**|Zhang Sheng et.al.|[2501.02032](http://arxiv.org/abs/2501.02032)|null|
 |**2025-01-01**|**A Large-Scale Exploratory Study on the Proxy Pattern in Ethereum**|Amir M. Ebrahimi et.al.|[2501.00965](http://arxiv.org/abs/2501.00965)|null|
 |**2024-12-31**|**UPC Sentinel: An Accurate Approach for Detecting Upgradeability Proxy Contracts in Ethereum**|Amir M. Ebrahimi et.al.|[2501.00674](http://arxiv.org/abs/2501.00674)|null|
 |**2024-12-30**|**An Infrastructure for Systematically Collecting Smart Contract Lineages for Analyses**|Fatou Ndiaye Mbodji et.al.|[2412.20866](http://arxiv.org/abs/2412.20866)|null|
@@ -660,6 +662,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-06**|**Rate-My-LoRA: Efficient and Adaptive Federated Model Tuning for Cardiac MRI Segmentation**|Xiaoxiao He et.al.|[2501.03223](http://arxiv.org/abs/2501.03223)|null|
+|**2025-01-06**|**From Models to Network Topologies: A Topology Inference Attack in Decentralized Federated Learning**|Chao Feng et.al.|[2501.03119](http://arxiv.org/abs/2501.03119)|null|
+|**2025-01-06**|**CONTINUUM: Detecting APT Attacks through Spatial-Temporal Graph Neural Networks**|Atmane Ayoub Mansour Bahara et.al.|[2501.02981](http://arxiv.org/abs/2501.02981)|null|
+|**2025-01-06**|**Proof-of-Data: A Consensus Protocol for Collaborative Intelligence**|Huiwen Liu et.al.|[2501.02971](http://arxiv.org/abs/2501.02971)|null|
+|**2025-01-06**|**Latency and Privacy-Aware Resource Allocation in Vehicular Edge Computing**|HHossein Ahmadvand et.al.|[2501.02804](http://arxiv.org/abs/2501.02804)|null|
+|**2025-01-06**|**AFed: Algorithmic Fair Federated Learning**|Huiqiang Chen et.al.|[2501.02732](http://arxiv.org/abs/2501.02732)|null|
+|**2025-01-05**|**Incentive-Compatible Federated Learning with Stackelberg Game Modeling**|Simin Javaherian et.al.|[2501.02662](http://arxiv.org/abs/2501.02662)|null|
+|**2025-01-05**|**FedRSClip: Federated Learning for Remote Sensing Scene Classification Using Vision-Language Models**|Hui Lin et.al.|[2501.02461](http://arxiv.org/abs/2501.02461)|null|
+|**2025-01-05**|**Efficient Deployment of Large Language Models on Resource-constrained Devices**|Zhiwei Yao et.al.|[2501.02438](http://arxiv.org/abs/2501.02438)|null|
+|**2025-01-04**|**PrivDPR: Synthetic Graph Publishing with Deep PageRank under Differential Privacy**|Sen Zhang et.al.|[2501.02354](http://arxiv.org/abs/2501.02354)|null|
 |**2025-01-03**|**Mingling with the Good to Backdoor Federated Learning**|Nuno Neves et.al.|[2501.01913](http://arxiv.org/abs/2501.01913)|null|
 |**2025-01-03**|**LCFed: An Efficient Clustered Federated Learning Framework for Heterogeneous Data**|Yuxin Zhang et.al.|[2501.01850](http://arxiv.org/abs/2501.01850)|null|
 |**2025-01-03**|**Age-Based Device Selection and Transmit Power Optimization in Over-the-Air Federated Learning**|Jingyuan Liu et.al.|[2501.01828](http://arxiv.org/abs/2501.01828)|null|
