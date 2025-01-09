@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Do Automated Fixes Truly Mitigate Smart Contract Exploits?**|Sofia Bobadilla et.al.|[2501.04600](http://arxiv.org/abs/2501.04600)|null|
+|**2025-01-08**|**Demystification and Near-perfect Estimation of Minimum Gas Limit and Gas Used for Ethereum Smart Contracts**|Danilo Rafael de Lima Cabral et.al.|[2501.04483](http://arxiv.org/abs/2501.04483)|null|
 |**2025-01-07**|**Private, Auditable, and Distributed Ledger for Financial Institutes**|Shaltiel Eloul et.al.|[2501.03808](http://arxiv.org/abs/2501.03808)|**[link](https://github.com/jpmorganchase/PADL)**|
 |**2025-01-06**|**Privacy-Preserving Smart Contracts for Permissioned Blockchains: A zk-SNARK-Based Recipe Part-1**|Aldenio Burgos et.al.|[2501.03391](http://arxiv.org/abs/2501.03391)|null|
 |**2025-01-04**|**Leveraging Large Language Models and Machine Learning for Smart Contract Vulnerability Detection**|S M Mostaq Hossain et.al.|[2501.02229](http://arxiv.org/abs/2501.02229)|null|
@@ -667,6 +669,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Gradient Purification: Defense Against Poisoning Attack in Decentralized Federated Learning**|Bin Li et.al.|[2501.04453](http://arxiv.org/abs/2501.04453)|null|
+|**2025-01-08**|**Revisiting LocalSGD and SCAFFOLD: Improved Rates and Missing Analysis**|Ruichen Luo et.al.|[2501.04443](http://arxiv.org/abs/2501.04443)|null|
+|**2025-01-08**|**Federated Fine-Tuning of LLMs: Framework Comparison and Research Directions**|Na Yan et.al.|[2501.04436](http://arxiv.org/abs/2501.04436)|null|
+|**2025-01-08**|**Lossless Privacy-Preserving Aggregation for Decentralized Federated Learning**|Xiaoye Miao et.al.|[2501.04409](http://arxiv.org/abs/2501.04409)|null|
+|**2025-01-08**|**AutoDFL: A Scalable and Automated Reputation-Aware Decentralized Federated Learning**|Meryem Malak Dif et.al.|[2501.04331](http://arxiv.org/abs/2501.04331)|**[link](https://github.com/meryemmalakdif/autodfl)**|
+|**2025-01-08**|**Navigating the Designs of Privacy-Preserving Fine-tuning for Large Language Models**|Shi Haonan et.al.|[2501.04323](http://arxiv.org/abs/2501.04323)|null|
+|**2025-01-08**|**VerifBFL: Leveraging zk-SNARKs for A Verifiable Blockchained Federated Learning**|Ahmed Ayoub Bellachia et.al.|[2501.04319](http://arxiv.org/abs/2501.04319)|null|
+|**2025-01-08**|**HiCoCS: High Concurrency Cross-Sharding on Permissioned Blockchains**|Lingxiao Yang et.al.|[2501.04265](http://arxiv.org/abs/2501.04265)|null|
+|**2025-01-08**|**Privacy-Preserving Distributed Online Mirror Descent for Nonconvex Optimization**|Yingjie Zhou et.al.|[2501.04222](http://arxiv.org/abs/2501.04222)|null|
 |**2025-01-07**|**A Survey on Federated Learning in Human Sensing**|Mohan Li et.al.|[2501.04000](http://arxiv.org/abs/2501.04000)|null|
 |**2025-01-07**|**Private, Auditable, and Distributed Ledger for Financial Institutes**|Shaltiel Eloul et.al.|[2501.03808](http://arxiv.org/abs/2501.03808)|**[link](https://github.com/jpmorganchase/PADL)**|
 |**2025-01-07**|**Dynamic Authentication and Granularized Authorization with a Cross-Domain Zero Trust Architecture for Federated Learning in Large-Scale IoT Networks**|Xiaoyu Ma et.al.|[2501.03601](http://arxiv.org/abs/2501.03601)|null|
