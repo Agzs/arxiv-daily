@@ -14,7 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-08**|**Do Automated Fixes Truly Mitigate Smart Contract Exploits?**|Sofia Bobadilla et.al.|[2501.04600](http://arxiv.org/abs/2501.04600)|null|
+|**2025-01-09**|**Time-Varying Bidirectional Causal Relationships Between Transaction Fees and Economic Activity of Subsystems Utilizing the Ethereum Blockchain Network**|Lennart Ante et.al.|[2501.05299](http://arxiv.org/abs/2501.05299)|null|
+|**2025-01-08**|**Blockchain-Based Secure Vehicle Auction System with Smart Contracts**|Ka Wai Wu et.al.|[2501.04841](http://arxiv.org/abs/2501.04841)|null|
+|**2025-01-09**|**Do Automated Fixes Truly Mitigate Smart Contract Exploits?**|Sofia Bobadilla et.al.|[2501.04600](http://arxiv.org/abs/2501.04600)|null|
 |**2025-01-08**|**Demystification and Near-perfect Estimation of Minimum Gas Limit and Gas Used for Ethereum Smart Contracts**|Danilo Rafael de Lima Cabral et.al.|[2501.04483](http://arxiv.org/abs/2501.04483)|null|
 |**2025-01-07**|**Private, Auditable, and Distributed Ledger for Financial Institutes**|Shaltiel Eloul et.al.|[2501.03808](http://arxiv.org/abs/2501.03808)|**[link](https://github.com/jpmorganchase/PADL)**|
 |**2025-01-06**|**Privacy-Preserving Smart Contracts for Permissioned Blockchains: A zk-SNARK-Based Recipe Part-1**|Aldenio Burgos et.al.|[2501.03391](http://arxiv.org/abs/2501.03391)|null|
@@ -474,6 +476,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-09**|**Time-Varying Bidirectional Causal Relationships Between Transaction Fees and Economic Activity of Subsystems Utilizing the Ethereum Blockchain Network**|Lennart Ante et.al.|[2501.05299](http://arxiv.org/abs/2501.05299)|null|
 |**2025-01-06**|**SoK: A Review of Cross-Chain Bridge Hacks in 2023**|Nikita Belenkov et.al.|[2501.03423](http://arxiv.org/abs/2501.03423)|null|
 |**2024-12-26**|**Swarm Contract: A Multi-Sovereign Agent Consensus Mechanism**|Haowei Yang et.al.|[2412.19256](http://arxiv.org/abs/2412.19256)|null|
 |**2024-12-24**|**XSema: A Novel Framework for Semantic Extraction of Cross-chain Transactions**|Ziye Zheng et.al.|[2412.18129](http://arxiv.org/abs/2412.18129)|null|
@@ -657,6 +660,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-09**|**TimeDP: Learning to Generate Multi-Domain Time Series with Domain Prompts**|Yu-Hao Huang et.al.|[2501.05403](http://arxiv.org/abs/2501.05403)|null|
+|**2025-01-09**|**Secure Multi-Party Biometric Verification using QKD assisted Quantum Oblivious Transfer**|Mariana F. Ramos et.al.|[2501.05327](http://arxiv.org/abs/2501.05327)|null|
+|**2025-01-09**|**EVA-S2PLoR: A Secure Element-wise Multiplication Meets Logistic Regression on Heterogeneous Database**|Tianle Tao et.al.|[2501.05223](http://arxiv.org/abs/2501.05223)|null|
+|**2025-01-09**|**TAPFed: Threshold Secure Aggregation for Privacy-Preserving Federated Learning**|Runhua Xu et.al.|[2501.05053](http://arxiv.org/abs/2501.05053)|null|
+|**2025-01-09**|**A New Perspective on Privacy Protection in Federated Learning with Granular-Ball Computing**|Guannan Lai et.al.|[2501.04940](http://arxiv.org/abs/2501.04940)|null|
+|**2025-01-08**|**Reach Measurement, Optimization and Frequency Capping In Targeted Online Advertising Under k-Anonymity**|Yuan Gao et.al.|[2501.04882](http://arxiv.org/abs/2501.04882)|null|
+|**2025-01-08**|**Decentralised Resource Sharing in TinyML: Wireless Bilayer Gossip Parallel SGD for Collaborative Learning**|Ziyuan Bao et.al.|[2501.04817](http://arxiv.org/abs/2501.04817)|null|
 |**2025-01-08**|**Gradient Purification: Defense Against Poisoning Attack in Decentralized Federated Learning**|Bin Li et.al.|[2501.04453](http://arxiv.org/abs/2501.04453)|null|
 |**2025-01-08**|**Revisiting LocalSGD and SCAFFOLD: Improved Rates and Missing Analysis**|Ruichen Luo et.al.|[2501.04443](http://arxiv.org/abs/2501.04443)|null|
 |**2025-01-08**|**Federated Fine-Tuning of LLMs: Framework Comparison and Research Directions**|Na Yan et.al.|[2501.04436](http://arxiv.org/abs/2501.04436)|null|
