@@ -23,7 +23,7 @@ layout: default
 |**2025-01-04**|**Leveraging Large Language Models and Machine Learning for Smart Contract Vulnerability Detection**|S M Mostaq Hossain et.al.|[2501.02229](http://arxiv.org/abs/2501.02229)|null|
 |**2025-01-03**|**Dynamic Feature Fusion: Combining Global Graph Structures and Local Semantics for Blockchain Fraud Detection**|Zhang Sheng et.al.|[2501.02032](http://arxiv.org/abs/2501.02032)|null|
 |**2025-01-01**|**A Large-Scale Exploratory Study on the Proxy Pattern in Ethereum**|Amir M. Ebrahimi et.al.|[2501.00965](http://arxiv.org/abs/2501.00965)|null|
-|**2024-12-31**|**UPC Sentinel: An Accurate Approach for Detecting Upgradeability Proxy Contracts in Ethereum**|Amir M. Ebrahimi et.al.|[2501.00674](http://arxiv.org/abs/2501.00674)|null|
+|**2024-12-31**|**UPC Sentinel: An Accurate Approach for Detecting Upgradeability Proxy Contracts in Ethereum**|Amir M. Ebrahimi et.al.|[2501.00674](http://arxiv.org/abs/2501.00674)|**[link](https://github.com/SAILResearch/replication-24-amir-upc_sentinel)**|
 |**2024-12-30**|**An Infrastructure for Systematically Collecting Smart Contract Lineages for Analyses**|Fatou Ndiaye Mbodji et.al.|[2412.20866](http://arxiv.org/abs/2412.20866)|null|
 |**2024-12-30**|**Blockchain-Empowered Cyber-Secure Federated Learning for Trustworthy Edge Computing**|Ervin Moore et.al.|[2412.20674](http://arxiv.org/abs/2412.20674)|null|
 |**2024-12-26**|**Swarm Contract: A Multi-Sovereign Agent Consensus Mechanism**|Haowei Yang et.al.|[2412.19256](http://arxiv.org/abs/2412.19256)|null|
