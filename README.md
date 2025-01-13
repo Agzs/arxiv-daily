@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Kite: How to Delegate Voting Power Privately**|Kamilla Nazirkhanova et.al.|[2501.05626](http://arxiv.org/abs/2501.05626)|null|
 |**2025-01-09**|**Time-Varying Bidirectional Causal Relationships Between Transaction Fees and Economic Activity of Subsystems Utilizing the Ethereum Blockchain Network**|Lennart Ante et.al.|[2501.05299](http://arxiv.org/abs/2501.05299)|null|
 |**2025-01-08**|**Blockchain-Based Secure Vehicle Auction System with Smart Contracts**|Ka Wai Wu et.al.|[2501.04841](http://arxiv.org/abs/2501.04841)|null|
 |**2025-01-09**|**Do Automated Fixes Truly Mitigate Smart Contract Exploits?**|Sofia Bobadilla et.al.|[2501.04600](http://arxiv.org/abs/2501.04600)|null|
@@ -550,6 +551,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Kite: How to Delegate Voting Power Privately**|Kamilla Nazirkhanova et.al.|[2501.05626](http://arxiv.org/abs/2501.05626)|null|
 |**2025-01-07**|**Private, Auditable, and Distributed Ledger for Financial Institutes**|Shaltiel Eloul et.al.|[2501.03808](http://arxiv.org/abs/2501.03808)|**[link](https://github.com/jpmorganchase/PADL)**|
 |**2025-01-06**|**Privacy-Preserving Smart Contracts for Permissioned Blockchains: A zk-SNARK-Based Recipe Part-1**|Aldenio Burgos et.al.|[2501.03391](http://arxiv.org/abs/2501.03391)|null|
 |**2024-12-20**|**Towards an identity management solution on Arweave**|Andreea Elena Dragnoiu et.al.|[2412.13865](http://arxiv.org/abs/2412.13865)|null|
@@ -672,6 +674,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**RIOT-based smart metering system for privacy-preserving data aggregation using watermarking and encryption**|David Megias et.al.|[2501.06161](http://arxiv.org/abs/2501.06161)|null|
+|**2025-01-10**|**Multi-layered Authentication and Key Management Scheme for Secure IoV**|Morteza Azmoudeh Afshar et.al.|[2501.06087](http://arxiv.org/abs/2501.06087)|null|
+|**2025-01-10**|**Explainable Federated Bayesian Causal Inference and Its Application in Advanced Manufacturing**|Xiaofeng Xiao et.al.|[2501.06077](http://arxiv.org/abs/2501.06077)|**[link](https://github.com/xx987/xfbci)**|
+|**2025-01-10**|**Encoded Spatial Attribute in Multi-Tier Federated Learning**|Asfia Kawnine et.al.|[2501.05934](http://arxiv.org/abs/2501.05934)|null|
+|**2025-01-10**|**Collaborative Content Moderation in the Fediverse**|Haris Bin Zia et.al.|[2501.05871](http://arxiv.org/abs/2501.05871)|null|
+|**2025-01-10**|**STHFL: Spatio-Temporal Heterogeneous Federated Learning**|Shunxin Guo et.al.|[2501.05775](http://arxiv.org/abs/2501.05775)|null|
+|**2025-01-10**|**Constrained Over-the-Air Model Updating for Wireless Online Federated Learning with Delayed Information**|Juncheng Wang et.al.|[2501.05637](http://arxiv.org/abs/2501.05637)|null|
+|**2025-01-09**|**FedSA: A Unified Representation Learning via Semantic Anchors for Prototype-based Federated Learning**|Yanbing Zhou et.al.|[2501.05496](http://arxiv.org/abs/2501.05496)|null|
 |**2025-01-09**|**TimeDP: Learning to Generate Multi-Domain Time Series with Domain Prompts**|Yu-Hao Huang et.al.|[2501.05403](http://arxiv.org/abs/2501.05403)|null|
 |**2025-01-09**|**Secure Multi-Party Biometric Verification using QKD assisted Quantum Oblivious Transfer**|Mariana F. Ramos et.al.|[2501.05327](http://arxiv.org/abs/2501.05327)|null|
 |**2025-01-09**|**EVA-S2PLoR: A Secure Element-wise Multiplication Meets Logistic Regression on Heterogeneous Database**|Tianle Tao et.al.|[2501.05223](http://arxiv.org/abs/2501.05223)|null|
