@@ -694,7 +694,7 @@ layout: default
 |**2025-01-05**|**Incentive-Compatible Federated Learning with Stackelberg Game Modeling**|Simin Javaherian et.al.|[2501.02662](http://arxiv.org/abs/2501.02662)|null|
 |**2025-01-05**|**FedRSClip: Federated Learning for Remote Sensing Scene Classification Using Vision-Language Models**|Hui Lin et.al.|[2501.02461](http://arxiv.org/abs/2501.02461)|null|
 |**2025-01-05**|**Efficient Deployment of Large Language Models on Resource-constrained Devices**|Zhiwei Yao et.al.|[2501.02438](http://arxiv.org/abs/2501.02438)|null|
-|**2025-01-04**|**PrivDPR: Synthetic Graph Publishing with Deep PageRank under Differential Privacy**|Sen Zhang et.al.|[2501.02354](http://arxiv.org/abs/2501.02354)|null|
+|**2025-01-04**|**PrivDPR: Synthetic Graph Publishing with Deep PageRank under Differential Privacy**|Sen Zhang et.al.|[2501.02354](http://arxiv.org/abs/2501.02354)|**[link](https://github.com/sunnerzs/privdpr)**|
 |**2025-01-03**|**Mingling with the Good to Backdoor Federated Learning**|Nuno Neves et.al.|[2501.01913](http://arxiv.org/abs/2501.01913)|null|
 |**2025-01-03**|**LCFed: An Efficient Clustered Federated Learning Framework for Heterogeneous Data**|Yuxin Zhang et.al.|[2501.01850](http://arxiv.org/abs/2501.01850)|null|
 |**2025-01-03**|**Age-Based Device Selection and Transmit Power Optimization in Over-the-Air Federated Learning**|Jingyuan Liu et.al.|[2501.01828](http://arxiv.org/abs/2501.01828)|null|
@@ -708,7 +708,7 @@ layout: default
 |**2025-01-02**|**FAPL-DM-BC: A Secure and Scalable FL Framework with Adaptive Privacy and Dynamic Masking, Blockchain, and XAI for the IoVs**|Sathwik Narkedimilli et.al.|[2501.01063](http://arxiv.org/abs/2501.01063)|null|
 |**2025-01-02**|**Multi-Objective Optimization-Based Anonymization of Structured Data for Machine Learning**|Yusi Wei et.al.|[2501.01002](http://arxiv.org/abs/2501.01002)|null|
 |**2025-01-01**|**Information Sifting Funnel: Privacy-preserving Collaborative Inference Against Model Inversion Attacks**|Rongke Liu et.al.|[2501.00824](http://arxiv.org/abs/2501.00824)|null|
-|**2025-01-01**|**Gradient Compression and Correlation Driven Federated Learning for Wireless Traffic Prediction**|Chuanting Zhang et.al.|[2501.00732](http://arxiv.org/abs/2501.00732)|null|
+|**2025-01-01**|**Gradient Compression and Correlation Driven Federated Learning for Wireless Traffic Prediction**|Chuanting Zhang et.al.|[2501.00732](http://arxiv.org/abs/2501.00732)|**[link](https://github.com/chuanting/fedgcc)**|
 |**2025-01-01**|**Beyond Model Scale Limits: End-Edge-Cloud Federated Learning with Self-Rectified Knowledge Agglomeration**|Zhiyuan Wu et.al.|[2501.00693](http://arxiv.org/abs/2501.00693)|null|
 |**2024-12-31**|**Privacy-Preserving Distributed Defense Framework for DC Microgrids Against Exponentially Unbounded False Data Injection Attacks**|Yi Zhang et.al.|[2501.00588](http://arxiv.org/abs/2501.00588)|null|
 |**2024-12-31**|**Federated Dropout: Convergence Analysis and Resource Allocation**|Sijing Xie et.al.|[2501.00379](http://arxiv.org/abs/2501.00379)|null|
@@ -717,7 +717,7 @@ layout: default
 |**2024-12-31**|**A Tale of Two Imperatives: Privacy and Explainability**|Supriya Manna et.al.|[2412.20798](http://arxiv.org/abs/2412.20798)|**[link](https://github.com/humblef-oo-l/DP)**|
 |**2024-12-30**|**Accelerating Energy-Efficient Federated Learning in Cell-Free Networks with Adaptive Quantization**|Afsaneh Mahmoudi et.al.|[2412.20785](http://arxiv.org/abs/2412.20785)|null|
 |**2024-12-30**|**Enhancing Privacy in Federated Learning through Quantum Teleportation Integration**|Koffka Khan et.al.|[2412.20762](http://arxiv.org/abs/2412.20762)|null|
-|**2024-12-30**|**Towards nation-wide analytical healthcare infrastructures: A privacy-preserving augmented knee rehabilitation case study**|Boris Bačić et.al.|[2412.20733](http://arxiv.org/abs/2412.20733)|null|
+|**2024-12-30**|**Towards nation-wide analytical healthcare infrastructures: A privacy-preserving augmented knee rehabilitation case study**|Boris Bačić et.al.|[2412.20733](http://arxiv.org/abs/2412.20733)|**[link](https://github.com/claudiunz/tnwahi-appakrcs)**|
 |**2024-12-30**|**Blockchain-Empowered Cyber-Secure Federated Learning for Trustworthy Edge Computing**|Ervin Moore et.al.|[2412.20674](http://arxiv.org/abs/2412.20674)|null|
 |**2024-12-30**|**SafeSynthDP: Leveraging Large Language Models for Privacy-Preserving Synthetic Data Generation Using Differential Privacy**|Md Mahadi Hasan Nahid et.al.|[2412.20641](http://arxiv.org/abs/2412.20641)|null|
 |**2024-12-29**|**Privacy-Preserving Identity and Access Management in Multiple Cloud Environments: Models, Issues, and Solutions**|Alfredo Cuzzocrea et.al.|[2412.20603](http://arxiv.org/abs/2412.20603)|null|
@@ -1792,7 +1792,7 @@ layout: default
 |**2024-05-28**|**An Innovative Networks in Federated Learning**|Zavareh Bozorgasl et.al.|[2405.17836](http://arxiv.org/abs/2405.17836)|null|
 |**2024-05-28**|**Post-Fair Federated Learning: Achieving Group and Community Fairness in Federated Learning via Post-processing**|Yuying Duan et.al.|[2405.17782](http://arxiv.org/abs/2405.17782)|null|
 |**2024-05-28**|**Wireless Federated Learning over Resource-Constrained Networks: Digital versus Analog Transmissions**|Jiacheng Yao et.al.|[2405.17759](http://arxiv.org/abs/2405.17759)|null|
-|**2024-05-27**|**Federating Dynamic Models using Early-Exit Architectures for Automatic Speech Recognition on Heterogeneous Clients**|Mohamed Nabih Ali et.al.|[2405.17376](http://arxiv.org/abs/2405.17376)|null|
+|**2024-05-27**|**Federating Dynamic Models using Early-Exit Architectures for Automatic Speech Recognition on Heterogeneous Clients**|Mohamed Nabih Ali et.al.|[2405.17376](http://arxiv.org/abs/2405.17376)|**[link](https://github.com/mnabihali/ASR-FL)**|
 |**2024-05-27**|**FedHPL: Efficient Heterogeneous Federated Learning with Prompt Tuning and Logit Distillation**|Yuting Ma et.al.|[2405.17267](http://arxiv.org/abs/2405.17267)|null|
 |**2024-05-27**|**LabObf: A Label Protection Scheme for Vertical Federated Learning Through Label Obfuscation**|Ying He et.al.|[2405.17042](http://arxiv.org/abs/2405.17042)|null|
 |**2024-05-27**|**Privacy and Security Trade-off in Interconnected Systems with Known or Unknown Privacy Noise Covariance**|Haojun Wang et.al.|[2405.16905](http://arxiv.org/abs/2405.16905)|null|
