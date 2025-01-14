@@ -20,6 +20,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Logic Meets Magic: LLMs Cracking Smart Contract Vulnerabilities**|ZeKe Xiao et.al.|[2501.07058](http://arxiv.org/abs/2501.07058)|null|
+|**2025-01-12**|**Eliza: A Web3 friendly AI Agent Operating System**|Shaw Walters et.al.|[2501.06781](http://arxiv.org/abs/2501.06781)|**[link](https://github.com/ai16z/eliza)**|
+|**2025-01-11**|**Enhancing The Open Network: Definition and Automated Detection of Smart Contract Defects**|Hao Song et.al.|[2501.06459](http://arxiv.org/abs/2501.06459)|null|
+|**2025-01-09**|**Certifying Digitally Issued Diplomas**|Geoffrey Goodell et.al.|[2501.06267](http://arxiv.org/abs/2501.06267)|null|
 |**2025-01-09**|**Kite: How to Delegate Voting Power Privately**|Kamilla Nazirkhanova et.al.|[2501.05626](http://arxiv.org/abs/2501.05626)|null|
 |**2025-01-09**|**Time-Varying Bidirectional Causal Relationships Between Transaction Fees and Economic Activity of Subsystems Utilizing the Ethereum Blockchain Network**|Lennart Ante et.al.|[2501.05299](http://arxiv.org/abs/2501.05299)|null|
 |**2025-01-08**|**Blockchain-Based Secure Vehicle Auction System with Smart Contracts**|Ka Wai Wu et.al.|[2501.04841](http://arxiv.org/abs/2501.04841)|null|
@@ -551,9 +555,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Code Generation for Cryptographic Kernels using Multi-word Modular Arithmetic on GPU**|Naifeng Zhang et.al.|[2501.07535](http://arxiv.org/abs/2501.07535)|null|
+|**2025-01-13**|**Secure quantum bit commtiment from separable operations**|Ziad Chaoui et.al.|[2501.07351](http://arxiv.org/abs/2501.07351)|null|
+|**2025-01-13**|**Privacy-Preserving Authentication: Theory vs. Practice**|Daniel Slamanig et.al.|[2501.07209](http://arxiv.org/abs/2501.07209)|null|
+|**2025-01-12**|**ByzSFL: Achieving Byzantine-Robust Secure Federated Learning with Zero-Knowledge Proofs**|Yongming Fan et.al.|[2501.06953](http://arxiv.org/abs/2501.06953)|null|
+|**2025-01-11**|**ZK Secret Santa**|Artem Chystiakov et.al.|[2501.06515](http://arxiv.org/abs/2501.06515)|null|
 |**2025-01-09**|**Kite: How to Delegate Voting Power Privately**|Kamilla Nazirkhanova et.al.|[2501.05626](http://arxiv.org/abs/2501.05626)|null|
 |**2025-01-07**|**Private, Auditable, and Distributed Ledger for Financial Institutes**|Shaltiel Eloul et.al.|[2501.03808](http://arxiv.org/abs/2501.03808)|**[link](https://github.com/jpmorganchase/PADL)**|
 |**2025-01-06**|**Privacy-Preserving Smart Contracts for Permissioned Blockchains: A zk-SNARK-Based Recipe Part-1**|Aldenio Burgos et.al.|[2501.03391](http://arxiv.org/abs/2501.03391)|null|
+|**2025-01-11**|**Decentralized Governance of Autonomous AI Agents**|Tomer Jordi Chaffer et.al.|[2412.17114](http://arxiv.org/abs/2412.17114)|null|
 |**2024-12-20**|**Towards an identity management solution on Arweave**|Andreea Elena Dragnoiu et.al.|[2412.13865](http://arxiv.org/abs/2412.13865)|null|
 |**2024-12-17**|**if-ZKP: Intel FPGA-Based Acceleration of Zero Knowledge Proofs**|Shahzad Ahmad Butt et.al.|[2412.12481](http://arxiv.org/abs/2412.12481)|null|
 |**2024-12-09**|**BECS: A Privacy-Preserving Computing Sharing Mechanism in 6G Computing Power Network**|Kun Yan et.al.|[2412.06196](http://arxiv.org/abs/2412.06196)|null|
@@ -674,6 +684,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**OblivCDN: A Practical Privacy-preserving CDN with Oblivious Content Access**|Viet Vo et.al.|[2501.07262](http://arxiv.org/abs/2501.07262)|null|
+|**2025-01-13**|**Privacy-Preserving Authentication: Theory vs. Practice**|Daniel Slamanig et.al.|[2501.07209](http://arxiv.org/abs/2501.07209)|null|
+|**2025-01-13**|**Privacy-Preserving Data Quality Assessment for Time-Series IoT Sensors**|Novoneel Chakraborty et.al.|[2501.07154](http://arxiv.org/abs/2501.07154)|null|
+|**2025-01-13**|**A Federated Deep Learning Framework for Cell-Free RSMA Networks**|S. Ali Mousavi et.al.|[2501.07126](http://arxiv.org/abs/2501.07126)|null|
+|**2025-01-13**|**Leveraging ASIC AI Chips for Homomorphic Encryption**|Jianming Tong et.al.|[2501.07047](http://arxiv.org/abs/2501.07047)|**[link](https://github.com/google/jaxite)**|
+|**2025-01-12**|**ByzSFL: Achieving Byzantine-Robust Secure Federated Learning with Zero-Knowledge Proofs**|Yongming Fan et.al.|[2501.06953](http://arxiv.org/abs/2501.06953)|null|
+|**2025-01-12**|**KeTS: Kernel-based Trust Segmentation against Model Poisoning Attacks**|Ankit Gangwal et.al.|[2501.06729](http://arxiv.org/abs/2501.06729)|null|
+|**2025-01-11**|**SafeSplit: A Novel Defense Against Client-Side Backdoor Attacks in Split Learning**|Phillip Rieger et.al.|[2501.06650](http://arxiv.org/abs/2501.06650)|null|
+|**2025-01-11**|**Differentially Private Distribution Estimation Using Functional Approximation**|Ye Tao et.al.|[2501.06620](http://arxiv.org/abs/2501.06620)|null|
+|**2025-01-11**|**Exploring Pose-Based Anomaly Detection for Retail Security: A Real-World Shoplifting Dataset and Benchmark**|Narges Rashvand et.al.|[2501.06591](http://arxiv.org/abs/2501.06591)|**[link](https://github.com/tecsar-uncc/poselift)**|
 |**2025-01-10**|**RIOT-based smart metering system for privacy-preserving data aggregation using watermarking and encryption**|David Megias et.al.|[2501.06161](http://arxiv.org/abs/2501.06161)|null|
 |**2025-01-10**|**Multi-layered Authentication and Key Management Scheme for Secure IoV**|Morteza Azmoudeh Afshar et.al.|[2501.06087](http://arxiv.org/abs/2501.06087)|null|
 |**2025-01-10**|**Explainable Federated Bayesian Causal Inference and Its Application in Advanced Manufacturing**|Xiaofeng Xiao et.al.|[2501.06077](http://arxiv.org/abs/2501.06077)|**[link](https://github.com/xx987/xfbci)**|
