@@ -24,7 +24,7 @@
 |**2025-01-12**|**Eliza: A Web3 friendly AI Agent Operating System**|Shaw Walters et.al.|[2501.06781](http://arxiv.org/abs/2501.06781)|**[link](https://github.com/ai16z/eliza)**|
 |**2025-01-11**|**Enhancing The Open Network: Definition and Automated Detection of Smart Contract Defects**|Hao Song et.al.|[2501.06459](http://arxiv.org/abs/2501.06459)|null|
 |**2025-01-09**|**Certifying Digitally Issued Diplomas**|Geoffrey Goodell et.al.|[2501.06267](http://arxiv.org/abs/2501.06267)|null|
-|**2025-01-09**|**Kite: How to Delegate Voting Power Privately**|Kamilla Nazirkhanova et.al.|[2501.05626](http://arxiv.org/abs/2501.05626)|null|
+|**2025-01-13**|**Kite: How to Delegate Voting Power Privately**|Kamilla Nazirkhanova et.al.|[2501.05626](http://arxiv.org/abs/2501.05626)|null|
 |**2025-01-09**|**Time-Varying Bidirectional Causal Relationships Between Transaction Fees and Economic Activity of Subsystems Utilizing the Ethereum Blockchain Network**|Lennart Ante et.al.|[2501.05299](http://arxiv.org/abs/2501.05299)|null|
 |**2025-01-08**|**Blockchain-Based Secure Vehicle Auction System with Smart Contracts**|Ka Wai Wu et.al.|[2501.04841](http://arxiv.org/abs/2501.04841)|null|
 |**2025-01-09**|**Do Automated Fixes Truly Mitigate Smart Contract Exploits?**|Sofia Bobadilla et.al.|[2501.04600](http://arxiv.org/abs/2501.04600)|null|
@@ -560,7 +560,7 @@
 |**2025-01-13**|**Privacy-Preserving Authentication: Theory vs. Practice**|Daniel Slamanig et.al.|[2501.07209](http://arxiv.org/abs/2501.07209)|null|
 |**2025-01-12**|**ByzSFL: Achieving Byzantine-Robust Secure Federated Learning with Zero-Knowledge Proofs**|Yongming Fan et.al.|[2501.06953](http://arxiv.org/abs/2501.06953)|null|
 |**2025-01-11**|**ZK Secret Santa**|Artem Chystiakov et.al.|[2501.06515](http://arxiv.org/abs/2501.06515)|null|
-|**2025-01-09**|**Kite: How to Delegate Voting Power Privately**|Kamilla Nazirkhanova et.al.|[2501.05626](http://arxiv.org/abs/2501.05626)|null|
+|**2025-01-13**|**Kite: How to Delegate Voting Power Privately**|Kamilla Nazirkhanova et.al.|[2501.05626](http://arxiv.org/abs/2501.05626)|null|
 |**2025-01-07**|**Private, Auditable, and Distributed Ledger for Financial Institutes**|Shaltiel Eloul et.al.|[2501.03808](http://arxiv.org/abs/2501.03808)|**[link](https://github.com/jpmorganchase/PADL)**|
 |**2025-01-06**|**Privacy-Preserving Smart Contracts for Permissioned Blockchains: A zk-SNARK-Based Recipe Part-1**|Aldenio Burgos et.al.|[2501.03391](http://arxiv.org/abs/2501.03391)|null|
 |**2025-01-11**|**Decentralized Governance of Autonomous AI Agents**|Tomer Jordi Chaffer et.al.|[2412.17114](http://arxiv.org/abs/2412.17114)|null|
@@ -684,6 +684,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**Multiplayer Federated Learning: Reaching Equilibrium with Less Communication**|TaeHo Yoon et.al.|[2501.08263](http://arxiv.org/abs/2501.08263)|null|
+|**2025-01-14**|**Privacy-Preserving Model and Preprocessing Verification for Machine Learning**|Wenbiao Li et.al.|[2501.08236](http://arxiv.org/abs/2501.08236)|null|
+|**2025-01-14**|**UFGraphFR: An attempt at a federated recommendation system based on user text characteristics**|Xudong Wang et.al.|[2501.08044](http://arxiv.org/abs/2501.08044)|**[link](https://github.com/trueWangSyutung/UFGraphFR)**|
+|**2025-01-14**|**Maximizing Uncertainty for Federated learning via Bayesian Optimisation-based Model Poisoning**|Marios Aristodemou et.al.|[2501.08002](http://arxiv.org/abs/2501.08002)|null|
 |**2025-01-13**|**OblivCDN: A Practical Privacy-preserving CDN with Oblivious Content Access**|Viet Vo et.al.|[2501.07262](http://arxiv.org/abs/2501.07262)|null|
 |**2025-01-13**|**Privacy-Preserving Authentication: Theory vs. Practice**|Daniel Slamanig et.al.|[2501.07209](http://arxiv.org/abs/2501.07209)|null|
 |**2025-01-13**|**Privacy-Preserving Data Quality Assessment for Time-Series IoT Sensors**|Novoneel Chakraborty et.al.|[2501.07154](http://arxiv.org/abs/2501.07154)|null|
