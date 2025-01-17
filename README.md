@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**A Blockchain-Enabled Approach to Cross-Border Compliance and Trust**|Vikram Kulothungan et.al.|[2501.09182](http://arxiv.org/abs/2501.09182)|null|
 |**2025-01-15**|**Smart Contract Fuzzing Towards Profitable Vulnerabilities**|Ziqiao Kong et.al.|[2501.08834](http://arxiv.org/abs/2501.08834)|null|
 |**2025-01-15**|**Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery**|Zeqin Liao et.al.|[2501.08670](http://arxiv.org/abs/2501.08670)|null|
 |**2025-01-13**|**Logic Meets Magic: LLMs Cracking Smart Contract Vulnerabilities**|ZeKe Xiao et.al.|[2501.07058](http://arxiv.org/abs/2501.07058)|null|
@@ -687,6 +688,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**Artificial Intelligence-Driven Clinical Decision Support Systems**|Muhammet Alkan et.al.|[2501.09628](http://arxiv.org/abs/2501.09628)|null|
+|**2025-01-16**|**Connectivity for AI enabled cities -- A field survey based study of emerging economies**|Dibakar Das et.al.|[2501.09479](http://arxiv.org/abs/2501.09479)|null|
+|**2025-01-16**|**Cooperative Decentralized Backdoor Attacks on Vertical Federated Learning**|Seohyun Lee et.al.|[2501.09320](http://arxiv.org/abs/2501.09320)|null|
 |**2025-01-15**|**Resource-Constrained Federated Continual Learning: What Does Matter?**|Yichen Li et.al.|[2501.08737](http://arxiv.org/abs/2501.08737)|null|
 |**2025-01-15**|**A Survey on Facial Image Privacy Preservation in Cloud-Based Services**|Chen Chen et.al.|[2501.08665](http://arxiv.org/abs/2501.08665)|null|
 |**2025-01-15**|**Mitigating Domain Shift in Federated Learning via Intra- and Inter-Domain Prototypes**|Huy Q. Le et.al.|[2501.08521](http://arxiv.org/abs/2501.08521)|null|
