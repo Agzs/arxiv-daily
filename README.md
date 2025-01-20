@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**Metamorphic Testing for Smart Contract Validation:A Case Study of Ethereum-Based Crowdfunding Contracts**|Irving Jared Villanueva et.al.|[2501.09955](http://arxiv.org/abs/2501.09955)|null|
 |**2025-01-15**|**A Blockchain-Enabled Approach to Cross-Border Compliance and Trust**|Vikram Kulothungan et.al.|[2501.09182](http://arxiv.org/abs/2501.09182)|null|
 |**2025-01-15**|**Smart Contract Fuzzing Towards Profitable Vulnerabilities**|Ziqiao Kong et.al.|[2501.08834](http://arxiv.org/abs/2501.08834)|null|
 |**2025-01-15**|**Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery**|Zeqin Liao et.al.|[2501.08670](http://arxiv.org/abs/2501.08670)|null|
@@ -688,6 +689,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**ColNet: Collaborative Optimization in Decentralized Federated Multi-task Learning Systems**|Chao Feng et.al.|[2501.10347](http://arxiv.org/abs/2501.10347)|null|
+|**2025-01-17**|**Secure Semantic Communication With Homomorphic Encryption**|Rui Meng et.al.|[2501.10182](http://arxiv.org/abs/2501.10182)|null|
+|**2025-01-17**|**Client-Centric Federated Adaptive Optimization**|Jianhui Sun et.al.|[2501.09946](http://arxiv.org/abs/2501.09946)|null|
+|**2025-01-17**|**HEART: Achieving Timely Multi-Model Training for Vehicle-Edge-Cloud-Integrated Hierarchical Federated Learning**|Xiaohong Yang et.al.|[2501.09934](http://arxiv.org/abs/2501.09934)|null|
+|**2025-01-16**|**pFedWN: A Personalized Federated Learning Framework for D2D Wireless Networks with Heterogeneous Data**|Zhou Ni et.al.|[2501.09822](http://arxiv.org/abs/2501.09822)|null|
 |**2025-01-16**|**Artificial Intelligence-Driven Clinical Decision Support Systems**|Muhammet Alkan et.al.|[2501.09628](http://arxiv.org/abs/2501.09628)|null|
 |**2025-01-16**|**Connectivity for AI enabled cities -- A field survey based study of emerging economies**|Dibakar Das et.al.|[2501.09479](http://arxiv.org/abs/2501.09479)|null|
 |**2025-01-16**|**Cooperative Decentralized Backdoor Attacks on Vertical Federated Learning**|Seohyun Lee et.al.|[2501.09320](http://arxiv.org/abs/2501.09320)|null|
