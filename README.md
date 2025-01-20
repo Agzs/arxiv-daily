@@ -35,7 +35,7 @@
 |**2025-01-07**|**Private, Auditable, and Distributed Ledger for Financial Institutes**|Shaltiel Eloul et.al.|[2501.03808](http://arxiv.org/abs/2501.03808)|**[link](https://github.com/jpmorganchase/PADL)**|
 |**2025-01-06**|**Privacy-Preserving Smart Contracts for Permissioned Blockchains: A zk-SNARK-Based Recipe Part-1**|Aldenio Burgos et.al.|[2501.03391](http://arxiv.org/abs/2501.03391)|null|
 |**2025-01-04**|**Leveraging Large Language Models and Machine Learning for Smart Contract Vulnerability Detection**|S M Mostaq Hossain et.al.|[2501.02229](http://arxiv.org/abs/2501.02229)|null|
-|**2025-01-03**|**Dynamic Feature Fusion: Combining Global Graph Structures and Local Semantics for Blockchain Fraud Detection**|Zhang Sheng et.al.|[2501.02032](http://arxiv.org/abs/2501.02032)|null|
+|**2025-01-03**|**Dynamic Feature Fusion: Combining Global Graph Structures and Local Semantics for Blockchain Fraud Detection**|Zhang Sheng et.al.|[2501.02032](http://arxiv.org/abs/2501.02032)|**[link](https://github.com/dcszhang/dynamic_feature)**|
 |**2025-01-01**|**A Large-Scale Exploratory Study on the Proxy Pattern in Ethereum**|Amir M. Ebrahimi et.al.|[2501.00965](http://arxiv.org/abs/2501.00965)|null|
 |**2024-12-31**|**UPC Sentinel: An Accurate Approach for Detecting Upgradeability Proxy Contracts in Ethereum**|Amir M. Ebrahimi et.al.|[2501.00674](http://arxiv.org/abs/2501.00674)|**[link](https://github.com/SAILResearch/replication-24-amir-upc_sentinel)**|
 |**2024-12-30**|**An Infrastructure for Systematically Collecting Smart Contract Lineages for Analyses**|Fatou Ndiaye Mbodji et.al.|[2412.20866](http://arxiv.org/abs/2412.20866)|null|
@@ -914,7 +914,7 @@
 |**2024-12-03**|**Federated Analytics in Practice: Engineering for Privacy, Scalability and Practicality**|Harish Srinivas et.al.|[2412.02340](http://arxiv.org/abs/2412.02340)|null|
 |**2024-12-03**|**FL-QDSNNs: Federated Learning with Quantum Dynamic Spiking Neural Networks**|Nouhaila Innan et.al.|[2412.02293](http://arxiv.org/abs/2412.02293)|null|
 |**2024-12-03**|**Learn More by Using Less: Distributed Learning with Energy-Constrained Devices**|Roberto Pereira et.al.|[2412.02289](http://arxiv.org/abs/2412.02289)|null|
-|**2024-12-03**|**Towards the efficacy of federated prediction for epidemics on networks**|Chengpeng Fu et.al.|[2412.02161](http://arxiv.org/abs/2412.02161)|null|
+|**2024-12-03**|**Towards the efficacy of federated prediction for epidemics on networks**|Chengpeng Fu et.al.|[2412.02161](http://arxiv.org/abs/2412.02161)|**[link](https://github.com/S1mple-yyds/Fed_Epi_Classifier)**|
 |**2024-12-03**|**A privacy-preserving distributed credible evidence fusion algorithm for collective decision-making**|Chaoxiong Ma et.al.|[2412.02130](http://arxiv.org/abs/2412.02130)|null|
 |**2024-11-29**|**Rethinking the initialization of Momentum in Federated Learning with Heterogeneous Data**|Chenguang Xiao et.al.|[2411.19798](http://arxiv.org/abs/2411.19798)|null|
 |**2024-11-29**|**Privacy-Preserving Orthogonal Aggregation for Guaranteeing Gender Fairness in Federated Recommendation**|Siqing Zhang et.al.|[2411.19678](http://arxiv.org/abs/2411.19678)|null|
