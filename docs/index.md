@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.20
+## Updated on 2025.01.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -19,7 +19,7 @@ layout: default
 |**2025-01-15**|**Smart Contract Fuzzing Towards Profitable Vulnerabilities**|Ziqiao Kong et.al.|[2501.08834](http://arxiv.org/abs/2501.08834)|null|
 |**2025-01-15**|**Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery**|Zeqin Liao et.al.|[2501.08670](http://arxiv.org/abs/2501.08670)|null|
 |**2025-01-13**|**Logic Meets Magic: LLMs Cracking Smart Contract Vulnerabilities**|ZeKe Xiao et.al.|[2501.07058](http://arxiv.org/abs/2501.07058)|null|
-|**2025-01-12**|**Eliza: A Web3 friendly AI Agent Operating System**|Shaw Walters et.al.|[2501.06781](http://arxiv.org/abs/2501.06781)|**[link](https://github.com/ai16z/eliza)**|
+|**2025-01-12**|**Eliza: A Web3 friendly AI Agent Operating System**|Shaw Walters et.al.|[2501.06781](http://arxiv.org/abs/2501.06781)|**[link](https://github.com/elizaos/eliza)**|
 |**2025-01-11**|**Enhancing The Open Network: Definition and Automated Detection of Smart Contract Defects**|Hao Song et.al.|[2501.06459](http://arxiv.org/abs/2501.06459)|null|
 |**2025-01-09**|**Certifying Digitally Issued Diplomas**|Geoffrey Goodell et.al.|[2501.06267](http://arxiv.org/abs/2501.06267)|null|
 |**2025-01-13**|**Kite: How to Delegate Voting Power Privately**|Kamilla Nazirkhanova et.al.|[2501.05626](http://arxiv.org/abs/2501.05626)|null|
