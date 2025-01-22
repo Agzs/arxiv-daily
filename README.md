@@ -20,6 +20,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**BotDetect: A Decentralized Federated Learning Framework for Detecting Financial Bots on the EVM Blockchains**|Ahmed Mounsf Rafik Bendada et.al.|[2501.12112](http://arxiv.org/abs/2501.12112)|null|
+|**2025-01-21**|**Blockchain Security Risk Assessment in Quantum Era, Migration Strategies and Proactive Defense**|Yaser Baseri et.al.|[2501.11798](http://arxiv.org/abs/2501.11798)|null|
+|**2025-01-21**|**SPID-Chain: A Smart Contract-Enabled, Polar-Coded Interoperable DAG Chain**|Amirhossein Taherpour et.al.|[2501.11794](http://arxiv.org/abs/2501.11794)|null|
+|**2025-01-20**|**Characterizing Transfer Graphs of Suspicious ERC-20 Tokens**|Calvin Josenhans et.al.|[2501.11668](http://arxiv.org/abs/2501.11668)|null|
+|**2025-01-20**|**Blockchain Developer Experience: A Multivocal Literature Review**|P. Soares et.al.|[2501.11431](http://arxiv.org/abs/2501.11431)|null|
+|**2025-01-19**|**Blockchain and Stablecoin Integration for Crowdfunding: A framework for enhanced efficiency, security, and liquidity**|Mustafa Savas Unsal et.al.|[2501.11145](http://arxiv.org/abs/2501.11145)|null|
+|**2025-01-19**|**Blockchain-assisted Demonstration Cloning for Multi-Agent Deep Reinforcement Learning**|Ahmed Alagha et.al.|[2501.10938](http://arxiv.org/abs/2501.10938)|null|
 |**2025-01-17**|**Metamorphic Testing for Smart Contract Validation:A Case Study of Ethereum-Based Crowdfunding Contracts**|Irving Jared Villanueva et.al.|[2501.09955](http://arxiv.org/abs/2501.09955)|null|
 |**2025-01-15**|**A Blockchain-Enabled Approach to Cross-Border Compliance and Trust**|Vikram Kulothungan et.al.|[2501.09182](http://arxiv.org/abs/2501.09182)|null|
 |**2025-01-15**|**Smart Contract Fuzzing Towards Profitable Vulnerabilities**|Ziqiao Kong et.al.|[2501.08834](http://arxiv.org/abs/2501.08834)|null|
@@ -493,6 +500,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**SPID-Chain: A Smart Contract-Enabled, Polar-Coded Interoperable DAG Chain**|Amirhossein Taherpour et.al.|[2501.11794](http://arxiv.org/abs/2501.11794)|null|
 |**2025-01-09**|**Time-Varying Bidirectional Causal Relationships Between Transaction Fees and Economic Activity of Subsystems Utilizing the Ethereum Blockchain Network**|Lennart Ante et.al.|[2501.05299](http://arxiv.org/abs/2501.05299)|null|
 |**2025-01-06**|**SoK: A Review of Cross-Chain Bridge Hacks in 2023**|Nikita Belenkov et.al.|[2501.03423](http://arxiv.org/abs/2501.03423)|null|
 |**2024-12-26**|**Swarm Contract: A Multi-Sovereign Agent Consensus Mechanism**|Haowei Yang et.al.|[2412.19256](http://arxiv.org/abs/2412.19256)|null|
@@ -689,6 +697,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**MyDigiTwin: A Privacy-Preserving Framework for Personalized Cardiovascular Risk Prediction and Scenario Exploration**|Héctor Cadavid et.al.|[2501.12193](http://arxiv.org/abs/2501.12193)|null|
+|**2025-01-21**|**Heterogeneous Federated Learning Systems for Time-Series Power Consumption Prediction with Multi-Head Embedding Mechanism**|Jia-Hao Syu et.al.|[2501.12136](http://arxiv.org/abs/2501.12136)|null|
+|**2025-01-21**|**Heterogeneous Federated Learning System for Sparse Healthcare Time-Series Prediction**|Jia-Hao Syu et.al.|[2501.12125](http://arxiv.org/abs/2501.12125)|null|
+|**2025-01-21**|**FedCLEAN: byzantine defense by CLustering Errors of Activation maps in Non-IID federated learning environments**|Mehdi Ben Ghali et.al.|[2501.12123](http://arxiv.org/abs/2501.12123)|null|
+|**2025-01-21**|**BotDetect: A Decentralized Federated Learning Framework for Detecting Financial Bots on the EVM Blockchains**|Ahmed Mounsf Rafik Bendada et.al.|[2501.12112](http://arxiv.org/abs/2501.12112)|null|
+|**2025-01-21**|**Communication-Efficient and Privacy-Adaptable Mechanism for Federated Learning**|Chih Wei Ling et.al.|[2501.12046](http://arxiv.org/abs/2501.12046)|null|
+|**2025-01-21**|**FedMUA: Exploring the Vulnerabilities of Federated Learning to Malicious Unlearning Attacks**|Jian Chen et.al.|[2501.11848](http://arxiv.org/abs/2501.11848)|null|
+|**2025-01-20**|**Personalized Federated Learning for Cellular VR: Online Learning and Dynamic Caching**|Krishnendu S. Tharakan et.al.|[2501.11745](http://arxiv.org/abs/2501.11745)|null|
+|**2025-01-20**|**The Transition from Centralized Machine Learning to Federated Learning for Mental Health in Education: A Survey of Current Methods and Future Directions**|Maryam Ebrahimi et.al.|[2501.11714](http://arxiv.org/abs/2501.11714)|null|
+|**2025-01-20**|**Trustformer: A Trusted Federated Transformer**|Ali Abbasi Tadi et.al.|[2501.11706](http://arxiv.org/abs/2501.11706)|null|
 |**2025-01-17**|**ColNet: Collaborative Optimization in Decentralized Federated Multi-task Learning Systems**|Chao Feng et.al.|[2501.10347](http://arxiv.org/abs/2501.10347)|null|
 |**2025-01-17**|**Secure Semantic Communication With Homomorphic Encryption**|Rui Meng et.al.|[2501.10182](http://arxiv.org/abs/2501.10182)|null|
 |**2025-01-17**|**Client-Centric Federated Adaptive Optimization**|Jianhui Sun et.al.|[2501.09946](http://arxiv.org/abs/2501.09946)|null|
