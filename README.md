@@ -756,7 +756,7 @@
 |**2025-01-10**|**Encoded Spatial Attribute in Multi-Tier Federated Learning**|Asfia Kawnine et.al.|[2501.05934](http://arxiv.org/abs/2501.05934)|null|
 |**2025-01-10**|**Collaborative Content Moderation in the Fediverse**|Haris Bin Zia et.al.|[2501.05871](http://arxiv.org/abs/2501.05871)|null|
 |**2025-01-10**|**STHFL: Spatio-Temporal Heterogeneous Federated Learning**|Shunxin Guo et.al.|[2501.05775](http://arxiv.org/abs/2501.05775)|null|
-|**2025-01-10**|**Constrained Over-the-Air Model Updating for Wireless Online Federated Learning with Delayed Information**|Juncheng Wang et.al.|[2501.05637](http://arxiv.org/abs/2501.05637)|null|
+|**2025-01-10**|**Constrained Over-the-Air Model Updating for Wireless Online Federated Learning with Delayed Information**|Juncheng Wang et.al.|[2501.05637](http://arxiv.org/abs/2501.05637)|**[link](https://github.com/yituo-liu/INFOCOM2025-COMUDO)**|
 |**2025-01-09**|**FedSA: A Unified Representation Learning via Semantic Anchors for Prototype-based Federated Learning**|Yanbing Zhou et.al.|[2501.05496](http://arxiv.org/abs/2501.05496)|null|
 |**2025-01-09**|**TimeDP: Learning to Generate Multi-Domain Time Series with Domain Prompts**|Yu-Hao Huang et.al.|[2501.05403](http://arxiv.org/abs/2501.05403)|null|
 |**2025-01-09**|**Secure Multi-Party Biometric Verification using QKD assisted Quantum Oblivious Transfer**|Mariana F. Ramos et.al.|[2501.05327](http://arxiv.org/abs/2501.05327)|null|
@@ -1994,7 +1994,7 @@
 |**2024-05-08**|**Communication-efficient and Differentially-private Distributed Nash Equilibrium Seeking with Linear Convergence**|Xiaomeng Chen et.al.|[2405.04757](http://arxiv.org/abs/2405.04757)|null|
 |**2024-05-07**|**Fast Decentralized Gradient Tracking for Federated Minimax Optimization with Local Updates**|Chris Junchi Li et.al.|[2405.04566](http://arxiv.org/abs/2405.04566)|null|
 |**2024-05-07**|**Federated Learning for Cooperative Inference Systems: The Case of Early Exit Networks**|Caelin Kaplan et.al.|[2405.04249](http://arxiv.org/abs/2405.04249)|null|
-|**2024-05-07**|**FedStale: leveraging stale client updates in federated learning**|Angelo Rodio et.al.|[2405.04171](http://arxiv.org/abs/2405.04171)|null|
+|**2024-05-07**|**FedStale: leveraging stale client updates in federated learning**|Angelo Rodio et.al.|[2405.04171](http://arxiv.org/abs/2405.04171)|**[link](https://github.com/arodio/FedStale)**|
 |**2024-05-07**|**pFedLVM: A Large Vision Model (LVM)-Driven and Latent Feature-Based Personalized Federated Learning Framework in Autonomous Driving**|Wei-Bin Kou et.al.|[2405.04146](http://arxiv.org/abs/2405.04146)|null|
 |**2024-05-07**|**Ranking-based Client Selection with Imitation Learning for Efficient Federated Learning**|Chunlin Tian et.al.|[2405.04122](http://arxiv.org/abs/2405.04122)|null|
 |**2024-05-07**|**A Stealthy Wrongdoer: Feature-Oriented Reconstruction Attack against Split Learning**|Xiaoyang Xu et.al.|[2405.04115](http://arxiv.org/abs/2405.04115)|**[link](https://github.com/X1aoyangXu/FORA)**|
@@ -2269,7 +2269,7 @@
 |**2024-03-18**|**Federated Modality-specific Encoders and Multimodal Anchors for Personalized Brain Tumor Segmentation**|Qian Dai et.al.|[2403.11803](http://arxiv.org/abs/2403.11803)|**[link](https://github.com/qdaiing/fedmema)**|
 |**2024-03-18**|**Low-Cost Privacy-Aware Decentralized Learning**|Sayan Biswas et.al.|[2403.11795](http://arxiv.org/abs/2403.11795)|null|
 |**2024-03-18**|**Efficient and Privacy-Preserving Federated Learning based on Full Homomorphic Encryption**|Yuqi Guo et.al.|[2403.11519](http://arxiv.org/abs/2403.11519)|null|
-|**2024-03-18**|**FedSPU: Personalized Federated Learning for Resource-constrained Devices with Stochastic Parameter Update**|Ziru Niu et.al.|[2403.11464](http://arxiv.org/abs/2403.11464)|null|
+|**2024-03-18**|**FedSPU: Personalized Federated Learning for Resource-constrained Devices with Stochastic Parameter Update**|Ziru Niu et.al.|[2403.11464](http://arxiv.org/abs/2403.11464)|**[link](https://github.com/ziruniu0/fedspu)**|
 |**2024-03-18**|**Fed3DGS: Scalable 3D Gaussian Splatting with Federated Learning**|Teppei Suzuki et.al.|[2403.11460](http://arxiv.org/abs/2403.11460)|**[link](https://github.com/densoitlab/fed3dgs)**|
 |**2024-03-17**|**Federated Transfer Learning with Differential Privacy**|Mengchu Li et.al.|[2403.11343](http://arxiv.org/abs/2403.11343)|null|
 |**2024-03-17**|**Enhancing Bandwidth Efficiency for Video Motion Transfer Applications using Deep Learning Based Keypoint Prediction**|Xue Bai et.al.|[2403.11337](http://arxiv.org/abs/2403.11337)|null|
@@ -2572,7 +2572,7 @@
 |**2024-01-22**|**Privacy-Preserving Data Fusion for Traffic State Estimation: A Vertical Federated Learning Approach**|Qiqing Wang et.al.|[2401.11836](http://arxiv.org/abs/2401.11836)|null|
 |**2024-01-22**|**AdaFGL: A New Paradigm for Federated Node Classification with Topology Heterogeneity**|Xunkai Li et.al.|[2401.11750](http://arxiv.org/abs/2401.11750)|null|
 |**2024-01-22**|**GI-PIP: Do We Require Impractical Auxiliary Dataset for Gradient Inversion Attacks?**|Yu sun et.al.|[2401.11748](http://arxiv.org/abs/2401.11748)|**[link](https://github.com/D1aoBoomm/GI-PIP)**|
-|**2024-01-22**|**Attention on Personalized Clinical Decision Support System: Federated Learning Approach**|Chu Myaet Thwal et.al.|[2401.11736](http://arxiv.org/abs/2401.11736)|null|
+|**2024-01-22**|**Attention on Personalized Clinical Decision Support System: Federated Learning Approach**|Chu Myaet Thwal et.al.|[2401.11736](http://arxiv.org/abs/2401.11736)|**[link](https://github.com/cmthwal/FL-Attention-CDSS)**|
 |**2024-01-22**|**zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials**|Foteini Baldimtsi et.al.|[2401.11735](http://arxiv.org/abs/2401.11735)|null|
 |**2024-01-22**|**OnDev-LCT: On-Device Lightweight Convolutional Transformers towards federated learning**|Chu Myaet Thwal et.al.|[2401.11652](http://arxiv.org/abs/2401.11652)|null|
 |**2024-01-19**|**Starlit: Privacy-Preserving Federated Learning to Enhance Financial Fraud Detection**|Aydin Abadi et.al.|[2401.10765](http://arxiv.org/abs/2401.10765)|null|
