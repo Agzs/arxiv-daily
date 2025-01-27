@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Absolute Governance: A Framework for Synchronization and Certification of the Corporate Contractual State**|Antonio Hoffert et.al.|[2501.13974](http://arxiv.org/abs/2501.13974)|null|
 |**2025-01-22**|**Accessible Smart Contracts Verification: Synthesizing Formal Models with Tamed LLMs**|Jan Corazza et.al.|[2501.12972](http://arxiv.org/abs/2501.12972)|null|
 |**2025-01-21**|**BotDetect: A Decentralized Federated Learning Framework for Detecting Financial Bots on the EVM Blockchains**|Ahmed Mounsf Rafik Bendada et.al.|[2501.12112](http://arxiv.org/abs/2501.12112)|null|
 |**2025-01-21**|**Blockchain Security Risk Assessment in Quantum Era, Migration Strategies and Proactive Defense**|Yaser Baseri et.al.|[2501.11798](http://arxiv.org/abs/2501.11798)|null|
@@ -568,6 +569,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**ZKLoRA: Efficient Zero-Knowledge Proofs for LoRA Verification**|Bidhan Roy et.al.|[2501.13965](http://arxiv.org/abs/2501.13965)|null|
 |**2025-01-15**|**Trusted Machine Learning Models Unlock Private Inference for Problems Currently Infeasible with Cryptography**|Ilia Shumailov et.al.|[2501.08970](http://arxiv.org/abs/2501.08970)|null|
 |**2025-01-13**|**Code Generation for Cryptographic Kernels using Multi-word Modular Arithmetic on GPU**|Naifeng Zhang et.al.|[2501.07535](http://arxiv.org/abs/2501.07535)|null|
 |**2025-01-13**|**Secure quantum bit commtiment from separable operations**|Ziad Chaoui et.al.|[2501.07351](http://arxiv.org/abs/2501.07351)|null|
@@ -698,6 +700,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Federated Domain Generalization with Data-free On-server Gradient Matching**|Trong-Binh Nguyen et.al.|[2501.14653](http://arxiv.org/abs/2501.14653)|null|
+|**2025-01-24**|**Data Assetization via Resources-decoupled Federated Learning**|Jianzhe Zhao et.al.|[2501.14588](http://arxiv.org/abs/2501.14588)|null|
+|**2025-01-24**|**A sandbox study proposal for private and distributed health data analysis**|Rickard Brännvall et.al.|[2501.14556](http://arxiv.org/abs/2501.14556)|null|
+|**2025-01-24**|**Real-world Edge Neural Network Implementations Leak Private Interactions Through Physical Side Channel**|Zhuoran Liu et.al.|[2501.14512](http://arxiv.org/abs/2501.14512)|null|
+|**2025-01-24**|**Optimal Strategies for Federated Learning Maintaining Client Privacy**|Uday Bhaskar et.al.|[2501.14453](http://arxiv.org/abs/2501.14453)|null|
+|**2025-01-24**|**SoK: What Makes Private Learning Unfair?**|Kai Yao et.al.|[2501.14414](http://arxiv.org/abs/2501.14414)|null|
+|**2025-01-24**|**BrainGuard: Privacy-Preserving Multisubject Image Reconstructions from Brain Activities**|Zhibo Tian et.al.|[2501.14309](http://arxiv.org/abs/2501.14309)|**[link](https://github.com/kunzhan/brainguard)**|
+|**2025-01-24**|**Advancing MRI Reconstruction: A Systematic Review of Deep Learning and Compressed Sensing Integration**|Mojtaba Safari et.al.|[2501.14158](http://arxiv.org/abs/2501.14158)|**[link](https://github.com/mosaf/awesome-dl-based-cs-mri)**|
 |**2025-01-23**|**PBM-VFL: Vertical Federated Learning with Feature and Sample Privacy**|Linh Tran et.al.|[2501.13916](http://arxiv.org/abs/2501.13916)|null|
 |**2025-01-23**|**Privacy-Preserving Personalized Federated Prompt Learning for Multimodal Large Language Models**|Linh Tran et.al.|[2501.13904](http://arxiv.org/abs/2501.13904)|null|
 |**2025-01-23**|**Aggregating Digital Identities through Bridging. An Integration of Open Authentication Protocols for Web3 Identifiers**|Ben Biedermann et.al.|[2501.13770](http://arxiv.org/abs/2501.13770)|null|
