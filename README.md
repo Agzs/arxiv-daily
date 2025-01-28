@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-26**|**Preventing Household Bankruptcy: The One-Third Rule in Financial Planning with Mathematical Validation and Game-Theoretic Insights**|Aditi Godbole et.al.|[2501.15557](http://arxiv.org/abs/2501.15557)|null|
+|**2025-01-26**|**FiberPool: Leveraging Multiple Blockchains for Decentralized Pooled Mining**|Akira Sakurai et.al.|[2501.15459](http://arxiv.org/abs/2501.15459)|null|
 |**2025-01-22**|**Absolute Governance: A Framework for Synchronization and Certification of the Corporate Contractual State**|Antonio Hoffert et.al.|[2501.13974](http://arxiv.org/abs/2501.13974)|null|
 |**2025-01-22**|**Accessible Smart Contracts Verification: Synthesizing Formal Models with Tamed LLMs**|Jan Corazza et.al.|[2501.12972](http://arxiv.org/abs/2501.12972)|null|
 |**2025-01-21**|**BotDetect: A Decentralized Federated Learning Framework for Detecting Financial Bots on the EVM Blockchains**|Ahmed Mounsf Rafik Bendada et.al.|[2501.12112](http://arxiv.org/abs/2501.12112)|null|
@@ -700,6 +702,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Measuring Heterogeneity in Machine Learning with Distributed Energy Distance**|Mengchen Fan et.al.|[2501.16174](http://arxiv.org/abs/2501.16174)|null|
+|**2025-01-27**|**A Unified Analysis of Stochastic Gradient Descent with Arbitrary Data Permutations and Beyond**|Yipeng Li et.al.|[2501.16117](http://arxiv.org/abs/2501.16117)|null|
+|**2025-01-27**|**Combating Interference for Over-the-Air Federated Learning: A Statistical Approach via RIS**|Wei Shi et.al.|[2501.16081](http://arxiv.org/abs/2501.16081)|null|
+|**2025-01-27**|**Enhancing the Convergence of Federated Learning Aggregation Strategies with Limited Data**|Judith Sáinz-Pardo Díaz et.al.|[2501.15949](http://arxiv.org/abs/2501.15949)|null|
+|**2025-01-27**|**Integrating Personalized Federated Learning with Control Systems for Enhanced Performance**|Alice Smith et.al.|[2501.15728](http://arxiv.org/abs/2501.15728)|null|
+|**2025-01-27**|**CENSOR: Defense Against Gradient Inversion via Orthogonal Subspace Bayesian Sampling**|Kaiyuan Zhang et.al.|[2501.15718](http://arxiv.org/abs/2501.15718)|**[link](https://github.com/KaiyuanZh/censor)**|
+|**2025-01-26**|**Individual Confidential Computing of Polynomials over Non-Uniform Information**|Saar Tarnopolsky et.al.|[2501.15645](http://arxiv.org/abs/2501.15645)|null|
+|**2025-01-26**|**FedAlign: Federated Domain Generalization with Cross-Client Feature Alignment**|Sunny Gupta et.al.|[2501.15486](http://arxiv.org/abs/2501.15486)|null|
+|**2025-01-26**|**AI-Driven Secure Data Sharing: A Trustworthy and Privacy-Preserving Approach**|Al Amin et.al.|[2501.15363](http://arxiv.org/abs/2501.15363)|null|
+|**2025-01-26**|**Decentralized Low-Rank Fine-Tuning of Large Language Models**|Sajjad Ghiasvand et.al.|[2501.15361](http://arxiv.org/abs/2501.15361)|null|
 |**2025-01-24**|**Federated Domain Generalization with Data-free On-server Gradient Matching**|Trong-Binh Nguyen et.al.|[2501.14653](http://arxiv.org/abs/2501.14653)|null|
 |**2025-01-24**|**Data Assetization via Resources-decoupled Federated Learning**|Jianzhe Zhao et.al.|[2501.14588](http://arxiv.org/abs/2501.14588)|null|
 |**2025-01-24**|**A sandbox study proposal for private and distributed health data analysis**|Rickard Brännvall et.al.|[2501.14556](http://arxiv.org/abs/2501.14556)|null|
