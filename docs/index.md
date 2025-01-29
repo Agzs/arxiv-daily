@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-22**|**Blockchain-based Crowdsourced Deep Reinforcement Learning as a Service**|Ahmed Alagha et.al.|[2501.16369](http://arxiv.org/abs/2501.16369)|null|
 |**2025-01-26**|**Preventing Household Bankruptcy: The One-Third Rule in Financial Planning with Mathematical Validation and Game-Theoretic Insights**|Aditi Godbole et.al.|[2501.15557](http://arxiv.org/abs/2501.15557)|null|
 |**2025-01-26**|**FiberPool: Leveraging Multiple Blockchains for Decentralized Pooled Mining**|Akira Sakurai et.al.|[2501.15459](http://arxiv.org/abs/2501.15459)|null|
 |**2025-01-22**|**Absolute Governance: A Framework for Synchronization and Certification of the Corporate Contractual State**|Antonio Hoffert et.al.|[2501.13974](http://arxiv.org/abs/2501.13974)|null|
@@ -496,6 +497,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**Blockchain Address Poisoning**|Taro Tsuchiya et.al.|[2501.16681](http://arxiv.org/abs/2501.16681)|null|
 |**2025-01-21**|**SPID-Chain: A Smart Contract-Enabled, Polar-Coded Interoperable DAG Chain**|Amirhossein Taherpour et.al.|[2501.11794](http://arxiv.org/abs/2501.11794)|null|
 |**2025-01-09**|**Time-Varying Bidirectional Causal Relationships Between Transaction Fees and Economic Activity of Subsystems Utilizing the Ethereum Blockchain Network**|Lennart Ante et.al.|[2501.05299](http://arxiv.org/abs/2501.05299)|null|
 |**2025-01-06**|**SoK: A Review of Cross-Chain Bridge Hacks in 2023**|Nikita Belenkov et.al.|[2501.03423](http://arxiv.org/abs/2501.03423)|null|
@@ -690,6 +692,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**FedEFM: Federated Endovascular Foundation Model with Unseen Data**|Tuong Do et.al.|[2501.16992](http://arxiv.org/abs/2501.16992)|null|
+|**2025-01-28**|**Heterogeneity-aware Personalized Federated Learning via Adaptive Dual-Agent Reinforcement Learning**|Xi Chen et.al.|[2501.16966](http://arxiv.org/abs/2501.16966)|null|
+|**2025-01-28**|**Federated Learning Strategies for Coordinated Beamforming in Multicell ISAC**|Lai Jiang et.al.|[2501.16951](http://arxiv.org/abs/2501.16951)|null|
+|**2025-01-28**|**Secure Federated Graph-Filtering for Recommender Systems**|Julien Nicolas et.al.|[2501.16888](http://arxiv.org/abs/2501.16888)|null|
+|**2025-01-28**|**Bones of Contention: Exploring Query-Efficient Attacks Against Skeleton Recognition Systems**|Yuxin Cao et.al.|[2501.16843](http://arxiv.org/abs/2501.16843)|null|
+|**2025-01-28**|**Meta-Federated Learning: A Novel Approach for Real-Time Traffic Flow Management**|Bob Johnson et.al.|[2501.16758](http://arxiv.org/abs/2501.16758)|null|
+|**2025-01-28**|**Federated Learning for Efficient Condition Monitoring and Anomaly Detection in Industrial Cyber-Physical Systems**|William Marfo et.al.|[2501.16666](http://arxiv.org/abs/2501.16666)|null|
+|**2025-01-27**|**Generating customized prompts for Zero-Shot Rare Event Medical Image Classification using LLM**|Payal Kamboj et.al.|[2501.16481](http://arxiv.org/abs/2501.16481)|null|
 |**2025-01-27**|**Measuring Heterogeneity in Machine Learning with Distributed Energy Distance**|Mengchen Fan et.al.|[2501.16174](http://arxiv.org/abs/2501.16174)|null|
 |**2025-01-27**|**A Unified Analysis of Stochastic Gradient Descent with Arbitrary Data Permutations and Beyond**|Yipeng Li et.al.|[2501.16117](http://arxiv.org/abs/2501.16117)|null|
 |**2025-01-27**|**Combating Interference for Over-the-Air Federated Learning: A Statistical Approach via RIS**|Wei Shi et.al.|[2501.16081](http://arxiv.org/abs/2501.16081)|null|
