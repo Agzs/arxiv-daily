@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Experimental relativistic zero-knowledge proofs with unconditional security**|Chen-Xun Weng et.al.|[2501.18176](http://arxiv.org/abs/2501.18176)|null|
 |**2025-01-29**|**Atomic Transfer Graphs: Secure-by-design Protocols for Heterogeneous Blockchain Ecosystems**|Stephan Dübler et.al.|[2501.17786](http://arxiv.org/abs/2501.17786)|null|
 |**2025-01-29**|**BitMLx: Secure Cross-chain Smart Contracts For Bitcoin-style Cryptocurrencies**|Federico Badaloni et.al.|[2501.17733](http://arxiv.org/abs/2501.17733)|null|
 |**2025-01-29**|**Gateways for Institutional-Grade Commerce and Interoperability of Digital Assets**|Rafael Belchior et.al.|[2501.17732](http://arxiv.org/abs/2501.17732)|null|
@@ -568,6 +569,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**AuthOr: Lower Cost Authenticity-Oriented Garbling for Arbitrary Boolean Circuits**|Osman Biçer et.al.|[2501.18387](http://arxiv.org/abs/2501.18387)|null|
+|**2025-01-30**|**Experimental relativistic zero-knowledge proofs with unconditional security**|Chen-Xun Weng et.al.|[2501.18176](http://arxiv.org/abs/2501.18176)|null|
 |**2025-01-21**|**ZKLoRA: Efficient Zero-Knowledge Proofs for LoRA Verification**|Bidhan Roy et.al.|[2501.13965](http://arxiv.org/abs/2501.13965)|null|
 |**2025-01-15**|**Trusted Machine Learning Models Unlock Private Inference for Problems Currently Infeasible with Cryptography**|Ilia Shumailov et.al.|[2501.08970](http://arxiv.org/abs/2501.08970)|null|
 |**2025-01-13**|**Code Generation for Cryptographic Kernels using Multi-word Modular Arithmetic on GPU**|Naifeng Zhang et.al.|[2501.07535](http://arxiv.org/abs/2501.07535)|null|
@@ -697,8 +700,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Exploring Potential Prompt Injection Attacks in Federated Military LLMs and Their Mitigation**|Youngjoon Lee et.al.|[2501.18416](http://arxiv.org/abs/2501.18416)|null|
+|**2025-01-30**|**Update Estimation and Scheduling for Over-the-Air Federated Learning with Energy Harvesting Devices**|Furkan Bagci et.al.|[2501.18298](http://arxiv.org/abs/2501.18298)|null|
+|**2025-01-30**|**Advancing Personalized Federated Learning: Integrative Approaches with AI for Enhanced Privacy and Customization**|Kevin Cooper et.al.|[2501.18174](http://arxiv.org/abs/2501.18174)|null|
+|**2025-01-29**|**Power-Efficient Over-the-Air Aggregation with Receive Beamforming for Federated Learning**|Faeze Moradi Kalarde et.al.|[2501.18058](http://arxiv.org/abs/2501.18058)|null|
 |**2025-01-29**|**Federated Learning With Individualized Privacy Through Client Sampling**|Lucas Lange et.al.|[2501.17634](http://arxiv.org/abs/2501.17634)|**[link](https://github.com/luckyos-code/flidp)**|
-|**2025-01-29**|**Tapor: 3D Hand Pose Reconstruction with Fully Passive Thermal Sensing for Around-device Interactions**|Xie Zhang et.al.|[2501.17585](http://arxiv.org/abs/2501.17585)|null|
+|**2025-01-29**|**Tapor: 3D Hand Pose Reconstruction with Fully Passive Thermal Sensing for Around-device Interactions**|Xie Zhang et.al.|[2501.17585](http://arxiv.org/abs/2501.17585)|**[link](https://github.com/iot-tapor/tapor)**|
 |**2025-01-29**|**A Survey on Cluster-based Federated Learning**|Omar El-Rifai et.al.|[2501.17512](http://arxiv.org/abs/2501.17512)|null|
 |**2025-01-29**|**Poisoning Attacks and Defenses to Federated Unlearning**|Wenbin Wang et.al.|[2501.17396](http://arxiv.org/abs/2501.17396)|null|
 |**2025-01-29**|**Byzantine-Robust Federated Learning over Ring-All-Reduce Distributed Computing**|Minghong Fang et.al.|[2501.17392](http://arxiv.org/abs/2501.17392)|null|
