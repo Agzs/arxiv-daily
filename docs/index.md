@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**Noninterference Analysis of Irreversible or Reversible Systems with Nondeterminism and Probabilities**|Andrea Esposito et.al.|[2501.19290](http://arxiv.org/abs/2501.19290)|null|
 |**2025-01-30**|**Experimental relativistic zero-knowledge proofs with unconditional security**|Chen-Xun Weng et.al.|[2501.18176](http://arxiv.org/abs/2501.18176)|null|
 |**2025-01-29**|**Atomic Transfer Graphs: Secure-by-design Protocols for Heterogeneous Blockchain Ecosystems**|Stephan Dübler et.al.|[2501.17786](http://arxiv.org/abs/2501.17786)|null|
 |**2025-01-29**|**BitMLx: Secure Cross-chain Smart Contracts For Bitcoin-style Cryptocurrencies**|Federico Badaloni et.al.|[2501.17733](http://arxiv.org/abs/2501.17733)|null|
@@ -569,6 +570,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Gotta Hash 'Em All! Speeding Up Hash Functions for Zero-Knowledge Proof Applications**|Nojan Sheybani et.al.|[2501.18780](http://arxiv.org/abs/2501.18780)|null|
 |**2025-01-30**|**AuthOr: Lower Cost Authenticity-Oriented Garbling for Arbitrary Boolean Circuits**|Osman Biçer et.al.|[2501.18387](http://arxiv.org/abs/2501.18387)|null|
 |**2025-01-30**|**Experimental relativistic zero-knowledge proofs with unconditional security**|Chen-Xun Weng et.al.|[2501.18176](http://arxiv.org/abs/2501.18176)|null|
 |**2025-01-21**|**ZKLoRA: Efficient Zero-Knowledge Proofs for LoRA Verification**|Bidhan Roy et.al.|[2501.13965](http://arxiv.org/abs/2501.13965)|null|
@@ -700,6 +702,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**S-VOTE: Similarity-based Voting for Client Selection in Decentralized Federated Learning**|Pedro Miguel Sánchez Sánchez et.al.|[2501.19279](http://arxiv.org/abs/2501.19279)|null|
+|**2025-01-31**|**Position: Contextual Integrity Washing for Language Models**|Yan Shvartzshnaider et.al.|[2501.19173](http://arxiv.org/abs/2501.19173)|null|
+|**2025-01-31**|**FedRTS: Federated Robust Pruning via Combinatorial Thompson Sampling**|Hong Huang et.al.|[2501.19122](http://arxiv.org/abs/2501.19122)|null|
+|**2025-01-31**|**FL-APU: A Software Architecture to Ease Practical Implementation of Cross-Silo Federated Learning**|F. Stricker et.al.|[2501.19091](http://arxiv.org/abs/2501.19091)|null|
+|**2025-01-31**|**Norm-Bounded Low-Rank Adaptation**|Ruigang Wang et.al.|[2501.19050](http://arxiv.org/abs/2501.19050)|null|
+|**2025-01-31**|**Continuous-Time Analysis of Federated Averaging**|Tom Overman et.al.|[2501.18870](http://arxiv.org/abs/2501.18870)|null|
+|**2025-01-30**|**Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift**|Yi Liu et.al.|[2501.18798](http://arxiv.org/abs/2501.18798)|null|
+|**2025-01-30**|**Exploring Audio Editing Features as User-Centric Privacy Defenses Against Emotion Inference Attacks**|Mohd. Farhan Israk Soumik et.al.|[2501.18727](http://arxiv.org/abs/2501.18727)|null|
 |**2025-01-30**|**Exploring Potential Prompt Injection Attacks in Federated Military LLMs and Their Mitigation**|Youngjoon Lee et.al.|[2501.18416](http://arxiv.org/abs/2501.18416)|null|
 |**2025-01-30**|**Update Estimation and Scheduling for Over-the-Air Federated Learning with Energy Harvesting Devices**|Furkan Bagci et.al.|[2501.18298](http://arxiv.org/abs/2501.18298)|null|
 |**2025-01-30**|**Advancing Personalized Federated Learning: Integrative Approaches with AI for Enhanced Privacy and Customization**|Kevin Cooper et.al.|[2501.18174](http://arxiv.org/abs/2501.18174)|null|
