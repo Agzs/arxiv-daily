@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**Cryptocurrency Network Analysis**|Natkamon Tovanich et.al.|[2502.03411](http://arxiv.org/abs/2502.03411)|null|
+|**2025-02-05**|**Thetacrypt: A Distributed Service for Threshold Cryptography**|Mariarosaria Barbaraci et.al.|[2502.03247](http://arxiv.org/abs/2502.03247)|null|
 |**2025-02-04**|**Optimal Routing in the Presence of Hooks: Three Case Studies**|Tarun Chitra et.al.|[2502.02059](http://arxiv.org/abs/2502.02059)|null|
 |**2025-01-31**|**JustAct+: Justified and Accountable Actions in Policy-Regulated, Multi-Domain Data Processing**|Christopher A. Esterhuyse et.al.|[2502.00138](http://arxiv.org/abs/2502.00138)|null|
 |**2025-01-31**|**Noninterference Analysis of Irreversible or Reversible Systems with Nondeterminism and Probabilities**|Andrea Esposito et.al.|[2501.19290](http://arxiv.org/abs/2501.19290)|null|
@@ -717,6 +719,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**Interaction-Aware Gaussian Weighting for Clustered Federated Learning**|Alessandro Licciardi et.al.|[2502.03340](http://arxiv.org/abs/2502.03340)|null|
+|**2025-02-05**|**The Other Side of the Coin: Unveiling the Downsides of Model Aggregation in Federated Learning from a Layer-peeled Perspective**|Guogang Zhu et.al.|[2502.03231](http://arxiv.org/abs/2502.03231)|null|
+|**2025-02-05**|**Multi-objective methods in Federated Learning: A survey and taxonomy**|Maria Hartmann et.al.|[2502.03108](http://arxiv.org/abs/2502.03108)|null|
+|**2025-02-05**|**E-3SFC: Communication-Efficient Federated Learning with Double-way Features Synthesizing**|Yuhao Zhou et.al.|[2502.03092](http://arxiv.org/abs/2502.03092)|null|
+|**2025-02-05**|**Differentially-Private Multi-Tier Federated Learning: A Formal Analysis and Evaluation**|Evan Chen et.al.|[2502.02877](http://arxiv.org/abs/2502.02877)|null|
+|**2025-02-05**|**Vertical Federated Learning for Failure-Cause Identification in Disaggregated Microwave Networks**|Fatih Temiz et.al.|[2502.02874](http://arxiv.org/abs/2502.02874)|null|
+|**2025-02-04**|**Federated Low-Rank Tensor Estimation for Multimodal Image Reconstruction**|Anh Van Nguyen et.al.|[2502.02761](http://arxiv.org/abs/2502.02761)|null|
+|**2025-02-04**|**Parameter Tracking in Federated Learning with Adaptive Optimization**|Evan Chen. Jianing Zhang et.al.|[2502.02727](http://arxiv.org/abs/2502.02727)|null|
+|**2025-02-04**|**Enforcing Demographic Coherence: A Harms Aware Framework for Reasoning about Private Data Release**|Mark Bun et.al.|[2502.02709](http://arxiv.org/abs/2502.02709)|null|
 |**2025-02-04**|**SMTFL: Secure Model Training to Untrusted Participants in Federated Learning**|Zhihui Zhao et.al.|[2502.02038](http://arxiv.org/abs/2502.02038)|null|
 |**2025-02-04**|**Improving Wireless Federated Learning via Joint Downlink-Uplink Beamforming over Analog Transmission**|Chong Zhang et.al.|[2502.02034](http://arxiv.org/abs/2502.02034)|null|
 |**2025-02-03**|**A Privacy-Preserving Domain Adversarial Federated learning for multi-site brain functional connectivity analysis**|Yipu Zhang et.al.|[2502.01885](http://arxiv.org/abs/2502.01885)|null|
