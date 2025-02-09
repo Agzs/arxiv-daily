@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-05**|**Cryptocurrency Network Analysis**|Natkamon Tovanich et.al.|[2502.03411](http://arxiv.org/abs/2502.03411)|null|
 |**2025-02-05**|**Thetacrypt: A Distributed Service for Threshold Cryptography**|Mariarosaria Barbaraci et.al.|[2502.03247](http://arxiv.org/abs/2502.03247)|null|
-|**2025-02-04**|**Optimal Routing in the Presence of Hooks: Three Case Studies**|Tarun Chitra et.al.|[2502.02059](http://arxiv.org/abs/2502.02059)|null|
+|**2025-02-04**|**Optimal Routing in the Presence of Hooks: Three Case Studies**|Tarun Chitra et.al.|[2502.02059](http://arxiv.org/abs/2502.02059)|**[link](https://github.com/kkulk/hooks)**|
 |**2025-01-31**|**JustAct+: Justified and Accountable Actions in Policy-Regulated, Multi-Domain Data Processing**|Christopher A. Esterhuyse et.al.|[2502.00138](http://arxiv.org/abs/2502.00138)|null|
 |**2025-01-31**|**Noninterference Analysis of Irreversible or Reversible Systems with Nondeterminism and Probabilities**|Andrea Esposito et.al.|[2501.19290](http://arxiv.org/abs/2501.19290)|null|
 |**2025-01-30**|**Experimental relativistic zero-knowledge proofs with unconditional security**|Chen-Xun Weng et.al.|[2501.18176](http://arxiv.org/abs/2501.18176)|null|
@@ -581,7 +581,7 @@ layout: default
 |**2025-01-30**|**Experimental relativistic zero-knowledge proofs with unconditional security**|Chen-Xun Weng et.al.|[2501.18176](http://arxiv.org/abs/2501.18176)|null|
 |**2025-01-21**|**ZKLoRA: Efficient Zero-Knowledge Proofs for LoRA Verification**|Bidhan Roy et.al.|[2501.13965](http://arxiv.org/abs/2501.13965)|null|
 |**2025-01-15**|**Trusted Machine Learning Models Unlock Private Inference for Problems Currently Infeasible with Cryptography**|Ilia Shumailov et.al.|[2501.08970](http://arxiv.org/abs/2501.08970)|null|
-|**2025-01-13**|**Code Generation for Cryptographic Kernels using Multi-word Modular Arithmetic on GPU**|Naifeng Zhang et.al.|[2501.07535](http://arxiv.org/abs/2501.07535)|null|
+|**2025-01-13**|**Code Generation for Cryptographic Kernels using Multi-word Modular Arithmetic on GPU**|Naifeng Zhang et.al.|[2501.07535](http://arxiv.org/abs/2501.07535)|**[link](https://github.com/naifeng/moma)**|
 |**2025-01-13**|**Secure quantum bit commtiment from separable operations**|Ziad Chaoui et.al.|[2501.07351](http://arxiv.org/abs/2501.07351)|null|
 |**2025-01-13**|**Privacy-Preserving Authentication: Theory vs. Practice**|Daniel Slamanig et.al.|[2501.07209](http://arxiv.org/abs/2501.07209)|null|
 |**2025-01-12**|**ByzSFL: Achieving Byzantine-Robust Secure Federated Learning with Zero-Knowledge Proofs**|Yongming Fan et.al.|[2501.06953](http://arxiv.org/abs/2501.06953)|null|
