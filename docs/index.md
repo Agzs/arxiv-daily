@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-07**|**$\mathsf{CRATE}$ : Cross-Rollup Atomic Transaction Execution**|Ioannis Kaklamanis et.al.|[2502.04659](http://arxiv.org/abs/2502.04659)|null|
+|**2025-02-04**|**SCALM: Detecting Bad Practices in Smart Contracts Through LLMs**|Zongwei Li et.al.|[2502.04347](http://arxiv.org/abs/2502.04347)|null|
 |**2025-02-05**|**Cryptocurrency Network Analysis**|Natkamon Tovanich et.al.|[2502.03411](http://arxiv.org/abs/2502.03411)|null|
 |**2025-02-05**|**Thetacrypt: A Distributed Service for Threshold Cryptography**|Mariarosaria Barbaraci et.al.|[2502.03247](http://arxiv.org/abs/2502.03247)|null|
 |**2025-02-04**|**Optimal Routing in the Presence of Hooks: Three Case Studies**|Tarun Chitra et.al.|[2502.02059](http://arxiv.org/abs/2502.02059)|**[link](https://github.com/kkulk/hooks)**|
@@ -506,6 +508,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-07**|**$\mathsf{CRATE}$ : Cross-Rollup Atomic Transaction Execution**|Ioannis Kaklamanis et.al.|[2502.04659](http://arxiv.org/abs/2502.04659)|null|
 |**2025-01-29**|**BitMLx: Secure Cross-chain Smart Contracts For Bitcoin-style Cryptocurrencies**|Federico Badaloni et.al.|[2501.17733](http://arxiv.org/abs/2501.17733)|null|
 |**2025-01-28**|**Pandora's Box: Cross-Chain Arbitrages in the Realm of Blockchain Interoperability**|Burak Öz et.al.|[2501.17335](http://arxiv.org/abs/2501.17335)|null|
 |**2025-01-28**|**Blockchain Address Poisoning**|Taro Tsuchiya et.al.|[2501.16681](http://arxiv.org/abs/2501.16681)|null|
@@ -708,6 +711,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-07**|**Mitigating Unintended Memorization with LoRA in Federated Learning for LLMs**|Thierry Bossy et.al.|[2502.05087](http://arxiv.org/abs/2502.05087)|null|
+|**2025-02-07**|**Federated Learning for Anomaly Detection in Energy Consumption Data: Assessing the Vulnerability to Adversarial Attacks**|Yohannis Kifle Telila et.al.|[2502.05041](http://arxiv.org/abs/2502.05041)|null|
+|**2025-02-07**|**Exploit Gradient Skewness to Circumvent Byzantine Defenses for Federated Learning**|Yuchen Liu et.al.|[2502.04890](http://arxiv.org/abs/2502.04890)|null|
+|**2025-02-07**|**DMPA: Model Poisoning Attacks on Decentralized Federated Learning for Model Differences**|Chao Feng et.al.|[2502.04771](http://arxiv.org/abs/2502.04771)|null|
+|**2025-02-07**|**Graph Federated Learning Based Proactive Content Caching in Edge Computing**|Rui Wang et.al.|[2502.04760](http://arxiv.org/abs/2502.04760)|null|
+|**2025-02-07**|**Differential Privacy of Quantum and Quantum-Inspired-Classical Recommendation Algorithms**|Chenjian Li et.al.|[2502.04758](http://arxiv.org/abs/2502.04758)|null|
+|**2025-02-07**|**LATTEO: A Framework to Support Learning Asynchronously Tempered with Trusted Execution and Obfuscation**|Abhinav Kumar et.al.|[2502.04601](http://arxiv.org/abs/2502.04601)|null|
+|**2025-02-06**|**Private Federated Learning In Real World Application -- A Case Study**|An Ji et.al.|[2502.04565](http://arxiv.org/abs/2502.04565)|null|
+|**2025-02-06**|**Generative Autoregressive Transformers for Model-Agnostic Federated MRI Reconstruction**|Valiyeh A. Nezhad et.al.|[2502.04521](http://arxiv.org/abs/2502.04521)|null|
 |**2025-02-06**|**FedOptimus: Optimizing Vertical Federated Learning for Scalability and Efficiency**|Nikita Shrivastava et.al.|[2502.04243](http://arxiv.org/abs/2502.04243)|null|
 |**2025-02-06**|**The Gradient Puppeteer: Adversarial Domination in Gradient Leakage Attacks through Model Poisoning**|Kunlan Xiang et.al.|[2502.04106](http://arxiv.org/abs/2502.04106)|null|
 |**2025-02-06**|**Comparing privacy notions for protection against reconstruction attacks in machine learning**|Sayan Biswas et.al.|[2502.04045](http://arxiv.org/abs/2502.04045)|null|
