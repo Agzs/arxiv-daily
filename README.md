@@ -20,7 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-10**|**AiRacleX: Automated Detection of Price Oracle Manipulations via LLM-Driven Knowledge Mining and Prompt Generation**|Bo Gao et.al.|[2502.06348](http://arxiv.org/abs/2502.06348)|null|
+|**2025-02-11**|**SymGPT: Auditing Smart Contracts via Combining Symbolic Execution with Large Language Models**|Shihao Xia et.al.|[2502.07644](http://arxiv.org/abs/2502.07644)|null|
+|**2025-02-11**|**AiRacleX: Automated Detection of Price Oracle Manipulations via LLM-Driven Knowledge Mining and Prompt Generation**|Bo Gao et.al.|[2502.06348](http://arxiv.org/abs/2502.06348)|null|
 |**2025-02-07**|**The Smart Contract Model**|Yackolley Amoussou-Guenou et.al.|[2502.05280](http://arxiv.org/abs/2502.05280)|null|
 |**2025-02-07**|**$\mathsf{CRATE}$ : Cross-Rollup Atomic Transaction Execution**|Ioannis Kaklamanis et.al.|[2502.04659](http://arxiv.org/abs/2502.04659)|null|
 |**2025-02-04**|**SCALM: Detecting Bad Practices in Smart Contracts Through LLMs**|Zongwei Li et.al.|[2502.04347](http://arxiv.org/abs/2502.04347)|null|
@@ -590,6 +591,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-11**|**Distributed Non-Interactive Zero-Knowledge Proofs**|Alex B. Grilo et.al.|[2502.07594](http://arxiv.org/abs/2502.07594)|null|
+|**2025-02-10**|**Zero-Knowledge Proof Frameworks: A Survey**|Nojan Sheybani et.al.|[2502.07063](http://arxiv.org/abs/2502.07063)|null|
 |**2025-02-10**|**Generating Privacy-Preserving Personalized Advice with Zero-Knowledge Proofs and LLMs**|Hiroki Watanabe et.al.|[2502.06425](http://arxiv.org/abs/2502.06425)|null|
 |**2025-02-06**|**ExpProof : Operationalizing Explanations for Confidential Models with ZKPs**|Chhavi Yadav et.al.|[2502.03773](http://arxiv.org/abs/2502.03773)|null|
 |**2025-02-07**|**Robust and Secure Code Watermarking for Large Language Models via ML/Crypto Codesign**|Ruisi Zhang et.al.|[2502.02068](http://arxiv.org/abs/2502.02068)|null|
@@ -727,6 +730,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-11**|**PFedDST: Personalized Federated Learning with Decentralized Selection Training**|Mengchen Fan et.al.|[2502.07750](http://arxiv.org/abs/2502.07750)|null|
+|**2025-02-11**|**FedAPA: Server-side Gradient-Based Adaptive Personalized Aggregation for Federated Learning on Heterogeneous Data**|Yuxia Sun et.al.|[2502.07456](http://arxiv.org/abs/2502.07456)|null|
+|**2025-02-11**|**VLWE: Variety-based Learning with Errors for Vector Encryption through Algebraic Geometry**|Dongfang Zhao et.al.|[2502.07284](http://arxiv.org/abs/2502.07284)|null|
+|**2025-02-10**|**Zero-Knowledge Proof Frameworks: A Survey**|Nojan Sheybani et.al.|[2502.07063](http://arxiv.org/abs/2502.07063)|null|
+|**2025-02-10**|**Federated Continual Learning: Concepts, Challenges, and Solutions**|Parisa Hamedi et.al.|[2502.07059](http://arxiv.org/abs/2502.07059)|null|
+|**2025-02-10**|**Federated Sinkhorn**|Jeremy Kulcsar et.al.|[2502.07021](http://arxiv.org/abs/2502.07021)|null|
+|**2025-02-10**|**DROP: Poison Dilution via Knowledge Distillation for Federated Learning**|Georgios Syros et.al.|[2502.07011](http://arxiv.org/abs/2502.07011)|null|
 |**2025-02-10**|**A Fair Federated Learning Framework for Collaborative Network Traffic Prediction and Resource Allocation**|Saroj Kumar Panda et.al.|[2502.06743](http://arxiv.org/abs/2502.06743)|null|
 |**2025-02-10**|**Differentially Private Empirical Cumulative Distribution Functions**|Antoine Barczewski et.al.|[2502.06651](http://arxiv.org/abs/2502.06651)|null|
 |**2025-02-10**|**A Survey on Video Analytics in Cloud-Edge-Terminal Collaborative Systems**|Linxiao Gong et.al.|[2502.06581](http://arxiv.org/abs/2502.06581)|null|
