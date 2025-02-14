@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.13
+## Updated on 2025.02.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -20,7 +20,7 @@ layout: default
 |**2025-02-07**|**$\mathsf{CRATE}$ : Cross-Rollup Atomic Transaction Execution**|Ioannis Kaklamanis et.al.|[2502.04659](http://arxiv.org/abs/2502.04659)|null|
 |**2025-02-04**|**SCALM: Detecting Bad Practices in Smart Contracts Through LLMs**|Zongwei Li et.al.|[2502.04347](http://arxiv.org/abs/2502.04347)|null|
 |**2025-02-05**|**Cryptocurrency Network Analysis**|Natkamon Tovanich et.al.|[2502.03411](http://arxiv.org/abs/2502.03411)|null|
-|**2025-02-05**|**Thetacrypt: A Distributed Service for Threshold Cryptography**|Mariarosaria Barbaraci et.al.|[2502.03247](http://arxiv.org/abs/2502.03247)|null|
+|**2025-02-05**|**Thetacrypt: A Distributed Service for Threshold Cryptography**|Mariarosaria Barbaraci et.al.|[2502.03247](http://arxiv.org/abs/2502.03247)|**[link](https://github.com/cryptobern/thetacrypt)**|
 |**2025-02-04**|**Optimal Routing in the Presence of Hooks: Three Case Studies**|Tarun Chitra et.al.|[2502.02059](http://arxiv.org/abs/2502.02059)|**[link](https://github.com/kkulk/hooks)**|
 |**2025-01-31**|**JustAct+: Justified and Accountable Actions in Policy-Regulated, Multi-Domain Data Processing**|Christopher A. Esterhuyse et.al.|[2502.00138](http://arxiv.org/abs/2502.00138)|null|
 |**2025-01-31**|**Noninterference Analysis of Irreversible or Reversible Systems with Nondeterminism and Probabilities**|Andrea Esposito et.al.|[2501.19290](http://arxiv.org/abs/2501.19290)|null|
