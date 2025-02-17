@@ -584,7 +584,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-12**|**SLVR: Securely Leveraging Client Validation for Robust Federated Learning**|Jihye Choi et.al.|[2502.08055](http://arxiv.org/abs/2502.08055)|null|
 |**2025-02-11**|**Distributed Non-Interactive Zero-Knowledge Proofs**|Alex B. Grilo et.al.|[2502.07594](http://arxiv.org/abs/2502.07594)|null|
-|**2025-02-10**|**Zero-Knowledge Proof Frameworks: A Survey**|Nojan Sheybani et.al.|[2502.07063](http://arxiv.org/abs/2502.07063)|null|
+|**2025-02-14**|**Zero-Knowledge Proof Frameworks: A Systematic Survey**|Nojan Sheybani et.al.|[2502.07063](http://arxiv.org/abs/2502.07063)|null|
 |**2025-02-10**|**Generating Privacy-Preserving Personalized Advice with Zero-Knowledge Proofs and LLMs**|Hiroki Watanabe et.al.|[2502.06425](http://arxiv.org/abs/2502.06425)|null|
 |**2025-02-06**|**ExpProof : Operationalizing Explanations for Confidential Models with ZKPs**|Chhavi Yadav et.al.|[2502.03773](http://arxiv.org/abs/2502.03773)|null|
 |**2025-02-07**|**Robust and Secure Code Watermarking for Large Language Models via ML/Crypto Codesign**|Ruisi Zhang et.al.|[2502.02068](http://arxiv.org/abs/2502.02068)|null|
@@ -720,9 +720,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-14**|**Efficient Zero-Order Federated Finetuning of Language Models for Resource-Constrained Devices**|Mohamed Aboelenien Ahmed et.al.|[2502.10239](http://arxiv.org/abs/2502.10239)|null|
+|**2025-02-14**|**RIPOST: Two-Phase Private Decomposition for Multidimensional Data**|Ala Eddine Laouir et.al.|[2502.10207](http://arxiv.org/abs/2502.10207)|null|
+|**2025-02-14**|**RoadFed: A Multimodal Federated Learning System for Improving Road Safety**|Yachao Yuan et.al.|[2502.09978](http://arxiv.org/abs/2502.09978)|null|
+|**2025-02-13**|**Vector Linear Secure Aggregation**|Xihang Yuan et.al.|[2502.09817](http://arxiv.org/abs/2502.09817)|null|
+|**2025-02-13**|**A Survey on LLM-based News Recommender Systems**|Rongyao Wang et.al.|[2502.09797](http://arxiv.org/abs/2502.09797)|null|
+|**2025-02-13**|**Fine-Tuning Foundation Models with Federated Learning for Privacy Preserving Medical Time Series Forecasting**|Mahad Ali et.al.|[2502.09744](http://arxiv.org/abs/2502.09744)|null|
 |**2025-02-13**|**Towards Seamless Hierarchical Federated Learning under Intermittent Client Participation: A Stagewise Decision-Making Methodology**|Minghong Wu et.al.|[2502.09303](http://arxiv.org/abs/2502.09303)|null|
-|**2025-02-13**|**Commitment Schemes from OWFs with Applications to qOT**|Thomas Lorünser et.al.|[2502.09201](http://arxiv.org/abs/2502.09201)|null|
-|**2025-02-13**|**Use of Air Quality Sensor Network Data for Real-time Pollution-Aware POI Suggestion**|Giuseppe Fasano et.al.|[2502.09155](http://arxiv.org/abs/2502.09155)|null|
+|**2025-02-14**|**Commitment Schemes from OWFs with Applications to Quantum Oblivious Transfer**|Thomas Lorünser et.al.|[2502.09201](http://arxiv.org/abs/2502.09201)|null|
+|**2025-02-13**|**Use of Air Quality Sensor Network Data for Real-time Pollution-Aware POI Suggestion**|Giuseppe Fasano et.al.|[2502.09155](http://arxiv.org/abs/2502.09155)|**[link](https://github.com/airtownapp/airtown-application)**|
 |**2025-02-13**|**Vertical Federated Continual Learning via Evolving Prototype Knowledge**|Shuo Wang et.al.|[2502.09152](http://arxiv.org/abs/2502.09152)|null|
 |**2025-02-13**|**One-shot Federated Learning Methods: A Practical Guide**|Xiang Liu et.al.|[2502.09104](http://arxiv.org/abs/2502.09104)|null|
 |**2025-02-13**|**Privacy-Preserving Hybrid Ensemble Model for Network Anomaly Detection: Balancing Security and Data Protection**|Shaobo Liu et.al.|[2502.09001](http://arxiv.org/abs/2502.09001)|null|
