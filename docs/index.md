@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**DeFiScope: Detecting Various DeFi Price Manipulations with LLM Reasoning**|Juantao Zhong et.al.|[2502.11521](http://arxiv.org/abs/2502.11521)|null|
 |**2025-02-13**|**Logical foundations of Smart Contracts**|Kalonji Kalala et.al.|[2502.09232](http://arxiv.org/abs/2502.09232)|null|
 |**2025-02-12**|**SymGPT: Auditing Smart Contracts via Combining Symbolic Execution with Large Language Models**|Shihao Xia et.al.|[2502.07644](http://arxiv.org/abs/2502.07644)|null|
 |**2025-02-11**|**AiRacleX: Automated Detection of Price Oracle Manipulations via LLM-Driven Knowledge Mining and Prompt Generation**|Bo Gao et.al.|[2502.06348](http://arxiv.org/abs/2502.06348)|null|
@@ -582,6 +583,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Accelerating Elliptic Curve Point Additions on Versal AI Engine for Multi-scalar Multiplication**|Ayumi Ohno et.al.|[2502.11660](http://arxiv.org/abs/2502.11660)|null|
+|**2025-02-17**|**A Zero-Knowledge Proof for the Syndrome Decoding Problem in the Lee Metric**|Mladen Kovačević et.al.|[2502.11641](http://arxiv.org/abs/2502.11641)|null|
+|**2025-02-17**|**User-Centric Data Management in Decentralized Internet of Behaviors System**|Shiqi Zhang et.al.|[2502.11616](http://arxiv.org/abs/2502.11616)|null|
 |**2025-02-12**|**SLVR: Securely Leveraging Client Validation for Robust Federated Learning**|Jihye Choi et.al.|[2502.08055](http://arxiv.org/abs/2502.08055)|null|
 |**2025-02-11**|**Distributed Non-Interactive Zero-Knowledge Proofs**|Alex B. Grilo et.al.|[2502.07594](http://arxiv.org/abs/2502.07594)|null|
 |**2025-02-14**|**Zero-Knowledge Proof Frameworks: A Systematic Survey**|Nojan Sheybani et.al.|[2502.07063](http://arxiv.org/abs/2502.07063)|null|
@@ -720,6 +724,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**FedEAT: A Robustness Optimization Framework for Federated LLMs**|Yahao Pang et.al.|[2502.11863](http://arxiv.org/abs/2502.11863)|null|
+|**2025-02-17**|**Double Momentum and Error Feedback for Clipping with Fast Rates and Differential Privacy**|Rustem Islamov et.al.|[2502.11682](http://arxiv.org/abs/2502.11682)|null|
+|**2025-02-17**|**Evaluating the Performance of the DeepSeek Model in Confidential Computing Environment**|Ben Dong et.al.|[2502.11347](http://arxiv.org/abs/2502.11347)|null|
+|**2025-02-16**|**Ramp Up NTT in Record Time using GPU-Accelerated Algorithms and LLM-based Code Generation**|Yu Cui et.al.|[2502.11110](http://arxiv.org/abs/2502.11110)|null|
+|**2025-02-16**|**HawkEye: Statically and Accurately Profiling the Communication Cost of Models in Multi-party Learning**|Wenqiang Ruan et.al.|[2502.11029](http://arxiv.org/abs/2502.11029)|null|
+|**2025-02-15**|**Privacy Preservation through Practical Machine Unlearning**|Robert Dilworth et.al.|[2502.10635](http://arxiv.org/abs/2502.10635)|null|
+|**2025-02-14**|**Federated Learning-Driven Cybersecurity Framework for IoT Networks with Privacy-Preserving and Real-Time Threat Detection Capabilities**|Milad Rahmati et.al.|[2502.10599](http://arxiv.org/abs/2502.10599)|null|
 |**2025-02-14**|**Efficient Zero-Order Federated Finetuning of Language Models for Resource-Constrained Devices**|Mohamed Aboelenien Ahmed et.al.|[2502.10239](http://arxiv.org/abs/2502.10239)|null|
 |**2025-02-14**|**RIPOST: Two-Phase Private Decomposition for Multidimensional Data**|Ala Eddine Laouir et.al.|[2502.10207](http://arxiv.org/abs/2502.10207)|null|
 |**2025-02-14**|**RoadFed: A Multimodal Federated Learning System for Improving Road Safety**|Yachao Yuan et.al.|[2502.09978](http://arxiv.org/abs/2502.09978)|null|
