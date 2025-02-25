@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Order Fairness Evaluation of DAG-based ledgers**|Erwan Mahe et.al.|[2502.17270](http://arxiv.org/abs/2502.17270)|null|
+|**2025-02-24**|**MTVHunter: Smart Contracts Vulnerability Detection Based on Multi-Teacher Knowledge Translation**|Guokai Sun et.al.|[2502.16955](http://arxiv.org/abs/2502.16955)|null|
+|**2025-02-22**|**An Extended Pattern Collection for Blockchain-based Applications**|Xiwei Xu et.al.|[2502.16017](http://arxiv.org/abs/2502.16017)|null|
 |**2025-02-21**|**Blockchain-based Trust Management in Security Credential Management System for Vehicular Network**|SangHyun Byun et.al.|[2502.15653](http://arxiv.org/abs/2502.15653)|null|
 |**2025-02-20**|**A Quantum Signature Validation Algorithm for Efficient Detection of Tampered Transactions in Blockchain**|Jaime Torres et.al.|[2502.15023](http://arxiv.org/abs/2502.15023)|null|
 |**2025-02-20**|**Towards Secure Program Partitioning for Smart Contracts with LLM's In-Context Learning**|Ye Liu et.al.|[2502.14215](http://arxiv.org/abs/2502.14215)|null|
@@ -521,6 +524,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**CoT2Align: Cross-Chain of Thought Distillation via Optimal Transport Alignment for Language Models with Different Tokenizers**|Anh Duc Le et.al.|[2502.16806](http://arxiv.org/abs/2502.16806)|null|
 |**2025-02-19**|**Phantom Events: Demystifying the Issues of Log Forgery in Blockchain**|Yixuan Liu et.al.|[2502.13513](http://arxiv.org/abs/2502.13513)|null|
 |**2025-02-18**|**Atomic Smart Contract Interoperability with High Efficiency via Cross-Chain Integrated Execution**|Chaoyue Yin et.al.|[2502.12820](http://arxiv.org/abs/2502.12820)|null|
 |**2025-02-07**|**The Smart Contract Model**|Yackolley Amoussou-Guenou et.al.|[2502.05280](http://arxiv.org/abs/2502.05280)|null|
@@ -734,6 +738,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Robust Federated Learning in Unreliable Wireless Networks: A Client Selection Approach**|Yanmeng Wang et.al.|[2502.17260](http://arxiv.org/abs/2502.17260)|null|
+|**2025-02-24**|**Electrical Load Forecasting over Multihop Smart Metering Networks with Federated Learning**|Ratun Rahman et.al.|[2502.17226](http://arxiv.org/abs/2502.17226)|null|
+|**2025-02-24**|**Differential privacy guarantees of Markov chain Monte Carlo algorithms**|Andrea Bertazzi et.al.|[2502.17150](http://arxiv.org/abs/2502.17150)|null|
+|**2025-02-24**|**Forgetting Any Data at Any Time: A Theoretically Certified Unlearning Framework for Vertical Federated Learning**|Linian Wang et.al.|[2502.17081](http://arxiv.org/abs/2502.17081)|null|
+|**2025-02-24**|**APINT: A Full-Stack Framework for Acceleration of Privacy-Preserving Inference of Transformers based on Garbled Circuits**|Hyunjun Cho et.al.|[2502.16877](http://arxiv.org/abs/2502.16877)|null|
+|**2025-02-24**|**FedBM: Stealing Knowledge from Pre-trained Language Models for Heterogeneous Federated Learning**|Meilu Zhu et.al.|[2502.16832](http://arxiv.org/abs/2502.16832)|null|
+|**2025-02-24**|**VGFL-SA: Vertical Graph Federated Learning Structure Attack Based on Contrastive Learning**|Yang Chen et.al.|[2502.16793](http://arxiv.org/abs/2502.16793)|null|
+|**2025-02-24**|**CipherPrune: Efficient and Scalable Private Transformer Inference**|Yancheng Zhang et.al.|[2502.16782](http://arxiv.org/abs/2502.16782)|null|
+|**2025-02-23**|**FedDA-TSformer: Federated Domain Adaptation with Vision TimeSformer for Left Ventricle Segmentation on Gated Myocardial Perfusion SPECT Image**|Yehong Huang et.al.|[2502.16709](http://arxiv.org/abs/2502.16709)|null|
+|**2025-02-23**|**Exploring Incremental Unlearning: Techniques, Challenges, and Future Directions**|Sadia Qureshi et.al.|[2502.16708](http://arxiv.org/abs/2502.16708)|null|
 |**2025-02-21**|**Blockchain-based Trust Management in Security Credential Management System for Vehicular Network**|SangHyun Byun et.al.|[2502.15653](http://arxiv.org/abs/2502.15653)|null|
 |**2025-02-20**|**Distributed U-net model and Image Segmentation for Lung Cancer Detection**|Tianzuo Hu et.al.|[2502.14928](http://arxiv.org/abs/2502.14928)|null|
 |**2025-02-20**|**ReVision: A Dataset and Baseline VLM for Privacy-Preserving Task-Oriented Visual Instruction Rewriting**|Abhijit Mishra et.al.|[2502.14780](http://arxiv.org/abs/2502.14780)|null|
