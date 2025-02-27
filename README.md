@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**WakeMint: Detecting Sleepminting Vulnerabilities in NFT Smart Contracts**|Lei Xiao et.al.|[2502.19032](http://arxiv.org/abs/2502.19032)|null|
+|**2025-02-26**|**SolEval: Benchmarking Large Language Models for Repository-level Solidity Code Generation**|Zhiyuan Peng et.al.|[2502.18793](http://arxiv.org/abs/2502.18793)|null|
+|**2025-02-22**|**A Multi-Agent Framework for Automated Vulnerability Detection and Repair in Solidity and Move Smart Contracts**|Rabimba Karanjai et.al.|[2502.18515](http://arxiv.org/abs/2502.18515)|null|
 |**2025-02-24**|**Weaving the Cosmos: WASM-Powered Interchain Communication for AI Enabled Smart Contracts**|Rabimba Karanjai et.al.|[2502.17604](http://arxiv.org/abs/2502.17604)|null|
 |**2025-02-24**|**Order Fairness Evaluation of DAG-based ledgers**|Erwan Mahe et.al.|[2502.17270](http://arxiv.org/abs/2502.17270)|null|
 |**2025-02-24**|**MTVHunter: Smart Contracts Vulnerability Detection Based on Multi-Teacher Knowledge Translation**|Guokai Sun et.al.|[2502.16955](http://arxiv.org/abs/2502.16955)|null|
@@ -608,6 +611,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**A Survey of Zero-Knowledge Proof Based Verifiable Machine Learning**|Zhizhi Peng et.al.|[2502.18535](http://arxiv.org/abs/2502.18535)|null|
 |**2025-02-25**|**Yoimiya: A Scalable Framework for Optimal Resource Utilization in ZK-SNARK Systems**|Zheming Ye et.al.|[2502.18288](http://arxiv.org/abs/2502.18288)|null|
 |**2025-02-17**|**Accelerating Elliptic Curve Point Additions on Versal AI Engine for Multi-scalar Multiplication**|Ayumi Ohno et.al.|[2502.11660](http://arxiv.org/abs/2502.11660)|null|
 |**2025-02-18**|**A Zero-Knowledge Proof for the Syndrome Decoding Problem in the Lee Metric**|Mladen Kovačević et.al.|[2502.11641](http://arxiv.org/abs/2502.11641)|null|
@@ -752,6 +756,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-26**|**Towards Privacy-Preserving Anomaly-Based Intrusion Detection in Energy Communities**|Zeeshan Afzal et.al.|[2502.19154](http://arxiv.org/abs/2502.19154)|null|
+|**2025-02-26**|**Chemical knowledge-informed framework for privacy-aware retrosynthesis learning**|Guikun Chen et.al.|[2502.19119](http://arxiv.org/abs/2502.19119)|null|
+|**2025-02-26**|**FedCDC: A Collaborative Framework for Data Consumers in Federated Learning Market**|Zhuan Shi et.al.|[2502.19109](http://arxiv.org/abs/2502.19109)|null|
+|**2025-02-26**|**Robust Over-the-Air Computation with Type-Based Multiple Access**|Marc Martinez-Gost et.al.|[2502.19014](http://arxiv.org/abs/2502.19014)|null|
+|**2025-02-26**|**CLLoRA: An Approach to Measure the Effects of the Context Length for LLM Fine-Tuning**|Ping Zhang et.al.|[2502.18910](http://arxiv.org/abs/2502.18910)|null|
+|**2025-02-25**|**Differentially Private Federated Learning With Time-Adaptive Privacy Spending**|Shahrzad Kiani et.al.|[2502.18706](http://arxiv.org/abs/2502.18706)|null|
+|**2025-02-25**|**H-FLTN: A Privacy-Preserving Hierarchical Framework for Electric Vehicle Spatio-Temporal Charge Prediction**|Robert Marlin et.al.|[2502.18697](http://arxiv.org/abs/2502.18697)|null|
+|**2025-02-25**|**Independent Mobility GPT (IDM-GPT): A Self-Supervised Multi-Agent Large Language Model Framework for Customized Traffic Mobility Analysis Using Machine Learning Models**|Fengze Yang et.al.|[2502.18652](http://arxiv.org/abs/2502.18652)|null|
+|**2025-02-25**|**On the Privacy-Preserving Properties of Spiking Neural Networks with Unique Surrogate Gradients and Quantization Levels**|Ayana Moshruba et.al.|[2502.18623](http://arxiv.org/abs/2502.18623)|null|
+|**2025-02-25**|**Differentially Private Iterative Screening Rules for Linear Regression**|Amol Khanna et.al.|[2502.18578](http://arxiv.org/abs/2502.18578)|null|
 |**2025-02-25**|**Personalized Federated Learning for Egocentric Video Gaze Estimation with Comprehensive Parameter Frezzing**|Yuhu Feng et.al.|[2502.18123](http://arxiv.org/abs/2502.18123)|null|
 |**2025-02-25**|**The Built-In Robustness of Decentralized Federated Averaging to Bad Data**|Samuele Sabella et.al.|[2502.18097](http://arxiv.org/abs/2502.18097)|null|
 |**2025-02-25**|**Design and implementation of a distributed security threat detection system integrating federated learning and multimodal LLM**|Yuqing Wang et.al.|[2502.17763](http://arxiv.org/abs/2502.17763)|null|
