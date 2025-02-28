@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.27
+## Updated on 2025.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -19,7 +19,7 @@ layout: default
 |**2025-02-22**|**A Multi-Agent Framework for Automated Vulnerability Detection and Repair in Solidity and Move Smart Contracts**|Rabimba Karanjai et.al.|[2502.18515](http://arxiv.org/abs/2502.18515)|null|
 |**2025-02-24**|**Weaving the Cosmos: WASM-Powered Interchain Communication for AI Enabled Smart Contracts**|Rabimba Karanjai et.al.|[2502.17604](http://arxiv.org/abs/2502.17604)|null|
 |**2025-02-24**|**Order Fairness Evaluation of DAG-based ledgers**|Erwan Mahe et.al.|[2502.17270](http://arxiv.org/abs/2502.17270)|null|
-|**2025-02-24**|**MTVHunter: Smart Contracts Vulnerability Detection Based on Multi-Teacher Knowledge Translation**|Guokai Sun et.al.|[2502.16955](http://arxiv.org/abs/2502.16955)|null|
+|**2025-02-24**|**MTVHunter: Smart Contracts Vulnerability Detection Based on Multi-Teacher Knowledge Translation**|Guokai Sun et.al.|[2502.16955](http://arxiv.org/abs/2502.16955)|**[link](https://github.com/KD-SCVD/MTVHunter)**|
 |**2025-02-22**|**An Extended Pattern Collection for Blockchain-based Applications**|Xiwei Xu et.al.|[2502.16017](http://arxiv.org/abs/2502.16017)|null|
 |**2025-02-21**|**Blockchain-based Trust Management in Security Credential Management System for Vehicular Network**|SangHyun Byun et.al.|[2502.15653](http://arxiv.org/abs/2502.15653)|null|
 |**2025-02-20**|**A Quantum Signature Validation Algorithm for Efficient Detection of Tampered Transactions in Blockchain**|Jaime Torres et.al.|[2502.15023](http://arxiv.org/abs/2502.15023)|null|
