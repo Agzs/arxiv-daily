@@ -20,7 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-26**|**WakeMint: Detecting Sleepminting Vulnerabilities in NFT Smart Contracts**|Lei Xiao et.al.|[2502.19032](http://arxiv.org/abs/2502.19032)|null|
+|**2025-02-28**|**Managing Federated Learning on Decentralized Infrastructures as a Reputation-based Collaborative Workflow**|Yuandou Wang et.al.|[2502.20882](http://arxiv.org/abs/2502.20882)|null|
+|**2025-02-27**|**HELENE: An Open-Source High-Security Privacy-Preserving Blockchain Based System for Automating and Managing Laboratory Health Tests**|Gabriel Fernández-Blanco et.al.|[2502.20477](http://arxiv.org/abs/2502.20477)|null|
+|**2025-02-26**|**WakeMint: Detecting Sleepminting Vulnerabilities in NFT Smart Contracts**|Lei Xiao et.al.|[2502.19032](http://arxiv.org/abs/2502.19032)|**[link](https://github.com/lei-xiao2/wakemint2)**|
 |**2025-02-26**|**SolEval: Benchmarking Large Language Models for Repository-level Solidity Code Generation**|Zhiyuan Peng et.al.|[2502.18793](http://arxiv.org/abs/2502.18793)|null|
 |**2025-02-22**|**A Multi-Agent Framework for Automated Vulnerability Detection and Repair in Solidity and Move Smart Contracts**|Rabimba Karanjai et.al.|[2502.18515](http://arxiv.org/abs/2502.18515)|null|
 |**2025-02-24**|**Weaving the Cosmos: WASM-Powered Interchain Communication for AI Enabled Smart Contracts**|Rabimba Karanjai et.al.|[2502.17604](http://arxiv.org/abs/2502.17604)|null|
@@ -757,6 +759,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**QFAL: Quantum Federated Adversarial Learning**|Walid El Maouaki et.al.|[2502.21171](http://arxiv.org/abs/2502.21171)|null|
+|**2025-02-28**|**FedDyMem: Efficient Federated Learning with Dynamic Memory and Memory-Reduce for Unsupervised Image Anomaly Detection**|Silin Chen et.al.|[2502.21012](http://arxiv.org/abs/2502.21012)|null|
+|**2025-02-28**|**The Effect of Hop-count Modification Attack on Random Walk-based SLP Schemes Developed forWSNs: a Study**|Manjula Rajaa et.al.|[2502.20902](http://arxiv.org/abs/2502.20902)|null|
+|**2025-02-28**|**Managing Federated Learning on Decentralized Infrastructures as a Reputation-based Collaborative Workflow**|Yuandou Wang et.al.|[2502.20882](http://arxiv.org/abs/2502.20882)|null|
+|**2025-02-28**|**Generating Clinically Realistic EHR Data via a Hierarchy- and Semantics-Guided Transformer**|Guanglin Zhou et.al.|[2502.20719](http://arxiv.org/abs/2502.20719)|null|
+|**2025-02-28**|**Unlearning through Knowledge Overwriting: Reversible Federated Unlearning via Selective Sparse Adapter**|Zhengyi Zhong et.al.|[2502.20709](http://arxiv.org/abs/2502.20709)|null|
+|**2025-02-28**|**Differentially Private Recursive Least Squares Estimation for ARX Systems with Multi-Participants**|Jianwei Tan et.al.|[2502.20700](http://arxiv.org/abs/2502.20700)|null|
+|**2025-02-28**|**FedConv: A Learning-on-Model Paradigm for Heterogeneous Federated Clients**|Leming Shen et.al.|[2502.20639](http://arxiv.org/abs/2502.20639)|**[link](https://github.com/lemingshen/FedConv)**|
+|**2025-02-28**|**Towards Privacy-Preserving Split Learning: Destabilizing Adversarial Inference and Reconstruction Attacks in the Cloud**|Griffin Higgins et.al.|[2502.20629](http://arxiv.org/abs/2502.20629)|null|
+|**2025-02-27**|**DPZV: Resource Efficient ZO Optimization For Differentially Private VFL**|Jianing Zhang et.al.|[2502.20565](http://arxiv.org/abs/2502.20565)|null|
 |**2025-02-27**|**GreenDFL: a Framework for Assessing the Sustainability of Decentralized Federated Learning Systems**|Chao Feng et.al.|[2502.20242](http://arxiv.org/abs/2502.20242)|null|
 |**2025-02-27**|**Can Textual Gradient Work in Federated Learning?**|Minghui Chen et.al.|[2502.19980](http://arxiv.org/abs/2502.19980)|null|
 |**2025-02-27**|**Model-Free Privacy Preserving Power Flow Analysis in Distribution Networks**|Dong Liu et.al.|[2502.19912](http://arxiv.org/abs/2502.19912)|null|
