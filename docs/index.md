@@ -530,7 +530,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-25**|**CoT2Align: Cross-Chain of Thought Distillation via Optimal Transport Alignment for Language Models with Different Tokenizers**|Anh Duc Le et.al.|[2502.16806](http://arxiv.org/abs/2502.16806)|null|
+|**2025-03-01**|**CoT2Align: Cross-Chain of Thought Distillation via Optimal Transport Alignment for Language Models with Different Tokenizers**|Anh Duc Le et.al.|[2502.16806](http://arxiv.org/abs/2502.16806)|null|
 |**2025-02-19**|**Phantom Events: Demystifying the Issues of Log Forgery in Blockchain**|Yixuan Liu et.al.|[2502.13513](http://arxiv.org/abs/2502.13513)|null|
 |**2025-02-18**|**Atomic Smart Contract Interoperability with High Efficiency via Cross-Chain Integrated Execution**|Chaoyue Yin et.al.|[2502.12820](http://arxiv.org/abs/2502.12820)|null|
 |**2025-02-07**|**The Smart Contract Model**|Yackolley Amoussou-Guenou et.al.|[2502.05280](http://arxiv.org/abs/2502.05280)|null|
