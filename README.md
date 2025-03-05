@@ -20,6 +20,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**ESSPI: ECDSA/Schnorr Signed Program Input for BitVMX**|Sergio Demian Lerner et.al.|[2503.02772](http://arxiv.org/abs/2503.02772)|null|
+|**2025-03-03**|**Protecting DeFi Platforms against Non-Price Flash Loan Attacks**|Abdulrahman Alhaidari et.al.|[2503.01944](http://arxiv.org/abs/2503.01944)|null|
+|**2025-03-03**|**An Empirical Smart Contracts Latency Analysis on Ethereum Blockchain for Trustworthy Inter-Provider Agreements**|Farhana Javed et.al.|[2503.01397](http://arxiv.org/abs/2503.01397)|null|
+|**2025-03-03**|**SolBench: A Dataset and Benchmark for Evaluating Functional Correctness in Solidity Code Completion and Repair**|Zaoyu Chen et.al.|[2503.01098](http://arxiv.org/abs/2503.01098)|null|
+|**2025-02-27**|**CrowdAL: Towards a Blockchain-empowered Active Learning System in Crowd Data Labeling**|Shaojie Hou et.al.|[2503.00066](http://arxiv.org/abs/2503.00066)|null|
 |**2025-02-28**|**Managing Federated Learning on Decentralized Infrastructures as a Reputation-based Collaborative Workflow**|Yuandou Wang et.al.|[2502.20882](http://arxiv.org/abs/2502.20882)|null|
 |**2025-02-27**|**HELENE: An Open-Source High-Security Privacy-Preserving Blockchain Based System for Automating and Managing Laboratory Health Tests**|Gabriel Fernández-Blanco et.al.|[2502.20477](http://arxiv.org/abs/2502.20477)|null|
 |**2025-02-26**|**WakeMint: Detecting Sleepminting Vulnerabilities in NFT Smart Contracts**|Lei Xiao et.al.|[2502.19032](http://arxiv.org/abs/2502.19032)|**[link](https://github.com/lei-xiao2/wakemint2)**|
@@ -613,6 +618,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-27**|**CrowdAL: Towards a Blockchain-empowered Active Learning System in Crowd Data Labeling**|Shaojie Hou et.al.|[2503.00066](http://arxiv.org/abs/2503.00066)|null|
 |**2025-02-27**|**Model-Free Privacy Preserving Power Flow Analysis in Distribution Networks**|Dong Liu et.al.|[2502.19912](http://arxiv.org/abs/2502.19912)|null|
 |**2025-02-25**|**A Survey of Zero-Knowledge Proof Based Verifiable Machine Learning**|Zhizhi Peng et.al.|[2502.18535](http://arxiv.org/abs/2502.18535)|null|
 |**2025-02-25**|**Yoimiya: A Scalable Framework for Optimal Resource Utilization in ZK-SNARK Systems**|Zheming Ye et.al.|[2502.18288](http://arxiv.org/abs/2502.18288)|null|
@@ -759,6 +765,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**Privacy and Accuracy-Aware AI/ML Model Deduplication**|Hong Guan et.al.|[2503.02862](http://arxiv.org/abs/2503.02862)|null|
+|**2025-03-04**|**Federated Learning for Privacy-Preserving Feedforward Control in Multi-Agent Systems**|Jakob Weber et.al.|[2503.02693](http://arxiv.org/abs/2503.02693)|**[link](https://github.com/j-cap/FL-based-neural-FF-control)**|
+|**2025-03-04**|**Federated nnU-Net for Privacy-Preserving Medical Image Segmentation**|Grzegorz Skorupko et.al.|[2503.02549](http://arxiv.org/abs/2503.02549)|null|
+|**2025-03-04**|**Privacy Preservation Techniques (PPTs) in IoT Systems: A Scoping Review and Future Directions**|Emmanuel Alalade et.al.|[2503.02455](http://arxiv.org/abs/2503.02455)|null|
+|**2025-03-04**|**AugFL: Augmenting Federated Learning with Pretrained Models**|Sheng Yue et.al.|[2503.02154](http://arxiv.org/abs/2503.02154)|null|
+|**2025-03-03**|**Video-DPRP: A Differentially Private Approach for Visual Privacy-Preserving Video Human Activity Recognition**|Allassan Tchangmena A Nken et.al.|[2503.02132](http://arxiv.org/abs/2503.02132)|null|
+|**2025-03-03**|**SLAP: Secure Location-proof and Anonymous Privacy-preserving Spectrum Access**|Saleh Darzi et.al.|[2503.02019](http://arxiv.org/abs/2503.02019)|null|
+|**2025-03-03**|**A Lightweight and Secure Deep Learning Model for Privacy-Preserving Federated Learning in Intelligent Enterprises**|Reza Fotohi et.al.|[2503.02017](http://arxiv.org/abs/2503.02017)|null|
+|**2025-03-03**|**GRAIN: Exact Graph Reconstruction from Gradients**|Maria Drencheva et.al.|[2503.01838](http://arxiv.org/abs/2503.01838)|null|
+|**2025-03-03**|**SHADE-AD: An LLM-Based Framework for Synthesizing Activity Data of Alzheimer's Patients**|Heming Fu et.al.|[2503.01768](http://arxiv.org/abs/2503.01768)|null|
 |**2025-02-28**|**QFAL: Quantum Federated Adversarial Learning**|Walid El Maouaki et.al.|[2502.21171](http://arxiv.org/abs/2502.21171)|null|
 |**2025-02-28**|**FedDyMem: Efficient Federated Learning with Dynamic Memory and Memory-Reduce for Unsupervised Image Anomaly Detection**|Silin Chen et.al.|[2502.21012](http://arxiv.org/abs/2502.21012)|null|
 |**2025-02-28**|**The Effect of Hop-count Modification Attack on Random Walk-based SLP Schemes Developed forWSNs: a Study**|Manjula Rajaa et.al.|[2502.20902](http://arxiv.org/abs/2502.20902)|null|
