@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Lite-PoT: Practical Powers-of-Tau Setup Ceremony**|Lucien K. L. Ng et.al.|[2503.04549](http://arxiv.org/abs/2503.04549)|null|
+|**2025-03-06**|**DTL: Data Tumbling Layer. A Composable Unlinkability for Smart Contracts**|Mohsen Minaei et.al.|[2503.04260](http://arxiv.org/abs/2503.04260)|null|
 |**2025-03-05**|**Access Specification-Aware Software Transactional Memory Techniques for Efficient Execution of Smart Contract Transactions**|Parwat Singh Anjana et.al.|[2503.03203](http://arxiv.org/abs/2503.03203)|null|
 |**2025-03-04**|**ESSPI: ECDSA/Schnorr Signed Program Input for BitVMX**|Sergio Demian Lerner et.al.|[2503.02772](http://arxiv.org/abs/2503.02772)|null|
 |**2025-03-03**|**Protecting DeFi Platforms against Non-Price Flash Loan Attacks**|Abdulrahman Alhaidari et.al.|[2503.01944](http://arxiv.org/abs/2503.01944)|null|
@@ -766,6 +768,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Iris Style Transfer: Enhancing Iris Recognition with Style Features and Privacy Preservation through Neural Style Transfer**|Mengdi Wang et.al.|[2503.04707](http://arxiv.org/abs/2503.04707)|null|
+|**2025-03-06**|**Fundamental Limits of Hierarchical Secure Aggregation with Cyclic User Association**|Xiang Zhang et.al.|[2503.04564](http://arxiv.org/abs/2503.04564)|null|
+|**2025-03-06**|**Lite-PoT: Practical Powers-of-Tau Setup Ceremony**|Lucien K. L. Ng et.al.|[2503.04549](http://arxiv.org/abs/2503.04549)|null|
+|**2025-03-06**|**Federated Dynamic Modeling and Learning for Spatiotemporal Data Forecasting**|Thien Pham et.al.|[2503.04528](http://arxiv.org/abs/2503.04528)|null|
+|**2025-03-06**|**Runtime Backdoor Detection for Federated Learning via Representational Dissimilarity Analysis**|Xiyue Zhang et.al.|[2503.04473](http://arxiv.org/abs/2503.04473)|null|
+|**2025-03-06**|**Privacy Preserving and Robust Aggregation for Cross-Silo Federated Learning in Non-IID Settings**|Marco Arazzi et.al.|[2503.04451](http://arxiv.org/abs/2503.04451)|null|
+|**2025-03-06**|**InFL-UX: A Toolkit for Web-Based Interactive Federated Learning**|Tim Maurer et.al.|[2503.04318](http://arxiv.org/abs/2503.04318)|null|
+|**2025-03-06**|**One-Shot Clustering for Federated Learning**|Maciej Krzysztof Zuziak et.al.|[2503.04231](http://arxiv.org/abs/2503.04231)|null|
+|**2025-03-06**|**KidneyTalk-open: No-code Deployment of a Private Large Language Model with Medical Documentation-Enhanced Knowledge Database for Kidney Disease**|Yongchao Long et.al.|[2503.04153](http://arxiv.org/abs/2503.04153)|null|
+|**2025-03-06**|**LiteChain: A Lightweight Blockchain for Verifiable and Scalable Federated Learning in Massive Edge Networks**|Handi Chen et.al.|[2503.04140](http://arxiv.org/abs/2503.04140)|null|
 |**2025-03-05**|**Towards Trustworthy Federated Learning**|Alina Basharat et.al.|[2503.03684](http://arxiv.org/abs/2503.03684)|null|
 |**2025-03-05**|**Token-Level Privacy in Large Language Models**|Re'em Harel et.al.|[2503.03652](http://arxiv.org/abs/2503.03652)|null|
 |**2025-03-05**|**Federated Learning for Predicting Mild Cognitive Impairment to Dementia Conversion**|Gaurang Sharma et.al.|[2503.03489](http://arxiv.org/abs/2503.03489)|null|
