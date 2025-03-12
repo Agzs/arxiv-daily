@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**Efficient Query Verification for Blockchain Superlight Clients Using SNARKs**|Stefano De Angelis et.al.|[2503.08359](http://arxiv.org/abs/2503.08359)|null|
 |**2025-03-07**|**Universal Scalability in Declarative Program Analysis (with Choice-Based Combination Pruning)**|Anastasios Antoniadis et.al.|[2503.05945](http://arxiv.org/abs/2503.05945)|null|
 |**2025-03-06**|**Lite-PoT: Practical Powers-of-Tau Setup Ceremony**|Lucien K. L. Ng et.al.|[2503.04549](http://arxiv.org/abs/2503.04549)|null|
 |**2025-03-06**|**DTL: Data Tumbling Layer. A Composable Unlinkability for Smart Contracts**|Mohsen Minaei et.al.|[2503.04260](http://arxiv.org/abs/2503.04260)|null|
@@ -757,6 +758,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**Extra Clients at No Extra Cost: Overcome Data Heterogeneity in Federated Learning with Filter Decomposition**|Wei Chen et.al.|[2503.08652](http://arxiv.org/abs/2503.08652)|null|
+|**2025-03-11**|**Regularized Federated Methods with Universal Guarantees for Simple Bilevel Optimization**|Mohammadjavad Ebrahimi et.al.|[2503.08634](http://arxiv.org/abs/2503.08634)|null|
+|**2025-03-11**|**Prototype-based Heterogeneous Federated Learning for Blade Icing Detection in Wind Turbines with Class Imbalanced Data**|Lele Qi et.al.|[2503.08325](http://arxiv.org/abs/2503.08325)|null|
+|**2025-03-11**|**Privacy for Free: Leveraging Local Differential Privacy Perturbed Data from Multiple Services**|Rong Du et.al.|[2503.08297](http://arxiv.org/abs/2503.08297)|null|
+|**2025-03-11**|**Will LLMs Scaling Hit the Wall? Breaking Barriers via Distributed Resources on Massive Edge Devices**|Tao Shen et.al.|[2503.08223](http://arxiv.org/abs/2503.08223)|null|
+|**2025-03-11**|**Scaling Probabilistic Circuits via Data Partitioning**|Jonas Seng et.al.|[2503.08141](http://arxiv.org/abs/2503.08141)|null|
+|**2025-03-11**|**PRISM: Privacy-Preserving Improved Stochastic Masking for Federated Generative Models**|Kyeongkook Seo et.al.|[2503.08085](http://arxiv.org/abs/2503.08085)|null|
+|**2025-03-11**|**Detecting Backdoor Attacks in Federated Learning via Direction Alignment Inspection**|Jiahao Xu et.al.|[2503.07978](http://arxiv.org/abs/2503.07978)|null|
+|**2025-03-10**|**Right Reward Right Time for Federated Learning**|Thanh Linh Nguyen et.al.|[2503.07869](http://arxiv.org/abs/2503.07869)|null|
+|**2025-03-10**|**Self-supervised Normality Learning and Divergence Vector-guided Model Merging for Zero-shot Congenital Heart Disease Detection in Fetal Ultrasound Videos**|Pramit Saha et.al.|[2503.07799](http://arxiv.org/abs/2503.07799)|null|
 |**2025-03-10**|**Open-Set Gait Recognition from Sparse mmWave Radar Point Clouds**|Riccardo Mazzieri et.al.|[2503.07435](http://arxiv.org/abs/2503.07435)|null|
 |**2025-03-10**|**Federated Learning in NTNs: Design, Architecture and Challenges**|Amin Farajzadeh et.al.|[2503.07272](http://arxiv.org/abs/2503.07272)|null|
 |**2025-03-10**|**COMODO: Cross-Modal Video-to-IMU Distillation for Efficient Egocentric Human Activity Recognition**|Baiyu Chen et.al.|[2503.07259](http://arxiv.org/abs/2503.07259)|**[link](https://github.com/Breezelled/COMODO)**|
