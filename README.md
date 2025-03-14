@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-13**|**Public Channel-Based Fair Exchange Protocols with Advertising**|Pierpaolo Della Monica et.al.|[2503.10411](http://arxiv.org/abs/2503.10411)|null|
+|**2025-03-13**|**NumScout: Unveiling Numerical Defects in Smart Contracts using LLM-Pruning Symbolic Execution**|Jiachi Chen et.al.|[2503.10041](http://arxiv.org/abs/2503.10041)|null|
 |**2025-03-12**|**RaceTEE: A Practical Privacy-Preserving Off-Chain Smart Contract Execution Architecture**|Keyu Zhang et.al.|[2503.09317](http://arxiv.org/abs/2503.09317)|null|
 |**2025-03-10**|**A Secure Blockchain-Assisted Framework for Real-Time Maritime Environmental Compliance Monitoring**|William C. Quigley et.al.|[2503.08707](http://arxiv.org/abs/2503.08707)|null|
 |**2025-03-11**|**Efficient Query Verification for Blockchain Superlight Clients Using SNARKs**|Stefano De Angelis et.al.|[2503.08359](http://arxiv.org/abs/2503.08359)|null|
@@ -772,6 +774,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-13**|**FedPCA: Noise-Robust Fair Federated Learning via Performance-Capacity Analysis**|Nannan Wu et.al.|[2503.10567](http://arxiv.org/abs/2503.10567)|null|
+|**2025-03-13**|**dFLMoE: Decentralized Federated Learning via Mixture of Experts for Medical Data Analysis**|Luyuan Xie et.al.|[2503.10412](http://arxiv.org/abs/2503.10412)|null|
+|**2025-03-13**|**A Multi-Modal Federated Learning Framework for Remote Sensing Image Classification**|Barış Büyüktaş et.al.|[2503.10262](http://arxiv.org/abs/2503.10262)|null|
+|**2025-03-13**|**Moss: Proxy Model-based Full-Weight Aggregation in Federated Learning with Heterogeneous Models**|Yifeng Cai et.al.|[2503.10218](http://arxiv.org/abs/2503.10218)|null|
+|**2025-03-13**|**Optimal Privacy-Preserving Distributed Median Consensus**|Wenrui Yu et.al.|[2503.10147](http://arxiv.org/abs/2503.10147)|null|
+|**2025-03-13**|**One-Shot Federated Unsupervised Domain Adaptation with Scaled Entropy Attention and Multi-Source Smoothed Pseudo Labeling**|Ali Abedi et.al.|[2503.10020](http://arxiv.org/abs/2503.10020)|null|
+|**2025-03-13**|**PluralLLM: Pluralistic Alignment in LLMs via Federated Learning**|Mahmoud Srewa et.al.|[2503.09925](http://arxiv.org/abs/2503.09925)|null|
+|**2025-03-12**|**A Comprehensive Review on Understanding the Decentralized and Collaborative Approach in Machine Learning**|Sarwar Saif et.al.|[2503.09833](http://arxiv.org/abs/2503.09833)|null|
 |**2025-03-12**|**Fair Federated Medical Image Classification Against Quality Shift via Inter-Client Progressive State Matching**|Nannan Wu et.al.|[2503.09587](http://arxiv.org/abs/2503.09587)|null|
 |**2025-03-12**|**Optimizing QoE-Privacy Tradeoff for Proactive VR Streaming**|Xing Wei et.al.|[2503.09448](http://arxiv.org/abs/2503.09448)|null|
 |**2025-03-12**|**Mitigating Membership Inference Vulnerability in Personalized Federated Learning**|Kangsoo Jung et.al.|[2503.09414](http://arxiv.org/abs/2503.09414)|null|
