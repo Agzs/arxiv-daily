@@ -20,12 +20,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**SmartShards: Churn-Tolerant Continuously Available Distributed Ledger**|Joseph Oglio et.al.|[2503.11077](http://arxiv.org/abs/2503.11077)|null|
 |**2025-03-13**|**Public Channel-Based Fair Exchange Protocols with Advertising**|Pierpaolo Della Monica et.al.|[2503.10411](http://arxiv.org/abs/2503.10411)|null|
 |**2025-03-13**|**NumScout: Unveiling Numerical Defects in Smart Contracts using LLM-Pruning Symbolic Execution**|Jiachi Chen et.al.|[2503.10041](http://arxiv.org/abs/2503.10041)|null|
 |**2025-03-12**|**RaceTEE: A Practical Privacy-Preserving Off-Chain Smart Contract Execution Architecture**|Keyu Zhang et.al.|[2503.09317](http://arxiv.org/abs/2503.09317)|**[link](https://github.com/kerryzhangcode/RaceTEE)**|
 |**2025-03-10**|**A Secure Blockchain-Assisted Framework for Real-Time Maritime Environmental Compliance Monitoring**|William C. Quigley et.al.|[2503.08707](http://arxiv.org/abs/2503.08707)|null|
 |**2025-03-11**|**Efficient Query Verification for Blockchain Superlight Clients Using SNARKs**|Stefano De Angelis et.al.|[2503.08359](http://arxiv.org/abs/2503.08359)|null|
 |**2025-03-07**|**Universal Scalability in Declarative Program Analysis (with Choice-Based Combination Pruning)**|Anastasios Antoniadis et.al.|[2503.05945](http://arxiv.org/abs/2503.05945)|null|
+|**2025-03-14**|**The Beginner's Textbook for Fully Homomorphic Encryption**|Ronny Ko et.al.|[2503.05136](http://arxiv.org/abs/2503.05136)|null|
 |**2025-03-06**|**Lite-PoT: Practical Powers-of-Tau Setup Ceremony**|Lucien K. L. Ng et.al.|[2503.04549](http://arxiv.org/abs/2503.04549)|null|
 |**2025-03-06**|**DTL: Data Tumbling Layer. A Composable Unlinkability for Smart Contracts**|Mohsen Minaei et.al.|[2503.04260](http://arxiv.org/abs/2503.04260)|null|
 |**2025-03-05**|**Access Specification-Aware Software Transactional Memory Techniques for Efficient Execution of Smart Contract Transactions**|Parwat Singh Anjana et.al.|[2503.03203](http://arxiv.org/abs/2503.03203)|null|
@@ -774,6 +776,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**Federated Koopman-Reservoir Learning for Large-Scale Multivariate Time-Series Anomaly Detection**|Long Tan Le et.al.|[2503.11255](http://arxiv.org/abs/2503.11255)|null|
+|**2025-03-14**|**PrivacyScalpel: Enhancing LLM Privacy via Interpretable Feature Intervention with Sparse Autoencoders**|Ahmed Frikha et.al.|[2503.11232](http://arxiv.org/abs/2503.11232)|null|
+|**2025-03-14**|**Cross-Platform Benchmarking of the FHE Libraries: Novel Insights into SEAL and Openfhe**|Faneela et.al.|[2503.11216](http://arxiv.org/abs/2503.11216)|null|
+|**2025-03-14**|**Enabling Weak Client Participation via On-device Knowledge Distillation in Heterogenous Federated Learning**|Jihyun Lim et.al.|[2503.11151](http://arxiv.org/abs/2503.11151)|null|
+|**2025-03-14**|**Layer-wise Update Aggregation with Recycling for Communication-Efficient Federated Learning**|Jisoo Kim et.al.|[2503.11146](http://arxiv.org/abs/2503.11146)|null|
+|**2025-03-14**|**Towards Privacy-preserved Pre-training of Remote Sensing Foundation Models with Federated Mutual-guidance Learning**|Jieyi Tan et.al.|[2503.11051](http://arxiv.org/abs/2503.11051)|null|
+|**2025-03-14**|**FedOSAA: Improving Federated Learning with One-Step Anderson Acceleration**|Xue Feng et.al.|[2503.10961](http://arxiv.org/abs/2503.10961)|null|
+|**2025-03-13**|**Byzantine-Resilient Federated Learning via Distributed Optimization**|Yufei Xia et.al.|[2503.10792](http://arxiv.org/abs/2503.10792)|null|
 |**2025-03-13**|**FedPCA: Noise-Robust Fair Federated Learning via Performance-Capacity Analysis**|Nannan Wu et.al.|[2503.10567](http://arxiv.org/abs/2503.10567)|null|
 |**2025-03-14**|**dFLMoE: Decentralized Federated Learning via Mixture of Experts for Medical Data Analysis**|Luyuan Xie et.al.|[2503.10412](http://arxiv.org/abs/2503.10412)|null|
 |**2025-03-13**|**A Multi-Modal Federated Learning Framework for Remote Sensing Image Classification**|Barış Büyüktaş et.al.|[2503.10262](http://arxiv.org/abs/2503.10262)|null|
