@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.18
+## Updated on 2025.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-14**|**SmartShards: Churn-Tolerant Continuously Available Distributed Ledger**|Joseph Oglio et.al.|[2503.11077](http://arxiv.org/abs/2503.11077)|null|
 |**2025-03-13**|**Public Channel-Based Fair Exchange Protocols with Advertising**|Pierpaolo Della Monica et.al.|[2503.10411](http://arxiv.org/abs/2503.10411)|null|
-|**2025-03-13**|**NumScout: Unveiling Numerical Defects in Smart Contracts using LLM-Pruning Symbolic Execution**|Jiachi Chen et.al.|[2503.10041](http://arxiv.org/abs/2503.10041)|null|
+|**2025-03-13**|**NumScout: Unveiling Numerical Defects in Smart Contracts using LLM-Pruning Symbolic Execution**|Jiachi Chen et.al.|[2503.10041](http://arxiv.org/abs/2503.10041)|**[link](https://github.com/numscout/numscout)**|
 |**2025-03-12**|**RaceTEE: A Practical Privacy-Preserving Off-Chain Smart Contract Execution Architecture**|Keyu Zhang et.al.|[2503.09317](http://arxiv.org/abs/2503.09317)|**[link](https://github.com/kerryzhangcode/RaceTEE)**|
 |**2025-03-10**|**A Secure Blockchain-Assisted Framework for Real-Time Maritime Environmental Compliance Monitoring**|William C. Quigley et.al.|[2503.08707](http://arxiv.org/abs/2503.08707)|null|
 |**2025-03-11**|**Efficient Query Verification for Blockchain Superlight Clients Using SNARKs**|Stefano De Angelis et.al.|[2503.08359](http://arxiv.org/abs/2503.08359)|null|
