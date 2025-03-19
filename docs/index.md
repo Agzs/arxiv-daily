@@ -546,6 +546,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**XChainDataGen: A Cross-Chain Dataset Generation Framework**|André Augusto et.al.|[2503.13637](http://arxiv.org/abs/2503.13637)|null|
 |**2025-03-17**|**Enabling High-Frequency Trading with Near-Instant, Trustless Cross-Chain Transactions via Pre-Signing Adaptor Signatures**|Ethan Francolla et.al.|[2503.12719](http://arxiv.org/abs/2503.12719)|null|
 |**2025-03-01**|**CoT2Align: Cross-Chain of Thought Distillation via Optimal Transport Alignment for Language Models with Different Tokenizers**|Anh Duc Le et.al.|[2502.16806](http://arxiv.org/abs/2502.16806)|null|
 |**2025-02-19**|**Phantom Events: Demystifying the Issues of Log Forgery in Blockchain**|Yixuan Liu et.al.|[2502.13513](http://arxiv.org/abs/2502.13513)|null|
@@ -620,6 +621,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**A classical proof of quantum knowledge for multi-prover interactive proof systems**|Anne Broadbent et.al.|[2503.13699](http://arxiv.org/abs/2503.13699)|null|
 |**2025-03-17**|**Zero-Knowledge Proof-Based Consensus for Blockchain-Secured Federated Learning**|Tianxing Fu et.al.|[2503.13255](http://arxiv.org/abs/2503.13255)|null|
 |**2025-02-27**|**CrowdAL: Towards a Blockchain-empowered Active Learning System in Crowd Data Labeling**|Shaojie Hou et.al.|[2503.00066](http://arxiv.org/abs/2503.00066)|null|
 |**2025-02-27**|**Model-Free Privacy Preserving Power Flow Analysis in Distribution Networks**|Dong Liu et.al.|[2502.19912](http://arxiv.org/abs/2502.19912)|null|
@@ -766,6 +768,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**Technical Report: Aggregation on Learnable Manifolds for Asynchronous Federated Optimization**|Archie Licudi et.al.|[2503.14396](http://arxiv.org/abs/2503.14396)|null|
+|**2025-03-18**|**Entente: Cross-silo Intrusion Detection on Network Log Graphs with Federated Learning**|Jiacen Xu et.al.|[2503.14284](http://arxiv.org/abs/2503.14284)|null|
+|**2025-03-18**|**Trading-off Accuracy and Communication Cost in Federated Learning**|Mattia Jacopo Villani et.al.|[2503.14246](http://arxiv.org/abs/2503.14246)|null|
+|**2025-03-18**|**Semantic Communication in Dynamic Channel Scenarios: Collaborative Optimization of Dual-Pipeline Joint Source-Channel Coding and Personalized Federated Learning**|Xingrun Yan et.al.|[2503.14084](http://arxiv.org/abs/2503.14084)|null|
+|**2025-03-18**|**LLM-Empowered IoT for 6G Networks: Architecture, Challenges, and Solutions**|Xiaopei Chen et.al.|[2503.13819](http://arxiv.org/abs/2503.13819)|null|
+|**2025-03-18**|**MOSAIC: Generating Consistent, Privacy-Preserving Scenes from Multiple Depth Views in Multi-Room Environments**|Zhixuan Liu et.al.|[2503.13816](http://arxiv.org/abs/2503.13816)|null|
+|**2025-03-17**|**FedVSR: Towards Model-Agnostic Federated Learning in Video Super-Resolution**|Ali Mollaahmadi Dehaghi et.al.|[2503.13745](http://arxiv.org/abs/2503.13745)|null|
+|**2025-03-17**|**SDFLMQ: A Semi-Decentralized Federated Learning Framework over MQTT**|Amir Ali-Pour et.al.|[2503.13624](http://arxiv.org/abs/2503.13624)|null|
 |**2025-03-17**|**Fed-Joint: Joint Modeling of Nonlinear Degradation Signals and Failure Events for Remaining Useful Life Prediction using Federated Learning**|Cheoljoon Jeong et.al.|[2503.13404](http://arxiv.org/abs/2503.13404)|null|
 |**2025-03-17**|**Zero-Knowledge Proof-Based Consensus for Blockchain-Secured Federated Learning**|Tianxing Fu et.al.|[2503.13255](http://arxiv.org/abs/2503.13255)|null|
 |**2025-03-17**|**Federated Mixture-of-Expert for Non-Overlapped Cross-Domain Sequential Recommendation**|Yu Liu et.al.|[2503.13254](http://arxiv.org/abs/2503.13254)|null|
