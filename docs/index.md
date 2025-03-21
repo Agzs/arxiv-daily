@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**AI Agents in Cryptoland: Practical Attacks and No Silver Bullet**|Atharv Singh Patlan et.al.|[2503.16248](http://arxiv.org/abs/2503.16248)|null|
 |**2025-03-19**|**Automating Comment Generation for Smart Contract from Bytecode**|Jianhang Xiang et.al.|[2503.15270](http://arxiv.org/abs/2503.15270)|null|
 |**2025-03-14**|**SmartShards: Churn-Tolerant Continuously Available Distributed Ledger**|Joseph Oglio et.al.|[2503.11077](http://arxiv.org/abs/2503.11077)|null|
 |**2025-03-13**|**Public Channel-Based Fair Exchange Protocols with Advertising**|Pierpaolo Della Monica et.al.|[2503.10411](http://arxiv.org/abs/2503.10411)|null|
@@ -622,6 +623,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**ALLMod: Exploring $\underline{\mathbf{A}}$rea-Efficiency of $\underline{\mathbf{L}}$UT-based $\underline{\mathbf{L}}$arge Number $\underline{\mathbf{Mod}}$ ular Reduction via Hybrid Workloads**|Fangxin Liu et.al.|[2503.15916](http://arxiv.org/abs/2503.15916)|null|
+|**2025-03-18**|**Zero-Knowledge Federated Learning: A New Trustworthy and Privacy-Preserving Distributed Learning Paradigm**|Yuxin Jin et.al.|[2503.15550](http://arxiv.org/abs/2503.15550)|null|
 |**2025-03-17**|**A classical proof of quantum knowledge for multi-prover interactive proof systems**|Anne Broadbent et.al.|[2503.13699](http://arxiv.org/abs/2503.13699)|null|
 |**2025-03-17**|**Zero-Knowledge Proof-Based Consensus for Blockchain-Secured Federated Learning**|Tianxing Fu et.al.|[2503.13255](http://arxiv.org/abs/2503.13255)|null|
 |**2025-02-27**|**CrowdAL: Towards a Blockchain-empowered Active Learning System in Crowd Data Labeling**|Shaojie Hou et.al.|[2503.00066](http://arxiv.org/abs/2503.00066)|null|
@@ -769,6 +772,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**RESFL: An Uncertainty-Aware Framework for Responsible Federated Learning by Balancing Privacy, Fairness and Utility in Autonomous Vehicles**|Dawood Wasif et.al.|[2503.16251](http://arxiv.org/abs/2503.16251)|null|
+|**2025-03-20**|**Empirical Analysis of Privacy-Fairness-Accuracy Trade-offs in Federated Learning: A Step Towards Responsible AI**|Dawood Wasif et.al.|[2503.16233](http://arxiv.org/abs/2503.16233)|null|
+|**2025-03-20**|**Fast Homomorphic Linear Algebra with BLAS**|Youngjin Bae et.al.|[2503.16080](http://arxiv.org/abs/2503.16080)|null|
+|**2025-03-20**|**Federated Quantum-Train Long Short-Term Memory for Gravitational Wave Signal**|Chen-Yu Liu et.al.|[2503.16049](http://arxiv.org/abs/2503.16049)|null|
+|**2025-03-20**|**Privacy-Preserving Utilization of Distribution System Flexibility for Enhanced TSO-DSO Interoperability: A Novel Machine Learning-Based Optimal Power Flow Approach**|Burak Dindar et.al.|[2503.15966](http://arxiv.org/abs/2503.15966)|null|
+|**2025-03-20**|**FedSAF: A Federated Learning Framework for Enhanced Gastric Cancer Detection and Privacy Preservation**|Yuxin Miao et.al.|[2503.15870](http://arxiv.org/abs/2503.15870)|null|
+|**2025-03-20**|**FedAWA: Adaptive Optimization of Aggregation Weights in Federated Learning Using Client Vectors**|Changlong Shi et.al.|[2503.15842](http://arxiv.org/abs/2503.15842)|null|
+|**2025-03-20**|**Energy-Efficient Federated Learning and Migration in Digital Twin Edge Networks**|Yuzhi Zhou et.al.|[2503.15822](http://arxiv.org/abs/2503.15822)|null|
+|**2025-03-20**|**Computation-Efficient and Recognition-Friendly 3D Point Cloud Privacy Protection**|Haotian Ma et.al.|[2503.15818](http://arxiv.org/abs/2503.15818)|null|
+|**2025-03-20**|**Communication Efficient Federated Learning with Linear Convergence on Heterogeneous Data**|Jie Liu et.al.|[2503.15804](http://arxiv.org/abs/2503.15804)|null|
 |**2025-03-19**|**Reducing Communication Overhead in Federated Learning for Network Anomaly Detection with Adaptive Client Selection**|William Marfo et.al.|[2503.15448](http://arxiv.org/abs/2503.15448)|null|
 |**2025-03-19**|**Federated Continual 3D Segmentation With Single-round Communication**|Can Peng et.al.|[2503.15414](http://arxiv.org/abs/2503.15414)|null|
 |**2025-03-19**|**FedSCA: Federated Tuning with Similarity-guided Collaborative Aggregation for Heterogeneous Medical Image Segmentation**|Yumin Zhang et.al.|[2503.15390](http://arxiv.org/abs/2503.15390)|null|
