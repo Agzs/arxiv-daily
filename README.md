@@ -810,14 +810,14 @@
 |**2025-03-18**|**Semantic Communication in Dynamic Channel Scenarios: Collaborative Optimization of Dual-Pipeline Joint Source-Channel Coding and Personalized Federated Learning**|Xingrun Yan et.al.|[2503.14084](http://arxiv.org/abs/2503.14084)|null|
 |**2025-03-18**|**LLM-Empowered IoT for 6G Networks: Architecture, Challenges, and Solutions**|Xiaopei Chen et.al.|[2503.13819](http://arxiv.org/abs/2503.13819)|null|
 |**2025-03-18**|**MOSAIC: Generating Consistent, Privacy-Preserving Scenes from Multiple Depth Views in Multi-Room Environments**|Zhixuan Liu et.al.|[2503.13816](http://arxiv.org/abs/2503.13816)|null|
-|**2025-03-17**|**FedVSR: Towards Model-Agnostic Federated Learning in Video Super-Resolution**|Ali Mollaahmadi Dehaghi et.al.|[2503.13745](http://arxiv.org/abs/2503.13745)|null|
+|**2025-03-17**|**FedVSR: Towards Model-Agnostic Federated Learning in Video Super-Resolution**|Ali Mollaahmadi Dehaghi et.al.|[2503.13745](http://arxiv.org/abs/2503.13745)|**[link](https://github.com/alimd94/fedvsr)**|
 |**2025-03-17**|**SDFLMQ: A Semi-Decentralized Federated Learning Framework over MQTT**|Amir Ali-Pour et.al.|[2503.13624](http://arxiv.org/abs/2503.13624)|null|
 |**2025-03-17**|**Fed-Joint: Joint Modeling of Nonlinear Degradation Signals and Failure Events for Remaining Useful Life Prediction using Federated Learning**|Cheoljoon Jeong et.al.|[2503.13404](http://arxiv.org/abs/2503.13404)|null|
 |**2025-03-17**|**Zero-Knowledge Proof-Based Consensus for Blockchain-Secured Federated Learning**|Tianxing Fu et.al.|[2503.13255](http://arxiv.org/abs/2503.13255)|null|
 |**2025-03-17**|**Federated Mixture-of-Expert for Non-Overlapped Cross-Domain Sequential Recommendation**|Yu Liu et.al.|[2503.13254](http://arxiv.org/abs/2503.13254)|null|
-|**2025-03-17**|**Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch**|Yijie Liu et.al.|[2503.13227](http://arxiv.org/abs/2503.13227)|null|
-|**2025-03-17**|**GC-Fed: Gradient Centralized Federated Learning with Partial Client Participation**|Jungwon Seo et.al.|[2503.13180](http://arxiv.org/abs/2503.13180)|null|
-|**2025-03-17**|**PAUSE: Low-Latency and Privacy-Aware Active User Selection for Federated Learning**|Ori Peleg et.al.|[2503.13173](http://arxiv.org/abs/2503.13173)|null|
+|**2025-03-17**|**Mind the Gap: Confidence Discrepancy Can Guide Federated Semi-Supervised Learning Across Pseudo-Mismatch**|Yijie Liu et.al.|[2503.13227](http://arxiv.org/abs/2503.13227)|**[link](https://github.com/jay-codeman/sage)**|
+|**2025-03-17**|**GC-Fed: Gradient Centralized Federated Learning with Partial Client Participation**|Jungwon Seo et.al.|[2503.13180](http://arxiv.org/abs/2503.13180)|**[link](https://github.com/thejungwon/gc-fed)**|
+|**2025-03-17**|**PAUSE: Low-Latency and Privacy-Aware Active User Selection for Federated Learning**|Ori Peleg et.al.|[2503.13173](http://arxiv.org/abs/2503.13173)|**[link](https://github.com/oritalp/PAUSE)**|
 |**2025-03-17**|**Federated Learning with Domain Shift Eraser**|Zheng Wang et.al.|[2503.13063](http://arxiv.org/abs/2503.13063)|null|
 |**2025-03-17**|**FedSDP: Explainable Differential Privacy in Federated Learning via Shapley Values**|Yunbo Li et.al.|[2503.12958](http://arxiv.org/abs/2503.12958)|null|
 |**2025-03-17**|**Time-Varying Distributed Optimization for A Class of Stochastic Multi-Agent Systems**|Wan-ying Li et.al.|[2503.12934](http://arxiv.org/abs/2503.12934)|null|
@@ -853,7 +853,7 @@
 |**2025-03-11**|**Prototype-based Heterogeneous Federated Learning for Blade Icing Detection in Wind Turbines with Class Imbalanced Data**|Lele Qi et.al.|[2503.08325](http://arxiv.org/abs/2503.08325)|null|
 |**2025-03-11**|**Privacy for Free: Leveraging Local Differential Privacy Perturbed Data from Multiple Services**|Rong Du et.al.|[2503.08297](http://arxiv.org/abs/2503.08297)|null|
 |**2025-03-11**|**Will LLMs Scaling Hit the Wall? Breaking Barriers via Distributed Resources on Massive Edge Devices**|Tao Shen et.al.|[2503.08223](http://arxiv.org/abs/2503.08223)|null|
-|**2025-03-11**|**Scaling Probabilistic Circuits via Data Partitioning**|Jonas Seng et.al.|[2503.08141](http://arxiv.org/abs/2503.08141)|null|
+|**2025-03-11**|**Scaling Probabilistic Circuits via Data Partitioning**|Jonas Seng et.al.|[2503.08141](http://arxiv.org/abs/2503.08141)|**[link](https://github.com/J0nasSeng/federated-spn)**|
 |**2025-03-12**|**PRISM: Privacy-Preserving Improved Stochastic Masking for Federated Generative Models**|Kyeongkook Seo et.al.|[2503.08085](http://arxiv.org/abs/2503.08085)|**[link](https://github.com/tjrudrnr2/PRISM_ICLR25)**|
 |**2025-03-11**|**Detecting Backdoor Attacks in Federated Learning via Direction Alignment Inspection**|Jiahao Xu et.al.|[2503.07978](http://arxiv.org/abs/2503.07978)|**[link](https://github.com/jiiahaoxu/alignins)**|
 |**2025-03-10**|**Right Reward Right Time for Federated Learning**|Thanh Linh Nguyen et.al.|[2503.07869](http://arxiv.org/abs/2503.07869)|null|
@@ -884,7 +884,7 @@
 |**2025-03-06**|**Privacy Preserving and Robust Aggregation for Cross-Silo Federated Learning in Non-IID Settings**|Marco Arazzi et.al.|[2503.04451](http://arxiv.org/abs/2503.04451)|null|
 |**2025-03-06**|**InFL-UX: A Toolkit for Web-Based Interactive Federated Learning**|Tim Maurer et.al.|[2503.04318](http://arxiv.org/abs/2503.04318)|**[link](https://github.com/tmaurer42/interactive-fl-poc)**|
 |**2025-03-06**|**One-Shot Clustering for Federated Learning**|Maciej Krzysztof Zuziak et.al.|[2503.04231](http://arxiv.org/abs/2503.04231)|null|
-|**2025-03-06**|**KidneyTalk-open: No-code Deployment of a Private Large Language Model with Medical Documentation-Enhanced Knowledge Database for Kidney Disease**|Yongchao Long et.al.|[2503.04153](http://arxiv.org/abs/2503.04153)|null|
+|**2025-03-06**|**KidneyTalk-open: No-code Deployment of a Private Large Language Model with Medical Documentation-Enhanced Knowledge Database for Kidney Disease**|Yongchao Long et.al.|[2503.04153](http://arxiv.org/abs/2503.04153)|**[link](https://github.com/PKUDigitalHealth/KidneyTalk-open)**|
 |**2025-03-06**|**LiteChain: A Lightweight Blockchain for Verifiable and Scalable Federated Learning in Massive Edge Networks**|Handi Chen et.al.|[2503.04140](http://arxiv.org/abs/2503.04140)|null|
 |**2025-03-05**|**Towards Trustworthy Federated Learning**|Alina Basharat et.al.|[2503.03684](http://arxiv.org/abs/2503.03684)|null|
 |**2025-03-05**|**Token-Level Privacy in Large Language Models**|Re'em Harel et.al.|[2503.03652](http://arxiv.org/abs/2503.03652)|null|
@@ -1375,7 +1375,7 @@
 |**2024-11-27**|**Hidden Data Privacy Breaches in Federated Learning**|Xueluan Gong et.al.|[2411.18269](http://arxiv.org/abs/2411.18269)|null|
 |**2024-11-27**|**KAN See Your Face**|Dong Han et.al.|[2411.18165](http://arxiv.org/abs/2411.18165)|null|
 |**2024-11-27**|**Privacy-preserving Robotic-based Multi-factor Authentication Scheme for Secure Automated Delivery System**|Yang Yang et.al.|[2411.18027](http://arxiv.org/abs/2411.18027)|null|
-|**2024-11-26**|**Distributed Sign Momentum with Local Steps for Training Transformers**|Shuhua Yu et.al.|[2411.17866](http://arxiv.org/abs/2411.17866)|null|
+|**2024-11-26**|**Distributed Sign Momentum with Local Steps for Training Transformers**|Shuhua Yu et.al.|[2411.17866](http://arxiv.org/abs/2411.17866)|**[link](https://github.com/shuhuayu/dist-sign-momentum)**|
 |**2024-11-26**|**Adaptive Client Selection with Personalization for Communication Efficient Federated Learning**|Allan M. de Souza et.al.|[2411.17833](http://arxiv.org/abs/2411.17833)|**[link](https://github.com/allanmsouza/acsp-fl)**|
 |**2024-11-26**|**Synthetic Data Generation with LLM for Improved Depression Prediction**|Andrea Kang et.al.|[2411.17672](http://arxiv.org/abs/2411.17672)|null|
 |**2024-11-26**|**Privacy-Preserving Behaviour of Chatbot Users: Steering Through Trust Dynamics**|Julia Ive et.al.|[2411.17589](http://arxiv.org/abs/2411.17589)|null|
@@ -2295,7 +2295,7 @@
 |**2024-05-27**|**LabObf: A Label Protection Scheme for Vertical Federated Learning Through Label Obfuscation**|Ying He et.al.|[2405.17042](http://arxiv.org/abs/2405.17042)|null|
 |**2024-05-27**|**Privacy and Security Trade-off in Interconnected Systems with Known or Unknown Privacy Noise Covariance**|Haojun Wang et.al.|[2405.16905](http://arxiv.org/abs/2405.16905)|null|
 |**2024-05-27**|**Anonymization Prompt Learning for Facial Privacy-Preserving Text-to-Image Generation**|Liang Shi et.al.|[2405.16895](http://arxiv.org/abs/2405.16895)|null|
-|**2024-05-26**|**Alistair: Efficient On-device Budgeting for Differentially-Private Ad-Measurement Systems**|Pierre Tholoniat et.al.|[2405.16719](http://arxiv.org/abs/2405.16719)|null|
+|**2024-05-26**|**Alistair: Efficient On-device Budgeting for Differentially-Private Ad-Measurement Systems**|Pierre Tholoniat et.al.|[2405.16719](http://arxiv.org/abs/2405.16719)|**[link](https://github.com/patcg-individual-drafts/hybrid-proposal)**|
 |**2024-05-26**|**Visualizing the Shadows: Unveiling Data Poisoning Behaviors in Federated Learning**|Xueqing Zhang et.al.|[2405.16707](http://arxiv.org/abs/2405.16707)|**[link](https://github.com/cathyxueqingzhang/datapoisoningvis)**|
 |**2024-05-26**|**A Systematic Review of Federated Generative Models**|Ashkan Vedadi Gargary et.al.|[2405.16682](http://arxiv.org/abs/2405.16682)|null|
 |**2024-05-26**|**Fair Federated Learning under Domain Skew with Local Consistency and Domain Diversity**|Yuhang Chen et.al.|[2405.16585](http://arxiv.org/abs/2405.16585)|null|
@@ -2457,7 +2457,7 @@
 |**2024-04-26**|**On the Federated Learning Framework for Cooperative Perception**|Zhenrong Zhang et.al.|[2404.17147](http://arxiv.org/abs/2404.17147)|null|
 |**2024-04-25**|**On TinyML and Cybersecurity: Electric Vehicle Charging Infrastructure Use Case**|Fatemeh Dehrouyeh et.al.|[2404.16894](http://arxiv.org/abs/2404.16894)|**[link](https://github.com/western-oc2-lab/tinyml_evci)**|
 |**2024-04-25**|**Privacy-Preserving Statistical Data Generation: Application to Sepsis Detection**|Eric Macias-Fassio et.al.|[2404.16638](http://arxiv.org/abs/2404.16638)|null|
-|**2024-04-25**|**FedStyle: Style-Based Federated Learning Crowdsourcing Framework for Art Commissions**|Changjuan Ran et.al.|[2404.16336](http://arxiv.org/abs/2404.16336)|null|
+|**2024-04-25**|**FedStyle: Style-Based Federated Learning Crowdsourcing Framework for Art Commissions**|Changjuan Ran et.al.|[2404.16336](http://arxiv.org/abs/2404.16336)|**[link](https://github.com/zpfhnu/artiststyle18)**|
 |**2024-04-25**|**Differentially Private Federated Learning: Servers Trustworthiness, Estimation, and Statistical Inference**|Zhe Zhang et.al.|[2404.16287](http://arxiv.org/abs/2404.16287)|null|
 |**2024-04-24**|**Synergizing Privacy and Utility in Data Analytics Through Advanced Information Theorization**|Zahir Alsulaimawi et.al.|[2404.16241](http://arxiv.org/abs/2404.16241)|null|
 |**2024-04-24**|**A Game-Theoretic Analysis of Auditing Differentially Private Algorithms with Epistemically Disparate Herd**|Ya-Ting Yang et.al.|[2404.16195](http://arxiv.org/abs/2404.16195)|null|
