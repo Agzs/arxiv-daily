@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**On-Chain Analysis of Smart Contract Dependency Risks on Ethereum**|Monica Jin et.al.|[2503.19548](http://arxiv.org/abs/2503.19548)|null|
 |**2025-03-21**|**Enhanced Smart Contract Reputability Analysis using Multimodal Data Fusion on Ethereum**|Cyrus Malik et.al.|[2503.17426](http://arxiv.org/abs/2503.17426)|null|
 |**2025-03-21**|**Governance of Ledger-Anchored Decentralized Identifiers**|Sandro Rodriguez Garzon et.al.|[2503.16972](http://arxiv.org/abs/2503.16972)|null|
 |**2025-03-20**|**AI Agents in Cryptoland: Practical Attacks and No Silver Bullet**|Atharv Singh Patlan et.al.|[2503.16248](http://arxiv.org/abs/2503.16248)|null|
@@ -786,6 +787,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**RCC-PFL: Robust Client Clustering under Noisy Labels in Personalized Federated Learning**|Abdulmoneam Ali et.al.|[2503.19886](http://arxiv.org/abs/2503.19886)|null|
+|**2025-03-25**|**NickPay, an Auditable, Privacy-Preserving, Nickname-Based Payment System**|Guillaume Quispe et.al.|[2503.19872](http://arxiv.org/abs/2503.19872)|null|
+|**2025-03-25**|**Domain-incremental White Blood Cell Classification with Privacy-aware Continual Learning**|Pratibha Kumari et.al.|[2503.19819](http://arxiv.org/abs/2503.19819)|null|
+|**2025-03-25**|**AIGC-assisted Federated Learning for Vehicular Edge Intelligence: Vehicle Selection, Resource Allocation and Model Augmentation**|Xianke Qiang et.al.|[2503.19676](http://arxiv.org/abs/2503.19676)|null|
+|**2025-03-25**|**FedMM-X: A Trustworthy and Interpretable Framework for Federated Multi-Modal Learning in Dynamic Environments**|Sree Bhargavi Balija et.al.|[2503.19564](http://arxiv.org/abs/2503.19564)|null|
+|**2025-03-25**|**Noise Resilient Over-The-Air Federated Learning In Heterogeneous Wireless Networks**|Zubair Shaban et.al.|[2503.19549](http://arxiv.org/abs/2503.19549)|null|
+|**2025-03-25**|**Social Network User Profiling for Anomaly Detection Based on Graph Neural Networks**|Yiwei Zhang et.al.|[2503.19380](http://arxiv.org/abs/2503.19380)|null|
 |**2025-03-24**|**Streaming Federated Learning with Markovian Data**|Tan-Khiem Huynh et.al.|[2503.18807](http://arxiv.org/abs/2503.18807)|null|
 |**2025-03-24**|**Distributionally Robust Federated Learning: An ADMM Algorithm**|Wen Bai et.al.|[2503.18436](http://arxiv.org/abs/2503.18436)|null|
 |**2025-03-24**|**Byzantine-Resilient Over-the-Air Federated Learning under Zero-Trust Architecture**|Jiacheng Yao et.al.|[2503.18284](http://arxiv.org/abs/2503.18284)|null|
