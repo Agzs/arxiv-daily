@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**Precise Static Identification of Ethereum Storage Variables**|Sifis Lagouvardos et.al.|[2503.20690](http://arxiv.org/abs/2503.20690)|null|
+|**2025-03-26**|**A Blockchain-Enabled Framework for Storage and Retrieval of Social Data**|Aishwarya Parab et.al.|[2503.20497](http://arxiv.org/abs/2503.20497)|null|
+|**2025-03-26**|**Bounded Exhaustive Random Program Generation for Testing Solidity Compilers and Analyzers**|Haoyang Ma et.al.|[2503.20332](http://arxiv.org/abs/2503.20332)|null|
 |**2025-03-25**|**On-Chain Analysis of Smart Contract Dependency Risks on Ethereum**|Monica Jin et.al.|[2503.19548](http://arxiv.org/abs/2503.19548)|null|
 |**2025-03-21**|**Enhanced Smart Contract Reputability Analysis using Multimodal Data Fusion on Ethereum**|Cyrus Malik et.al.|[2503.17426](http://arxiv.org/abs/2503.17426)|null|
 |**2025-03-21**|**Governance of Ledger-Anchored Decentralized Identifiers**|Sandro Rodriguez Garzon et.al.|[2503.16972](http://arxiv.org/abs/2503.16972)|null|
@@ -787,6 +790,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**An Empirical Study of the Impact of Federated Learning on Machine Learning Model Accuracy**|Haotian Yang et.al.|[2503.20768](http://arxiv.org/abs/2503.20768)|null|
+|**2025-03-26**|**Convergence Theory of Flexible ALADIN for Distributed Optimization**|Xu Du et.al.|[2503.20716](http://arxiv.org/abs/2503.20716)|null|
+|**2025-03-26**|**ProFed: a Benchmark for Proximity-based non-IID Federated Learning**|Davide Domini et.al.|[2503.20618](http://arxiv.org/abs/2503.20618)|null|
+|**2025-03-26**|**How Secure is Forgetting? Linking Machine Unlearning to Machine Learning Attacks**|Muhammed Shafi K. P. et.al.|[2503.20257](http://arxiv.org/abs/2503.20257)|null|
+|**2025-03-26**|**Raising Awareness of Location Information Vulnerabilities in Social Media Photos using LLMs**|Ying Ma et.al.|[2503.20226](http://arxiv.org/abs/2503.20226)|null|
+|**2025-03-26**|**AIGC-assisted Federated Learning for Edge Intelligence: Architecture Design, Research Challenges and Future Directions**|Xianke Qiang et.al.|[2503.20166](http://arxiv.org/abs/2503.20166)|null|
+|**2025-03-26**|**Unlocking the Value of Decentralized Data: A Federated Dual Learning Approach for Model Aggregation**|Junyi Zhu et.al.|[2503.20138](http://arxiv.org/abs/2503.20138)|null|
+|**2025-03-25**|**From Interpretation to Correction: A Decentralized Optimization Framework for Exact Convergence in Federated Learning**|Bicheng Ying et.al.|[2503.20117](http://arxiv.org/abs/2503.20117)|null|
+|**2025-03-25**|**Federated Learning: A new frontier in the exploration of multi-institutional medical imaging data**|Dominika Ciupek et.al.|[2503.20107](http://arxiv.org/abs/2503.20107)|null|
+|**2025-03-25**|**Bigger But Not Better: Small Neural Language Models Outperform Large Language Models in Detection of Thought Disorder**|Changye Li et.al.|[2503.20103](http://arxiv.org/abs/2503.20103)|null|
 |**2025-03-25**|**RCC-PFL: Robust Client Clustering under Noisy Labels in Personalized Federated Learning**|Abdulmoneam Ali et.al.|[2503.19886](http://arxiv.org/abs/2503.19886)|null|
 |**2025-03-25**|**NickPay, an Auditable, Privacy-Preserving, Nickname-Based Payment System**|Guillaume Quispe et.al.|[2503.19872](http://arxiv.org/abs/2503.19872)|null|
 |**2025-03-25**|**Domain-incremental White Blood Cell Classification with Privacy-aware Continual Learning**|Pratibha Kumari et.al.|[2503.19819](http://arxiv.org/abs/2503.19819)|null|
