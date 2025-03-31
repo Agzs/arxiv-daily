@@ -653,7 +653,7 @@
 |**2025-02-17**|**User-Centric Data Management in Decentralized Internet of Behaviors System**|Shiqi Zhang et.al.|[2502.11616](http://arxiv.org/abs/2502.11616)|null|
 |**2025-02-12**|**SLVR: Securely Leveraging Client Validation for Robust Federated Learning**|Jihye Choi et.al.|[2502.08055](http://arxiv.org/abs/2502.08055)|null|
 |**2025-02-11**|**Distributed Non-Interactive Zero-Knowledge Proofs**|Alex B. Grilo et.al.|[2502.07594](http://arxiv.org/abs/2502.07594)|null|
-|**2025-02-14**|**Zero-Knowledge Proof Frameworks: A Systematic Survey**|Nojan Sheybani et.al.|[2502.07063](http://arxiv.org/abs/2502.07063)|null|
+|**2025-02-14**|**Zero-Knowledge Proof Frameworks: A Systematic Survey**|Nojan Sheybani et.al.|[2502.07063](http://arxiv.org/abs/2502.07063)|**[link](https://github.com/aceslabucsd/zeroknowledgeframeworkssurvey)**|
 |**2025-02-10**|**Generating Privacy-Preserving Personalized Advice with Zero-Knowledge Proofs and LLMs**|Hiroki Watanabe et.al.|[2502.06425](http://arxiv.org/abs/2502.06425)|null|
 |**2025-02-06**|**ExpProof : Operationalizing Explanations for Confidential Models with ZKPs**|Chhavi Yadav et.al.|[2502.03773](http://arxiv.org/abs/2502.03773)|null|
 |**2025-02-07**|**Robust and Secure Code Watermarking for Large Language Models via ML/Crypto Codesign**|Ruisi Zhang et.al.|[2502.02068](http://arxiv.org/abs/2502.02068)|null|
@@ -820,13 +820,13 @@
 |**2025-03-24**|**Distributionally Robust Federated Learning: An ADMM Algorithm**|Wen Bai et.al.|[2503.18436](http://arxiv.org/abs/2503.18436)|null|
 |**2025-03-24**|**Byzantine-Resilient Over-the-Air Federated Learning under Zero-Trust Architecture**|Jiacheng Yao et.al.|[2503.18284](http://arxiv.org/abs/2503.18284)|null|
 |**2025-03-23**|**Active Inference for Energy Control and Planning in Smart Buildings and Communities**|Seyyed Danial Nazemi et.al.|[2503.18161](http://arxiv.org/abs/2503.18161)|null|
-|**2025-03-23**|**Dynamic Allocation Hypernetwork with Adaptive Model Recalibration for FCL**|Xiaoming Qi et.al.|[2503.18064](http://arxiv.org/abs/2503.18064)|null|
+|**2025-03-23**|**Dynamic Allocation Hypernetwork with Adaptive Model Recalibration for FCL**|Xiaoming Qi et.al.|[2503.18064](http://arxiv.org/abs/2503.18064)|**[link](https://github.com/jinlab-imvr/feddah)**|
 |**2025-03-23**|**Personalized Language Models via Privacy-Preserving Evolutionary Model Merging**|Kyuyoung Kim et.al.|[2503.18008](http://arxiv.org/abs/2503.18008)|null|
 |**2025-03-22**|**Privacy-Preserving Hamming Distance Computation with Property-Preserving Hashing**|Dongfang Zhao et.al.|[2503.17844](http://arxiv.org/abs/2503.17844)|null|
 |**2025-03-22**|**Sense4FL: Vehicular Crowdsensing Enhanced Federated Learning for Autonomous Driving**|Yanan Ma et.al.|[2503.17697](http://arxiv.org/abs/2503.17697)|null|
 |**2025-03-22**|**DGAR: A Unified Domain Generalization Framework for RF-Enabled Human Activity Recognition**|Junshuo Liu et.al.|[2503.17667](http://arxiv.org/abs/2503.17667)|null|
 |**2025-03-22**|**Quantized Analog Beamforming Enabled Multi-task Federated Learning Over-the-air**|Jiacheng Yao et.al.|[2503.17649](http://arxiv.org/abs/2503.17649)|null|
-|**2025-03-21**|**LoGoFair: Post-Processing for Local and Global Fairness in Federated Learning**|Li Zhang et.al.|[2503.17231](http://arxiv.org/abs/2503.17231)|null|
+|**2025-03-21**|**LoGoFair: Post-Processing for Local and Global Fairness in Federated Learning**|Li Zhang et.al.|[2503.17231](http://arxiv.org/abs/2503.17231)|**[link](https://github.com/liizhang/LoGofair)**|
 |**2025-03-21**|**Temporal-Guided Spiking Neural Networks for Event-Based Human Action Recognition**|Siyuan Yang et.al.|[2503.17132](http://arxiv.org/abs/2503.17132)|null|
 |**2025-03-21**|**A Thorough Assessment of the Non-IID Data Impact in Federated Learning**|Daniel M. Jimenez-Gutierrez et.al.|[2503.17070](http://arxiv.org/abs/2503.17070)|null|
 |**2025-03-21**|**Federated Cross-Domain Click-Through Rate Prediction With Large Language Model Augmentation**|Jiangcheng Qin et.al.|[2503.16875](http://arxiv.org/abs/2503.16875)|null|
@@ -845,10 +845,10 @@
 |**2025-03-19**|**Federated Continual 3D Segmentation With Single-round Communication**|Can Peng et.al.|[2503.15414](http://arxiv.org/abs/2503.15414)|null|
 |**2025-03-19**|**FedSCA: Federated Tuning with Similarity-guided Collaborative Aggregation for Heterogeneous Medical Image Segmentation**|Yumin Zhang et.al.|[2503.15390](http://arxiv.org/abs/2503.15390)|null|
 |**2025-03-19**|**FedBEns: One-Shot Federated Learning based on Bayesian Ensemble**|Jacopo Talpini et.al.|[2503.15367](http://arxiv.org/abs/2503.15367)|null|
-|**2025-03-19**|**Distributed Generalized Linear Models: A Privacy-Preserving Approach**|Daniel Tinoco et.al.|[2503.15287](http://arxiv.org/abs/2503.15287)|null|
+|**2025-03-19**|**Distributed Generalized Linear Models: A Privacy-Preserving Approach**|Daniel Tinoco et.al.|[2503.15287](http://arxiv.org/abs/2503.15287)|**[link](https://github.com/dbtnc/distributed_glm)**|
 |**2025-03-19**|**Online federated learning framework for classification**|Wenxing Guo et.al.|[2503.15210](http://arxiv.org/abs/2503.15210)|null|
 |**2025-03-19**|**Global Group Fairness in Federated Learning via Function Tracking**|Yves Rychener et.al.|[2503.15163](http://arxiv.org/abs/2503.15163)|null|
-|**2025-03-19**|**UltraFlwr -- An Efficient Federated Medical and Surgical Object Detection Framework**|Yang Li et.al.|[2503.15161](http://arxiv.org/abs/2503.15161)|null|
+|**2025-03-19**|**UltraFlwr -- An Efficient Federated Medical and Surgical Object Detection Framework**|Yang Li et.al.|[2503.15161](http://arxiv.org/abs/2503.15161)|**[link](https://github.com/kcl-bmeis/ultraflwr)**|
 |**2025-03-19**|**FedLWS: Federated Learning with Adaptive Layer-wise Weight Shrinking**|Changlong Shi et.al.|[2503.15111](http://arxiv.org/abs/2503.15111)|null|
 |**2025-03-19**|**OFL: Opportunistic Federated Learning for Resource-Heterogeneous and Privacy-Aware Devices**|Yunlong Mao et.al.|[2503.15015](http://arxiv.org/abs/2503.15015)|null|
 |**2025-03-18**|**Technical Report: Aggregation on Learnable Manifolds for Asynchronous Federated Optimization**|Archie Licudi et.al.|[2503.14396](http://arxiv.org/abs/2503.14396)|null|
@@ -1051,7 +1051,7 @@
 |**2025-02-11**|**PFedDST: Personalized Federated Learning with Decentralized Selection Training**|Mengchen Fan et.al.|[2502.07750](http://arxiv.org/abs/2502.07750)|null|
 |**2025-02-11**|**FedAPA: Server-side Gradient-Based Adaptive Personalized Aggregation for Federated Learning on Heterogeneous Data**|Yuxia Sun et.al.|[2502.07456](http://arxiv.org/abs/2502.07456)|null|
 |**2025-02-11**|**VLWE: Variety-based Learning with Errors for Vector Encryption through Algebraic Geometry**|Dongfang Zhao et.al.|[2502.07284](http://arxiv.org/abs/2502.07284)|null|
-|**2025-02-10**|**Zero-Knowledge Proof Frameworks: A Survey**|Nojan Sheybani et.al.|[2502.07063](http://arxiv.org/abs/2502.07063)|null|
+|**2025-02-10**|**Zero-Knowledge Proof Frameworks: A Survey**|Nojan Sheybani et.al.|[2502.07063](http://arxiv.org/abs/2502.07063)|**[link](https://github.com/aceslabucsd/zeroknowledgeframeworkssurvey)**|
 |**2025-02-10**|**Federated Continual Learning: Concepts, Challenges, and Solutions**|Parisa Hamedi et.al.|[2502.07059](http://arxiv.org/abs/2502.07059)|null|
 |**2025-02-10**|**Federated Sinkhorn**|Jeremy Kulcsar et.al.|[2502.07021](http://arxiv.org/abs/2502.07021)|null|
 |**2025-02-10**|**DROP: Poison Dilution via Knowledge Distillation for Federated Learning**|Georgios Syros et.al.|[2502.07011](http://arxiv.org/abs/2502.07011)|**[link](https://github.com/gsiros/drop)**|
@@ -2886,7 +2886,7 @@
 |**2024-02-15**|**Adaptive Federated Learning in Heterogeneous Wireless Networks with Independent Sampling**|Jiaxiang Geng et.al.|[2402.10097](http://arxiv.org/abs/2402.10097)|null|
 |**2024-02-15**|**FedRDF: A Robust and Dynamic Aggregation Function against Poisoning Attacks in Federated Learning**|Enrique Mármol Campos et.al.|[2402.10082](http://arxiv.org/abs/2402.10082)|null|
 |**2024-02-15**|**Investigation of Federated Learning Algorithms for Retinal Optical Coherence Tomography Image Classification with Statistical Heterogeneity**|Sanskar Amgain et.al.|[2402.10035](http://arxiv.org/abs/2402.10035)|**[link](https://github.com/bhattarailab/OCT-Federated-Learning)**|
-|**2024-02-15**|**LLM-based Federated Recommendation**|Jujia Zhao et.al.|[2402.09959](http://arxiv.org/abs/2402.09959)|null|
+|**2024-02-15**|**LLM-based Federated Recommendation**|Jujia Zhao et.al.|[2402.09959](http://arxiv.org/abs/2402.09959)|**[link](https://github.com/polaris-jz/fellrec)**|
 |**2024-02-15**|**FedLion: Faster Adaptive Federated Optimization with Fewer Communication**|Zhiwei Tang et.al.|[2402.09941](http://arxiv.org/abs/2402.09941)|**[link](https://github.com/tzw1998/fedlion)**|
 |**2024-02-15**|**Towards Federated Learning on the Quantum Internet**|Leo Sünkel et.al.|[2402.09902](http://arxiv.org/abs/2402.09902)|null|
 |**2024-02-14**|**Only My Model On My Data: A Privacy Preserving Approach Protecting one Model and Deceiving Unauthorized Black-Box Models**|Weiheng Chai et.al.|[2402.09316](http://arxiv.org/abs/2402.09316)|null|
@@ -2971,7 +2971,7 @@
 |**2024-01-31**|**Logit Poisoning Attack in Distillation-based Federated Learning and its Countermeasures**|Yonghao Yu et.al.|[2401.17746](http://arxiv.org/abs/2401.17746)|null|
 |**2024-01-30**|**Rendering Wireless Environments Useful for Gradient Estimators: A Zero-Order Stochastic Federated Learning Method**|Elissa Mhanna et.al.|[2401.17460](http://arxiv.org/abs/2401.17460)|null|
 |**2024-01-29**|**Spectral Co-Distillation for Personalized Federated Learning**|Zihan Chen et.al.|[2401.17124](http://arxiv.org/abs/2401.17124)|**[link](https://github.com/jimmyc96/spectral-dis-fl)**|
-|**2024-01-30**|**Sandi: A System for Accountability and Applications in Direct Communication**|F. Betül Durak et.al.|[2401.16759](http://arxiv.org/abs/2401.16759)|null|
+|**2024-01-30**|**Sandi: A System for Accountability and Applications in Direct Communication**|F. Betül Durak et.al.|[2401.16759](http://arxiv.org/abs/2401.16759)|**[link](https://github.com/microsoft/sandi)**|
 |**2024-01-30**|**Communication-Efficient Multimodal Federated Learning: Joint Modality and Client Selection**|Liangqi Yuan et.al.|[2401.16685](http://arxiv.org/abs/2401.16685)|null|
 |**2024-01-29**|**PrIsing: Privacy-Preserving Peer Effect Estimation via Ising Model**|Abhinav Chakraborty et.al.|[2401.16596](http://arxiv.org/abs/2401.16596)|null|
 |**2024-01-29**|**Data and Physics driven Deep Learning Models for Fast MRI Reconstruction: Fundamentals and Methodologies**|Jiahao Huang et.al.|[2401.16564](http://arxiv.org/abs/2401.16564)|null|
