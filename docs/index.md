@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**A Practical Rollup Escape Hatch Design**|Francisco Gomes Figueira et.al.|[2503.23986](http://arxiv.org/abs/2503.23986)|null|
+|**2025-03-31**|**Blockchain for Federated Learning in the Internet of Things: Trustworthy Adaptation, Standards, and the Road Ahead**|Farhana Javed et.al.|[2503.23823](http://arxiv.org/abs/2503.23823)|null|
+|**2025-03-31**|**Detecting Functional Bugs in Smart Contracts through LLM-Powered and Bug-Oriented Composite Analysis**|Binbin Zhao et.al.|[2503.23718](http://arxiv.org/abs/2503.23718)|null|
+|**2025-03-25**|**FeatherWallet: A Lightweight Mobile Cryptocurrency Wallet Using zk-SNARKs**|Martin Perešíni et.al.|[2503.22717](http://arxiv.org/abs/2503.22717)|null|
 |**2025-03-27**|**Smart treaties: A path to binding agreements in international relations?**|Niklas Valentin Lehmann et.al.|[2503.21516](http://arxiv.org/abs/2503.21516)|null|
 |**2025-03-26**|**Precise Static Identification of Ethereum Storage Variables**|Sifis Lagouvardos et.al.|[2503.20690](http://arxiv.org/abs/2503.20690)|null|
 |**2025-03-26**|**A Blockchain-Enabled Framework for Storage and Retrieval of Social Data**|Aishwarya Parab et.al.|[2503.20497](http://arxiv.org/abs/2503.20497)|null|
@@ -630,6 +634,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**Analyzing Performance Bottlenecks in Zero-Knowledge Proof Based Rollups on Ethereum**|Md. Ahsan Habib et.al.|[2503.22709](http://arxiv.org/abs/2503.22709)|null|
 |**2025-03-20**|**ALLMod: Exploring $\underline{\mathbf{A}}$rea-Efficiency of $\underline{\mathbf{L}}$UT-based $\underline{\mathbf{L}}$arge Number $\underline{\mathbf{Mod}}$ ular Reduction via Hybrid Workloads**|Fangxin Liu et.al.|[2503.15916](http://arxiv.org/abs/2503.15916)|null|
 |**2025-03-24**|**Zero-Knowledge Federated Learning: A New Trustworthy and Privacy-Preserving Distributed Learning Paradigm**|Yuxin Jin et.al.|[2503.15550](http://arxiv.org/abs/2503.15550)|null|
 |**2025-03-17**|**A classical proof of quantum knowledge for multi-prover interactive proof systems**|Anne Broadbent et.al.|[2503.13699](http://arxiv.org/abs/2503.13699)|null|
@@ -779,6 +784,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**TeleAntiFraud-28k: A Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection**|Zhiming Ma et.al.|[2503.24115](http://arxiv.org/abs/2503.24115)|null|
+|**2025-03-31**|**Federated Structured Sparse PCA for Anomaly Detection in IoT Networks**|Chenyi Huang et.al.|[2503.23981](http://arxiv.org/abs/2503.23981)|null|
+|**2025-03-31**|**Privacy Preservation for Statistical Input in Dynamical Systems**|Le Liu et.al.|[2503.23903](http://arxiv.org/abs/2503.23903)|null|
+|**2025-03-31**|**Communication-Efficient and Personalized Federated Foundation Model Fine-Tuning via Tri-Matrix Adaptation**|Yongle Li et.al.|[2503.23869](http://arxiv.org/abs/2503.23869)|null|
+|**2025-03-31**|**Blockchain for Federated Learning in the Internet of Things: Trustworthy Adaptation, Standards, and the Road Ahead**|Farhana Javed et.al.|[2503.23823](http://arxiv.org/abs/2503.23823)|null|
+|**2025-03-31**|**THEMIS: Towards Practical Intellectual Property Protection for Post-Deployment On-Device Deep Learning Models**|Yujin Huang et.al.|[2503.23748](http://arxiv.org/abs/2503.23748)|null|
+|**2025-03-31**|**PDSL: Privacy-Preserved Decentralized Stochastic Learning with Heterogeneous Data Distribution**|Lina Wang et.al.|[2503.23726](http://arxiv.org/abs/2503.23726)|null|
+|**2025-03-30**|**Buffer is All You Need: Defending Federated Learning against Backdoor Attacks under Non-iids via Buffering**|Xingyu Lyu et.al.|[2503.23511](http://arxiv.org/abs/2503.23511)|null|
+|**2025-03-30**|**Federated Self-Supervised Learning for One-Shot Cross-Modal and Cross-Imaging Technique Segmentation**|Siladittya Manna et.al.|[2503.23507](http://arxiv.org/abs/2503.23507)|null|
+|**2025-03-30**|**A Systematic Decade Review of Trip Route Planning with Travel Time Estimation based on User Preferences and Behavior**|Nikil Jayasuriya et.al.|[2503.23486](http://arxiv.org/abs/2503.23486)|null|
 |**2025-03-28**|**EchoFlow: A Foundation Model for Cardiac Ultrasound Image and Video Generation**|Hadrien Reynaud et.al.|[2503.22357](http://arxiv.org/abs/2503.22357)|null|
 |**2025-03-28**|**FLIP: Towards Comprehensive and Reliable Evaluation of Federated Prompt Learning**|Dongping Liao et.al.|[2503.22263](http://arxiv.org/abs/2503.22263)|**[link](https://github.com/0-ml/flip)**|
 |**2025-03-28**|**Privacy-Preserving Secure Neighbor Discovery for Wireless Networks**|Ahmed Mohamed Hussain et.al.|[2503.22232](http://arxiv.org/abs/2503.22232)|null|
