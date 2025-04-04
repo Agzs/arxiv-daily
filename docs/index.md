@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**The Myth of Immutability: A Multivocal Review on Smart Contract Upgradeability**|Ilham Qasse et.al.|[2504.02719](http://arxiv.org/abs/2504.02719)|null|
+|**2025-04-03**|**EvoChain: A Framework for Tracking and Visualizing Smart Contract Evolution**|Ilham Qasse et.al.|[2504.02704](http://arxiv.org/abs/2504.02704)|null|
+|**2025-04-03**|**Blockchain and Distributed Ledger Technologies for Cyberthreat Intelligence Sharing**|Asadullah Tariq et.al.|[2504.02537](http://arxiv.org/abs/2504.02537)|null|
+|**2025-04-03**|**FairDAG: Consensus Fairness over Concurrent Causal Design**|Dakai Kang et.al.|[2504.02194](http://arxiv.org/abs/2504.02194)|null|
+|**2025-04-02**|**Base Station Certificate and Multi-Factor Authentication for Cellular Radio Control Communication Security**|Sourav Purification et.al.|[2504.02133](http://arxiv.org/abs/2504.02133)|null|
 |**2025-03-31**|**A Practical Rollup Escape Hatch Design**|Francisco Gomes Figueira et.al.|[2503.23986](http://arxiv.org/abs/2503.23986)|null|
 |**2025-03-31**|**Blockchain for Federated Learning in the Internet of Things: Trustworthy Adaptation, Standards, and the Road Ahead**|Farhana Javed et.al.|[2503.23823](http://arxiv.org/abs/2503.23823)|null|
 |**2025-03-31**|**Detecting Functional Bugs in Smart Contracts through LLM-Powered and Bug-Oriented Composite Analysis**|Binbin Zhao et.al.|[2503.23718](http://arxiv.org/abs/2503.23718)|null|
@@ -785,6 +790,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Multi-Head Adaptive Graph Convolution Network for Sparse Point Cloud-Based Human Activity Recognition**|Vincent Gbouna Zakka et.al.|[2504.02778](http://arxiv.org/abs/2504.02778)|**[link](https://github.com/Gbouna/MAK-GCN)**|
+|**2025-04-03**|**Tree-based Models for Vertical Federated Learning: A Survey**|Bingchen Qian et.al.|[2504.02285](http://arxiv.org/abs/2504.02285)|null|
+|**2025-04-03**|**Secure Generalization through Stochastic Bidirectional Parameter Updates Using Dual-Gradient Mechanism**|Shourya Goel et.al.|[2504.02213](http://arxiv.org/abs/2504.02213)|null|
+|**2025-04-02**|**Like Oil and Water: Group Robustness Methods and Poisoning Defenses May Be at Odds**|Michael-Andrei Panaitescu-Liess et.al.|[2504.02142](http://arxiv.org/abs/2504.02142)|null|
+|**2025-04-02**|**On Model Protection in Federated Learning against Eavesdropping Attacks**|Dipankar Maity et.al.|[2504.02114](http://arxiv.org/abs/2504.02114)|null|
+|**2025-04-02**|**Privacy-Preserving Edge Computing from Pairing-Based Inner Product Functional Encryption**|Utsav Banerjee et.al.|[2504.02068](http://arxiv.org/abs/2504.02068)|null|
 |**2025-04-02**|**Efficient Federated Learning Tiny Language Models for Mobile Network Feature Prediction**|Daniel Becking et.al.|[2504.01947](http://arxiv.org/abs/2504.01947)|null|
 |**2025-04-02**|**Client Selection in Federated Learning with Data Heterogeneity and Network Latencies**|Harsh Vardhan et.al.|[2504.01921](http://arxiv.org/abs/2504.01921)|null|
 |**2025-04-02**|**CO-DEFEND: Continuous Decentralized Federated Learning for Secure DoH-Based Threat Detection**|Diego Cajaraville-Aboy et.al.|[2504.01882](http://arxiv.org/abs/2504.01882)|null|
