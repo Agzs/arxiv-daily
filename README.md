@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.08
+## Updated on 2025.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2025-04-07**|**Enhancing Smart Contract Vulnerability Detection in DApps Leveraging Fine-Tuned LLM**|Jiuyang Bu et.al.|[2504.05006](http://arxiv.org/abs/2504.05006)|null|
 |**2025-04-07**|**SmartBugBert: BERT-Enhanced Vulnerability Detection for Smart Contract Bytecode**|Jiuyang Bu et.al.|[2504.05002](http://arxiv.org/abs/2504.05002)|null|
 |**2025-04-07**|**Generative Large Language Model usage in Smart Contract Vulnerability Detection**|Peter Ince et.al.|[2504.04685](http://arxiv.org/abs/2504.04685)|null|
-|**2025-04-06**|**Towards Source Mapping for Zero-Knowledge Smart Contracts: Design and Preliminary Evaluation**|Pei Xu et.al.|[2504.04322](http://arxiv.org/abs/2504.04322)|null|
+|**2025-04-08**|**Towards Source Mapping for Zero-Knowledge Smart Contracts: Design and Preliminary Evaluation**|Pei Xu et.al.|[2504.04322](http://arxiv.org/abs/2504.04322)|null|
 |**2025-04-03**|**The Myth of Immutability: A Multivocal Review on Smart Contract Upgradeability**|Ilham Qasse et.al.|[2504.02719](http://arxiv.org/abs/2504.02719)|null|
 |**2025-04-03**|**EvoChain: A Framework for Tracking and Visualizing Smart Contract Evolution**|Ilham Qasse et.al.|[2504.02704](http://arxiv.org/abs/2504.02704)|null|
 |**2025-04-03**|**Blockchain and Distributed Ledger Technologies for Cyberthreat Intelligence Sharing**|Asadullah Tariq et.al.|[2504.02537](http://arxiv.org/abs/2504.02537)|null|
@@ -572,7 +572,7 @@
 |**2023-08-01**|**Game Theoretic Modelling of a Ransom and Extortion Attack on Ethereum Validators**|Alpesh Bhudia et.al.|[2308.00590](http://arxiv.org/abs/2308.00590)|null|
 |**2023-07-27**|**Self-stabilizing Byzantine-tolerant Recycling**|Chryssis Georgiou et.al.|[2307.14801](http://arxiv.org/abs/2307.14801)|null|
 
-<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 ## crosschain
 
@@ -650,7 +650,7 @@
 |**2023-04-20**|**Analyzing the Performance of the Inter-Blockchain Communication Protocol**|Joao Otavio Chervinski et.al.|[2303.10844](http://arxiv.org/abs/2303.10844)|**[link](https://github.com/joaotav/ibc-benchmarking)**|
 |**2023-01-14**|**The Design Principle of Blockchain: An Initiative for the SoK of SoKs**|Luyao Sunshine Zhang et.al.|[2301.00479](http://arxiv.org/abs/2301.00479)|**[link](https://github.com/sunshineluyao/design-principle-blockchain)**|
 
-<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 ## zero-knowledge-proof
 
@@ -803,7 +803,7 @@
 |**2023-07-02**|**zkFi: Privacy-Preserving and Regulation Compliant Transactions using Zero Knowledge Proofs**|Naveen Sahu et.al.|[2307.00521](http://arxiv.org/abs/2307.00521)|null|
 |**2023-06-21**|**A Survey of Multivariate Polynomial Commitment Schemes**|Ihyun Nam et.al.|[2306.11383](http://arxiv.org/abs/2306.11383)|null|
 
-<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 ## secureaggregation
 
@@ -812,7 +812,7 @@
 |**2025-04-07**|**Embedded Federated Feature Selection with Dynamic Sparse Training: Balancing Accuracy-Cost Tradeoffs**|Afsaneh Mahanipour et.al.|[2504.05245](http://arxiv.org/abs/2504.05245)|null|
 |**2025-04-07**|**Federated Learning for Medical Image Classification: A Comprehensive Benchmark**|Zhekai Zhou et.al.|[2504.05238](http://arxiv.org/abs/2504.05238)|null|
 |**2025-04-07**|**SparsyFed: Sparse Adaptive Federated Training**|Adriano Guastella et.al.|[2504.05153](http://arxiv.org/abs/2504.05153)|null|
-|**2025-04-07**|**Towards Optimal Heterogeneous Client Sampling in Multi-Model Federated Learning**|Haoran Zhang et.al.|[2504.05138](http://arxiv.org/abs/2504.05138)|null|
+|**2025-04-08**|**Towards Optimal Heterogeneous Client Sampling in Multi-Model Federated Learning**|Haoran Zhang et.al.|[2504.05138](http://arxiv.org/abs/2504.05138)|null|
 |**2025-04-07**|**Decentralized Semantic Federated Learning for Real-Time Public Safety Tasks: Challenges, Methods, and Directions**|Baosheng Li et.al.|[2504.05107](http://arxiv.org/abs/2504.05107)|null|
 |**2025-04-07**|**FedSAUC: A Similarity-Aware Update Control for Communication-Efficient Federated Learning in Edge Computing**|Ming-Lun Lee et.al.|[2504.04867](http://arxiv.org/abs/2504.04867)|null|
 |**2025-04-07**|**Federated Learning over 5G, WiFi, and Ethernet: Measurements and Evaluation**|Robert J. Hayek et.al.|[2504.04678](http://arxiv.org/abs/2504.04678)|**[link](https://github.com/Net-X-Research-Group/federated_learning_testbed)**|
@@ -3315,7 +3315,7 @@
 |**2023-11-29**|**Addressing Membership Inference Attack in Federated Learning with Model Compression**|Gergely Dániel Németh et.al.|[2311.17750](http://arxiv.org/abs/2311.17750)|**[link](https://github.com/negedng/ma-fl-mia)**|
 |**2023-11-30**|**Grounding Foundation Models through Federated Transfer Learning: A General Framework**|Yan Kang et.al.|[2311.17431](http://arxiv.org/abs/2311.17431)|null|
 
-<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/agzs/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/agzs/arxiv-daily/graphs/contributors
