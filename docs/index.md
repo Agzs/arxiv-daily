@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Security Vulnerabilities in Ethereum Smart Contracts: A Systematic Analysis**|Jixuan Wu et.al.|[2504.05968](http://arxiv.org/abs/2504.05968)|null|
+|**2025-04-07**|**How Do Solidity Versions Affect Vulnerability Detection Tools? An Empirical Study**|Gerardo Iuliano et.al.|[2504.05515](http://arxiv.org/abs/2504.05515)|null|
+|**2025-04-07**|**Secure Smart Contract with Control Flow Integrity**|Zhiyang Chen et.al.|[2504.05509](http://arxiv.org/abs/2504.05509)|null|
 |**2025-04-07**|**Taming Double-Spending in Offline Payments with Reputation-Weighted Loan Networks**|Nektarios Evangelou et.al.|[2504.05143](http://arxiv.org/abs/2504.05143)|null|
 |**2025-04-07**|**Hollow Victory: How Malicious Proposers Exploit Validator Incentives in Optimistic Rollup Dispute Games**|Suhyeon Lee et.al.|[2504.05094](http://arxiv.org/abs/2504.05094)|null|
 |**2025-04-07**|**Enhancing Smart Contract Vulnerability Detection in DApps Leveraging Fine-Tuned LLM**|Jiuyang Bu et.al.|[2504.05006](http://arxiv.org/abs/2504.05006)|null|
@@ -646,6 +649,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Need for zkSpeed: Accelerating HyperPlonk for Zero-Knowledge Proofs**|Alhad Daftardar et.al.|[2504.06211](http://arxiv.org/abs/2504.06211)|null|
 |**2025-04-04**|**Commit-Reveal $^2$ : Randomized Reveal Order Mitigates Last-Revealer Attacks in Commit-Reveal**|Suheyon Lee et.al.|[2504.03936](http://arxiv.org/abs/2504.03936)|null|
 |**2025-03-21**|**Analyzing Performance Bottlenecks in Zero-Knowledge Proof Based Rollups on Ethereum**|Md. Ahsan Habib et.al.|[2503.22709](http://arxiv.org/abs/2503.22709)|null|
 |**2025-03-20**|**ALLMod: Exploring $\underline{\mathbf{A}}$rea-Efficiency of $\underline{\mathbf{L}}$UT-based $\underline{\mathbf{L}}$arge Number $\underline{\mathbf{Mod}}$ ular Reduction via Hybrid Workloads**|Fangxin Liu et.al.|[2503.15916](http://arxiv.org/abs/2503.15916)|null|
@@ -797,6 +801,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Decentralized Federated Domain Generalization with Style Sharing: A Formal Modeling and Convergence Analysis**|Shahryar Zehtabi et.al.|[2504.06235](http://arxiv.org/abs/2504.06235)|null|
+|**2025-04-08**|**Need for zkSpeed: Accelerating HyperPlonk for Zero-Knowledge Proofs**|Alhad Daftardar et.al.|[2504.06211](http://arxiv.org/abs/2504.06211)|null|
+|**2025-04-08**|**Plug and Play Distributed Control of Clustered Energy Hub Networks**|Varsha Behrunani et.al.|[2504.06179](http://arxiv.org/abs/2504.06179)|null|
+|**2025-04-08**|**FedFeat+: A Robust Federated Learning Framework Through Federated Aggregation and Differentially Private Feature-Based Classifier Retraining**|Mrityunjoy Gain et.al.|[2504.06004](http://arxiv.org/abs/2504.06004)|null|
+|**2025-04-08**|**On the Importance of Conditioning for Privacy-Preserving Data Augmentation**|Julian Lorenz et.al.|[2504.05849](http://arxiv.org/abs/2504.05849)|null|
+|**2025-04-08**|**Federated Unlearning Made Practical: Seamless Integration via Negated Pseudo-Gradients**|Alessio Mora et.al.|[2504.05822](http://arxiv.org/abs/2504.05822)|null|
+|**2025-04-08**|**FedEFC: Federated Learning Using Enhanced Forward Correction Against Noisy Labels**|Seunghun Yu et.al.|[2504.05615](http://arxiv.org/abs/2504.05615)|null|
+|**2025-04-07**|**Federated Hierarchical Reinforcement Learning for Adaptive Traffic Signal Control**|Yongjie Fu et.al.|[2504.05553](http://arxiv.org/abs/2504.05553)|null|
 |**2025-04-07**|**Embedded Federated Feature Selection with Dynamic Sparse Training: Balancing Accuracy-Cost Tradeoffs**|Afsaneh Mahanipour et.al.|[2504.05245](http://arxiv.org/abs/2504.05245)|null|
 |**2025-04-07**|**Federated Learning for Medical Image Classification: A Comprehensive Benchmark**|Zhekai Zhou et.al.|[2504.05238](http://arxiv.org/abs/2504.05238)|null|
 |**2025-04-07**|**SparsyFed: Sparse Adaptive Federated Training**|Adriano Guastella et.al.|[2504.05153](http://arxiv.org/abs/2504.05153)|null|
