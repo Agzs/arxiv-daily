@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.10
+## Updated on 2025.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-09**|**Security Vulnerabilities in Ethereum Smart Contracts: A Systematic Analysis**|Jixuan Wu et.al.|[2504.05968](http://arxiv.org/abs/2504.05968)|null|
+|**2025-04-10**|**Security Vulnerabilities in Ethereum Smart Contracts: A Systematic Analysis**|Jixuan Wu et.al.|[2504.05968](http://arxiv.org/abs/2504.05968)|null|
 |**2025-04-07**|**How Do Solidity Versions Affect Vulnerability Detection Tools? An Empirical Study**|Gerardo Iuliano et.al.|[2504.05515](http://arxiv.org/abs/2504.05515)|null|
 |**2025-04-07**|**Secure Smart Contract with Control Flow Integrity**|Zhiyang Chen et.al.|[2504.05509](http://arxiv.org/abs/2504.05509)|null|
 |**2025-04-07**|**Taming Double-Spending in Offline Payments with Reputation-Weighted Loan Networks**|Nektarios Evangelou et.al.|[2504.05143](http://arxiv.org/abs/2504.05143)|null|
