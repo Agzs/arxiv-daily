@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Exploring Vulnerabilities and Concerns in Solana Smart Contracts**|Xiangfan Wu et.al.|[2504.07419](http://arxiv.org/abs/2504.07419)|null|
+|**2025-04-09**|**Conthereum: Concurrent Ethereum Optimized Transaction Scheduling for Multi-Core Execution**|Atefeh Zareh Chahoki et.al.|[2504.07280](http://arxiv.org/abs/2504.07280)|null|
 |**2025-04-10**|**Security Vulnerabilities in Ethereum Smart Contracts: A Systematic Analysis**|Jixuan Wu et.al.|[2504.05968](http://arxiv.org/abs/2504.05968)|null|
 |**2025-04-07**|**How Do Solidity Versions Affect Vulnerability Detection Tools? An Empirical Study**|Gerardo Iuliano et.al.|[2504.05515](http://arxiv.org/abs/2504.05515)|null|
 |**2025-04-07**|**Secure Smart Contract with Control Flow Integrity**|Zhiyang Chen et.al.|[2504.05509](http://arxiv.org/abs/2504.05509)|null|
@@ -813,6 +815,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Exploring a Patch-Wise Approach for Privacy-Preserving Fake ID Detection**|Javier Muñoz-Haro et.al.|[2504.07761](http://arxiv.org/abs/2504.07761)|null|
+|**2025-04-10**|**Privacy-Preserving Vertical K-Means Clustering**|Federico Mazzone et.al.|[2504.07578](http://arxiv.org/abs/2504.07578)|null|
+|**2025-04-10**|**Traversal Learning Coordination For Lossless And Efficient Distributed Learning**|Erdenebileg Batbaatar et.al.|[2504.07471](http://arxiv.org/abs/2504.07471)|null|
+|**2025-04-10**|**ID-Booth: Identity-consistent Face Generation with Diffusion Models**|Darian Tomašević et.al.|[2504.07392](http://arxiv.org/abs/2504.07392)|null|
+|**2025-04-09**|**Language Modeling for the Future of Finance: A Quantitative Survey into Metrics, Tasks, and Data Opportunities**|Nikita Tatarinov et.al.|[2504.07274](http://arxiv.org/abs/2504.07274)|null|
 |**2025-04-09**|**FedMerge: Federated Personalization via Model Merging**|Shutong Chen et.al.|[2504.06768](http://arxiv.org/abs/2504.06768)|null|
 |**2025-04-09**|**More Efficient Stealth Address Protocol**|Marija Mikic et.al.|[2504.06744](http://arxiv.org/abs/2504.06744)|null|
 |**2025-04-08**|**Federated Neural Architecture Search with Model-Agnostic Meta Learning**|Xinyuan Huang et.al.|[2504.06457](http://arxiv.org/abs/2504.06457)|null|
