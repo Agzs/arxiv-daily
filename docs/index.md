@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**EthCluster: An Unsupervised Static Analysis Method for Ethereum Smart Contract**|Hong-Sheng Huang et.al.|[2504.09977](http://arxiv.org/abs/2504.09977)|null|
+|**2025-04-13**|**Bridging Immutability with Flexibility: A Scheme for Secure and Efficient Smart Contract Upgrades**|Tahrim Hossain et.al.|[2504.09652](http://arxiv.org/abs/2504.09652)|null|
+|**2025-04-13**|**RoboComm: A DID-based scalable and privacy-preserving Robot-to-Robot interaction over state channels**|Roshan Singh et.al.|[2504.09517](http://arxiv.org/abs/2504.09517)|null|
+|**2025-04-12**|**CrossLink: A Decentralized Framework for Secure Cross-Chain Smart Contract Execution**|Tahrim Hossain et.al.|[2504.09319](http://arxiv.org/abs/2504.09319)|null|
+|**2025-04-12**|**SmartShift: A Secure and Efficient Approach to Smart Contract Migration**|Tahrim Hossain et.al.|[2504.09315](http://arxiv.org/abs/2504.09315)|null|
+|**2025-04-12**|**A Multi-Layered Security Analysis of Blockchain Systems: From Attack Vectors to Defense and System Hardening**|Yuhuan Yang et.al.|[2504.09181](http://arxiv.org/abs/2504.09181)|null|
 |**2025-04-10**|**Exploring Vulnerabilities and Concerns in Solana Smart Contracts**|Xiangfan Wu et.al.|[2504.07419](http://arxiv.org/abs/2504.07419)|null|
 |**2025-04-09**|**Conthereum: Concurrent Ethereum Optimized Transaction Scheduling for Multi-Core Execution**|Atefeh Zareh Chahoki et.al.|[2504.07280](http://arxiv.org/abs/2504.07280)|null|
 |**2025-04-10**|**Security Vulnerabilities in Ethereum Smart Contracts: A Systematic Analysis**|Jixuan Wu et.al.|[2504.05968](http://arxiv.org/abs/2504.05968)|null|
@@ -575,6 +581,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-12**|**CrossLink: A Decentralized Framework for Secure Cross-Chain Smart Contract Execution**|Tahrim Hossain et.al.|[2504.09319](http://arxiv.org/abs/2504.09319)|null|
 |**2025-04-02**|**Track and Trace: Automatically Uncovering Cross-chain Transactions in the Multi-blockchain Ecosystems**|Dan Lin et.al.|[2504.01822](http://arxiv.org/abs/2504.01822)|null|
 |**2025-03-17**|**XChainDataGen: A Cross-Chain Dataset Generation Framework**|André Augusto et.al.|[2503.13637](http://arxiv.org/abs/2503.13637)|null|
 |**2025-03-17**|**Enabling High-Frequency Trading with Near-Instant, Trustless Cross-Chain Transactions via Pre-Signing Adaptor Signatures**|Ethan Francolla et.al.|[2503.12719](http://arxiv.org/abs/2503.12719)|null|
@@ -803,6 +810,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**Privacy-Preserving Distributed Link Predictions Among Peers in Online Classrooms Using Federated Learning**|Anurata Prabha Hridi et.al.|[2504.10456](http://arxiv.org/abs/2504.10456)|null|
+|**2025-04-14**|**Satellite Federated Fine-Tuning for Foundation Models in Space Computing Power Networks**|Yan zhu et.al.|[2504.10403](http://arxiv.org/abs/2504.10403)|null|
+|**2025-04-14**|**Trade-offs in Privacy-Preserving Eye Tracking through Iris Obfuscation: A Benchmarking Study**|Mengdi Wang et.al.|[2504.10267](http://arxiv.org/abs/2504.10267)|**[link](https://gitlab.lrz.de/hctl/Iris-Obfuscation-Benchmark)**|
+|**2025-04-14**|**Differentially Private 2D Human Pose Estimation**|Kaushik Bhargav Sivangi et.al.|[2504.10190](http://arxiv.org/abs/2504.10190)|null|
+|**2025-04-14**|**Undermining Federated Learning Accuracy in EdgeIoT via Variational Graph Auto-Encoders**|Kai Li et.al.|[2504.10067](http://arxiv.org/abs/2504.10067)|null|
+|**2025-04-14**|**Quantifying Privacy Leakage in Split Inference via Fisher-Approximated Shannon Information Analysis**|Ruijun Deng et.al.|[2504.10016](http://arxiv.org/abs/2504.10016)|null|
+|**2025-04-14**|**Towards Unbiased Federated Graph Learning: Label and Topology Perspectives**|Zhengyu Wu et.al.|[2504.09963](http://arxiv.org/abs/2504.09963)|null|
+|**2025-04-14**|**FedRecon: Missing Modality Reconstruction in Distributed Heterogeneous Environments**|Junming Liu et.al.|[2504.09941](http://arxiv.org/abs/2504.09941)|null|
+|**2025-04-14**|**RadarLLM: Empowering Large Language Models to Understand Human Motion from Millimeter-wave Point Cloud Sequence**|Zengyuan Lai et.al.|[2504.09862](http://arxiv.org/abs/2504.09862)|null|
+|**2025-04-14**|**Accelerating Differentially Private Federated Learning via Adaptive Extrapolation**|Shokichi Takakura et.al.|[2504.09850](http://arxiv.org/abs/2504.09850)|null|
 |**2025-04-11**|**Boosting multi-demographic federated learning for chest x-ray analysis using general-purpose self-supervised representations**|Mahshad Lotfinia et.al.|[2504.08584](http://arxiv.org/abs/2504.08584)|null|
 |**2025-04-11**|**Explainability and Continual Learning meet Federated Learning at the Network Edge**|Thomas Tsouparopoulos et.al.|[2504.08536](http://arxiv.org/abs/2504.08536)|null|
 |**2025-04-11**|**An Adaptive Clustering Scheme for Client Selections in Communication-Efficient Federated Learning**|Yan-Ann Chen et.al.|[2504.08356](http://arxiv.org/abs/2504.08356)|null|
