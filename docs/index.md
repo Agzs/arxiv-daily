@@ -14,9 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**Evaluating DAO Sustainability and Longevity Through On-Chain Governance Metrics**|Silvio Meneguzzo et.al.|[2504.11341](http://arxiv.org/abs/2504.11341)|null|
+|**2025-04-15**|**FlexiContracts: A Novel and Efficient Scheme for Upgrading Smart Contracts in Ethereum Blockchain**|Tahrim Hossain et.al.|[2504.10811](http://arxiv.org/abs/2504.10811)|null|
+|**2025-04-13**|**Where Should I Deploy My Contracts? A Practical Experience Report**|Cătălina Lazăr et.al.|[2504.10535](http://arxiv.org/abs/2504.10535)|null|
 |**2025-04-14**|**EthCluster: An Unsupervised Static Analysis Method for Ethereum Smart Contract**|Hong-Sheng Huang et.al.|[2504.09977](http://arxiv.org/abs/2504.09977)|null|
 |**2025-04-13**|**Bridging Immutability with Flexibility: A Scheme for Secure and Efficient Smart Contract Upgrades**|Tahrim Hossain et.al.|[2504.09652](http://arxiv.org/abs/2504.09652)|null|
-|**2025-04-13**|**RoboComm: A DID-based scalable and privacy-preserving Robot-to-Robot interaction over state channels**|Roshan Singh et.al.|[2504.09517](http://arxiv.org/abs/2504.09517)|null|
+|**2025-04-15**|**RoboComm: A DID-based scalable and privacy-preserving Robot-to-Robot interaction over state channels**|Roshan Singh et.al.|[2504.09517](http://arxiv.org/abs/2504.09517)|null|
 |**2025-04-12**|**CrossLink: A Decentralized Framework for Secure Cross-Chain Smart Contract Execution**|Tahrim Hossain et.al.|[2504.09319](http://arxiv.org/abs/2504.09319)|null|
 |**2025-04-12**|**SmartShift: A Secure and Efficient Approach to Smart Contract Migration**|Tahrim Hossain et.al.|[2504.09315](http://arxiv.org/abs/2504.09315)|null|
 |**2025-04-12**|**A Multi-Layered Security Analysis of Blockchain Systems: From Attack Vectors to Defense and System Hardening**|Yuhuan Yang et.al.|[2504.09181](http://arxiv.org/abs/2504.09181)|null|
@@ -810,6 +813,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**Diversity-Driven Learning: Tackling Spurious Correlations and Data Heterogeneity in Federated Models**|Gergely D. Németh et.al.|[2504.11216](http://arxiv.org/abs/2504.11216)|null|
+|**2025-04-15**|**FLSSM: A Federated Learning Storage Security Model with Homomorphic Encryption**|Yang Li et.al.|[2504.11088](http://arxiv.org/abs/2504.11088)|null|
+|**2025-04-15**|**ICAFS: Inter-Client-Aware Feature Selection for Vertical Federated Learning**|Ruochen Jin et.al.|[2504.10851](http://arxiv.org/abs/2504.10851)|null|
+|**2025-04-15**|**FHBench: Towards Efficient and Personalized Federated Learning for Multimodal Healthcare**|Penghao Wang et.al.|[2504.10817](http://arxiv.org/abs/2504.10817)|null|
+|**2025-04-14**|**Optimising Intrusion Detection Systems in Cloud-Edge Continuum with Knowledge Distillation for Privacy-Preserving and Efficient Communication**|Soad Almabdy et.al.|[2504.10698](http://arxiv.org/abs/2504.10698)|null|
+|**2025-04-14**|**Skeleton-Based Intake Gesture Detection With Spatial-Temporal Graph Convolutional Networks**|Chunzhuo Wang et.al.|[2504.10635](http://arxiv.org/abs/2504.10635)|null|
 |**2025-04-14**|**Privacy-Preserving Distributed Link Predictions Among Peers in Online Classrooms Using Federated Learning**|Anurata Prabha Hridi et.al.|[2504.10456](http://arxiv.org/abs/2504.10456)|null|
 |**2025-04-14**|**Satellite Federated Fine-Tuning for Foundation Models in Space Computing Power Networks**|Yan zhu et.al.|[2504.10403](http://arxiv.org/abs/2504.10403)|null|
 |**2025-04-15**|**Trade-offs in Privacy-Preserving Eye Tracking through Iris Obfuscation: A Benchmarking Study**|Mengdi Wang et.al.|[2504.10267](http://arxiv.org/abs/2504.10267)|**[link](https://gitlab.lrz.de/hctl/Iris-Obfuscation-Benchmark)**|
