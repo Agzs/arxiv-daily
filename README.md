@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.20
+## Updated on 2025.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2025-04-16**|**MOS: Towards Effective Smart Contract Vulnerability Detection through Mixture-of-Experts Tuning of Large Language Models**|Hang Yuan et.al.|[2504.12234](http://arxiv.org/abs/2504.12234)|null|
 |**2025-04-16**|**OpDiffer: LLM-Assisted Opcode-Level Differential Testing of Ethereum Virtual Machine**|Jie Ma et.al.|[2504.12034](http://arxiv.org/abs/2504.12034)|null|
 |**2025-04-16**|**From Data Behavior to Code Analysis: A Multimodal Study on Security and Privacy Challenges in Blockchain-Based DApp**|Haoyang Sun et.al.|[2504.11860](http://arxiv.org/abs/2504.11860)|null|
-|**2025-04-16**|**Less-excludable Mechanism for DAOs in Public Good Auctions**|Jing Chen et.al.|[2504.11854](http://arxiv.org/abs/2504.11854)|null|
+|**2025-04-18**|**Less-excludable Mechanism for DAOs in Public Good Auctions**|Jing Chen et.al.|[2504.11854](http://arxiv.org/abs/2504.11854)|null|
 |**2025-04-16**|**Blockchain Application in Metaverse: A Review**|Bingquan Jin et.al.|[2504.11730](http://arxiv.org/abs/2504.11730)|null|
 |**2025-04-16**|**Clustering and analysis of user behaviour in blockchain: A case study of Planet IX**|Dorottya Zelenyanszki et.al.|[2504.11702](http://arxiv.org/abs/2504.11702)|null|
 |**2025-04-15**|**Evaluating DAO Sustainability and Longevity Through On-Chain Governance Metrics**|Silvio Meneguzzo et.al.|[2504.11341](http://arxiv.org/abs/2504.11341)|null|
@@ -594,7 +594,7 @@
 |**2023-08-01**|**Game Theoretic Modelling of a Ransom and Extortion Attack on Ethereum Validators**|Alpesh Bhudia et.al.|[2308.00590](http://arxiv.org/abs/2308.00590)|null|
 |**2023-07-27**|**Self-stabilizing Byzantine-tolerant Recycling**|Chryssis Georgiou et.al.|[2307.14801](http://arxiv.org/abs/2307.14801)|null|
 
-<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
 
 ## crosschain
 
@@ -673,7 +673,7 @@
 |**2023-04-20**|**Analyzing the Performance of the Inter-Blockchain Communication Protocol**|Joao Otavio Chervinski et.al.|[2303.10844](http://arxiv.org/abs/2303.10844)|**[link](https://github.com/joaotav/ibc-benchmarking)**|
 |**2023-01-14**|**The Design Principle of Blockchain: An Initiative for the SoK of SoKs**|Luyao Sunshine Zhang et.al.|[2301.00479](http://arxiv.org/abs/2301.00479)|**[link](https://github.com/sunshineluyao/design-principle-blockchain)**|
 
-<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
 
 ## zero-knowledge-proof
 
@@ -828,7 +828,7 @@
 |**2023-07-02**|**zkFi: Privacy-Preserving and Regulation Compliant Transactions using Zero Knowledge Proofs**|Naveen Sahu et.al.|[2307.00521](http://arxiv.org/abs/2307.00521)|null|
 |**2023-06-21**|**A Survey of Multivariate Polynomial Commitment Schemes**|Ihyun Nam et.al.|[2306.11383](http://arxiv.org/abs/2306.11383)|null|
 
-<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
 
 ## secureaggregation
 
@@ -838,7 +838,7 @@
 |**2025-04-17**|**Enhancing Decentralization in Blockchain Decision-Making Through Quadratic Voting and Its Generalization**|Lyudmila Kovalchuk et.al.|[2504.12859](http://arxiv.org/abs/2504.12859)|null|
 |**2025-04-17**|**FedX: Adaptive Model Decomposition and Quantization for IoT Federated Learning**|Phung Lai et.al.|[2504.12849](http://arxiv.org/abs/2504.12849)|null|
 |**2025-04-17**|**Decentralized Nonconvex Composite Federated Learning with Gradient Tracking and Momentum**|Yuan Zhou et.al.|[2504.12742](http://arxiv.org/abs/2504.12742)|null|
-|**2025-04-17**|**The Athenian Academy: A Seven-Layer Architecture Model for Multi-Agent Systems**|Lidong Zhai et.al.|[2504.12735](http://arxiv.org/abs/2504.12735)|null|
+|**2025-04-18**|**The Athenian Academy: A Seven-Layer Architecture Model for Multi-Agent Systems**|Lidong Zhai et.al.|[2504.12735](http://arxiv.org/abs/2504.12735)|null|
 |**2025-04-17**|**Privacy-Preserving CNN Training with Transfer Learning: Two Hidden Layers**|John Chiang et.al.|[2504.12623](http://arxiv.org/abs/2504.12623)|null|
 |**2025-04-17**|**Local Data Quantity-Aware Weighted Averaging for Federated Learning with Dishonest Clients**|Leming Wu et.al.|[2504.12577](http://arxiv.org/abs/2504.12577)|null|
 |**2025-04-17**|**Prompt-Driven and Training-Free Forgetting Approach and Dataset for Large Language Models**|Zhenyu Yu et.al.|[2504.12574](http://arxiv.org/abs/2504.12574)|null|
@@ -3398,7 +3398,7 @@
 |**2023-11-29**|**Addressing Membership Inference Attack in Federated Learning with Model Compression**|Gergely Dániel Németh et.al.|[2311.17750](http://arxiv.org/abs/2311.17750)|**[link](https://github.com/negedng/ma-fl-mia)**|
 |**2023-11-30**|**Grounding Foundation Models through Federated Transfer Learning: A General Framework**|Yan Kang et.al.|[2311.17431](http://arxiv.org/abs/2311.17431)|null|
 
-<p align=right>(<a href=#updated-on-20250420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250421>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/agzs/arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/agzs/arxiv-daily/graphs/contributors

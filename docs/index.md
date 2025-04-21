@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.20
+## Updated on 2025.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -19,7 +19,7 @@ layout: default
 |**2025-04-16**|**MOS: Towards Effective Smart Contract Vulnerability Detection through Mixture-of-Experts Tuning of Large Language Models**|Hang Yuan et.al.|[2504.12234](http://arxiv.org/abs/2504.12234)|null|
 |**2025-04-16**|**OpDiffer: LLM-Assisted Opcode-Level Differential Testing of Ethereum Virtual Machine**|Jie Ma et.al.|[2504.12034](http://arxiv.org/abs/2504.12034)|null|
 |**2025-04-16**|**From Data Behavior to Code Analysis: A Multimodal Study on Security and Privacy Challenges in Blockchain-Based DApp**|Haoyang Sun et.al.|[2504.11860](http://arxiv.org/abs/2504.11860)|null|
-|**2025-04-16**|**Less-excludable Mechanism for DAOs in Public Good Auctions**|Jing Chen et.al.|[2504.11854](http://arxiv.org/abs/2504.11854)|null|
+|**2025-04-18**|**Less-excludable Mechanism for DAOs in Public Good Auctions**|Jing Chen et.al.|[2504.11854](http://arxiv.org/abs/2504.11854)|null|
 |**2025-04-16**|**Blockchain Application in Metaverse: A Review**|Bingquan Jin et.al.|[2504.11730](http://arxiv.org/abs/2504.11730)|null|
 |**2025-04-16**|**Clustering and analysis of user behaviour in blockchain: A case study of Planet IX**|Dorottya Zelenyanszki et.al.|[2504.11702](http://arxiv.org/abs/2504.11702)|null|
 |**2025-04-15**|**Evaluating DAO Sustainability and Longevity Through On-Chain Governance Metrics**|Silvio Meneguzzo et.al.|[2504.11341](http://arxiv.org/abs/2504.11341)|null|
@@ -826,7 +826,7 @@ layout: default
 |**2025-04-17**|**Enhancing Decentralization in Blockchain Decision-Making Through Quadratic Voting and Its Generalization**|Lyudmila Kovalchuk et.al.|[2504.12859](http://arxiv.org/abs/2504.12859)|null|
 |**2025-04-17**|**FedX: Adaptive Model Decomposition and Quantization for IoT Federated Learning**|Phung Lai et.al.|[2504.12849](http://arxiv.org/abs/2504.12849)|null|
 |**2025-04-17**|**Decentralized Nonconvex Composite Federated Learning with Gradient Tracking and Momentum**|Yuan Zhou et.al.|[2504.12742](http://arxiv.org/abs/2504.12742)|null|
-|**2025-04-17**|**The Athenian Academy: A Seven-Layer Architecture Model for Multi-Agent Systems**|Lidong Zhai et.al.|[2504.12735](http://arxiv.org/abs/2504.12735)|null|
+|**2025-04-18**|**The Athenian Academy: A Seven-Layer Architecture Model for Multi-Agent Systems**|Lidong Zhai et.al.|[2504.12735](http://arxiv.org/abs/2504.12735)|null|
 |**2025-04-17**|**Privacy-Preserving CNN Training with Transfer Learning: Two Hidden Layers**|John Chiang et.al.|[2504.12623](http://arxiv.org/abs/2504.12623)|null|
 |**2025-04-17**|**Local Data Quantity-Aware Weighted Averaging for Federated Learning with Dishonest Clients**|Leming Wu et.al.|[2504.12577](http://arxiv.org/abs/2504.12577)|null|
 |**2025-04-17**|**Prompt-Driven and Training-Free Forgetting Approach and Dataset for Large Language Models**|Zhenyu Yu et.al.|[2504.12574](http://arxiv.org/abs/2504.12574)|null|
