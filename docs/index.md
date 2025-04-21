@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Insecurity Through Obscurity: Veiled Vulnerabilities in Closed-Source Contracts**|Sen Yang et.al.|[2504.13398](http://arxiv.org/abs/2504.13398)|null|
 |**2025-04-17**|**Malicious Code Detection in Smart Contracts via Opcode Vectorization**|Huanhuan Zou et.al.|[2504.12720](http://arxiv.org/abs/2504.12720)|null|
 |**2025-04-16**|**Bridging the Gap: A Comparative Study of Academic and Developer Approaches to Smart Contract Vulnerabilities**|Francesco Salzano et.al.|[2504.12443](http://arxiv.org/abs/2504.12443)|null|
 |**2025-04-16**|**MOS: Towards Effective Smart Contract Vulnerability Detection through Mixture-of-Experts Tuning of Large Language Models**|Hang Yuan et.al.|[2504.12234](http://arxiv.org/abs/2504.12234)|null|
@@ -822,6 +823,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Multi-class Item Mining under Local Differential Privacy**|Yulian Mao et.al.|[2504.13526](http://arxiv.org/abs/2504.13526)|null|
+|**2025-04-18**|**SFL-LEO: Asynchronous Split-Federated Learning Design for LEO Satellite-Ground Network Framework**|Jiasheng Wu et.al.|[2504.13479](http://arxiv.org/abs/2504.13479)|null|
+|**2025-04-18**|**Stratify: Rethinking Federated Learning for Non-IID Data through Balanced Sampling**|Hui Yeok Wong et.al.|[2504.13462](http://arxiv.org/abs/2504.13462)|null|
+|**2025-04-17**|**VLLFL: A Vision-Language Model Based Lightweight Federated Learning Framework for Smart Agriculture**|Long Li et.al.|[2504.13365](http://arxiv.org/abs/2504.13365)|null|
+|**2025-04-17**|**Leveraging Functional Encryption and Deep Learning for Privacy-Preserving Traffic Forecasting**|Isaac Adom et.al.|[2504.13267](http://arxiv.org/abs/2504.13267)|null|
 |**2025-04-17**|**A Client-level Assessment of Collaborative Backdoor Poisoning in Non-IID Federated Learning**|Phung Lai et.al.|[2504.12875](http://arxiv.org/abs/2504.12875)|null|
 |**2025-04-17**|**Enhancing Decentralization in Blockchain Decision-Making Through Quadratic Voting and Its Generalization**|Lyudmila Kovalchuk et.al.|[2504.12859](http://arxiv.org/abs/2504.12859)|null|
 |**2025-04-17**|**FedX: Adaptive Model Decomposition and Quantization for IoT Federated Learning**|Phung Lai et.al.|[2504.12849](http://arxiv.org/abs/2504.12849)|null|
