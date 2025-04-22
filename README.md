@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**A Review on Privacy in DAG-Based DLTs**|Mayank Raikwar et.al.|[2504.15233](http://arxiv.org/abs/2504.15233)|null|
+|**2025-04-21**|**Mining Characteristics of Vulnerable Smart Contracts Across Lifecycle Stages**|Hongli Peng et.al.|[2504.15063](http://arxiv.org/abs/2504.15063)|null|
 |**2025-04-18**|**Insecurity Through Obscurity: Veiled Vulnerabilities in Closed-Source Contracts**|Sen Yang et.al.|[2504.13398](http://arxiv.org/abs/2504.13398)|null|
 |**2025-04-17**|**Malicious Code Detection in Smart Contracts via Opcode Vectorization**|Huanhuan Zou et.al.|[2504.12720](http://arxiv.org/abs/2504.12720)|null|
 |**2025-04-16**|**Bridging the Gap: A Comparative Study of Academic and Developer Approaches to Smart Contract Vulnerabilities**|Francesco Salzano et.al.|[2504.12443](http://arxiv.org/abs/2504.12443)|null|
@@ -680,6 +682,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**Towards Fuzzing Zero-Knowledge Proof Circuits (Short Paper)**|Stefanos Chaliasos et.al.|[2504.14881](http://arxiv.org/abs/2504.14881)|null|
+|**2025-04-18**|**Post Quantum Cryptography (PQC) Signatures Without Trapdoors**|William J Buchanan et.al.|[2504.14016](http://arxiv.org/abs/2504.14016)|null|
 |**2025-04-16**|**zkVC: Fast Zero-Knowledge Proof for Private and Verifiable Computing**|Yancheng Zhang et.al.|[2504.12217](http://arxiv.org/abs/2504.12217)|**[link](https://github.com/ucf-lou-lab-pet/zkformer)**|
 |**2025-04-08**|**Need for zkSpeed: Accelerating HyperPlonk for Zero-Knowledge Proofs**|Alhad Daftardar et.al.|[2504.06211](http://arxiv.org/abs/2504.06211)|null|
 |**2025-04-04**|**Commit-Reveal $^2$ : Randomized Reveal Order Mitigates Last-Revealer Attacks in Commit-Reveal**|Suheyon Lee et.al.|[2504.03936](http://arxiv.org/abs/2504.03936)|**[link](https://github.com/tokamak-network/Commit-Reveal2)**|
@@ -835,6 +839,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**Values in the Wild: Discovering and Analyzing Values in Real-World Language Model Interactions**|Saffron Huang et.al.|[2504.15236](http://arxiv.org/abs/2504.15236)|null|
+|**2025-04-21**|**Federated Latent Factor Model for Bias-Aware Recommendation with Privacy-Preserving**|Junxiang Gao et.al.|[2504.15090](http://arxiv.org/abs/2504.15090)|null|
+|**2025-04-21**|**Towards Fuzzing Zero-Knowledge Proof Circuits (Short Paper)**|Stefanos Chaliasos et.al.|[2504.14881](http://arxiv.org/abs/2504.14881)|null|
+|**2025-04-21**|**Aligning Beam with Imbalanced Multi-modality: A Generative Federated Learning Approach**|Jiahui Liang et.al.|[2504.14835](http://arxiv.org/abs/2504.14835)|null|
+|**2025-04-20**|**Learning Critically: Selective Self Distillation in Federated Learning on Non-IID Data**|Yuting He et.al.|[2504.14694](http://arxiv.org/abs/2504.14694)|null|
+|**2025-04-20**|**Efficient Federated Split Learning for Large Language Models over Communication Networks**|Kai Zhao et.al.|[2504.14667](http://arxiv.org/abs/2504.14667)|null|
+|**2025-04-20**|**A Case Study Exploring the Current Landscape of Synthetic Medical Record Generation with Commercial LLMs**|Yihan Lin et.al.|[2504.14657](http://arxiv.org/abs/2504.14657)|null|
+|**2025-04-20**|**GENE-FL: Gene-Driven Parameter-Efficient Dynamic Federated Learning**|Shunxin Guo et.al.|[2504.14628](http://arxiv.org/abs/2504.14628)|null|
+|**2025-04-20**|**Fast Plaintext-Ciphertext Matrix Multiplication from Additively Homomorphic Encryption**|Krishna Sai Tarun Ramapragada et.al.|[2504.14497](http://arxiv.org/abs/2504.14497)|null|
+|**2025-04-19**|**Balancing Privacy and Action Performance: A Penalty-Driven Approach to Image Anonymization**|Nazia Aslam et.al.|[2504.14301](http://arxiv.org/abs/2504.14301)|null|
 |**2025-04-18**|**Multi-class Item Mining under Local Differential Privacy**|Yulian Mao et.al.|[2504.13526](http://arxiv.org/abs/2504.13526)|null|
 |**2025-04-18**|**SFL-LEO: Asynchronous Split-Federated Learning Design for LEO Satellite-Ground Network Framework**|Jiasheng Wu et.al.|[2504.13479](http://arxiv.org/abs/2504.13479)|null|
 |**2025-04-18**|**Stratify: Rethinking Federated Learning for Non-IID Data through Balanced Sampling**|Hui Yeok Wong et.al.|[2504.13462](http://arxiv.org/abs/2504.13462)|null|
