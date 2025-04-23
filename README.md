@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**Automated Vulnerability Injection in Solidity Smart Contracts: A Mutation-Based Approach for Benchmark Development**|Gerardo Iuliano et.al.|[2504.15948](http://arxiv.org/abs/2504.15948)|null|
+|**2025-04-22**|**Trusted Compute Units: A Framework for Chained Verifiable Computations**|Fernando Castillo et.al.|[2504.15717](http://arxiv.org/abs/2504.15717)|null|
 |**2025-04-21**|**A Review on Privacy in DAG-Based DLTs**|Mayank Raikwar et.al.|[2504.15233](http://arxiv.org/abs/2504.15233)|null|
 |**2025-04-21**|**Mining Characteristics of Vulnerable Smart Contracts Across Lifecycle Stages**|Hongli Peng et.al.|[2504.15063](http://arxiv.org/abs/2504.15063)|null|
 |**2025-04-18**|**Insecurity Through Obscurity: Veiled Vulnerabilities in Closed-Source Contracts**|Sen Yang et.al.|[2504.13398](http://arxiv.org/abs/2504.13398)|null|
@@ -603,6 +605,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**Tracing Cross-chain Transactions between EVM-based Blockchains: An Analysis of Ethereum-Polygon Bridges**|Tao Yan et.al.|[2504.15449](http://arxiv.org/abs/2504.15449)|null|
 |**2025-04-12**|**CrossLink: A Decentralized Framework for Secure Cross-Chain Smart Contract Execution**|Tahrim Hossain et.al.|[2504.09319](http://arxiv.org/abs/2504.09319)|**[link](https://github.com/CrossLink-Code/CrossLink)**|
 |**2025-04-02**|**Track and Trace: Automatically Uncovering Cross-chain Transactions in the Multi-blockchain Ecosystems**|Dan Lin et.al.|[2504.01822](http://arxiv.org/abs/2504.01822)|null|
 |**2025-03-17**|**XChainDataGen: A Cross-Chain Dataset Generation Framework**|André Augusto et.al.|[2503.13637](http://arxiv.org/abs/2503.13637)|null|
@@ -839,6 +842,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**LLMs meet Federated Learning for Scalable and Secure IoT Management**|Yazan Otoum et.al.|[2504.16032](http://arxiv.org/abs/2504.16032)|null|
+|**2025-04-22**|**OPUS-VFL: Incentivizing Optimal Privacy-Utility Tradeoffs in Vertical Federated Learning**|Sindhuja Madabushi et.al.|[2504.15995](http://arxiv.org/abs/2504.15995)|null|
+|**2025-04-22**|**Achieving Distributive Justice in Federated Learning via Uncertainty Quantification**|Alycia Carey et.al.|[2504.15924](http://arxiv.org/abs/2504.15924)|null|
+|**2025-04-22**|**CARE: Compatibility-Aware Incentive Mechanisms for Federated Learning with Budgeted Requesters**|Xiang Liu et.al.|[2504.15847](http://arxiv.org/abs/2504.15847)|null|
+|**2025-04-22**|**EFFACT: A Highly Efficient Full-Stack FHE Acceleration Platform**|Yi Huang et.al.|[2504.15817](http://arxiv.org/abs/2504.15817)|null|
+|**2025-04-22**|**Collaborative Split Federated Learning with Parallel Training and Aggregation**|Yiannis Papageorgiou et.al.|[2504.15724](http://arxiv.org/abs/2504.15724)|null|
+|**2025-04-22**|**Trusted Compute Units: A Framework for Chained Verifiable Computations**|Fernando Castillo et.al.|[2504.15717](http://arxiv.org/abs/2504.15717)|null|
+|**2025-04-22**|**TrojanDam: Detection-Free Backdoor Defense in Federated Learning through Proactive Model Robustification utilizing OOD Data**|Yanbo Dai et.al.|[2504.15674](http://arxiv.org/abs/2504.15674)|null|
+|**2025-04-22**|**On the Price of Differential Privacy for Hierarchical Clustering**|Chengyuan Deng et.al.|[2504.15580](http://arxiv.org/abs/2504.15580)|null|
+|**2025-04-22**|**Towards Resilience and Autonomy-based Approaches for Adolescents Online Safety**|Jinkyung Park et.al.|[2504.15533](http://arxiv.org/abs/2504.15533)|null|
 |**2025-04-21**|**Values in the Wild: Discovering and Analyzing Values in Real-World Language Model Interactions**|Saffron Huang et.al.|[2504.15236](http://arxiv.org/abs/2504.15236)|null|
 |**2025-04-21**|**Federated Latent Factor Model for Bias-Aware Recommendation with Privacy-Preserving**|Junxiang Gao et.al.|[2504.15090](http://arxiv.org/abs/2504.15090)|null|
 |**2025-04-21**|**Towards Fuzzing Zero-Knowledge Proof Circuits (Short Paper)**|Stefanos Chaliasos et.al.|[2504.14881](http://arxiv.org/abs/2504.14881)|null|
