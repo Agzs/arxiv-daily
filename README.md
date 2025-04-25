@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Proof of Useful Intelligence (PoUI): Blockchain Consensus Beyond Energy Waste**|Zan-Kai Chong et.al.|[2504.17539](http://arxiv.org/abs/2504.17539)|null|
+|**2025-04-24**|**Operational Semantics for Crystality: A Smart Contract Language for Parallel EVMs**|Ziyun Xu et.al.|[2504.17336](http://arxiv.org/abs/2504.17336)|null|
+|**2025-04-24**|**Developing a Blockchain-Based Secure Digital Contents Distribution System**|Syed Mohiuddin Qadri et.al.|[2504.17194](http://arxiv.org/abs/2504.17194)|null|
 |**2025-04-23**|**DTVM: Revolutionizing Smart Contract Execution with Determinism and Compatibility**|Wei Zhou et.al.|[2504.16552](http://arxiv.org/abs/2504.16552)|null|
 |**2025-04-18**|**DMind Benchmark: The First Comprehensive Benchmark for LLM Evaluation in the Web3 Domain**|Miracle Master et.al.|[2504.16116](http://arxiv.org/abs/2504.16116)|null|
 |**2025-04-24**|**AI-Based Vulnerability Analysis of NFT Smart Contracts**|Xin Wang et.al.|[2504.16113](http://arxiv.org/abs/2504.16113)|null|
@@ -845,6 +848,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Silenzio: Secure Non-Interactive Outsourced MLP Training**|Jonas Sander et.al.|[2504.17785](http://arxiv.org/abs/2504.17785)|null|
+|**2025-04-24**|**Federated Learning: A Survey on Privacy-Preserving Collaborative Intelligence**|Edward Collins et.al.|[2504.17703](http://arxiv.org/abs/2504.17703)|null|
+|**2025-04-24**|**Decentralized Time Series Classification with ROCKET Features**|Bruno Casella et.al.|[2504.17617](http://arxiv.org/abs/2504.17617)|null|
+|**2025-04-24**|**TACO: Tackling Over-correction in Federated Learning with Tailored Adaptive Correction**|Weijie Liu et.al.|[2504.17528](http://arxiv.org/abs/2504.17528)|null|
+|**2025-04-23**|**Co-CoT: A Prompt-Based Framework for Collaborative Chain-of-Thought Reasoning**|Seunghyun Yoo et.al.|[2504.17091](http://arxiv.org/abs/2504.17091)|null|
 |**2025-04-23**|**An Adaptive ML Framework for Power Converter Monitoring via Federated Transfer Learning**|Panagiotis Kakosimos et.al.|[2504.16866](http://arxiv.org/abs/2504.16866)|null|
 |**2025-04-23**|**Simplified Swarm Learning Framework for Robust and Scalable Diagnostic Services in Cancer Histopathology**|Yanjie Wu et.al.|[2504.16732](http://arxiv.org/abs/2504.16732)|null|
 |**2025-04-23**|**Efficient Data Valuation Approximation in Federated Learning: A Sampling-based Approach**|Shuyue Wei et.al.|[2504.16668](http://arxiv.org/abs/2504.16668)|null|
