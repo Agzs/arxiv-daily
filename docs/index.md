@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.24
+## Updated on 2025.04.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-23**|**DTVM: Revolutionizing Smart Contract Execution with Determinism and Compatibility**|Wei Zhou et.al.|[2504.16552](http://arxiv.org/abs/2504.16552)|null|
 |**2025-04-18**|**DMind Benchmark: The First Comprehensive Benchmark for LLM Evaluation in the Web3 Domain**|Miracle Master et.al.|[2504.16116](http://arxiv.org/abs/2504.16116)|null|
-|**2025-04-18**|**AI-Based Vulnerability Analysis of NFT Smart Contracts**|Xin Wang et.al.|[2504.16113](http://arxiv.org/abs/2504.16113)|null|
+|**2025-04-24**|**AI-Based Vulnerability Analysis of NFT Smart Contracts**|Xin Wang et.al.|[2504.16113](http://arxiv.org/abs/2504.16113)|null|
 |**2025-04-22**|**Automated Vulnerability Injection in Solidity Smart Contracts: A Mutation-Based Approach for Benchmark Development**|Gerardo Iuliano et.al.|[2504.15948](http://arxiv.org/abs/2504.15948)|null|
 |**2025-04-22**|**Trusted Compute Units: A Framework for Chained Verifiable Computations**|Fernando Castillo et.al.|[2504.15717](http://arxiv.org/abs/2504.15717)|null|
 |**2025-04-21**|**A Review on Privacy in DAG-Based DLTs**|Mayank Raikwar et.al.|[2504.15233](http://arxiv.org/abs/2504.15233)|null|
