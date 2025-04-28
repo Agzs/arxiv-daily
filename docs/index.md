@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Why Does My Transaction Fail? A First Look at Failed Transactions on the Solana Blockchain**|Xiaoye Zheng et.al.|[2504.18055](http://arxiv.org/abs/2504.18055)|null|
 |**2025-04-24**|**Proof of Useful Intelligence (PoUI): Blockchain Consensus Beyond Energy Waste**|Zan-Kai Chong et.al.|[2504.17539](http://arxiv.org/abs/2504.17539)|null|
 |**2025-04-24**|**Operational Semantics for Crystality: A Smart Contract Language for Parallel EVMs**|Ziyun Xu et.al.|[2504.17336](http://arxiv.org/abs/2504.17336)|null|
 |**2025-04-24**|**Developing a Blockchain-Based Secure Digital Contents Distribution System**|Syed Mohiuddin Qadri et.al.|[2504.17194](http://arxiv.org/abs/2504.17194)|null|
@@ -836,6 +837,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Intelligent Attacks and Defense Methods in Federated Learning-enabled Energy-Efficient Wireless Networks**|Han Zhang et.al.|[2504.18519](http://arxiv.org/abs/2504.18519)|null|
+|**2025-04-25**|**Switch-Based Multi-Part Neural Network**|Surajit Majumder et.al.|[2504.18241](http://arxiv.org/abs/2504.18241)|null|
+|**2025-04-25**|**Privacy-Preserving Personalized Federated Learning for Distributed Photovoltaic Disaggregation under Statistical Heterogeneity**|Xiaolu Chen et.al.|[2504.18078](http://arxiv.org/abs/2504.18078)|null|
+|**2025-04-25**|**Federated Client-tailored Adapter for Medical Image Segmentation**|Guyue Hu et.al.|[2504.18020](http://arxiv.org/abs/2504.18020)|null|
+|**2025-04-25**|**Diffusion-Driven Universal Model Inversion Attack for Face Recognition**|Hanrui Wang et.al.|[2504.18015](http://arxiv.org/abs/2504.18015)|null|
+|**2025-04-25**|**Differential Privacy-Driven Framework for Enhancing Heart Disease Prediction**|Yazan Otoum et.al.|[2504.18007](http://arxiv.org/abs/2504.18007)|null|
 |**2025-04-24**|**Silenzio: Secure Non-Interactive Outsourced MLP Training**|Jonas Sander et.al.|[2504.17785](http://arxiv.org/abs/2504.17785)|null|
 |**2025-04-24**|**Federated Learning: A Survey on Privacy-Preserving Collaborative Intelligence**|Edward Collins et.al.|[2504.17703](http://arxiv.org/abs/2504.17703)|null|
 |**2025-04-24**|**Decentralized Time Series Classification with ROCKET Features**|Bruno Casella et.al.|[2504.17617](http://arxiv.org/abs/2504.17617)|null|
