@@ -1212,7 +1212,7 @@
 |**2025-02-19**|**Secure Federated Data Distillation**|Marco Arazzi et.al.|[2502.13728](http://arxiv.org/abs/2502.13728)|null|
 |**2025-02-19**|**PRIV-QA: Privacy-Preserving Question Answering for Cloud Large Language Models**|Guangwei Li et.al.|[2502.13564](http://arxiv.org/abs/2502.13564)|**[link](https://github.com/ligw1998/priv-qa)**|
 |**2025-02-19**|**Smoothed Normalization for Efficient Distributed Private Optimization**|Egor Shulgin et.al.|[2502.13482](http://arxiv.org/abs/2502.13482)|null|
-|**2025-02-18**|**Debiasing Functions of Private Statistics in Postprocessing**|Flavio Calmon et.al.|[2502.13314](http://arxiv.org/abs/2502.13314)|null|
+|**2025-02-18**|**Debiasing Functions of Private Statistics in Postprocessing**|Flavio Calmon et.al.|[2502.13314](http://arxiv.org/abs/2502.13314)|**[link](https://github.com/franguridi/debiased-dp)**|
 |**2025-02-18**|**Does Training with Synthetic Data Truly Protect Privacy?**|Yunpeng Zhao et.al.|[2502.12976](http://arxiv.org/abs/2502.12976)|**[link](https://github.com/yunpeng-zhao/syndata-privacy)**|
 |**2025-02-18**|**RAPID: Retrieval Augmented Training of Differentially Private Diffusion Models**|Tanqiu Jiang et.al.|[2502.12794](http://arxiv.org/abs/2502.12794)|**[link](https://github.com/tanqiujiang/rapid)**|
 |**2025-02-18**|**FedHC: A Hierarchical Clustered Federated Learning Framework for Satellite Networks**|Zhuocheng Liu et.al.|[2502.12783](http://arxiv.org/abs/2502.12783)|null|
@@ -1733,7 +1733,7 @@
 |**2024-11-06**|**Domain Generalization for Cross-Receiver Radio Frequency Fingerprint Identification**|Ying Zhang et.al.|[2411.03636](http://arxiv.org/abs/2411.03636)|null|
 |**2024-11-06**|**Privacy-Preserving Resilient Vector Consensus**|Bing Liu et.al.|[2411.03633](http://arxiv.org/abs/2411.03633)|null|
 |**2024-11-05**|**Formal Logic-guided Robust Federated Learning against Poisoning Attacks**|Dung Thuy Nguyen et.al.|[2411.03231](http://arxiv.org/abs/2411.03231)|null|
-|**2024-11-05**|**FEDLAD: Federated Evaluation of Deep Leakage Attacks and Defenses**|Isaac Baglin et.al.|[2411.03019](http://arxiv.org/abs/2411.03019)|null|
+|**2024-11-05**|**FEDLAD: Federated Evaluation of Deep Leakage Attacks and Defenses**|Isaac Baglin et.al.|[2411.03019](http://arxiv.org/abs/2411.03019)|**[link](https://github.com/Koukyosyumei/AIJack)**|
 |**2024-11-05**|**Rozproszone Wykrywanie Zajętości Widma Oparte na Uczeniu Federacyjnym**|Łukasz Kułacz et.al.|[2411.03017](http://arxiv.org/abs/2411.03017)|null|
 |**2024-11-05**|**Privacy-Preserving Graph-Based Machine Learning with Fully Homomorphic Encryption for Collaborative Anti-Money Laundering**|Fabrianne Effendi et.al.|[2411.02926](http://arxiv.org/abs/2411.02926)|**[link](https://github.com/fabecode/GraphML-FHE)**|
 |**2024-11-05**|**Photon: Federated LLM Pre-Training**|Lorenzo Sani et.al.|[2411.02908](http://arxiv.org/abs/2411.02908)|null|
@@ -2674,7 +2674,7 @@
 |**2024-05-02**|**Privacy-Enhanced Database Synthesis for Benchmark Publishing**|Yongrui Zhong et.al.|[2405.01312](http://arxiv.org/abs/2405.01312)|**[link](https://github.com/dsegszu/privbench)**|
 |**2024-05-02**|**Gradient-Congruity Guided Federated Sparse Training**|Chris Xing Tian et.al.|[2405.01189](http://arxiv.org/abs/2405.01189)|null|
 |**2024-05-02**|**Boosting Communication Efficiency of Federated Learning's Secure Aggregation**|Niousha Nazemi et.al.|[2405.01144](http://arxiv.org/abs/2405.01144)|null|
-|**2024-05-02**|**Sharp Bounds for Sequential Federated Learning on Heterogeneous Data**|Yipeng Li et.al.|[2405.01142](http://arxiv.org/abs/2405.01142)|null|
+|**2024-05-02**|**Sharp Bounds for Sequential Federated Learning on Heterogeneous Data**|Yipeng Li et.al.|[2405.01142](http://arxiv.org/abs/2405.01142)|**[link](https://github.com/liyipeng00/SFL)**|
 |**2024-05-02**|**Federated Learning with Heterogeneous Data Handling for Robust Vehicular Object Detection**|Ahmad Khalil et.al.|[2405.01108](http://arxiv.org/abs/2405.01108)|**[link](https://github.com/TixXx1337/Federated-Learning-with-Heterogeneous-Data-Handling-for-Robust-Vehicular-Perception)**|
 |**2024-05-02**|**Poisoning Attacks on Federated Learning for Autonomous Driving**|Sonakshi Garg et.al.|[2405.01073](http://arxiv.org/abs/2405.01073)|null|
 |**2024-05-02**|**Robust Decentralized Learning with Local Updates and Gradient Tracking**|Sajjad Ghiasvand et.al.|[2405.00965](http://arxiv.org/abs/2405.00965)|null|
