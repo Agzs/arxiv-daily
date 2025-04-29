@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-27**|**Validation Framework for E-Contract and Smart Contract**|Sangharatna Godboley et.al.|[2504.19137](http://arxiv.org/abs/2504.19137)|null|
 |**2025-04-25**|**Why Does My Transaction Fail? A First Look at Failed Transactions on the Solana Blockchain**|Xiaoye Zheng et.al.|[2504.18055](http://arxiv.org/abs/2504.18055)|null|
 |**2025-04-24**|**Proof of Useful Intelligence (PoUI): Blockchain Consensus Beyond Energy Waste**|Zan-Kai Chong et.al.|[2504.17539](http://arxiv.org/abs/2504.17539)|null|
 |**2025-04-24**|**Operational Semantics for Crystality: A Smart Contract Language for Parallel EVMs**|Ziyun Xu et.al.|[2504.17336](http://arxiv.org/abs/2504.17336)|null|
@@ -22,7 +23,7 @@ layout: default
 |**2025-04-18**|**DMind Benchmark: The First Comprehensive Benchmark for LLM Evaluation in the Web3 Domain**|Miracle Master et.al.|[2504.16116](http://arxiv.org/abs/2504.16116)|null|
 |**2025-04-24**|**AI-Based Vulnerability Analysis of NFT Smart Contracts**|Xin Wang et.al.|[2504.16113](http://arxiv.org/abs/2504.16113)|null|
 |**2025-04-22**|**Automated Vulnerability Injection in Solidity Smart Contracts: A Mutation-Based Approach for Benchmark Development**|Gerardo Iuliano et.al.|[2504.15948](http://arxiv.org/abs/2504.15948)|null|
-|**2025-04-22**|**Trusted Compute Units: A Framework for Chained Verifiable Computations**|Fernando Castillo et.al.|[2504.15717](http://arxiv.org/abs/2504.15717)|null|
+|**2025-04-28**|**Trusted Compute Units: A Framework for Chained Verifiable Computations**|Fernando Castillo et.al.|[2504.15717](http://arxiv.org/abs/2504.15717)|null|
 |**2025-04-21**|**A Review on Privacy in DAG-Based DLTs**|Mayank Raikwar et.al.|[2504.15233](http://arxiv.org/abs/2504.15233)|null|
 |**2025-04-21**|**Mining Characteristics of Vulnerable Smart Contracts Across Lifecycle Stages**|Hongli Peng et.al.|[2504.15063](http://arxiv.org/abs/2504.15063)|null|
 |**2025-04-18**|**Insecurity Through Obscurity: Veiled Vulnerabilities in Closed-Source Contracts**|Sen Yang et.al.|[2504.13398](http://arxiv.org/abs/2504.13398)|null|
@@ -682,6 +683,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**From Paper Trails to Trust on Tracks: Adding Public Transparency to Railways via zk-SNARKs**|Tarek Galal et.al.|[2504.19640](http://arxiv.org/abs/2504.19640)|null|
 |**2025-04-21**|**Towards Fuzzing Zero-Knowledge Proof Circuits (Short Paper)**|Stefanos Chaliasos et.al.|[2504.14881](http://arxiv.org/abs/2504.14881)|null|
 |**2025-04-18**|**Post Quantum Cryptography (PQC) Signatures Without Trapdoors**|William J Buchanan et.al.|[2504.14016](http://arxiv.org/abs/2504.14016)|null|
 |**2025-04-16**|**zkVC: Fast Zero-Knowledge Proof for Private and Verifiable Computing**|Yancheng Zhang et.al.|[2504.12217](http://arxiv.org/abs/2504.12217)|**[link](https://github.com/ucf-lou-lab-pet/zkformer)**|
@@ -837,6 +839,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Shopformer: Transformer-Based Framework for Detecting Shoplifting via Human Pose**|Narges Rashvand et.al.|[2504.19970](http://arxiv.org/abs/2504.19970)|null|
+|**2025-04-28**|**Robust Federated Personalised Mean Estimation for the Gaussian Mixture Model**|Malhar A. Managoli et.al.|[2504.19955](http://arxiv.org/abs/2504.19955)|null|
+|**2025-04-28**|**Convergence Analysis of Asynchronous Federated Learning with Gradient Compression for Non-Convex Optimization**|Diying Yang et.al.|[2504.19903](http://arxiv.org/abs/2504.19903)|null|
+|**2025-04-28**|**Federated Out-of-Distribution Generalization: A Causal Augmentation View**|Runhui Zhang et.al.|[2504.19882](http://arxiv.org/abs/2504.19882)|null|
+|**2025-04-28**|**A Unified Benchmark of Federated Learning with Kolmogorov-Arnold Networks for Medical Imaging**|Youngjoon Lee et.al.|[2504.19639](http://arxiv.org/abs/2504.19639)|null|
+|**2025-04-28**|**Soft-Label Caching and Sharpening for Communication-Efficient Federated Distillation**|Kitsuya Azuma et.al.|[2504.19602](http://arxiv.org/abs/2504.19602)|null|
+|**2025-04-28**|**DEEMO: De-identity Multimodal Emotion Recognition and Reasoning**|Deng Li et.al.|[2504.19549](http://arxiv.org/abs/2504.19549)|null|
+|**2025-04-27**|**TeleSparse: Practical Privacy-Preserving Verification of Deep Neural Networks**|Mohammad M Maheri et.al.|[2504.19274](http://arxiv.org/abs/2504.19274)|null|
+|**2025-04-27**|**Harmonizing Generalization and Personalization in Ring-topology Decentralized Federated Learning**|Shunxin Guo et.al.|[2504.19103](http://arxiv.org/abs/2504.19103)|null|
+|**2025-04-27**|**Privacy-Preserving Federated Embedding Learning for Localized Retrieval-Augmented Generation**|Qianren Mao et.al.|[2504.19101](http://arxiv.org/abs/2504.19101)|null|
 |**2025-04-25**|**Intelligent Attacks and Defense Methods in Federated Learning-enabled Energy-Efficient Wireless Networks**|Han Zhang et.al.|[2504.18519](http://arxiv.org/abs/2504.18519)|null|
 |**2025-04-25**|**Switch-Based Multi-Part Neural Network**|Surajit Majumder et.al.|[2504.18241](http://arxiv.org/abs/2504.18241)|null|
 |**2025-04-25**|**Privacy-Preserving Personalized Federated Learning for Distributed Photovoltaic Disaggregation under Statistical Heterogeneity**|Xiaolu Chen et.al.|[2504.18078](http://arxiv.org/abs/2504.18078)|null|
