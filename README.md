@@ -20,6 +20,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**A Comprehensive Study of Exploitable Patterns in Smart Contracts: From Vulnerability to Defense**|Yuchen Ding et.al.|[2504.21480](http://arxiv.org/abs/2504.21480)|null|
+|**2025-04-30**|**Security Analysis and Implementation of Cryptocurrency Systems on Blockchain 2.0**|Pengfei Gao et.al.|[2504.21367](http://arxiv.org/abs/2504.21367)|null|
+|**2025-04-28**|**CodeBC: A More Secure Large Language Model for Smart Contract Code Generation in Blockchain**|Lingxiang wang et.al.|[2504.21043](http://arxiv.org/abs/2504.21043)|null|
 |**2025-04-29**|**Building Trust in Healthcare with Privacy Techniques: Blockchain in the Cloud**|Ferhat Ozgur Catak et.al.|[2504.20700](http://arxiv.org/abs/2504.20700)|null|
 |**2025-04-28**|**SoK: A Survey of Mixing Techniques and Mixers for Cryptocurrencies**|Juraj Mariani et.al.|[2504.20296](http://arxiv.org/abs/2504.20296)|null|
 |**2025-04-28**|**Smart Water Security with AI and Blockchain-Enhanced Digital Twins**|Mohammadhossein Homaei et.al.|[2504.20275](http://arxiv.org/abs/2504.20275)|null|
@@ -697,6 +700,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**VDDP: Verifiable Distributed Differential Privacy under the Client-Server-Verifier Setup**|Haochen Sun et.al.|[2504.21752](http://arxiv.org/abs/2504.21752)|null|
 |**2025-04-28**|**From Paper Trails to Trust on Tracks: Adding Public Transparency to Railways via zk-SNARKs**|Tarek Galal et.al.|[2504.19640](http://arxiv.org/abs/2504.19640)|null|
 |**2025-04-30**|**Towards Fuzzing Zero-Knowledge Proof Circuits (Short Paper)**|Stefanos Chaliasos et.al.|[2504.14881](http://arxiv.org/abs/2504.14881)|null|
 |**2025-04-18**|**Post Quantum Cryptography (PQC) Signatures Without Trapdoors**|William J Buchanan et.al.|[2504.14016](http://arxiv.org/abs/2504.14016)|null|
@@ -855,6 +859,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Learning Heterogeneous Performance-Fairness Trade-offs in Federated Learning**|Rongguang Ye et.al.|[2504.21775](http://arxiv.org/abs/2504.21775)|null|
+|**2025-04-30**|**Bilateral Differentially Private Vertical Federated Boosted Decision Trees**|Bokang Zhang et.al.|[2504.21739](http://arxiv.org/abs/2504.21739)|null|
+|**2025-04-30**|**Quantitative Auditing of AI Fairness with Differentially Private Synthetic Data**|Chih-Cheng Rex Yuan et.al.|[2504.21634](http://arxiv.org/abs/2504.21634)|null|
+|**2025-04-30**|**CryptoUNets: Applying Convolutional Networks to Encrypted Data for Biomedical Image Segmentation**|John Chiang et.al.|[2504.21543](http://arxiv.org/abs/2504.21543)|null|
+|**2025-04-30**|**Whispers of Data: Unveiling Label Distributions in Federated Learning Through Virtual Client Simulation**|Zhixuan Ma et.al.|[2504.21436](http://arxiv.org/abs/2504.21436)|null|
+|**2025-04-30**|**A Generalized Meta Federated Learning Framework with Theoretical Convergence Guarantees**|Mohammad Vahid Jamali et.al.|[2504.21327](http://arxiv.org/abs/2504.21327)|null|
+|**2025-04-30**|**Participatory AI, Public Sector AI, Differential Privacy, Conversational Interfaces, Explainable AI, Citizen Engagement in AI**|Wenjun Yang et.al.|[2504.21297](http://arxiv.org/abs/2504.21297)|null|
+|**2025-04-29**|**FedHERO: A Federated Learning Approach for Node Classification Task on Heterophilic Graphs**|Zihan Chen et.al.|[2504.21206](http://arxiv.org/abs/2504.21206)|null|
+|**2025-04-29**|**Artificial Intelligence for Personalized Prediction of Alzheimer's Disease Progression: A Survey of Methods, Data Challenges, and Future Directions**|Gulsah Hancerliogullari Koksalmis et.al.|[2504.21189](http://arxiv.org/abs/2504.21189)|null|
+|**2025-04-29**|**Federated One-Shot Learning with Data Privacy and Objective-Hiding**|Maximilian Egger et.al.|[2504.21182](http://arxiv.org/abs/2504.21182)|null|
 |**2025-04-29**|**Hubs and Spokes Learning: Efficient and Scalable Collaborative Machine Learning**|Atul Sharma et.al.|[2504.20988](http://arxiv.org/abs/2504.20988)|null|
 |**2025-04-29**|**FedMVP: Federated Multi-modal Visual Prompt Tuning for Vision-Language Models**|Mainak Singha et.al.|[2504.20860](http://arxiv.org/abs/2504.20860)|null|
 |**2025-04-29**|**DP-SMOTE: Integrating Differential Privacy and Oversampling Technique to Preserve Privacy in Smart Homes**|Amr Tarek Elsayed et.al.|[2504.20827](http://arxiv.org/abs/2504.20827)|null|
