@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.30
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -688,7 +688,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-28**|**From Paper Trails to Trust on Tracks: Adding Public Transparency to Railways via zk-SNARKs**|Tarek Galal et.al.|[2504.19640](http://arxiv.org/abs/2504.19640)|null|
-|**2025-04-21**|**Towards Fuzzing Zero-Knowledge Proof Circuits (Short Paper)**|Stefanos Chaliasos et.al.|[2504.14881](http://arxiv.org/abs/2504.14881)|null|
+|**2025-04-30**|**Towards Fuzzing Zero-Knowledge Proof Circuits (Short Paper)**|Stefanos Chaliasos et.al.|[2504.14881](http://arxiv.org/abs/2504.14881)|null|
 |**2025-04-18**|**Post Quantum Cryptography (PQC) Signatures Without Trapdoors**|William J Buchanan et.al.|[2504.14016](http://arxiv.org/abs/2504.14016)|null|
 |**2025-04-16**|**zkVC: Fast Zero-Knowledge Proof for Private and Verifiable Computing**|Yancheng Zhang et.al.|[2504.12217](http://arxiv.org/abs/2504.12217)|**[link](https://github.com/ucf-lou-lab-pet/zkformer)**|
 |**2025-04-08**|**Need for zkSpeed: Accelerating HyperPlonk for Zero-Knowledge Proofs**|Alhad Daftardar et.al.|[2504.06211](http://arxiv.org/abs/2504.06211)|null|
@@ -850,7 +850,7 @@ layout: default
 |**2025-04-29**|**Learning and Generalization with Mixture Data**|Harsh Vardhan et.al.|[2504.20651](http://arxiv.org/abs/2504.20651)|null|
 |**2025-04-29**|**Multi-Message Secure Aggregation with Demand Privacy**|Chenyi Sun et.al.|[2504.20639](http://arxiv.org/abs/2504.20639)|null|
 |**2025-04-29**|**ReCIT: Reconstructing Full Private Data from Gradient in Parameter-Efficient Fine-Tuning of Large Language Models**|Jin Xie et.al.|[2504.20570](http://arxiv.org/abs/2504.20570)|null|
-|**2025-04-29**|**SoK: Enhancing Privacy-Preserving Software Development from a Developers' Perspective**|Tharaka Wijesundara et.al.|[2504.20350](http://arxiv.org/abs/2504.20350)|null|
+|**2025-04-30**|**SoK: Enhancing Privacy-Preserving Software Development from a Developers' Perspective**|Tharaka Wijesundara et.al.|[2504.20350](http://arxiv.org/abs/2504.20350)|null|
 |**2025-04-29**|**Clustering-Based Evolutionary Federated Multiobjective Optimization and Learning**|Chengui Xiao et.al.|[2504.20346](http://arxiv.org/abs/2504.20346)|null|
 |**2025-04-28**|**FedCCL: Federated Clustered Continual Learning Framework for Privacy-focused Energy Forecasting**|Michael A. Helcig et.al.|[2504.20282](http://arxiv.org/abs/2504.20282)|null|
 |**2025-04-28**|**Shopformer: Transformer-Based Framework for Detecting Shoplifting via Human Pose**|Narges Rashvand et.al.|[2504.19970](http://arxiv.org/abs/2504.19970)|null|
