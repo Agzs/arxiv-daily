@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**Decentralized Vulnerability Disclosure via Permissioned Blockchain: A Secure, Transparent Alternative to Centralized CVE Management**|Novruz Amirov et.al.|[2505.00480](http://arxiv.org/abs/2505.00480)|null|
 |**2025-04-30**|**A Comprehensive Study of Exploitable Patterns in Smart Contracts: From Vulnerability to Defense**|Yuchen Ding et.al.|[2504.21480](http://arxiv.org/abs/2504.21480)|null|
 |**2025-04-30**|**Security Analysis and Implementation of Cryptocurrency Systems on Blockchain 2.0**|Pengfei Gao et.al.|[2504.21367](http://arxiv.org/abs/2504.21367)|null|
 |**2025-04-28**|**CodeBC: A More Secure Large Language Model for Smart Contract Code Generation in Blockchain**|Lingxiang wang et.al.|[2504.21043](http://arxiv.org/abs/2504.21043)|null|
@@ -615,6 +616,7 @@ layout: default
 |**2025-04-21**|**Tracing Cross-chain Transactions between EVM-based Blockchains: An Analysis of Ethereum-Polygon Bridges**|Tao Yan et.al.|[2504.15449](http://arxiv.org/abs/2504.15449)|null|
 |**2025-04-12**|**CrossLink: A Decentralized Framework for Secure Cross-Chain Smart Contract Execution**|Tahrim Hossain et.al.|[2504.09319](http://arxiv.org/abs/2504.09319)|**[link](https://github.com/CrossLink-Code/CrossLink)**|
 |**2025-04-02**|**Track and Trace: Automatically Uncovering Cross-chain Transactions in the Multi-blockchain Ecosystems**|Dan Lin et.al.|[2504.01822](http://arxiv.org/abs/2504.01822)|null|
+|**2025-04-30**|**Real AI Agents with Fake Memories: Fatal Context Manipulation Attacks on Web3 Agents**|Atharv Singh Patlan et.al.|[2503.16248](http://arxiv.org/abs/2503.16248)|null|
 |**2025-03-17**|**XChainDataGen: A Cross-Chain Dataset Generation Framework**|André Augusto et.al.|[2503.13637](http://arxiv.org/abs/2503.13637)|null|
 |**2025-03-17**|**Enabling High-Frequency Trading with Near-Instant, Trustless Cross-Chain Transactions via Pre-Signing Adaptor Signatures**|Ethan Francolla et.al.|[2503.12719](http://arxiv.org/abs/2503.12719)|null|
 |**2025-03-01**|**CoT2Align: Cross-Chain of Thought Distillation via Optimal Transport Alignment for Language Models with Different Tokenizers**|Anh Duc Le et.al.|[2502.16806](http://arxiv.org/abs/2502.16806)|null|
@@ -847,6 +849,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**Open-Source LLM-Driven Federated Transformer for Predictive IoV Management**|Yazan Otoum et.al.|[2505.00651](http://arxiv.org/abs/2505.00651)|null|
+|**2025-05-01**|**A Novel Feature-Aware Chaotic Image Encryption Scheme For Data Security and Privacy in IoT and Edge Networks**|Muhammad Shahbaz Khan et.al.|[2505.00593](http://arxiv.org/abs/2505.00593)|null|
+|**2025-05-01**|**Communication-Efficient Wireless Federated Fine-Tuning for Large-Scale AI Models**|Bumjun Kim et.al.|[2505.00333](http://arxiv.org/abs/2505.00333)|null|
+|**2025-05-01**|**FedEMA: Federated Exponential Moving Averaging with Negative Entropy Regularizer in Autonomous Driving**|Wei-Bin Kou et.al.|[2505.00318](http://arxiv.org/abs/2505.00318)|null|
+|**2025-04-30**|**Online Federation For Mixtures of Proprietary Agents with Black-Box Encoders**|Xuwei Yang et.al.|[2505.00216](http://arxiv.org/abs/2505.00216)|null|
 |**2025-04-30**|**Learning Heterogeneous Performance-Fairness Trade-offs in Federated Learning**|Rongguang Ye et.al.|[2504.21775](http://arxiv.org/abs/2504.21775)|null|
 |**2025-04-30**|**Bilateral Differentially Private Vertical Federated Boosted Decision Trees**|Bokang Zhang et.al.|[2504.21739](http://arxiv.org/abs/2504.21739)|null|
 |**2025-04-30**|**Quantitative Auditing of AI Fairness with Differentially Private Synthetic Data**|Chih-Cheng Rex Yuan et.al.|[2504.21634](http://arxiv.org/abs/2504.21634)|null|
