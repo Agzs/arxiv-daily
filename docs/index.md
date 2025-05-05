@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**Micro-Patterns in Solidity Code**|Luca Ruschioni et.al.|[2505.01282](http://arxiv.org/abs/2505.01282)|null|
+|**2025-05-01**|**Balancing Security and Liquidity: A Time-Weighted Snapshot Framework for DAO Governance Voting**|Zayn Wang et.al.|[2505.00888](http://arxiv.org/abs/2505.00888)|null|
 |**2025-05-01**|**Decentralized Vulnerability Disclosure via Permissioned Blockchain: A Secure, Transparent Alternative to Centralized CVE Management**|Novruz Amirov et.al.|[2505.00480](http://arxiv.org/abs/2505.00480)|null|
 |**2025-04-30**|**A Comprehensive Study of Exploitable Patterns in Smart Contracts: From Vulnerability to Defense**|Yuchen Ding et.al.|[2504.21480](http://arxiv.org/abs/2504.21480)|null|
 |**2025-04-30**|**Security Analysis and Implementation of Cryptocurrency Systems on Blockchain 2.0**|Pengfei Gao et.al.|[2504.21367](http://arxiv.org/abs/2504.21367)|null|
@@ -849,6 +851,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**A Self-Healing and Fault-Tolerant Cloud-based Digital Twin Processing Management Model**|Deepika Saxena et.al.|[2505.01215](http://arxiv.org/abs/2505.01215)|null|
+|**2025-05-02**|**Secure Cluster-Based Hierarchical Federated Learning in Vehicular Networks**|M. Saeid HaghighiFard et.al.|[2505.01186](http://arxiv.org/abs/2505.01186)|null|
+|**2025-05-02**|**Federated Adapter on Foundation Models: An Out-Of-Distribution Approach**|Yiyuan Yang et.al.|[2505.01075](http://arxiv.org/abs/2505.01075)|null|
+|**2025-05-02**|**SemSpaceFL: A Collaborative Hierarchical Federated Learning Framework for Semantic Communication in 6G LEO Satellites**|Loc X. Nguyen et.al.|[2505.00966](http://arxiv.org/abs/2505.00966)|null|
+|**2025-05-02**|**Preserving Privacy and Utility in LLM-Based Product Recommendations**|Tina Khezresmaeilzadeh et.al.|[2505.00951](http://arxiv.org/abs/2505.00951)|null|
 |**2025-05-01**|**Open-Source LLM-Driven Federated Transformer for Predictive IoV Management**|Yazan Otoum et.al.|[2505.00651](http://arxiv.org/abs/2505.00651)|null|
 |**2025-05-01**|**A Novel Feature-Aware Chaotic Image Encryption Scheme For Data Security and Privacy in IoT and Edge Networks**|Muhammad Shahbaz Khan et.al.|[2505.00593](http://arxiv.org/abs/2505.00593)|null|
 |**2025-05-01**|**Communication-Efficient Wireless Federated Fine-Tuning for Large-Scale AI Models**|Bumjun Kim et.al.|[2505.00333](http://arxiv.org/abs/2505.00333)|null|
