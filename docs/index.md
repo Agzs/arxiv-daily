@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-06**|**A Hashgraph-Inspired Consensus Mechanism for Reliable Multi-Model Reasoning**|Kolawole E. Ogunsina et.al.|[2505.03553](http://arxiv.org/abs/2505.03553)|null|
 |**2025-05-05**|**Trustworthy Inter-Provider Agreements in 6G Using a Privacy-Enabled Hybrid Blockchain Framework**|Farhana Javed et.al.|[2505.02513](http://arxiv.org/abs/2505.02513)|null|
 |**2025-05-05**|**Moneros Decentralized P2P Exchanges: Functionality, Adoption, and Privacy Risks**|Yannik Kopyciok et.al.|[2505.02392](http://arxiv.org/abs/2505.02392)|null|
 |**2025-05-03**|**PQS-BFL: A Post-Quantum Secure Blockchain-based Federated Learning Framework**|Daniel Commey et.al.|[2505.01866](http://arxiv.org/abs/2505.01866)|null|
@@ -854,6 +855,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-06**|**Differential Privacy for Network Assortativity**|Fei Ma et.al.|[2505.03639](http://arxiv.org/abs/2505.03639)|null|
+|**2025-05-06**|**Small-Scale-Fading-Aware Resource Allocation in Wireless Federated Learning**|Jiacheng Wang et.al.|[2505.03533](http://arxiv.org/abs/2505.03533)|null|
+|**2025-05-06**|**SKALD: Scalable K-Anonymisation for Large Datasets**|Kailash Reddy et.al.|[2505.03529](http://arxiv.org/abs/2505.03529)|null|
+|**2025-05-05**|**Energy, Scalability, Data and Security in Massive IoT: Current Landscape and Future Directions**|Imane Cheikh et.al.|[2505.03036](http://arxiv.org/abs/2505.03036)|null|
 |**2025-05-05**|**Privacy Risks and Preservation Methods in Explainable Artificial Intelligence: A Scoping Review**|Sonal Allana et.al.|[2505.02828](http://arxiv.org/abs/2505.02828)|null|
 |**2025-05-05**|**HSplitLoRA: A Heterogeneous Split Parameter-Efficient Fine-Tuning Framework for Large Language Models**|Zheng Lin et.al.|[2505.02795](http://arxiv.org/abs/2505.02795)|null|
 |**2025-05-05**|**Lazy But Effective: Collaborative Personalized Federated Learning with Heterogeneous Data**|Ljubomir Rokvic et.al.|[2505.02540](http://arxiv.org/abs/2505.02540)|null|
