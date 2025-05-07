@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.06
+## Updated on 2025.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -18,7 +18,7 @@ layout: default
 |**2025-05-05**|**Moneros Decentralized P2P Exchanges: Functionality, Adoption, and Privacy Risks**|Yannik Kopyciok et.al.|[2505.02392](http://arxiv.org/abs/2505.02392)|null|
 |**2025-05-03**|**PQS-BFL: A Post-Quantum Secure Blockchain-based Federated Learning Framework**|Daniel Commey et.al.|[2505.01866](http://arxiv.org/abs/2505.01866)|null|
 |**2025-05-02**|**Micro-Patterns in Solidity Code**|Luca Ruschioni et.al.|[2505.01282](http://arxiv.org/abs/2505.01282)|null|
-|**2025-05-01**|**Balancing Security and Liquidity: A Time-Weighted Snapshot Framework for DAO Governance Voting**|Zayn Wang et.al.|[2505.00888](http://arxiv.org/abs/2505.00888)|null|
+|**2025-05-05**|**Balancing Security and Liquidity: A Time-Weighted Snapshot Framework for DAO Governance Voting**|Zayn Wang et.al.|[2505.00888](http://arxiv.org/abs/2505.00888)|null|
 |**2025-05-01**|**Decentralized Vulnerability Disclosure via Permissioned Blockchain: A Secure, Transparent Alternative to Centralized CVE Management**|Novruz Amirov et.al.|[2505.00480](http://arxiv.org/abs/2505.00480)|null|
 |**2025-04-30**|**A Comprehensive Study of Exploitable Patterns in Smart Contracts: From Vulnerability to Defense**|Yuchen Ding et.al.|[2504.21480](http://arxiv.org/abs/2504.21480)|null|
 |**2025-04-30**|**Security Analysis and Implementation of Cryptocurrency Systems on Blockchain 2.0**|Pengfei Gao et.al.|[2504.21367](http://arxiv.org/abs/2504.21367)|null|
