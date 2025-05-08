@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Blockchain Data Analytics: A Scoping Literature Review and Directions for Future Research**|Marcel Bühlmann et.al.|[2505.04403](http://arxiv.org/abs/2505.04403)|null|
 |**2025-05-06**|**A Hashgraph-Inspired Consensus Mechanism for Reliable Multi-Model Reasoning**|Kolawole E. Ogunsina et.al.|[2505.03553](http://arxiv.org/abs/2505.03553)|null|
 |**2025-05-05**|**Trustworthy Inter-Provider Agreements in 6G Using a Privacy-Enabled Hybrid Blockchain Framework**|Farhana Javed et.al.|[2505.02513](http://arxiv.org/abs/2505.02513)|null|
 |**2025-05-05**|**Moneros Decentralized P2P Exchanges: Functionality, Adoption, and Privacy Risks**|Yannik Kopyciok et.al.|[2505.02392](http://arxiv.org/abs/2505.02392)|null|
@@ -867,6 +868,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Privacy-preserving neutral atom-based quantum classifier towards real healthcare applications**|Ettore Canonici et.al.|[2505.04570](http://arxiv.org/abs/2505.04570)|null|
+|**2025-05-07**|**Communication-Efficient Federated Fine-Tuning of Language Models via Dynamic Update Schedules**|Michail Theologitis et.al.|[2505.04535](http://arxiv.org/abs/2505.04535)|null|
+|**2025-05-07**|**FedBWO: Enhancing Communication Efficiency in Federated Learning**|Vahideh Hayyolalam et.al.|[2505.04435](http://arxiv.org/abs/2505.04435)|null|
+|**2025-05-07**|**RDPP-TD: Reputation and Data Privacy-Preserving based Truth Discovery Scheme in Mobile Crowdsensing**|Lijian Wu et.al.|[2505.04361](http://arxiv.org/abs/2505.04361)|null|
+|**2025-05-07**|**FRAIN to Train: A Fast-and-Reliable Solution for Decentralized Federated Learning**|Sanghyeon Park et.al.|[2505.04223](http://arxiv.org/abs/2505.04223)|null|
+|**2025-05-07**|**Privacy Challenges In Image Processing Applications**|Maneesha et.al.|[2505.04181](http://arxiv.org/abs/2505.04181)|null|
+|**2025-05-06**|**Differentially Private Densest- $k$ -Subgraph**|Alireza Khayatian et.al.|[2505.03858](http://arxiv.org/abs/2505.03858)|null|
 |**2025-05-06**|**Differential Privacy for Network Assortativity**|Fei Ma et.al.|[2505.03639](http://arxiv.org/abs/2505.03639)|null|
 |**2025-05-06**|**Small-Scale-Fading-Aware Resource Allocation in Wireless Federated Learning**|Jiacheng Wang et.al.|[2505.03533](http://arxiv.org/abs/2505.03533)|null|
 |**2025-05-06**|**SKALD: Scalable K-Anonymisation for Large Datasets**|Kailash Reddy et.al.|[2505.03529](http://arxiv.org/abs/2505.03529)|null|
