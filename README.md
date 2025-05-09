@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**SoK: A Taxonomy for Distributed-Ledger-Based Identity Management**|Awid Vaziry et.al.|[2505.05100](http://arxiv.org/abs/2505.05100)|null|
 |**2025-05-07**|**Blockchain Data Analytics: A Scoping Literature Review and Directions for Future Research**|Marcel Bühlmann et.al.|[2505.04403](http://arxiv.org/abs/2505.04403)|null|
 |**2025-05-06**|**A Hashgraph-Inspired Consensus Mechanism for Reliable Multi-Model Reasoning**|Kolawole E. Ogunsina et.al.|[2505.03553](http://arxiv.org/abs/2505.03553)|null|
 |**2025-05-05**|**Trustworthy Inter-Provider Agreements in 6G Using a Privacy-Enabled Hybrid Blockchain Framework**|Farhana Javed et.al.|[2505.02513](http://arxiv.org/abs/2505.02513)|null|
@@ -627,6 +628,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**Enhancing Blockchain Cross Chain Interoperability: A Comprehensive Survey**|Zhihong Deng et.al.|[2505.04934](http://arxiv.org/abs/2505.04934)|null|
 |**2025-04-28**|**SoK: A Survey of Mixing Techniques and Mixers for Cryptocurrencies**|Juraj Mariani et.al.|[2504.20296](http://arxiv.org/abs/2504.20296)|null|
 |**2025-04-21**|**Tracing Cross-chain Transactions between EVM-based Blockchains: An Analysis of Ethereum-Polygon Bridges**|Tao Yan et.al.|[2504.15449](http://arxiv.org/abs/2504.15449)|null|
 |**2025-04-12**|**CrossLink: A Decentralized Framework for Secure Cross-Chain Smart Contract Execution**|Tahrim Hossain et.al.|[2504.09319](http://arxiv.org/abs/2504.09319)|**[link](https://github.com/CrossLink-Code/CrossLink)**|
@@ -868,6 +870,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**OcularAge: A Comparative Study of Iris and Periocular Images for Pediatric Age Estimation**|Naveenkumar G Venkataswamy et.al.|[2505.05374](http://arxiv.org/abs/2505.05374)|null|
+|**2025-05-08**|**From Sleep Staging to Spindle Detection: Evaluating End-to-End Automated Sleep Analysis**|Niklas Grieger et.al.|[2505.05371](http://arxiv.org/abs/2505.05371)|null|
+|**2025-05-08**|**Adaptive Biased User Scheduling for Heterogeneous Wireless Federate Learning Network**|Changxiang Wu et.al.|[2505.05231](http://arxiv.org/abs/2505.05231)|null|
+|**2025-05-08**|**QualBench: Benchmarking Chinese LLMs with Localized Professional Qualifications for Vertical Domain Evaluation**|Mengze Hong et.al.|[2505.05225](http://arxiv.org/abs/2505.05225)|null|
+|**2025-05-08**|**FedTDP: A Privacy-Preserving and Unified Framework for Trajectory Data Preparation via Federated Learning**|Zhihao Zeng et.al.|[2505.05155](http://arxiv.org/abs/2505.05155)|null|
+|**2025-05-08**|**CacheFL: Efficient Federated Cache Model Fine-Tuning for Vision-Language Models**|Mengjun Yi et.al.|[2505.05130](http://arxiv.org/abs/2505.05130)|null|
+|**2025-05-08**|**Balancing Client Participation in Federated Learning Using AoI**|Alireza Javani et.al.|[2505.05099](http://arxiv.org/abs/2505.05099)|null|
+|**2025-05-08**|**LSRP: A Leader-Subordinate Retrieval Framework for Privacy-Preserving Cloud-Device Collaboration**|Yingyi Zhang et.al.|[2505.05031](http://arxiv.org/abs/2505.05031)|**[link](https://github.com/zhang-yingyi/lsrp)**|
+|**2025-05-08**|**Federated Deconfounding and Debiasing Learning for Out-of-Distribution Generalization**|Zhuang Qi et.al.|[2505.04979](http://arxiv.org/abs/2505.04979)|null|
+|**2025-05-08**|**DFPL: Decentralized Federated Prototype Learning Across Heterogeneous Data Distributions**|Hongliang Zhang et.al.|[2505.04947](http://arxiv.org/abs/2505.04947)|null|
 |**2025-05-07**|**Privacy-preserving neutral atom-based quantum classifier towards real healthcare applications**|Ettore Canonici et.al.|[2505.04570](http://arxiv.org/abs/2505.04570)|null|
 |**2025-05-07**|**Communication-Efficient Federated Fine-Tuning of Language Models via Dynamic Update Schedules**|Michail Theologitis et.al.|[2505.04535](http://arxiv.org/abs/2505.04535)|null|
 |**2025-05-07**|**FedBWO: Enhancing Communication Efficiency in Federated Learning**|Vahideh Hayyolalam et.al.|[2505.04435](http://arxiv.org/abs/2505.04435)|null|
