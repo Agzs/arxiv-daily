@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.11
+## Updated on 2025.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -18,7 +18,7 @@ layout: default
 |**2025-05-07**|**Blockchain Data Analytics: A Scoping Literature Review and Directions for Future Research**|Marcel Bühlmann et.al.|[2505.04403](http://arxiv.org/abs/2505.04403)|null|
 |**2025-05-06**|**A Hashgraph-Inspired Consensus Mechanism for Reliable Multi-Model Reasoning**|Kolawole E. Ogunsina et.al.|[2505.03553](http://arxiv.org/abs/2505.03553)|null|
 |**2025-05-05**|**Trustworthy Inter-Provider Agreements in 6G Using a Privacy-Enabled Hybrid Blockchain Framework**|Farhana Javed et.al.|[2505.02513](http://arxiv.org/abs/2505.02513)|null|
-|**2025-05-05**|**Moneros Decentralized P2P Exchanges: Functionality, Adoption, and Privacy Risks**|Yannik Kopyciok et.al.|[2505.02392](http://arxiv.org/abs/2505.02392)|null|
+|**2025-05-09**|**Moneros Decentralized P2P Exchanges: Functionality, Adoption, and Privacy Risks**|Yannik Kopyciok et.al.|[2505.02392](http://arxiv.org/abs/2505.02392)|null|
 |**2025-05-03**|**PQS-BFL: A Post-Quantum Secure Blockchain-based Federated Learning Framework**|Daniel Commey et.al.|[2505.01866](http://arxiv.org/abs/2505.01866)|null|
 |**2025-05-02**|**Micro-Patterns in Solidity Code**|Luca Ruschioni et.al.|[2505.01282](http://arxiv.org/abs/2505.01282)|null|
 |**2025-05-05**|**Balancing Security and Liquidity: A Time-Weighted Snapshot Framework for DAO Governance Voting**|Zayn Wang et.al.|[2505.00888](http://arxiv.org/abs/2505.00888)|null|
