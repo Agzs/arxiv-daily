@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**PRIMG : Efficient LLM-driven Test Generation Using Mutant Prioritization**|Mohamed Salah Bouafif et.al.|[2505.05584](http://arxiv.org/abs/2505.05584)|null|
 |**2025-05-08**|**SoK: A Taxonomy for Distributed-Ledger-Based Identity Management**|Awid Vaziry et.al.|[2505.05100](http://arxiv.org/abs/2505.05100)|null|
 |**2025-05-07**|**Blockchain Data Analytics: A Scoping Literature Review and Directions for Future Research**|Marcel Bühlmann et.al.|[2505.04403](http://arxiv.org/abs/2505.04403)|null|
 |**2025-05-06**|**A Hashgraph-Inspired Consensus Mechanism for Reliable Multi-Model Reasoning**|Kolawole E. Ogunsina et.al.|[2505.03553](http://arxiv.org/abs/2505.03553)|null|
@@ -858,6 +859,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Self-Supervised Federated GNSS Spoofing Detection with Opportunistic Data**|Wenjie Liu et.al.|[2505.06171](http://arxiv.org/abs/2505.06171)|null|
+|**2025-05-09**|**Interaction-Aware Parameter Privacy-Preserving Data Sharing in Coupled Systems via Particle Filter Reinforcement Learning**|Haokun Yu et.al.|[2505.06122](http://arxiv.org/abs/2505.06122)|null|
+|**2025-05-09**|**Safe-EF: Error Feedback for Nonsmooth Constrained Optimization**|Rustem Islamov et.al.|[2505.06053](http://arxiv.org/abs/2505.06053)|null|
+|**2025-05-09**|**Estimating Covariate-adjusted Survival Curve in Distributed Data Environment using Data Collaboration Quasi-Experiment**|Akihiro Toyoda et.al.|[2505.06035](http://arxiv.org/abs/2505.06035)|null|
+|**2025-05-09**|**Privacy-Preserving Credit Card Approval Using Homomorphic SVM: Toward Secure Inference in FinTech Applications**|Faneela et.al.|[2505.05920](http://arxiv.org/abs/2505.05920)|null|
+|**2025-05-09**|**Integrating Building Thermal Flexibility Into Distribution System: A Privacy-Preserved Dispatch Approach**|Shuai Lu et.al.|[2505.05859](http://arxiv.org/abs/2505.05859)|null|
+|**2025-05-09**|**Enhancing Noisy Functional Encryption for Privacy-Preserving Machine Learning**|Linda Scheu-Hachtel et.al.|[2505.05843](http://arxiv.org/abs/2505.05843)|null|
+|**2025-05-09**|**DaringFed: A Dynamic Bayesian Persuasion Pricing for Online Federated Learning under Two-sided Incomplete Information**|Yun Xin et.al.|[2505.05842](http://arxiv.org/abs/2505.05842)|null|
+|**2025-05-09**|**On the Price of Differential Privacy for Spectral Clustering over Stochastic Block Models**|Antti Koskela et.al.|[2505.05816](http://arxiv.org/abs/2505.05816)|null|
+|**2025-05-09**|**Efficient Full-Stack Private Federated Deep Learning with Post-Quantum Security**|Yiwei Zhang et.al.|[2505.05751](http://arxiv.org/abs/2505.05751)|null|
 |**2025-05-08**|**OcularAge: A Comparative Study of Iris and Periocular Images for Pediatric Age Estimation**|Naveenkumar G Venkataswamy et.al.|[2505.05374](http://arxiv.org/abs/2505.05374)|null|
 |**2025-05-08**|**From Sleep Staging to Spindle Detection: Evaluating End-to-End Automated Sleep Analysis**|Niklas Grieger et.al.|[2505.05371](http://arxiv.org/abs/2505.05371)|null|
 |**2025-05-08**|**Adaptive Biased User Scheduling for Heterogeneous Wireless Federate Learning Network**|Changxiang Wu et.al.|[2505.05231](http://arxiv.org/abs/2505.05231)|null|
