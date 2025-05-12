@@ -63,7 +63,7 @@ layout: default
 |**2025-04-09**|**Conthereum: Concurrent Ethereum Optimized Transaction Scheduling for Multi-Core Execution**|Atefeh Zareh Chahoki et.al.|[2504.07280](http://arxiv.org/abs/2504.07280)|null|
 |**2025-04-10**|**Security Vulnerabilities in Ethereum Smart Contracts: A Systematic Analysis**|Jixuan Wu et.al.|[2504.05968](http://arxiv.org/abs/2504.05968)|null|
 |**2025-04-07**|**How Do Solidity Versions Affect Vulnerability Detection Tools? An Empirical Study**|Gerardo Iuliano et.al.|[2504.05515](http://arxiv.org/abs/2504.05515)|null|
-|**2025-04-07**|**Secure Smart Contract with Control Flow Integrity**|Zhiyang Chen et.al.|[2504.05509](http://arxiv.org/abs/2504.05509)|null|
+|**2025-04-07**|**Secure Smart Contract with Control Flow Integrity**|Zhiyang Chen et.al.|[2504.05509](http://arxiv.org/abs/2504.05509)|**[link](https://github.com/jon-becker/heimdall-rs)**|
 |**2025-04-07**|**Taming Double-Spending in Offline Payments with Reputation-Weighted Loan Networks**|Nektarios Evangelou et.al.|[2504.05143](http://arxiv.org/abs/2504.05143)|null|
 |**2025-04-07**|**Hollow Victory: How Malicious Proposers Exploit Validator Incentives in Optimistic Rollup Dispute Games**|Suhyeon Lee et.al.|[2504.05094](http://arxiv.org/abs/2504.05094)|null|
 |**2025-04-07**|**Enhancing Smart Contract Vulnerability Detection in DApps Leveraging Fine-Tuned LLM**|Jiuyang Bu et.al.|[2504.05006](http://arxiv.org/abs/2504.05006)|null|
@@ -496,7 +496,7 @@ layout: default
 |**2024-01-20**|**LLM4Fuzz: Guided Fuzzing of Smart Contracts with Large Language Models**|Chaofan Shou et.al.|[2401.11108](http://arxiv.org/abs/2401.11108)|null|
 |**2024-01-14**|**A Framework for Agricultural Food Supply Chain using Blockchain**|Sudarssan N et.al.|[2401.09476](http://arxiv.org/abs/2401.09476)|null|
 |**2024-01-15**|**Impermanent Loss Conditions: An Analysis of Decentralized Exchange Platforms**|Matthias Hafner et.al.|[2401.07689](http://arxiv.org/abs/2401.07689)|null|
-|**2024-01-14**|**LookAhead: Preventing DeFi Attacks via Unveiling Adversarial Contracts**|Shoupeng Ren et.al.|[2401.07261](http://arxiv.org/abs/2401.07261)|null|
+|**2024-01-14**|**LookAhead: Preventing DeFi Attacks via Unveiling Adversarial Contracts**|Shoupeng Ren et.al.|[2401.07261](http://arxiv.org/abs/2401.07261)|**[link](https://github.com/zju-abclab/LookAhead)**|
 |**2024-01-11**|**Safeguarding DeFi Smart Contracts against Oracle Deviations**|Xun Deng et.al.|[2401.06044](http://arxiv.org/abs/2401.06044)|null|
 |**2024-01-11**|**SoK: Analysis techniques for WebAssembly**|Håkon Harnes et.al.|[2401.05943](http://arxiv.org/abs/2401.05943)|null|
 |**2024-01-09**|**Expiring Assets in Automated Market Makers**|Kenan Wood et.al.|[2401.04289](http://arxiv.org/abs/2401.04289)|null|
@@ -882,7 +882,7 @@ layout: default
 |**2025-05-05**|**Privacy Risks and Preservation Methods in Explainable Artificial Intelligence: A Scoping Review**|Sonal Allana et.al.|[2505.02828](http://arxiv.org/abs/2505.02828)|null|
 |**2025-05-05**|**HSplitLoRA: A Heterogeneous Split Parameter-Efficient Fine-Tuning Framework for Large Language Models**|Zheng Lin et.al.|[2505.02795](http://arxiv.org/abs/2505.02795)|null|
 |**2025-05-05**|**Lazy But Effective: Collaborative Personalized Federated Learning with Heterogeneous Data**|Ljubomir Rokvic et.al.|[2505.02540](http://arxiv.org/abs/2505.02540)|null|
-|**2025-05-05**|**Bayesian Robust Aggregation for Federated Learning**|Aleksandr Karakulev et.al.|[2505.02490](http://arxiv.org/abs/2505.02490)|null|
+|**2025-05-05**|**Bayesian Robust Aggregation for Federated Learning**|Aleksandr Karakulev et.al.|[2505.02490](http://arxiv.org/abs/2505.02490)|**[link](https://github.com/sciml-fl/bra-fl)**|
 |**2025-05-05**|**Incentivizing Inclusive Contributions in Model Sharing Markets**|Enpei Zhang et.al.|[2505.02462](http://arxiv.org/abs/2505.02462)|null|
 |**2025-05-05**|**Towards One-shot Federated Learning: Advances, Challenges, and Future Directions**|Flora Amato et.al.|[2505.02426](http://arxiv.org/abs/2505.02426)|null|
 |**2025-05-05**|**Encrypted Federated Search Using Homomorphic Encryption**|Om Rathod et.al.|[2505.02409](http://arxiv.org/abs/2505.02409)|null|
@@ -924,7 +924,7 @@ layout: default
 |**2025-04-28**|**Convergence Analysis of Asynchronous Federated Learning with Gradient Compression for Non-Convex Optimization**|Diying Yang et.al.|[2504.19903](http://arxiv.org/abs/2504.19903)|null|
 |**2025-04-28**|**Federated Out-of-Distribution Generalization: A Causal Augmentation View**|Runhui Zhang et.al.|[2504.19882](http://arxiv.org/abs/2504.19882)|null|
 |**2025-04-28**|**A Unified Benchmark of Federated Learning with Kolmogorov-Arnold Networks for Medical Imaging**|Youngjoon Lee et.al.|[2504.19639](http://arxiv.org/abs/2504.19639)|null|
-|**2025-04-28**|**Soft-Label Caching and Sharpening for Communication-Efficient Federated Distillation**|Kitsuya Azuma et.al.|[2504.19602](http://arxiv.org/abs/2504.19602)|null|
+|**2025-04-28**|**Soft-Label Caching and Sharpening for Communication-Efficient Federated Distillation**|Kitsuya Azuma et.al.|[2504.19602](http://arxiv.org/abs/2504.19602)|**[link](https://github.com/kitsuyaazuma/scarlet)**|
 |**2025-04-28**|**DEEMO: De-identity Multimodal Emotion Recognition and Reasoning**|Deng Li et.al.|[2504.19549](http://arxiv.org/abs/2504.19549)|null|
 |**2025-04-27**|**TeleSparse: Practical Privacy-Preserving Verification of Deep Neural Networks**|Mohammad M Maheri et.al.|[2504.19274](http://arxiv.org/abs/2504.19274)|null|
 |**2025-04-27**|**Harmonizing Generalization and Personalization in Ring-topology Decentralized Federated Learning**|Shunxin Guo et.al.|[2504.19103](http://arxiv.org/abs/2504.19103)|null|
@@ -949,10 +949,10 @@ layout: default
 |**2025-04-23**|**Beyond Anonymization: Object Scrubbing for Privacy-Preserving 2D and 3D Vision Tasks**|Murat Bilgehan Ertan et.al.|[2504.16557](http://arxiv.org/abs/2504.16557)|null|
 |**2025-04-23**|**Federated Learning of Low-Rank One-Shot Image Detection Models in Edge Devices with Scalable Accuracy and Compute Complexity**|Abdul Hannaan et.al.|[2504.16515](http://arxiv.org/abs/2504.16515)|null|
 |**2025-04-23**|**A Comprehensive Survey of Synthetic Tabular Data Generation**|Ruxue Shi et.al.|[2504.16506](http://arxiv.org/abs/2504.16506)|null|
-|**2025-04-23**|**Private Federated Learning using Preference-Optimized Synthetic Data**|Charlie Hou et.al.|[2504.16438](http://arxiv.org/abs/2504.16438)|null|
+|**2025-04-23**|**Private Federated Learning using Preference-Optimized Synthetic Data**|Charlie Hou et.al.|[2504.16438](http://arxiv.org/abs/2504.16438)|**[link](https://github.com/meiyuw/popri)**|
 |**2025-04-22**|**LLMs meet Federated Learning for Scalable and Secure IoT Management**|Yazan Otoum et.al.|[2504.16032](http://arxiv.org/abs/2504.16032)|null|
 |**2025-04-22**|**OPUS-VFL: Incentivizing Optimal Privacy-Utility Tradeoffs in Vertical Federated Learning**|Sindhuja Madabushi et.al.|[2504.15995](http://arxiv.org/abs/2504.15995)|null|
-|**2025-04-22**|**Achieving Distributive Justice in Federated Learning via Uncertainty Quantification**|Alycia Carey et.al.|[2504.15924](http://arxiv.org/abs/2504.15924)|null|
+|**2025-04-22**|**Achieving Distributive Justice in Federated Learning via Uncertainty Quantification**|Alycia Carey et.al.|[2504.15924](http://arxiv.org/abs/2504.15924)|**[link](https://github.com/alycia-noel/udj-fl)**|
 |**2025-04-22**|**CARE: Compatibility-Aware Incentive Mechanisms for Federated Learning with Budgeted Requesters**|Xiang Liu et.al.|[2504.15847](http://arxiv.org/abs/2504.15847)|null|
 |**2025-04-22**|**EFFACT: A Highly Efficient Full-Stack FHE Acceleration Platform**|Yi Huang et.al.|[2504.15817](http://arxiv.org/abs/2504.15817)|null|
 |**2025-04-22**|**Collaborative Split Federated Learning with Parallel Training and Aggregation**|Yiannis Papageorgiou et.al.|[2504.15724](http://arxiv.org/abs/2504.15724)|null|
@@ -1362,7 +1362,7 @@ layout: default
 |**2025-02-07**|**Differential Privacy of Quantum and Quantum-Inspired-Classical Recommendation Algorithms**|Chenjian Li et.al.|[2502.04758](http://arxiv.org/abs/2502.04758)|null|
 |**2025-02-07**|**LATTEO: A Framework to Support Learning Asynchronously Tempered with Trusted Execution and Obfuscation**|Abhinav Kumar et.al.|[2502.04601](http://arxiv.org/abs/2502.04601)|null|
 |**2025-02-06**|**Private Federated Learning In Real World Application -- A Case Study**|An Ji et.al.|[2502.04565](http://arxiv.org/abs/2502.04565)|null|
-|**2025-02-06**|**Generative Autoregressive Transformers for Model-Agnostic Federated MRI Reconstruction**|Valiyeh A. Nezhad et.al.|[2502.04521](http://arxiv.org/abs/2502.04521)|null|
+|**2025-02-06**|**Generative Autoregressive Transformers for Model-Agnostic Federated MRI Reconstruction**|Valiyeh A. Nezhad et.al.|[2502.04521](http://arxiv.org/abs/2502.04521)|**[link](https://github.com/icon-lab/FedGAT)**|
 |**2025-02-06**|**FedOptimus: Optimizing Vertical Federated Learning for Scalability and Efficiency**|Nikita Shrivastava et.al.|[2502.04243](http://arxiv.org/abs/2502.04243)|null|
 |**2025-02-06**|**The Gradient Puppeteer: Adversarial Domination in Gradient Leakage Attacks through Model Poisoning**|Kunlan Xiang et.al.|[2502.04106](http://arxiv.org/abs/2502.04106)|null|
 |**2025-02-06**|**Comparing privacy notions for protection against reconstruction attacks in machine learning**|Sayan Biswas et.al.|[2502.04045](http://arxiv.org/abs/2502.04045)|null|
@@ -3197,7 +3197,7 @@ layout: default
 |**2024-02-11**|**Differentially Private Training of Mixture of Experts Models**|Pierre Tholoniat et.al.|[2402.07334](http://arxiv.org/abs/2402.07334)|null|
 |**2024-02-11**|**Training Heterogeneous Client Models using Knowledge Distillation in Serverless Federated Learning**|Mohak Chadha et.al.|[2402.07295](http://arxiv.org/abs/2402.07295)|**[link](https://github.com/serverless-federated-learning/fedless)**|
 |**2024-02-10**|**FedImpro: Measuring and Improving Client Update in Federated Learning**|Zhenheng Tang et.al.|[2402.07011](http://arxiv.org/abs/2402.07011)|null|
-|**2024-02-10**|**Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off**|Yuecheng Li et.al.|[2402.07002](http://arxiv.org/abs/2402.07002)|null|
+|**2024-02-10**|**Clients Collaborate: Flexible Differentially Private Federated Learning with Guaranteed Improvement of Utility-Privacy Trade-off**|Yuecheng Li et.al.|[2402.07002](http://arxiv.org/abs/2402.07002)|**[link](https://github.com/6lyc/fedceo_collaborate-with-each-other)**|
 |**2024-02-09**|**You Still See Me: How Data Protection Supports the Architecture of ML Surveillance**|Rui-Jie Yew et.al.|[2402.06609](http://arxiv.org/abs/2402.06609)|null|
 |**2024-02-09**|**RQP-SGD: Differential Private Machine Learning through Noisy SGD and Randomized Quantization**|Ce Feng et.al.|[2402.06606](http://arxiv.org/abs/2402.06606)|null|
 |**2024-02-09**|**Trust the Process: Zero-Knowledge Machine Learning to Enhance Trust in Generative AI Interactions**|Bianca-Mihaela Ganescu et.al.|[2402.06414](http://arxiv.org/abs/2402.06414)|null|
@@ -3464,7 +3464,7 @@ layout: default
 |**2023-12-14**|**CLIP-guided Federated Learning on Heterogeneous and Long-Tailed Data**|Jiangming Shi et.al.|[2312.08648](http://arxiv.org/abs/2312.08648)|**[link](https://github.com/shijiangming1/clip2fl)**|
 |**2023-12-14**|**Federated Learning for Wireless Applications: A Prototype**|Varun Laxman Muttepawar et.al.|[2312.08577](http://arxiv.org/abs/2312.08577)|null|
 |**2023-12-13**|**Contractive error feedback for gradient compression**|Bingcong Li et.al.|[2312.08538](http://arxiv.org/abs/2312.08538)|null|
-|**2023-12-13**|**Venn: Resource Management Across Federated Learning Jobs**|Jiachen Liu et.al.|[2312.08298](http://arxiv.org/abs/2312.08298)|null|
+|**2023-12-13**|**Venn: Resource Management Across Federated Learning Jobs**|Jiachen Liu et.al.|[2312.08298](http://arxiv.org/abs/2312.08298)|**[link](https://github.com/symbioticlab/venn)**|
 |**2023-12-13**|**Differential Privacy Preserving Quantum Computing via Projection Operator Measurements**|Yuqing Li et.al.|[2312.08210](http://arxiv.org/abs/2312.08210)|null|
 |**2023-12-13**|**Privacy-Preserving Distributed Optimisation using Stochastic PDMM**|Sebastian O. Jordan et.al.|[2312.08144](http://arxiv.org/abs/2312.08144)|null|
 |**2023-12-13**|**An Incentive Mechanism for Federated Learning Based on Multiple Resource Exchange**|Ruonan Dong et.al.|[2312.08096](http://arxiv.org/abs/2312.08096)|null|
