@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Blockchain Technology: Core Mechanisms, Evolution, and Future Implementation Challenges**|Aditya Pratap Singh et.al.|[2505.08772](http://arxiv.org/abs/2505.08772)|null|
+|**2025-05-13**|**Guiding LLM-based Smart Contract Generation with Finite State Machine**|Hao Luo et.al.|[2505.08542](http://arxiv.org/abs/2505.08542)|null|
 |**2025-05-10**|**AI-Powered Anomaly Detection with Blockchain for Real-Time Security and Reliability in Autonomous Vehicles**|Rathin Chandra Shit et.al.|[2505.06632](http://arxiv.org/abs/2505.06632)|null|
 |**2025-05-08**|**PRIMG : Efficient LLM-driven Test Generation Using Mutant Prioritization**|Mohamed Salah Bouafif et.al.|[2505.05584](http://arxiv.org/abs/2505.05584)|**[link](https://github.com/salah-sh/llm-mutation-testing)**|
 |**2025-05-08**|**SoK: A Taxonomy for Distributed-Ledger-Based Identity Management**|Awid Vaziry et.al.|[2505.05100](http://arxiv.org/abs/2505.05100)|null|
@@ -713,6 +715,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**A Scalable System to Prove Machine Learning Fairness in Zero-Knowledge**|Tianyu Zhang et.al.|[2505.07997](http://arxiv.org/abs/2505.07997)|null|
 |**2025-04-30**|**VDDP: Verifiable Distributed Differential Privacy under the Client-Server-Verifier Setup**|Haochen Sun et.al.|[2504.21752](http://arxiv.org/abs/2504.21752)|null|
 |**2025-04-28**|**From Paper Trails to Trust on Tracks: Adding Public Transparency to Railways via zk-SNARKs**|Tarek Galal et.al.|[2504.19640](http://arxiv.org/abs/2504.19640)|null|
 |**2025-04-30**|**Towards Fuzzing Zero-Knowledge Proof Circuits (Short Paper)**|Stefanos Chaliasos et.al.|[2504.14881](http://arxiv.org/abs/2504.14881)|null|
@@ -872,6 +875,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Understanding Housing and Homelessness System Access by Linking Administrative Data**|Geoffrey G. Messier et.al.|[2505.08743](http://arxiv.org/abs/2505.08743)|null|
+|**2025-05-13**|**Modular Federated Learning: A Meta-Framework Perspective**|Frederico Vicente et.al.|[2505.08646](http://arxiv.org/abs/2505.08646)|null|
+|**2025-05-13**|**Information Leakage in Data Linkage**|Peter Christen et.al.|[2505.08596](http://arxiv.org/abs/2505.08596)|null|
+|**2025-05-13**|**Attention-based Generative Latent Replay: A Continual Learning Approach for WSI Analysis**|Pratibha Kumari et.al.|[2505.08524](http://arxiv.org/abs/2505.08524)|null|
+|**2025-05-13**|**FedRS-Bench: Realistic Federated Learning Datasets and Benchmarks in Remote Sensing**|Haodong Zhao et.al.|[2505.08325](http://arxiv.org/abs/2505.08325)|null|
+|**2025-05-13**|**On the Account Security Risks Posed by Password Strength Meters**|Ming Xu et.al.|[2505.08292](http://arxiv.org/abs/2505.08292)|null|
+|**2025-05-13**|**Privacy-Preserving Analytics for Smart Meter (AMI) Data: A Hybrid Approach to Comply with CPUC Privacy Regulations**|Benjamin Westrich et.al.|[2505.08237](http://arxiv.org/abs/2505.08237)|null|
+|**2025-05-13**|**Online differentially private inference in stochastic gradient descent**|Jinhan Xie et.al.|[2505.08227](http://arxiv.org/abs/2505.08227)|null|
+|**2025-05-13**|**Multi-Layer Hierarchical Federated Learning with Quantization**|Seyed Mohammad Azimi-Abarghouyi et.al.|[2505.08145](http://arxiv.org/abs/2505.08145)|null|
+|**2025-05-12**|**Sharp Gaussian approximations for Decentralized Federated Learning**|Soham Bonnerjee et.al.|[2505.08125](http://arxiv.org/abs/2505.08125)|null|
 |**2025-05-12**|**Privacy Risks of Robot Vision: A User Study on Image Modalities and Resolution**|Xuying Huang et.al.|[2505.07766](http://arxiv.org/abs/2505.07766)|null|
 |**2025-05-13**|**OnPrem.LLM: A Privacy-Conscious Document Intelligence Toolkit**|Arun S. Maiya et.al.|[2505.07672](http://arxiv.org/abs/2505.07672)|**[link](https://github.com/amaiya/onprem)**|
 |**2025-05-12**|**Enhancing Federated Learning with Kolmogorov-Arnold Networks: A Comparative Study Across Diverse Aggregation Strategies**|Yizhou Ma et.al.|[2505.07629](http://arxiv.org/abs/2505.07629)|null|
