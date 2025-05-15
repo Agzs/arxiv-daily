@@ -632,6 +632,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**FLUXLAYER: High-Performance Design for Cross-chain Fragmented Liquidity**|Xin Lao et.al.|[2505.09423](http://arxiv.org/abs/2505.09423)|null|
 |**2025-05-08**|**Enhancing Blockchain Cross Chain Interoperability: A Comprehensive Survey**|Zhihong Deng et.al.|[2505.04934](http://arxiv.org/abs/2505.04934)|null|
 |**2025-04-28**|**SoK: A Survey of Mixing Techniques and Mixers for Cryptocurrencies**|Juraj Mariani et.al.|[2504.20296](http://arxiv.org/abs/2504.20296)|null|
 |**2025-04-21**|**Tracing Cross-chain Transactions between EVM-based Blockchains: An Analysis of Ethereum-Polygon Bridges**|Tao Yan et.al.|[2504.15449](http://arxiv.org/abs/2504.15449)|null|
@@ -875,6 +876,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Toward Fair Federated Learning under Demographic Disparities and Data Imbalance**|Qiming Wu et.al.|[2505.09295](http://arxiv.org/abs/2505.09295)|null|
+|**2025-05-14**|**Ranking-Based At-Risk Student Prediction Using Federated Learning and Differential Features**|Shunsuke Yoneda et.al.|[2505.09287](http://arxiv.org/abs/2505.09287)|**[link](https://github.com/limu-research/2025-edm-fl)**|
+|**2025-05-14**|**Privacy-Preserving Runtime Verification**|Thomas A. Henzinger et.al.|[2505.09276](http://arxiv.org/abs/2505.09276)|null|
+|**2025-05-14**|**The Larger the Merrier? Efficient Large AI Model Inference in Wireless Edge Networks**|Zhonghao Lyu et.al.|[2505.09214](http://arxiv.org/abs/2505.09214)|null|
+|**2025-05-14**|**Toward Malicious Clients Detection in Federated Learning**|Zhihao Dou et.al.|[2505.09110](http://arxiv.org/abs/2505.09110)|null|
+|**2025-05-13**|**Improved Algorithms for Differentially Private Language Model Alignment**|Keyu Chen et.al.|[2505.08849](http://arxiv.org/abs/2505.08849)|null|
 |**2025-05-13**|**Understanding Housing and Homelessness System Access by Linking Administrative Data**|Geoffrey G. Messier et.al.|[2505.08743](http://arxiv.org/abs/2505.08743)|null|
 |**2025-05-13**|**Modular Federated Learning: A Meta-Framework Perspective**|Frederico Vicente et.al.|[2505.08646](http://arxiv.org/abs/2505.08646)|null|
 |**2025-05-13**|**Information Leakage in Data Linkage**|Peter Christen et.al.|[2505.08596](http://arxiv.org/abs/2505.08596)|null|
