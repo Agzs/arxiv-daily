@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**DeFeed: Secure Decentralized Cross-Contract Data Feed in Web 3.0 for Connected Autonomous Vehicles**|Xingchen Sun et.al.|[2505.09928](http://arxiv.org/abs/2505.09928)|null|
+|**2025-05-14**|**Trustless Autonomy: Understanding Motivations, Benefits and Governance Dilemma in Self-Sovereign Decentralized AI Agents**|Botao Amber Hu et.al.|[2505.09757](http://arxiv.org/abs/2505.09757)|null|
 |**2025-05-13**|**Blockchain Technology: Core Mechanisms, Evolution, and Future Implementation Challenges**|Aditya Pratap Singh et.al.|[2505.08772](http://arxiv.org/abs/2505.08772)|null|
 |**2025-05-13**|**Guiding LLM-based Smart Contract Generation with Finite State Machine**|Hao Luo et.al.|[2505.08542](http://arxiv.org/abs/2505.08542)|null|
 |**2025-05-10**|**AI-Powered Anomaly Detection with Blockchain for Real-Time Security and Reliability in Autonomous Vehicles**|Rathin Chandra Shit et.al.|[2505.06632](http://arxiv.org/abs/2505.06632)|null|
@@ -864,6 +866,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**Defending the Edge: Representative-Attention for Mitigating Backdoor Attacks in Federated Learning**|Chibueze Peace Obioma et.al.|[2505.10297](http://arxiv.org/abs/2505.10297)|null|
+|**2025-05-15**|**Cutting Through Privacy: A Hyperplane-Based Data Reconstruction Attack in Federated Learning**|Francesco Diana et.al.|[2505.10264](http://arxiv.org/abs/2505.10264)|null|
+|**2025-05-15**|**Robust Federated Learning on Edge Devices with Domain Heterogeneity**|Huy Q. Le et.al.|[2505.10128](http://arxiv.org/abs/2505.10128)|null|
+|**2025-05-15**|**Enhancing the Performance of Global Model by Improving the Adaptability of Local Models in Federated Learning**|Wujun Zhou et.al.|[2505.10125](http://arxiv.org/abs/2505.10125)|null|
+|**2025-05-15**|**Sybil-based Virtual Data Poisoning Attacks in Federated Learning**|Changxun Zhu et.al.|[2505.09983](http://arxiv.org/abs/2505.09983)|null|
+|**2025-05-14**|**Chisme: Fully Decentralized Differentiated Deep Learning for Edge Intelligence**|Harikrishna Kuttivelil et.al.|[2505.09854](http://arxiv.org/abs/2505.09854)|null|
+|**2025-05-14**|**Robust Federated Learning with Confidence-Weighted Filtering and GAN-Based Completion under Noisy and Incomplete Data**|Alpaslan Gokcen et.al.|[2505.09733](http://arxiv.org/abs/2505.09733)|null|
+|**2025-05-14**|**Energy-Efficient Federated Learning for AIoT using Clustering Methods**|Roberto Pereira et.al.|[2505.09704](http://arxiv.org/abs/2505.09704)|null|
 |**2025-05-14**|**Toward Fair Federated Learning under Demographic Disparities and Data Imbalance**|Qiming Wu et.al.|[2505.09295](http://arxiv.org/abs/2505.09295)|**[link](https://github.com/qimingwu/fedida)**|
 |**2025-05-14**|**Ranking-Based At-Risk Student Prediction Using Federated Learning and Differential Features**|Shunsuke Yoneda et.al.|[2505.09287](http://arxiv.org/abs/2505.09287)|**[link](https://github.com/limu-research/2025-edm-fl)**|
 |**2025-05-14**|**Privacy-Preserving Runtime Verification**|Thomas A. Henzinger et.al.|[2505.09276](http://arxiv.org/abs/2505.09276)|null|
