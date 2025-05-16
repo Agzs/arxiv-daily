@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -864,7 +864,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-14**|**Toward Fair Federated Learning under Demographic Disparities and Data Imbalance**|Qiming Wu et.al.|[2505.09295](http://arxiv.org/abs/2505.09295)|null|
+|**2025-05-14**|**Toward Fair Federated Learning under Demographic Disparities and Data Imbalance**|Qiming Wu et.al.|[2505.09295](http://arxiv.org/abs/2505.09295)|**[link](https://github.com/qimingwu/fedida)**|
 |**2025-05-14**|**Ranking-Based At-Risk Student Prediction Using Federated Learning and Differential Features**|Shunsuke Yoneda et.al.|[2505.09287](http://arxiv.org/abs/2505.09287)|**[link](https://github.com/limu-research/2025-edm-fl)**|
 |**2025-05-14**|**Privacy-Preserving Runtime Verification**|Thomas A. Henzinger et.al.|[2505.09276](http://arxiv.org/abs/2505.09276)|null|
 |**2025-05-14**|**The Larger the Merrier? Efficient Large AI Model Inference in Wireless Edge Networks**|Zhonghao Lyu et.al.|[2505.09214](http://arxiv.org/abs/2505.09214)|null|
