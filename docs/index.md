@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Understanding and Characterizing Obfuscated Funds Transfers in Ethereum Smart Contracts**|Zhang Sheng et.al.|[2505.11320](http://arxiv.org/abs/2505.11320)|null|
+|**2025-05-16**|**Blockchain-Enabled Decentralized Privacy-Preserving Group Purchasing for Energy Plans**|Sid Chi-Kin Chau et.al.|[2505.11094](http://arxiv.org/abs/2505.11094)|null|
 |**2025-05-15**|**DeFeed: Secure Decentralized Cross-Contract Data Feed in Web 3.0 for Connected Autonomous Vehicles**|Xingchen Sun et.al.|[2505.09928](http://arxiv.org/abs/2505.09928)|null|
 |**2025-05-14**|**Trustless Autonomy: Understanding Motivations, Benefits and Governance Dilemma in Self-Sovereign Decentralized AI Agents**|Botao Amber Hu et.al.|[2505.09757](http://arxiv.org/abs/2505.09757)|null|
 |**2025-05-13**|**Blockchain Technology: Core Mechanisms, Evolution, and Future Implementation Challenges**|Aditya Pratap Singh et.al.|[2505.08772](http://arxiv.org/abs/2505.08772)|null|
@@ -866,6 +868,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Heterogeneity-Aware Client Sampling: A Unified Solution for Consistent Federated Learning**|Shudi Weng et.al.|[2505.11304](http://arxiv.org/abs/2505.11304)|null|
+|**2025-05-16**|**Multi-Modal Multi-Task (M3T) Federated Foundation Models for Embodied AI: Potentials and Challenges for Edge Integration**|Kasra Borazjani et.al.|[2505.11191](http://arxiv.org/abs/2505.11191)|null|
+|**2025-05-16**|**FedDuA: Doubly Adaptive Federated Learning**|Shokichi Takakura et.al.|[2505.11126](http://arxiv.org/abs/2505.11126)|null|
+|**2025-05-16**|**Blockchain-Enabled Decentralized Privacy-Preserving Group Purchasing for Energy Plans**|Sid Chi-Kin Chau et.al.|[2505.11094](http://arxiv.org/abs/2505.11094)|null|
+|**2025-05-16**|**Deep Latent Variable Model based Vertical Federated Learning with Flexible Alignment and Labeling Scenarios**|Kihun Hong et.al.|[2505.11035](http://arxiv.org/abs/2505.11035)|null|
+|**2025-05-16**|**Privacy and Confidentiality Requirements Engineering for Process Data**|Fabian Haertel et.al.|[2505.10965](http://arxiv.org/abs/2505.10965)|null|
+|**2025-05-16**|**Nosy Layers, Noisy Fixes: Tackling DRAs in Federated Learning Systems using Explainable AI**|Meghali Nandi et.al.|[2505.10942](http://arxiv.org/abs/2505.10942)|null|
+|**2025-05-16**|**Optimal Allocation of Privacy Budget on Hierarchical Data Release**|Joonhyuk Ko et.al.|[2505.10871](http://arxiv.org/abs/2505.10871)|null|
+|**2025-05-16**|**Anti-Sensing: Defense against Unauthorized Radar-based Human Vital Sign Sensing with Physically Realizable Wearable Oscillators**|Md Farhan Tasnim Oshim et.al.|[2505.10864](http://arxiv.org/abs/2505.10864)|null|
+|**2025-05-16**|**Random Client Selection on Contrastive Federated Learning for Tabular Data**|Achmad Ginanjar et.al.|[2505.10759](http://arxiv.org/abs/2505.10759)|null|
 |**2025-05-15**|**Defending the Edge: Representative-Attention for Mitigating Backdoor Attacks in Federated Learning**|Chibueze Peace Obioma et.al.|[2505.10297](http://arxiv.org/abs/2505.10297)|null|
 |**2025-05-15**|**Cutting Through Privacy: A Hyperplane-Based Data Reconstruction Attack in Federated Learning**|Francesco Diana et.al.|[2505.10264](http://arxiv.org/abs/2505.10264)|null|
 |**2025-05-15**|**Robust Federated Learning on Edge Devices with Domain Heterogeneity**|Huy Q. Le et.al.|[2505.10128](http://arxiv.org/abs/2505.10128)|null|
