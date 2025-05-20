@@ -14,9 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**hChain: Blockchain Based Large Scale EHR Data Sharing with Enhanced Security and Privacy**|Musharraf Alruwaill et.al.|[2505.12610](http://arxiv.org/abs/2505.12610)|null|
+|**2025-05-18**|**Protocol as Poetry: Case Study on Pak's Protocol Arts**|Botao Amber Hu et.al.|[2505.12393](http://arxiv.org/abs/2505.12393)|null|
 |**2025-05-16**|**Understanding and Characterizing Obfuscated Funds Transfers in Ethereum Smart Contracts**|Zhang Sheng et.al.|[2505.11320](http://arxiv.org/abs/2505.11320)|null|
 |**2025-05-16**|**Blockchain-Enabled Decentralized Privacy-Preserving Group Purchasing for Energy Plans**|Sid Chi-Kin Chau et.al.|[2505.11094](http://arxiv.org/abs/2505.11094)|null|
-|**2025-05-15**|**DeFeed: Secure Decentralized Cross-Contract Data Feed in Web 3.0 for Connected Autonomous Vehicles**|Xingchen Sun et.al.|[2505.09928](http://arxiv.org/abs/2505.09928)|null|
+|**2025-05-19**|**DeFeed: Secure Decentralized Cross-Contract Data Feed in Web 3.0 for Connected Autonomous Vehicles**|Xingchen Sun et.al.|[2505.09928](http://arxiv.org/abs/2505.09928)|null|
 |**2025-05-14**|**Trustless Autonomy: Understanding Motivations, Benefits and Governance Dilemma in Self-Sovereign Decentralized AI Agents**|Botao Amber Hu et.al.|[2505.09757](http://arxiv.org/abs/2505.09757)|null|
 |**2025-05-13**|**Blockchain Technology: Core Mechanisms, Evolution, and Future Implementation Challenges**|Aditya Pratap Singh et.al.|[2505.08772](http://arxiv.org/abs/2505.08772)|null|
 |**2025-05-13**|**Guiding LLM-based Smart Contract Generation with Finite State Machine**|Hao Luo et.al.|[2505.08542](http://arxiv.org/abs/2505.08542)|null|
@@ -710,7 +712,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-12**|**A Scalable System to Prove Machine Learning Fairness in Zero-Knowledge**|Tianyu Zhang et.al.|[2505.07997](http://arxiv.org/abs/2505.07997)|null|
+|**2025-05-17**|**Proof-of-Social-Capital: Privacy-Preserving Consensus Protocol Replacing Stake for Social Capital**|Juraj Mariani et.al.|[2505.12144](http://arxiv.org/abs/2505.12144)|null|
+|**2025-05-19**|**FairZK: A Scalable System to Prove Machine Learning Fairness in Zero-Knowledge**|Tianyu Zhang et.al.|[2505.07997](http://arxiv.org/abs/2505.07997)|**[link](https://github.com/tnyuzg/fairzk)**|
 |**2025-04-30**|**VDDP: Verifiable Distributed Differential Privacy under the Client-Server-Verifier Setup**|Haochen Sun et.al.|[2504.21752](http://arxiv.org/abs/2504.21752)|null|
 |**2025-04-28**|**From Paper Trails to Trust on Tracks: Adding Public Transparency to Railways via zk-SNARKs**|Tarek Galal et.al.|[2504.19640](http://arxiv.org/abs/2504.19640)|null|
 |**2025-04-30**|**Towards Fuzzing Zero-Knowledge Proof Circuits (Short Paper)**|Stefanos Chaliasos et.al.|[2504.14881](http://arxiv.org/abs/2504.14881)|null|
@@ -868,6 +871,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**SMOTExT: SMOTE meets Large Language Models**|Mateusz Bystroński et.al.|[2505.13434](http://arxiv.org/abs/2505.13434)|null|
+|**2025-05-19**|**Learnware of Language Models: Specialized Small Language Models Can Do Big**|Zhi-Hao Tan et.al.|[2505.13425](http://arxiv.org/abs/2505.13425)|null|
+|**2025-05-19**|**SVAFD: A Secure and Verifiable Co-Aggregation Protocol for Federated Distillation**|Tian Wen et.al.|[2505.13319](http://arxiv.org/abs/2505.13319)|null|
+|**2025-05-19**|**Cross-Cloud Data Privacy Protection: Optimizing Collaborative Mechanisms of AI Systems by Integrating Federated Learning and LLMs**|Huaiying Luo et.al.|[2505.13292](http://arxiv.org/abs/2505.13292)|null|
+|**2025-05-19**|**RIFLES: Resource-effIcient Federated LEarning via Scheduling**|Sara Alosaime et.al.|[2505.13169](http://arxiv.org/abs/2505.13169)|null|
+|**2025-05-19**|**Universal Semantic Disentangled Privacy-preserving Speech Representation Learning**|Biel Tura Vecino et.al.|[2505.13085](http://arxiv.org/abs/2505.13085)|null|
+|**2025-05-19**|**OmniFC: Rethinking Federated Clustering via Lossless and Secure Distance Reconstruction**|Jie Yan et.al.|[2505.13071](http://arxiv.org/abs/2505.13071)|null|
+|**2025-05-19**|**Lara: Lightweight Anonymous Authentication with Asynchronous Revocation Auditability**|Claudio Correia et.al.|[2505.12968](http://arxiv.org/abs/2505.12968)|null|
+|**2025-05-19**|**Outsourced Privacy-Preserving Feature Selection Based on Fully Homomorphic Encryption**|Koki Wakiyama et.al.|[2505.12869](http://arxiv.org/abs/2505.12869)|null|
+|**2025-05-19**|**FLTG: Byzantine-Robust Federated Learning via Angle-Based Defense and Non-IID-Aware Weighting**|Yanhua Wen et.al.|[2505.12851](http://arxiv.org/abs/2505.12851)|null|
 |**2025-05-16**|**Heterogeneity-Aware Client Sampling: A Unified Solution for Consistent Federated Learning**|Shudi Weng et.al.|[2505.11304](http://arxiv.org/abs/2505.11304)|null|
 |**2025-05-16**|**Multi-Modal Multi-Task (M3T) Federated Foundation Models for Embodied AI: Potentials and Challenges for Edge Integration**|Kasra Borazjani et.al.|[2505.11191](http://arxiv.org/abs/2505.11191)|null|
 |**2025-05-16**|**FedDuA: Doubly Adaptive Federated Learning**|Shokichi Takakura et.al.|[2505.11126](http://arxiv.org/abs/2505.11126)|null|
