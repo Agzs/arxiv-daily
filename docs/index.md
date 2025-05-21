@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -873,10 +873,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-19**|**SMOTExT: SMOTE meets Large Language Models**|Mateusz Bystroński et.al.|[2505.13434](http://arxiv.org/abs/2505.13434)|null|
 |**2025-05-19**|**Learnware of Language Models: Specialized Small Language Models Can Do Big**|Zhi-Hao Tan et.al.|[2505.13425](http://arxiv.org/abs/2505.13425)|null|
-|**2025-05-19**|**SVAFD: A Secure and Verifiable Co-Aggregation Protocol for Federated Distillation**|Tian Wen et.al.|[2505.13319](http://arxiv.org/abs/2505.13319)|null|
+|**2025-05-20**|**SVAFD: A Secure and Verifiable Co-Aggregation Protocol for Federated Distillation**|Tian Wen et.al.|[2505.13319](http://arxiv.org/abs/2505.13319)|null|
 |**2025-05-19**|**Cross-Cloud Data Privacy Protection: Optimizing Collaborative Mechanisms of AI Systems by Integrating Federated Learning and LLMs**|Huaiying Luo et.al.|[2505.13292](http://arxiv.org/abs/2505.13292)|null|
 |**2025-05-19**|**RIFLES: Resource-effIcient Federated LEarning via Scheduling**|Sara Alosaime et.al.|[2505.13169](http://arxiv.org/abs/2505.13169)|null|
-|**2025-05-19**|**Universal Semantic Disentangled Privacy-preserving Speech Representation Learning**|Biel Tura Vecino et.al.|[2505.13085](http://arxiv.org/abs/2505.13085)|null|
+|**2025-05-20**|**Universal Semantic Disentangled Privacy-preserving Speech Representation Learning**|Biel Tura Vecino et.al.|[2505.13085](http://arxiv.org/abs/2505.13085)|null|
 |**2025-05-19**|**OmniFC: Rethinking Federated Clustering via Lossless and Secure Distance Reconstruction**|Jie Yan et.al.|[2505.13071](http://arxiv.org/abs/2505.13071)|null|
 |**2025-05-19**|**Lara: Lightweight Anonymous Authentication with Asynchronous Revocation Auditability**|Claudio Correia et.al.|[2505.12968](http://arxiv.org/abs/2505.12968)|null|
 |**2025-05-19**|**Outsourced Privacy-Preserving Feature Selection Based on Fully Homomorphic Encryption**|Koki Wakiyama et.al.|[2505.12869](http://arxiv.org/abs/2505.12869)|null|
