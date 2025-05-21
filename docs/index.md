@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Building Reuse-Sensitive Control Flow Graphs (CFGs) for EVM Bytecode**|Dingding Wang et.al.|[2505.14437](http://arxiv.org/abs/2505.14437)|null|
 |**2025-05-19**|**hChain: Blockchain Based Large Scale EHR Data Sharing with Enhanced Security and Privacy**|Musharraf Alruwaill et.al.|[2505.12610](http://arxiv.org/abs/2505.12610)|null|
 |**2025-05-18**|**Protocol as Poetry: Case Study on Pak's Protocol Arts**|Botao Amber Hu et.al.|[2505.12393](http://arxiv.org/abs/2505.12393)|null|
 |**2025-05-16**|**Understanding and Characterizing Obfuscated Funds Transfers in Ethereum Smart Contracts**|Zhang Sheng et.al.|[2505.11320](http://arxiv.org/abs/2505.11320)|null|
@@ -712,6 +713,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Zk-SNARK for String Match**|Taoran Li et.al.|[2505.13964](http://arxiv.org/abs/2505.13964)|**[link](https://github.com/taobol2/CS407_Project)**|
 |**2025-05-17**|**Proof-of-Social-Capital: Privacy-Preserving Consensus Protocol Replacing Stake for Social Capital**|Juraj Mariani et.al.|[2505.12144](http://arxiv.org/abs/2505.12144)|null|
 |**2025-05-19**|**FairZK: A Scalable System to Prove Machine Learning Fairness in Zero-Knowledge**|Tianyu Zhang et.al.|[2505.07997](http://arxiv.org/abs/2505.07997)|**[link](https://github.com/tnyuzg/fairzk)**|
 |**2025-04-30**|**VDDP: Verifiable Distributed Differential Privacy under the Client-Server-Verifier Setup**|Haochen Sun et.al.|[2504.21752](http://arxiv.org/abs/2504.21752)|null|
@@ -871,6 +873,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Can Large Language Models Really Recognize Your Name?**|Dzung Pham et.al.|[2505.14549](http://arxiv.org/abs/2505.14549)|null|
+|**2025-05-20**|**Federated prediction for scalable and privacy-preserved knowledge-based planning in radiotherapy**|Jingyun Chen et.al.|[2505.14507](http://arxiv.org/abs/2505.14507)|null|
+|**2025-05-20**|**Federated learning in low-resource settings: A chest imaging study in Africa -- Challenges and lessons learned**|Jorge Fabila et.al.|[2505.14217](http://arxiv.org/abs/2505.14217)|null|
+|**2025-05-20**|**Personalized Bayesian Federated Learning with Wasserstein Barycenter Aggregation**|Ting Wei et.al.|[2505.14161](http://arxiv.org/abs/2505.14161)|null|
+|**2025-05-20**|**CE-LSLM: Efficient Large-Small Language Model Inference and Communication via Cloud-Edge Collaboration**|Pengyan Zhu et.al.|[2505.14085](http://arxiv.org/abs/2505.14085)|null|
+|**2025-05-20**|**FedGraM: Defending Against Untargeted Attacks in Federated Learning via Embedding Gram Matrix**|Di Wu et.al.|[2505.14024](http://arxiv.org/abs/2505.14024)|null|
+|**2025-05-20**|**Zk-SNARK for String Match**|Taoran Li et.al.|[2505.13964](http://arxiv.org/abs/2505.13964)|**[link](https://github.com/taobol2/CS407_Project)**|
+|**2025-05-20**|**Beyond Text: Unveiling Privacy Vulnerabilities in Multi-modal Retrieval-Augmented Generation**|Jiankun Zhang et.al.|[2505.13957](http://arxiv.org/abs/2505.13957)|null|
+|**2025-05-19**|**Optimal Client Sampling in Federated Learning with Client-Level Heterogeneous Differential Privacy**|Jiahao Xu et.al.|[2505.13655](http://arxiv.org/abs/2505.13655)|null|
+|**2025-05-19**|**Traceable Black-box Watermarks for Federated Learning**|Jiahao Xu et.al.|[2505.13651](http://arxiv.org/abs/2505.13651)|null|
 |**2025-05-19**|**SMOTExT: SMOTE meets Large Language Models**|Mateusz Bystroński et.al.|[2505.13434](http://arxiv.org/abs/2505.13434)|null|
 |**2025-05-19**|**Learnware of Language Models: Specialized Small Language Models Can Do Big**|Zhi-Hao Tan et.al.|[2505.13425](http://arxiv.org/abs/2505.13425)|null|
 |**2025-05-20**|**SVAFD: A Secure and Verifiable Co-Aggregation Protocol for Federated Distillation**|Tian Wen et.al.|[2505.13319](http://arxiv.org/abs/2505.13319)|null|
