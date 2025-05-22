@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**An Empirical Analysis of Vulnerability Detection Tools for Solidity Smart Contracts Using Line Level Manually Annotated Vulnerabilities**|Francesco Salzano et.al.|[2505.15756](http://arxiv.org/abs/2505.15756)|null|
+|**2025-05-21**|**Federated Learning-Enhanced Blockchain Framework for Privacy-Preserving Intrusion Detection in Industrial IoT**|Anas Ali et.al.|[2505.15376](http://arxiv.org/abs/2505.15376)|null|
+|**2025-05-21**|**Adaptive Plan-Execute Framework for Smart Contract Security Auditing**|Zhiyuan Wei et.al.|[2505.15242](http://arxiv.org/abs/2505.15242)|null|
+|**2025-05-21**|**Dynamic Spectrum Sharing Based on the Rentable NFT Standard ERC4907**|Litao Ye et.al.|[2505.15148](http://arxiv.org/abs/2505.15148)|null|
+|**2025-05-21**|**An Empirical Analysis of EOS Blockchain: Architecture, Contract, and Security**|Haiyang Liu et.al.|[2505.15051](http://arxiv.org/abs/2505.15051)|null|
 |**2025-05-20**|**Building Reuse-Sensitive Control Flow Graphs (CFGs) for EVM Bytecode**|Dingding Wang et.al.|[2505.14437](http://arxiv.org/abs/2505.14437)|null|
 |**2025-05-19**|**hChain: Blockchain Based Large Scale EHR Data Sharing with Enhanced Security and Privacy**|Musharraf Alruwaill et.al.|[2505.12610](http://arxiv.org/abs/2505.12610)|null|
 |**2025-05-18**|**Protocol as Poetry: Case Study on Pak's Protocol Arts**|Botao Amber Hu et.al.|[2505.12393](http://arxiv.org/abs/2505.12393)|null|
@@ -713,6 +718,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**Integer Reasoning Modulo Different Constants in SMT**|Elizaveta Pertseva et.al.|[2505.14998](http://arxiv.org/abs/2505.14998)|null|
 |**2025-05-20**|**Zk-SNARK for String Match**|Taoran Li et.al.|[2505.13964](http://arxiv.org/abs/2505.13964)|**[link](https://github.com/taobol2/CS407_Project)**|
 |**2025-05-17**|**Proof-of-Social-Capital: Privacy-Preserving Consensus Protocol Replacing Stake for Social Capital**|Juraj Mariani et.al.|[2505.12144](http://arxiv.org/abs/2505.12144)|null|
 |**2025-05-19**|**FairZK: A Scalable System to Prove Machine Learning Fairness in Zero-Knowledge**|Tianyu Zhang et.al.|[2505.07997](http://arxiv.org/abs/2505.07997)|**[link](https://github.com/tnyuzg/fairzk)**|
@@ -873,6 +879,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**Privacy-Preserving Conformal Prediction Under Local Differential Privacy**|Coby Penso et.al.|[2505.15721](http://arxiv.org/abs/2505.15721)|null|
+|**2025-05-21**|**Federated Learning with Unlabeled Clients: Personalization Can Happen in Low Dimensions**|Hossein Zakerinia et.al.|[2505.15579](http://arxiv.org/abs/2505.15579)|null|
+|**2025-05-21**|**Pura: An Efficient Privacy-Preserving Solution for Face Recognition**|Guotao Xu et.al.|[2505.15476](http://arxiv.org/abs/2505.15476)|null|
+|**2025-05-21**|**Federated Learning-Enhanced Blockchain Framework for Privacy-Preserving Intrusion Detection in Industrial IoT**|Anas Ali et.al.|[2505.15376](http://arxiv.org/abs/2505.15376)|null|
+|**2025-05-21**|**Distributionally Robust Federated Learning with Client Drift Minimization**|Mounssif Krouka et.al.|[2505.15371](http://arxiv.org/abs/2505.15371)|null|
+|**2025-05-21**|**Reliable Vertical Federated Learning in 5G Core Network Architecture**|Mohamad Mestoukirdi et.al.|[2505.15244](http://arxiv.org/abs/2505.15244)|null|
+|**2025-05-21**|**Privacy-Preserving Socialized Recommendation based on Multi-View Clustering in a Cloud Environment**|Cheng Guo et.al.|[2505.15156](http://arxiv.org/abs/2505.15156)|null|
+|**2025-05-21**|**A Survey On Secure Machine Learning**|Taobo Liao et.al.|[2505.15124](http://arxiv.org/abs/2505.15124)|null|
+|**2025-05-20**|**Privacy Preserving Conversion Modeling in Data Clean Room**|Kungang Li et.al.|[2505.14959](http://arxiv.org/abs/2505.14959)|null|
+|**2025-05-20**|**Efficient Privacy-Preserving Cross-Silo Federated Learning with Multi-Key Homomorphic Encryption**|Abdullah Al Omar et.al.|[2505.14797](http://arxiv.org/abs/2505.14797)|null|
 |**2025-05-20**|**Can Large Language Models Really Recognize Your Name?**|Dzung Pham et.al.|[2505.14549](http://arxiv.org/abs/2505.14549)|null|
 |**2025-05-20**|**Federated prediction for scalable and privacy-preserved knowledge-based planning in radiotherapy**|Jingyun Chen et.al.|[2505.14507](http://arxiv.org/abs/2505.14507)|null|
 |**2025-05-20**|**Federated learning in low-resource settings: A chest imaging study in Africa -- Challenges and lessons learned**|Jorge Fabila et.al.|[2505.14217](http://arxiv.org/abs/2505.14217)|null|
