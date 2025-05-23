@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.22
+## Updated on 2025.05.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-21**|**An Empirical Analysis of Vulnerability Detection Tools for Solidity Smart Contracts Using Line Level Manually Annotated Vulnerabilities**|Francesco Salzano et.al.|[2505.15756](http://arxiv.org/abs/2505.15756)|null|
 |**2025-05-21**|**Federated Learning-Enhanced Blockchain Framework for Privacy-Preserving Intrusion Detection in Industrial IoT**|Anas Ali et.al.|[2505.15376](http://arxiv.org/abs/2505.15376)|null|
-|**2025-05-21**|**Adaptive Plan-Execute Framework for Smart Contract Security Auditing**|Zhiyuan Wei et.al.|[2505.15242](http://arxiv.org/abs/2505.15242)|null|
+|**2025-05-22**|**Adaptive Plan-Execute Framework for Smart Contract Security Auditing**|Zhiyuan Wei et.al.|[2505.15242](http://arxiv.org/abs/2505.15242)|null|
 |**2025-05-21**|**Dynamic Spectrum Sharing Based on the Rentable NFT Standard ERC4907**|Litao Ye et.al.|[2505.15148](http://arxiv.org/abs/2505.15148)|null|
 |**2025-05-21**|**An Empirical Analysis of EOS Blockchain: Architecture, Contract, and Security**|Haiyang Liu et.al.|[2505.15051](http://arxiv.org/abs/2505.15051)|null|
 |**2025-05-20**|**Building Reuse-Sensitive Control Flow Graphs (CFGs) for EVM Bytecode**|Dingding Wang et.al.|[2505.14437](http://arxiv.org/abs/2505.14437)|null|
