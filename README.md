@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**LLM-BSCVM: An LLM-Based Blockchain Smart Contract Vulnerability Management Framework**|Yanli Jin et.al.|[2505.17416](http://arxiv.org/abs/2505.17416)|null|
+|**2025-05-22**|**LogStamping: A blockchain-based log auditing approach for large-scale systems**|Md Shariful Islam et.al.|[2505.17236](http://arxiv.org/abs/2505.17236)|null|
 |**2025-05-21**|**An Empirical Analysis of Vulnerability Detection Tools for Solidity Smart Contracts Using Line Level Manually Annotated Vulnerabilities**|Francesco Salzano et.al.|[2505.15756](http://arxiv.org/abs/2505.15756)|null|
 |**2025-05-21**|**Federated Learning-Enhanced Blockchain Framework for Privacy-Preserving Intrusion Detection in Industrial IoT**|Anas Ali et.al.|[2505.15376](http://arxiv.org/abs/2505.15376)|null|
 |**2025-05-22**|**Adaptive Plan-Execute Framework for Smart Contract Security Auditing**|Zhiyuan Wei et.al.|[2505.15242](http://arxiv.org/abs/2505.15242)|null|
@@ -891,6 +893,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**ADLGen: Synthesizing Symbolic, Event-Triggered Sensor Sequences for Human Activity Modeling**|Weihang You et.al.|[2505.17987](http://arxiv.org/abs/2505.17987)|null|
+|**2025-05-23**|**Federated Causal Inference from Multi-Site Observational Data via Propensity Score Aggregation**|Khellaf Rémi et.al.|[2505.17961](http://arxiv.org/abs/2505.17961)|null|
+|**2025-05-23**|**Large language model as user daily behavior data generator: balancing population diversity and individual personality**|Haoxin Li et.al.|[2505.17615](http://arxiv.org/abs/2505.17615)|null|
+|**2025-05-22**|**Secure and Private Federated Learning: Achieving Adversarial Resilience through Robust Aggregation**|Kun Yang et.al.|[2505.17226](http://arxiv.org/abs/2505.17226)|null|
 |**2025-05-22**|**Redefining Clustered Federated Learning for System Identification: The Path of ClusterCraft**|Ertuğrul Keçeci et.al.|[2505.16857](http://arxiv.org/abs/2505.16857)|null|
 |**2025-05-22**|**ATR-Bench: A Federated Learning Benchmark for Adaptation, Trust, and Reasoning**|Tajamul Ashraf et.al.|[2505.16850](http://arxiv.org/abs/2505.16850)|null|
 |**2025-05-22**|**Data-Driven Breakthroughs and Future Directions in AI Infrastructure: A Comprehensive Review**|Beyazit Bestami Yuksel et.al.|[2505.16771](http://arxiv.org/abs/2505.16771)|null|
