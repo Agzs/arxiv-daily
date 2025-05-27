@@ -7,13 +7,18 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-25**|**Grassroots Consensus**|Idit Keidar et.al.|[2505.19216](http://arxiv.org/abs/2505.19216)|null|
+|**2025-05-25**|**An Initial Exploration of Fine-tuning Small Language Models for Smart Contract Reentrancy Vulnerability Detection**|Ignacio Mariano Andreozzi Pofcher et.al.|[2505.19059](http://arxiv.org/abs/2505.19059)|null|
+|**2025-05-25**|**A Systematic Classification of Vulnerabilities in MoveEVM Smart Contracts (MWC)**|Selçuk Topal et.al.|[2505.19047](http://arxiv.org/abs/2505.19047)|null|
+|**2025-05-25**|**A quantitative notion of economic security for smart contract compositions**|Emily Priyadarshini et.al.|[2505.19006](http://arxiv.org/abs/2505.19006)|null|
+|**2025-05-24**|**A Study of Semi-Fungible Token based Wi-Fi Access Control**|Litao Ye et.al.|[2505.18518](http://arxiv.org/abs/2505.18518)|null|
 |**2025-05-23**|**LLM-BSCVM: An LLM-Based Blockchain Smart Contract Vulnerability Management Framework**|Yanli Jin et.al.|[2505.17416](http://arxiv.org/abs/2505.17416)|null|
 |**2025-05-22**|**LogStamping: A blockchain-based log auditing approach for large-scale systems**|Md Shariful Islam et.al.|[2505.17236](http://arxiv.org/abs/2505.17236)|null|
 |**2025-05-21**|**An Empirical Analysis of Vulnerability Detection Tools for Solidity Smart Contracts Using Line Level Manually Annotated Vulnerabilities**|Francesco Salzano et.al.|[2505.15756](http://arxiv.org/abs/2505.15756)|null|
@@ -720,6 +725,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Engineering Trustworthy Machine-Learning Operations with Zero-Knowledge Proofs**|Filippo Scaramuzza et.al.|[2505.20136](http://arxiv.org/abs/2505.20136)|null|
+|**2025-05-25**|**A Novel Zero-Trust Identity Framework for Agentic AI: Decentralized Authentication and Fine-Grained Access Control**|Ken Huang et.al.|[2505.19301](http://arxiv.org/abs/2505.19301)|null|
 |**2025-05-21**|**Integer Reasoning Modulo Different Constants in SMT**|Elizaveta Pertseva et.al.|[2505.14998](http://arxiv.org/abs/2505.14998)|null|
 |**2025-05-20**|**Zk-SNARK for String Match**|Taoran Li et.al.|[2505.13964](http://arxiv.org/abs/2505.13964)|**[link](https://github.com/taobol2/CS407_Project)**|
 |**2025-05-17**|**Proof-of-Social-Capital: Privacy-Preserving Consensus Protocol Replacing Stake for Social Capital**|Juraj Mariani et.al.|[2505.12144](http://arxiv.org/abs/2505.12144)|null|
@@ -881,6 +888,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Ontology- and LLM-based Data Harmonization for Federated Learning in Healthcare**|Natallia Kokash et.al.|[2505.20020](http://arxiv.org/abs/2505.20020)|null|
+|**2025-05-26**|**Generalized and Personalized Federated Learning with Foundation Models via Orthogonal Transformations**|Eun Gyung Kong et.al.|[2505.19888](http://arxiv.org/abs/2505.19888)|null|
+|**2025-05-26**|**LAPA-based Dynamic Privacy Optimization for Wireless Federated Learning in Heterogeneous Environments**|Pengcheng Sun et.al.|[2505.19823](http://arxiv.org/abs/2505.19823)|null|
+|**2025-05-26**|**Mosaic: Data-Free Knowledge Distillation via Mixture-of-Experts for Heterogeneous Distributed Environments**|Junming Liu et.al.|[2505.19699](http://arxiv.org/abs/2505.19699)|null|
+|**2025-05-26**|**Kuramoto-FedAvg: Using Synchronization Dynamics to Improve Federated Learning Optimization under Statistical Heterogeneity**|Aggrey Muhebwa et.al.|[2505.19605](http://arxiv.org/abs/2505.19605)|null|
+|**2025-05-26**|**Model Agnostic Differentially Private Causal Inference**|Christiant Lebeda et.al.|[2505.19589](http://arxiv.org/abs/2505.19589)|null|
+|**2025-05-26**|**Exploring the Possibility of TypiClust for Low-Budget Federated Active Learning**|Yuta Ono et.al.|[2505.19404](http://arxiv.org/abs/2505.19404)|null|
+|**2025-05-25**|**A Novel Zero-Trust Identity Framework for Agentic AI: Decentralized Authentication and Fine-Grained Access Control**|Ken Huang et.al.|[2505.19301](http://arxiv.org/abs/2505.19301)|null|
+|**2025-05-25**|**Cellular Traffic Prediction via Byzantine-robust Asynchronous Federated Learning**|Hui Ma et.al.|[2505.19263](http://arxiv.org/abs/2505.19263)|null|
+|**2025-05-25**|**FedORA: Resource Allocation for Federated Learning in ORAN using Radio Intelligent Controllers**|Abdelaziz Salama et.al.|[2505.19211](http://arxiv.org/abs/2505.19211)|null|
 |**2025-05-23**|**ADLGen: Synthesizing Symbolic, Event-Triggered Sensor Sequences for Human Activity Modeling**|Weihang You et.al.|[2505.17987](http://arxiv.org/abs/2505.17987)|null|
 |**2025-05-23**|**Federated Causal Inference from Multi-Site Observational Data via Propensity Score Aggregation**|Khellaf Rémi et.al.|[2505.17961](http://arxiv.org/abs/2505.17961)|null|
 |**2025-05-23**|**Large language model as user daily behavior data generator: balancing population diversity and individual personality**|Haoxin Li et.al.|[2505.17615](http://arxiv.org/abs/2505.17615)|null|
