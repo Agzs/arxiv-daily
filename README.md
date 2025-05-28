@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Thread and Memory-Safe Programming with CLASS**|Luís Caires et.al.|[2505.20848](http://arxiv.org/abs/2505.20848)|null|
 |**2025-05-27**|**Grassroots Consensus**|Idit Keidar et.al.|[2505.19216](http://arxiv.org/abs/2505.19216)|null|
 |**2025-05-25**|**An Initial Exploration of Fine-tuning Small Language Models for Smart Contract Reentrancy Vulnerability Detection**|Ignacio Mariano Andreozzi Pofcher et.al.|[2505.19059](http://arxiv.org/abs/2505.19059)|null|
 |**2025-05-25**|**A Systematic Classification of Vulnerabilities in MoveEVM Smart Contracts (MWC)**|Selçuk Topal et.al.|[2505.19047](http://arxiv.org/abs/2505.19047)|null|
@@ -900,6 +901,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**DeCAF: Decentralized Consensus-And-Factorization for Low-Rank Adaptation of Foundation Models**|Nastaran Saadati et.al.|[2505.21382](http://arxiv.org/abs/2505.21382)|null|
+|**2025-05-27**|**Addressing Data Quality Decompensation in Federated Learning via Dynamic Client Selection**|Qinjun Fei et.al.|[2505.21219](http://arxiv.org/abs/2505.21219)|null|
+|**2025-05-27**|**SHE-LoRA: Selective Homomorphic Encryption for Federated Tuning with Heterogeneous LoRA**|Jianmin Liu et.al.|[2505.21051](http://arxiv.org/abs/2505.21051)|null|
+|**2025-05-27**|**Federated Instrumental Variable Analysis via Federated Generalized Method of Moments**|Geetika et.al.|[2505.21012](http://arxiv.org/abs/2505.21012)|null|
+|**2025-05-27**|**Unified Alignment Protocol: Making Sense of the Unlabeled Data in New Domains**|Sabbir Ahmed et.al.|[2505.21010](http://arxiv.org/abs/2505.21010)|null|
+|**2025-05-27**|**A Hitchhiker's Guide to Privacy-Preserving Cryptocurrencies: A Survey on Anonymity, Confidentiality, and Auditability**|Matteo Nardelli et.al.|[2505.21008](http://arxiv.org/abs/2505.21008)|null|
+|**2025-05-27**|**Assessing the Use of Face Swapping Methods as Face Anonymizers in Videos**|Mustafa İzzet Muştu et.al.|[2505.20985](http://arxiv.org/abs/2505.20985)|null|
+|**2025-05-27**|**Label Leakage in Federated Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2505.20924](http://arxiv.org/abs/2505.20924)|null|
+|**2025-05-27**|**Voronoi-grid-based Pareto Front Learning and Its Application to Collaborative Federated Learning**|Mengmeng Chen et.al.|[2505.20648](http://arxiv.org/abs/2505.20648)|null|
+|**2025-05-26**|**Privacy-Preserving Peer-to-Peer Energy Trading via Hybrid Secure Computations**|Junhong Liu et.al.|[2505.20577](http://arxiv.org/abs/2505.20577)|null|
 |**2025-05-26**|**Ontology- and LLM-based Data Harmonization for Federated Learning in Healthcare**|Natallia Kokash et.al.|[2505.20020](http://arxiv.org/abs/2505.20020)|null|
 |**2025-05-27**|**Generalized and Personalized Federated Learning with Foundation Models via Orthogonal Transformations**|Eun Gyung Kong et.al.|[2505.19888](http://arxiv.org/abs/2505.19888)|null|
 |**2025-05-26**|**LAPA-based Dynamic Privacy Optimization for Wireless Federated Learning in Heterogeneous Environments**|Pengcheng Sun et.al.|[2505.19823](http://arxiv.org/abs/2505.19823)|null|
