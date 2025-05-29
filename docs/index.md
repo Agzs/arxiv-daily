@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Smart Contracts for SMEs and Large Companies**|C. G. Liu et.al.|[2505.22619](http://arxiv.org/abs/2505.22619)|null|
+|**2025-05-28**|**BPMN to Smart Contract by Business Analyst**|C. G. Liu et.al.|[2505.22612](http://arxiv.org/abs/2505.22612)|null|
 |**2025-05-27**|**Thread and Memory-Safe Programming with CLASS**|Luís Caires et.al.|[2505.20848](http://arxiv.org/abs/2505.20848)|null|
 |**2025-05-27**|**Grassroots Consensus**|Idit Keidar et.al.|[2505.19216](http://arxiv.org/abs/2505.19216)|null|
 |**2025-05-25**|**An Initial Exploration of Fine-tuning Small Language Models for Smart Contract Reentrancy Vulnerability Detection**|Ignacio Mariano Andreozzi Pofcher et.al.|[2505.19059](http://arxiv.org/abs/2505.19059)|null|
@@ -889,6 +891,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**DES-LOC: Desynced Low Communication Adaptive Optimizers for Training Foundation Models**|Alex Iacob et.al.|[2505.22549](http://arxiv.org/abs/2505.22549)|null|
+|**2025-05-28**|**PathFL: Multi-Alignment Federated Learning for Pathology Image Segmentation**|Yuan Zhang et.al.|[2505.22522](http://arxiv.org/abs/2505.22522)|null|
+|**2025-05-28**|**Privacy-preserving Prompt Personalization in Federated Learning for Multimodal Large Language Models**|Sizai Hou et.al.|[2505.22447](http://arxiv.org/abs/2505.22447)|null|
+|**2025-05-28**|**Inclusive, Differentially Private Federated Learning for Clinical Data**|Santhosh Parampottupadam et.al.|[2505.22108](http://arxiv.org/abs/2505.22108)|null|
+|**2025-05-28**|**Hybrid Batch Normalisation: Resolving the Dilemma of Batch Normalisation in Federated Learning**|Hongyao Chen et.al.|[2505.21877](http://arxiv.org/abs/2505.21877)|null|
+|**2025-05-28**|**CSI-Bench: A Large-Scale In-the-Wild Dataset for Multi-task WiFi Sensing**|Guozhen Zhu et.al.|[2505.21866](http://arxiv.org/abs/2505.21866)|null|
+|**2025-05-27**|**Query, Don't Train: Privacy-Preserving Tabular Prediction from EHR Data via SQL Queries**|Josefa Lia Stoisser et.al.|[2505.21801](http://arxiv.org/abs/2505.21801)|null|
+|**2025-05-27**|**Multimodal Federated Learning: A Survey through the Lens of Different FL Paradigms**|Yuanzhe Peng et.al.|[2505.21792](http://arxiv.org/abs/2505.21792)|null|
+|**2025-05-27**|**FedCostAware: Enabling Cost-Aware Federated Learning on the Cloud**|Aditya Sinha et.al.|[2505.21727](http://arxiv.org/abs/2505.21727)|null|
+|**2025-05-27**|**Privacy-Preserving Chest X-ray Report Generation via Multimodal Federated Learning with ViT and GPT-2**|Md. Zahid Hossain et.al.|[2505.21715](http://arxiv.org/abs/2505.21715)|null|
 |**2025-05-27**|**DeCAF: Decentralized Consensus-And-Factorization for Low-Rank Adaptation of Foundation Models**|Nastaran Saadati et.al.|[2505.21382](http://arxiv.org/abs/2505.21382)|null|
 |**2025-05-27**|**Addressing Data Quality Decompensation in Federated Learning via Dynamic Client Selection**|Qinjun Fei et.al.|[2505.21219](http://arxiv.org/abs/2505.21219)|null|
 |**2025-05-27**|**SHE-LoRA: Selective Homomorphic Encryption for Federated Tuning with Heterogeneous LoRA**|Jianmin Liu et.al.|[2505.21051](http://arxiv.org/abs/2505.21051)|null|
