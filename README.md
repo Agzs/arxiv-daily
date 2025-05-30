@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**A Smart-Contract to Resolve Multiple Equilibrium in Intermediated Trade**|Daniel Aronoff et.al.|[2505.22940](http://arxiv.org/abs/2505.22940)|null|
 |**2025-05-28**|**Smart Contracts for SMEs and Large Companies**|C. G. Liu et.al.|[2505.22619](http://arxiv.org/abs/2505.22619)|null|
 |**2025-05-28**|**BPMN to Smart Contract by Business Analyst**|C. G. Liu et.al.|[2505.22612](http://arxiv.org/abs/2505.22612)|null|
 |**2025-05-27**|**Thread and Memory-Safe Programming with CLASS**|Luís Caires et.al.|[2505.20848](http://arxiv.org/abs/2505.20848)|null|
@@ -903,6 +904,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Distributed Federated Learning for Vehicular Network Security: Anomaly Detection Benefits and Multi-Domain Attack Threats**|Utku Demir et.al.|[2505.23706](http://arxiv.org/abs/2505.23706)|null|
+|**2025-05-29**|**Differentially Private Space-Efficient Algorithms for Counting Distinct Elements in the Turnstile Model**|Rachel Cummings et.al.|[2505.23682](http://arxiv.org/abs/2505.23682)|null|
+|**2025-05-29**|**Keyed Chaotic Tensor Transformations for Secure And Attributable Neural Inference**|Peter David Fagan et.al.|[2505.23655](http://arxiv.org/abs/2505.23655)|null|
+|**2025-05-29**|**Position: Federated Foundation Language Model Post-Training Should Focus on Open-Source Models**|Nikita Agrawal et.al.|[2505.23593](http://arxiv.org/abs/2505.23593)|null|
+|**2025-05-29**|**Accelerated Training of Federated Learning via Second-Order Methods**|Mrinmay Sen et.al.|[2505.23588](http://arxiv.org/abs/2505.23588)|null|
+|**2025-05-29**|**On Global Convergence Rates for Federated Policy Gradient under Heterogeneous Environment**|Safwan Labbi et.al.|[2505.23459](http://arxiv.org/abs/2505.23459)|null|
+|**2025-05-29**|**Buffer-free Class-Incremental Learning with Out-of-Distribution Detection**|Srishti Gupta et.al.|[2505.23412](http://arxiv.org/abs/2505.23412)|null|
+|**2025-05-29**|**Federated Unsupervised Semantic Segmentation**|Evangelos Charalampakis et.al.|[2505.23292](http://arxiv.org/abs/2505.23292)|null|
+|**2025-05-29**|**Measuring Participant Contributions in Decentralized Federated Learning**|Honoka Anada et.al.|[2505.23246](http://arxiv.org/abs/2505.23246)|null|
+|**2025-05-29**|**FSL-SAGE: Accelerating Federated Split Learning via Smashed Activation Gradient Estimation**|Srijith Nair et.al.|[2505.23182](http://arxiv.org/abs/2505.23182)|null|
 |**2025-05-28**|**DES-LOC: Desynced Low Communication Adaptive Optimizers for Training Foundation Models**|Alex Iacob et.al.|[2505.22549](http://arxiv.org/abs/2505.22549)|null|
 |**2025-05-28**|**PathFL: Multi-Alignment Federated Learning for Pathology Image Segmentation**|Yuan Zhang et.al.|[2505.22522](http://arxiv.org/abs/2505.22522)|null|
 |**2025-05-28**|**Privacy-preserving Prompt Personalization in Federated Learning for Multimodal Large Language Models**|Sizai Hou et.al.|[2505.22447](http://arxiv.org/abs/2505.22447)|null|
