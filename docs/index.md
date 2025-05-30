@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.29
+## Updated on 2025.05.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -729,7 +729,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-26**|**Engineering Trustworthy Machine-Learning Operations with Zero-Knowledge Proofs**|Filippo Scaramuzza et.al.|[2505.20136](http://arxiv.org/abs/2505.20136)|null|
-|**2025-05-25**|**A Novel Zero-Trust Identity Framework for Agentic AI: Decentralized Authentication and Fine-Grained Access Control**|Ken Huang et.al.|[2505.19301](http://arxiv.org/abs/2505.19301)|null|
+|**2025-05-28**|**A Novel Zero-Trust Identity Framework for Agentic AI: Decentralized Authentication and Fine-Grained Access Control**|Ken Huang et.al.|[2505.19301](http://arxiv.org/abs/2505.19301)|null|
 |**2025-05-21**|**Integer Reasoning Modulo Different Constants in SMT**|Elizaveta Pertseva et.al.|[2505.14998](http://arxiv.org/abs/2505.14998)|null|
 |**2025-05-20**|**Zk-SNARK for String Match**|Taoran Li et.al.|[2505.13964](http://arxiv.org/abs/2505.13964)|**[link](https://github.com/taobol2/CS407_Project)**|
 |**2025-05-17**|**Proof-of-Social-Capital: Privacy-Preserving Consensus Protocol Replacing Stake for Social Capital**|Juraj Mariani et.al.|[2505.12144](http://arxiv.org/abs/2505.12144)|null|
@@ -897,7 +897,7 @@ layout: default
 |**2025-05-28**|**Inclusive, Differentially Private Federated Learning for Clinical Data**|Santhosh Parampottupadam et.al.|[2505.22108](http://arxiv.org/abs/2505.22108)|null|
 |**2025-05-28**|**Hybrid Batch Normalisation: Resolving the Dilemma of Batch Normalisation in Federated Learning**|Hongyao Chen et.al.|[2505.21877](http://arxiv.org/abs/2505.21877)|null|
 |**2025-05-28**|**CSI-Bench: A Large-Scale In-the-Wild Dataset for Multi-task WiFi Sensing**|Guozhen Zhu et.al.|[2505.21866](http://arxiv.org/abs/2505.21866)|null|
-|**2025-05-27**|**Query, Don't Train: Privacy-Preserving Tabular Prediction from EHR Data via SQL Queries**|Josefa Lia Stoisser et.al.|[2505.21801](http://arxiv.org/abs/2505.21801)|null|
+|**2025-05-29**|**Query, Don't Train: Privacy-Preserving Tabular Prediction from EHR Data via SQL Queries**|Josefa Lia Stoisser et.al.|[2505.21801](http://arxiv.org/abs/2505.21801)|null|
 |**2025-05-27**|**Multimodal Federated Learning: A Survey through the Lens of Different FL Paradigms**|Yuanzhe Peng et.al.|[2505.21792](http://arxiv.org/abs/2505.21792)|null|
 |**2025-05-27**|**FedCostAware: Enabling Cost-Aware Federated Learning on the Cloud**|Aditya Sinha et.al.|[2505.21727](http://arxiv.org/abs/2505.21727)|null|
 |**2025-05-27**|**Privacy-Preserving Chest X-ray Report Generation via Multimodal Federated Learning with ViT and GPT-2**|Md. Zahid Hossain et.al.|[2505.21715](http://arxiv.org/abs/2505.21715)|null|
