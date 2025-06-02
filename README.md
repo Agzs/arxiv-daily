@@ -768,7 +768,7 @@
 |**2025-02-11**|**Distributed Non-Interactive Zero-Knowledge Proofs**|Alex B. Grilo et.al.|[2502.07594](http://arxiv.org/abs/2502.07594)|null|
 |**2025-02-14**|**Zero-Knowledge Proof Frameworks: A Systematic Survey**|Nojan Sheybani et.al.|[2502.07063](http://arxiv.org/abs/2502.07063)|**[link](https://github.com/aceslabucsd/zeroknowledgeframeworkssurvey)**|
 |**2025-02-10**|**Generating Privacy-Preserving Personalized Advice with Zero-Knowledge Proofs and LLMs**|Hiroki Watanabe et.al.|[2502.06425](http://arxiv.org/abs/2502.06425)|null|
-|**2025-02-06**|**ExpProof : Operationalizing Explanations for Confidential Models with ZKPs**|Chhavi Yadav et.al.|[2502.03773](http://arxiv.org/abs/2502.03773)|null|
+|**2025-02-06**|**ExpProof : Operationalizing Explanations for Confidential Models with ZKPs**|Chhavi Yadav et.al.|[2502.03773](http://arxiv.org/abs/2502.03773)|**[link](https://github.com/emlaufer/expproof)**|
 |**2025-02-07**|**Robust and Secure Code Watermarking for Large Language Models via ML/Crypto Codesign**|Ruisi Zhang et.al.|[2502.02068](http://arxiv.org/abs/2502.02068)|null|
 |**2025-01-30**|**Gotta Hash 'Em All! Speeding Up Hash Functions for Zero-Knowledge Proof Applications**|Nojan Sheybani et.al.|[2501.18780](http://arxiv.org/abs/2501.18780)|null|
 |**2025-02-04**|**AuthOr: Lower Cost Authenticity-Oriented Garbling for Arbitrary Boolean Circuits**|Osman Biçer et.al.|[2501.18387](http://arxiv.org/abs/2501.18387)|null|
@@ -918,7 +918,7 @@
 |**2025-05-28**|**PathFL: Multi-Alignment Federated Learning for Pathology Image Segmentation**|Yuan Zhang et.al.|[2505.22522](http://arxiv.org/abs/2505.22522)|null|
 |**2025-05-28**|**Privacy-preserving Prompt Personalization in Federated Learning for Multimodal Large Language Models**|Sizai Hou et.al.|[2505.22447](http://arxiv.org/abs/2505.22447)|null|
 |**2025-05-28**|**Inclusive, Differentially Private Federated Learning for Clinical Data**|Santhosh Parampottupadam et.al.|[2505.22108](http://arxiv.org/abs/2505.22108)|null|
-|**2025-05-28**|**Hybrid Batch Normalisation: Resolving the Dilemma of Batch Normalisation in Federated Learning**|Hongyao Chen et.al.|[2505.21877](http://arxiv.org/abs/2505.21877)|null|
+|**2025-05-28**|**Hybrid Batch Normalisation: Resolving the Dilemma of Batch Normalisation in Federated Learning**|Hongyao Chen et.al.|[2505.21877](http://arxiv.org/abs/2505.21877)|**[link](https://github.com/Hongyao-Chen/HybridBN)**|
 |**2025-05-28**|**CSI-Bench: A Large-Scale In-the-Wild Dataset for Multi-task WiFi Sensing**|Guozhen Zhu et.al.|[2505.21866](http://arxiv.org/abs/2505.21866)|null|
 |**2025-05-29**|**Query, Don't Train: Privacy-Preserving Tabular Prediction from EHR Data via SQL Queries**|Josefa Lia Stoisser et.al.|[2505.21801](http://arxiv.org/abs/2505.21801)|null|
 |**2025-05-27**|**Multimodal Federated Learning: A Survey through the Lens of Different FL Paradigms**|Yuanzhe Peng et.al.|[2505.21792](http://arxiv.org/abs/2505.21792)|null|
@@ -931,7 +931,7 @@
 |**2025-05-27**|**Unified Alignment Protocol: Making Sense of the Unlabeled Data in New Domains**|Sabbir Ahmed et.al.|[2505.21010](http://arxiv.org/abs/2505.21010)|null|
 |**2025-05-27**|**A Hitchhiker's Guide to Privacy-Preserving Cryptocurrencies: A Survey on Anonymity, Confidentiality, and Auditability**|Matteo Nardelli et.al.|[2505.21008](http://arxiv.org/abs/2505.21008)|null|
 |**2025-05-27**|**Assessing the Use of Face Swapping Methods as Face Anonymizers in Videos**|Mustafa İzzet Muştu et.al.|[2505.20985](http://arxiv.org/abs/2505.20985)|null|
-|**2025-05-27**|**Label Leakage in Federated Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2505.20924](http://arxiv.org/abs/2505.20924)|null|
+|**2025-05-27**|**Label Leakage in Federated Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2505.20924](http://arxiv.org/abs/2505.20924)|**[link](https://github.com/mariusbock/leakage_har)**|
 |**2025-05-27**|**Voronoi-grid-based Pareto Front Learning and Its Application to Collaborative Federated Learning**|Mengmeng Chen et.al.|[2505.20648](http://arxiv.org/abs/2505.20648)|null|
 |**2025-05-26**|**Privacy-Preserving Peer-to-Peer Energy Trading via Hybrid Secure Computations**|Junhong Liu et.al.|[2505.20577](http://arxiv.org/abs/2505.20577)|null|
 |**2025-05-26**|**Ontology- and LLM-based Data Harmonization for Federated Learning in Healthcare**|Natallia Kokash et.al.|[2505.20020](http://arxiv.org/abs/2505.20020)|null|
@@ -942,14 +942,14 @@
 |**2025-05-27**|**Model Agnostic Differentially Private Causal Inference**|Christian Lebeda et.al.|[2505.19589](http://arxiv.org/abs/2505.19589)|null|
 |**2025-05-26**|**Exploring the Possibility of TypiClust for Low-Budget Federated Active Learning**|Yuta Ono et.al.|[2505.19404](http://arxiv.org/abs/2505.19404)|null|
 |**2025-05-25**|**A Novel Zero-Trust Identity Framework for Agentic AI: Decentralized Authentication and Fine-Grained Access Control**|Ken Huang et.al.|[2505.19301](http://arxiv.org/abs/2505.19301)|null|
-|**2025-05-25**|**Cellular Traffic Prediction via Byzantine-robust Asynchronous Federated Learning**|Hui Ma et.al.|[2505.19263](http://arxiv.org/abs/2505.19263)|null|
+|**2025-05-25**|**Cellular Traffic Prediction via Byzantine-robust Asynchronous Federated Learning**|Hui Ma et.al.|[2505.19263](http://arxiv.org/abs/2505.19263)|**[link](https://github.com/maggiemh/bafdp)**|
 |**2025-05-25**|**FedORA: Resource Allocation for Federated Learning in ORAN using Radio Intelligent Controllers**|Abdelaziz Salama et.al.|[2505.19211](http://arxiv.org/abs/2505.19211)|null|
 |**2025-05-23**|**ADLGen: Synthesizing Symbolic, Event-Triggered Sensor Sequences for Human Activity Modeling**|Weihang You et.al.|[2505.17987](http://arxiv.org/abs/2505.17987)|null|
 |**2025-05-23**|**Federated Causal Inference from Multi-Site Observational Data via Propensity Score Aggregation**|Khellaf Rémi et.al.|[2505.17961](http://arxiv.org/abs/2505.17961)|null|
 |**2025-05-23**|**Large language model as user daily behavior data generator: balancing population diversity and individual personality**|Haoxin Li et.al.|[2505.17615](http://arxiv.org/abs/2505.17615)|null|
 |**2025-05-22**|**Secure and Private Federated Learning: Achieving Adversarial Resilience through Robust Aggregation**|Kun Yang et.al.|[2505.17226](http://arxiv.org/abs/2505.17226)|null|
 |**2025-05-22**|**Redefining Clustered Federated Learning for System Identification: The Path of ClusterCraft**|Ertuğrul Keçeci et.al.|[2505.16857](http://arxiv.org/abs/2505.16857)|null|
-|**2025-05-22**|**ATR-Bench: A Federated Learning Benchmark for Adaptation, Trust, and Reasoning**|Tajamul Ashraf et.al.|[2505.16850](http://arxiv.org/abs/2505.16850)|null|
+|**2025-05-22**|**ATR-Bench: A Federated Learning Benchmark for Adaptation, Trust, and Reasoning**|Tajamul Ashraf et.al.|[2505.16850](http://arxiv.org/abs/2505.16850)|**[link](https://github.com/tajamul21/atr-bench)**|
 |**2025-05-22**|**Data-Driven Breakthroughs and Future Directions in AI Infrastructure: A Comprehensive Review**|Beyazit Bestami Yuksel et.al.|[2505.16771](http://arxiv.org/abs/2505.16771)|null|
 |**2025-05-22**|**WikiDBGraph: Large-Scale Database Graph of Wikidata for Collaborative Learning**|Zhaomin Wu et.al.|[2505.16635](http://arxiv.org/abs/2505.16635)|null|
 |**2025-05-22**|**From Local Patterns to Global Understanding: Cross-Stock Trend Integration for Enhanced Predictive Modeling**|Yi Hu et.al.|[2505.16573](http://arxiv.org/abs/2505.16573)|null|
