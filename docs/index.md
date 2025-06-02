@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Talking Transactions: Decentralized Communication through Ethereum Input Data Messages (IDMs)**|Xihan Xiong et.al.|[2505.24724](http://arxiv.org/abs/2505.24724)|null|
+|**2025-05-30**|**Supporting Long-term Transactions in Smart Contracts Generated from Business Process Model and Notation (BPMN) Models**|Christian Gang Liu et.al.|[2505.24309](http://arxiv.org/abs/2505.24309)|null|
 |**2025-05-28**|**A Smart-Contract to Resolve Multiple Equilibrium in Intermediated Trade**|Daniel Aronoff et.al.|[2505.22940](http://arxiv.org/abs/2505.22940)|null|
 |**2025-05-28**|**Smart Contracts for SMEs and Large Companies**|C. G. Liu et.al.|[2505.22619](http://arxiv.org/abs/2505.22619)|null|
 |**2025-05-28**|**BPMN to Smart Contract by Business Analyst**|C. G. Liu et.al.|[2505.22612](http://arxiv.org/abs/2505.22612)|null|
@@ -647,6 +649,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Singularity Protocol for Cross Chain AMM without Intermediate Tokens or Bridges**|Sumit Vohra et.al.|[2505.24337](http://arxiv.org/abs/2505.24337)|null|
+|**2025-05-30**|**Supporting Long-term Transactions in Smart Contracts Generated from Business Process Model and Notation (BPMN) Models**|Christian Gang Liu et.al.|[2505.24309](http://arxiv.org/abs/2505.24309)|null|
 |**2025-05-14**|**FLUXLAYER: High-Performance Design for Cross-chain Fragmented Liquidity**|Xin Lao et.al.|[2505.09423](http://arxiv.org/abs/2505.09423)|null|
 |**2025-05-08**|**Enhancing Blockchain Cross Chain Interoperability: A Comprehensive Survey**|Zhihong Deng et.al.|[2505.04934](http://arxiv.org/abs/2505.04934)|null|
 |**2025-04-28**|**SoK: A Survey of Mixing Techniques and Mixers for Cryptocurrencies**|Juraj Mariani et.al.|[2504.20296](http://arxiv.org/abs/2504.20296)|null|
@@ -729,6 +733,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Confidential Guardian: Cryptographically Prohibiting the Abuse of Model Abstention**|Stephan Rabanser et.al.|[2505.23968](http://arxiv.org/abs/2505.23968)|null|
 |**2025-05-26**|**Engineering Trustworthy Machine-Learning Operations with Zero-Knowledge Proofs**|Filippo Scaramuzza et.al.|[2505.20136](http://arxiv.org/abs/2505.20136)|null|
 |**2025-05-28**|**A Novel Zero-Trust Identity Framework for Agentic AI: Decentralized Authentication and Fine-Grained Access Control**|Ken Huang et.al.|[2505.19301](http://arxiv.org/abs/2505.19301)|null|
 |**2025-05-21**|**Integer Reasoning Modulo Different Constants in SMT**|Elizaveta Pertseva et.al.|[2505.14998](http://arxiv.org/abs/2505.14998)|null|
@@ -892,6 +897,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**ByzFL: Research Framework for Robust Federated Learning**|Marc González et.al.|[2505.24802](http://arxiv.org/abs/2505.24802)|null|
+|**2025-05-30**|**Robust Federated Learning against Model Perturbation in Edge Networks**|Dongzi Jin et.al.|[2505.24728](http://arxiv.org/abs/2505.24728)|null|
+|**2025-05-30**|**Next Generation Authentication for Data Spaces: An Authentication Flow Based On Grant Negotiation And Authorization Protocol For Verifiable Presentations (GNAP4VP)**|Rodrigo Menéndez et.al.|[2505.24698](http://arxiv.org/abs/2505.24698)|null|
+|**2025-05-30**|**The Gaussian Mixing Mechanism: Renyi Differential Privacy via Gaussian Sketches**|Omri Lev et.al.|[2505.24603](http://arxiv.org/abs/2505.24603)|null|
+|**2025-05-30**|**Verifiable Weighted Secret Sharing**|Kareem Shehata et.al.|[2505.24289](http://arxiv.org/abs/2505.24289)|null|
+|**2025-05-30**|**INSIGHT: A Survey of In-Network Systems for Intelligent, High-Efficiency AI and Topology Optimization**|Aleksandr Algazinov et.al.|[2505.24269](http://arxiv.org/abs/2505.24269)|null|
+|**2025-05-30**|**Towards Unified Modeling in Federated Multi-Task Learning via Subspace Decoupling**|Yipan Wei et.al.|[2505.24185](http://arxiv.org/abs/2505.24185)|null|
+|**2025-05-30**|**Federated Foundation Model for GI Endoscopy Images**|Alina Devkota et.al.|[2505.24108](http://arxiv.org/abs/2505.24108)|null|
+|**2025-05-29**|**Adaptive Deadline and Batch Layered Synchronized Federated Learning**|Asaf Goren et.al.|[2505.23973](http://arxiv.org/abs/2505.23973)|null|
 |**2025-05-29**|**Distributed Federated Learning for Vehicular Network Security: Anomaly Detection Benefits and Multi-Domain Attack Threats**|Utku Demir et.al.|[2505.23706](http://arxiv.org/abs/2505.23706)|null|
 |**2025-05-29**|**Differentially Private Space-Efficient Algorithms for Counting Distinct Elements in the Turnstile Model**|Rachel Cummings et.al.|[2505.23682](http://arxiv.org/abs/2505.23682)|null|
 |**2025-05-30**|**Keyed Chaotic Masking: A Functional Privacy Framework for Neural Inference**|Peter David Fagan et.al.|[2505.23655](http://arxiv.org/abs/2505.23655)|null|
