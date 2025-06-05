@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Solsmith: Solidity Random Program Generator for Compiler Testing**|Lantian Li et.al.|[2506.03909](http://arxiv.org/abs/2506.03909)|null|
+|**2025-06-04**|**Automated Mechanism to Support Trade Transactions in Smart Contracts with Upgrade and Repair**|Christian Gang Liu et.al.|[2506.03877](http://arxiv.org/abs/2506.03877)|null|
 |**2025-06-03**|**A Preference-Driven Methodology for High-Quality Solidity Code Generation**|Zhiyuan Peng et.al.|[2506.03006](http://arxiv.org/abs/2506.03006)|null|
 |**2025-06-03**|**Transforming Automatically BPMN Models to Smart Contracts with Nested Collaborative Transactions (TABS+)**|Christian Gang Liu et.al.|[2506.02727](http://arxiv.org/abs/2506.02727)|null|
 |**2025-06-03**|**Decentralized COVID-19 Health System Leveraging Blockchain**|Lingsheng Chen et.al.|[2506.02674](http://arxiv.org/abs/2506.02674)|null|
@@ -905,6 +907,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Model Splitting Enhanced Communication-Efficient Federated Learning for CSI Feedback**|Yanjie Dong et.al.|[2506.04113](http://arxiv.org/abs/2506.04113)|null|
+|**2025-06-04**|**Optimal Transport-based Domain Alignment as a Preprocessing Step for Federated Learning**|Luiz Manella Pereira et.al.|[2506.04071](http://arxiv.org/abs/2506.04071)|null|
+|**2025-06-04**|**HtFLlib: A Comprehensive Heterogeneous Federated Learning Library and Benchmark**|Jianqing Zhang et.al.|[2506.03954](http://arxiv.org/abs/2506.03954)|null|
+|**2025-06-04**|**Evaluating Apple Intelligence's Writing Tools for Privacy Against Large Language Model-Based Inference Attacks: Insights from Early Datasets**|Mohd. Farhan Israk Soumik et.al.|[2506.03870](http://arxiv.org/abs/2506.03870)|null|
+|**2025-06-04**|**FedFACT: A Provable Framework for Controllable Group-Fairness Calibration in Federated Learning**|Li Zhang et.al.|[2506.03777](http://arxiv.org/abs/2506.03777)|null|
+|**2025-06-04**|**GCFL: A Gradient Correction-based Federated Learning Framework for Privacy-preserving CPSS**|Jiayi Wan et.al.|[2506.03618](http://arxiv.org/abs/2506.03618)|null|
+|**2025-06-03**|**Mitigating Non-IID Drift in Zeroth-Order Federated LLM Fine-Tuning with Transferable Sparsity**|Yide Ran et.al.|[2506.03337](http://arxiv.org/abs/2506.03337)|null|
 |**2025-06-03**|**DPO Learning with LLMs-Judge Signal for Computer Use Agents**|Man Luo et.al.|[2506.03095](http://arxiv.org/abs/2506.03095)|null|
 |**2025-06-03**|**Computation- and Communication-Efficient Online FL for Resource-Constrained Aerial Vehicles**|Md-Ferdous Pervej et.al.|[2506.02972](http://arxiv.org/abs/2506.02972)|null|
 |**2025-06-04**|**PC-MoE: Memory-Efficient and Privacy-Preserving Collaborative Training for Mixture-of-Experts LLMs**|Ze Yu Zhang et.al.|[2506.02965](http://arxiv.org/abs/2506.02965)|null|
