@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -907,7 +907,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-03**|**DPO Learning with LLMs-Judge Signal for Computer Use Agents**|Man Luo et.al.|[2506.03095](http://arxiv.org/abs/2506.03095)|null|
 |**2025-06-03**|**Computation- and Communication-Efficient Online FL for Resource-Constrained Aerial Vehicles**|Md-Ferdous Pervej et.al.|[2506.02972](http://arxiv.org/abs/2506.02972)|null|
-|**2025-06-03**|**Memory-Efficient and Privacy-Preserving Collaborative Training for Mixture-of-Experts LLMs**|Ze Yu Zhang et.al.|[2506.02965](http://arxiv.org/abs/2506.02965)|null|
+|**2025-06-04**|**PC-MoE: Memory-Efficient and Privacy-Preserving Collaborative Training for Mixture-of-Experts LLMs**|Ze Yu Zhang et.al.|[2506.02965](http://arxiv.org/abs/2506.02965)|null|
 |**2025-06-03**|**FORLA:Federated Object-centric Representation Learning with Slot Attention**|Guiqiu Liao et.al.|[2506.02964](http://arxiv.org/abs/2506.02964)|null|
 |**2025-06-03**|**FlowerTune: A Cross-Domain Benchmark for Federated Fine-Tuning of Large Language Models**|Yan Gao et.al.|[2506.02961](http://arxiv.org/abs/2506.02961)|null|
 |**2025-06-03**|**Memory-Efficient Split Federated Learning for LLM Fine-Tuning on Heterogeneous Mobile Devices**|Xiaopei Chen et.al.|[2506.02940](http://arxiv.org/abs/2506.02940)|null|
