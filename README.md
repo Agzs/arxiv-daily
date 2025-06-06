@@ -919,6 +919,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Big Bird: Privacy Budget Management for W3C's Privacy-Preserving Attribution API**|Pierre Tholoniat et.al.|[2506.05290](http://arxiv.org/abs/2506.05290)|null|
+|**2025-06-05**|**Federated Isolation Forest for Efficient Anomaly Detection on Edge IoT Systems**|Pavle Vasiljevic et.al.|[2506.05138](http://arxiv.org/abs/2506.05138)|null|
+|**2025-06-05**|**PixCell: A generative foundation model for digital histopathology images**|Srikar Yellapragada et.al.|[2506.05127](http://arxiv.org/abs/2506.05127)|null|
+|**2025-06-05**|**Evaluating the Impact of Privacy-Preserving Federated Learning on CAN Intrusion Detection**|Gabriele Digregorio et.al.|[2506.04978](http://arxiv.org/abs/2506.04978)|null|
+|**2025-06-05**|**Hiding in Plain Sight: Query Obfuscation via Random Multilingual Searches**|Anton Firc et.al.|[2506.04963](http://arxiv.org/abs/2506.04963)|null|
+|**2025-06-05**|**A Private Smart Wallet with Probabilistic Compliance**|Andrea Rizzini et.al.|[2506.04853](http://arxiv.org/abs/2506.04853)|null|
+|**2025-06-05**|**Urania: Differentially Private Insights into AI Use**|Daogao Liu et.al.|[2506.04681](http://arxiv.org/abs/2506.04681)|null|
+|**2025-06-05**|**FedAPM: Federated Learning via ADMM with Partial Model Personalization**|Shengkun Zhu et.al.|[2506.04672](http://arxiv.org/abs/2506.04672)|null|
+|**2025-06-05**|**Federated Learning Assisted Edge Caching Scheme Based on Lightweight Architecture DDPM**|Xun Li et.al.|[2506.04593](http://arxiv.org/abs/2506.04593)|null|
+|**2025-06-05**|**Communication Efficient Adaptive Model-Driven Quantum Federated Learning**|Dev Gurung et.al.|[2506.04548](http://arxiv.org/abs/2506.04548)|null|
 |**2025-06-04**|**Model Splitting Enhanced Communication-Efficient Federated Learning for CSI Feedback**|Yanjie Dong et.al.|[2506.04113](http://arxiv.org/abs/2506.04113)|null|
 |**2025-06-04**|**Optimal Transport-based Domain Alignment as a Preprocessing Step for Federated Learning**|Luiz Manella Pereira et.al.|[2506.04071](http://arxiv.org/abs/2506.04071)|null|
 |**2025-06-04**|**HtFLlib: A Comprehensive Heterogeneous Federated Learning Library and Benchmark**|Jianqing Zhang et.al.|[2506.03954](http://arxiv.org/abs/2506.03954)|null|
