@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.07
+## Updated on 2025.06.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -743,7 +743,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-29**|**Confidential Guardian: Cryptographically Prohibiting the Abuse of Model Abstention**|Stephan Rabanser et.al.|[2505.23968](http://arxiv.org/abs/2505.23968)|null|
+|**2025-05-29**|**Confidential Guardian: Cryptographically Prohibiting the Abuse of Model Abstention**|Stephan Rabanser et.al.|[2505.23968](http://arxiv.org/abs/2505.23968)|**[link](https://github.com/cleverhans-lab/confidential-guardian)**|
 |**2025-05-26**|**Engineering Trustworthy Machine-Learning Operations with Zero-Knowledge Proofs**|Filippo Scaramuzza et.al.|[2505.20136](http://arxiv.org/abs/2505.20136)|null|
 |**2025-05-28**|**A Novel Zero-Trust Identity Framework for Agentic AI: Decentralized Authentication and Fine-Grained Access Control**|Ken Huang et.al.|[2505.19301](http://arxiv.org/abs/2505.19301)|null|
 |**2025-05-21**|**Integer Reasoning Modulo Different Constants in SMT**|Elizaveta Pertseva et.al.|[2505.14998](http://arxiv.org/abs/2505.14998)|null|
