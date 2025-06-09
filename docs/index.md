@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.08
+## Updated on 2025.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-04**|**Solsmith: Solidity Random Program Generator for Compiler Testing**|Lantian Li et.al.|[2506.03909](http://arxiv.org/abs/2506.03909)|null|
 |**2025-06-04**|**Automated Mechanism to Support Trade Transactions in Smart Contracts with Upgrade and Repair**|Christian Gang Liu et.al.|[2506.03877](http://arxiv.org/abs/2506.03877)|null|
-|**2025-06-03**|**A Preference-Driven Methodology for High-Quality Solidity Code Generation**|Zhiyuan Peng et.al.|[2506.03006](http://arxiv.org/abs/2506.03006)|null|
+|**2025-06-06**|**A Preference-Driven Methodology for High-Quality Solidity Code Generation**|Zhiyuan Peng et.al.|[2506.03006](http://arxiv.org/abs/2506.03006)|null|
 |**2025-06-03**|**Transforming Automatically BPMN Models to Smart Contracts with Nested Collaborative Transactions (TABS+)**|Christian Gang Liu et.al.|[2506.02727](http://arxiv.org/abs/2506.02727)|null|
 |**2025-06-03**|**Decentralized COVID-19 Health System Leveraging Blockchain**|Lingsheng Chen et.al.|[2506.02674](http://arxiv.org/abs/2506.02674)|null|
 |**2025-06-02**|**FSM Modeling For Off-Blockchain Computation**|Christian Gang Liu et.al.|[2506.02086](http://arxiv.org/abs/2506.02086)|null|
