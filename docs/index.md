@@ -180,7 +180,7 @@ layout: default
 |**2025-01-26**|**Preventing Household Bankruptcy: The One-Third Rule in Financial Planning with Mathematical Validation and Game-Theoretic Insights**|Aditi Godbole et.al.|[2501.15557](http://arxiv.org/abs/2501.15557)|null|
 |**2025-01-26**|**FiberPool: Leveraging Multiple Blockchains for Decentralized Pooled Mining**|Akira Sakurai et.al.|[2501.15459](http://arxiv.org/abs/2501.15459)|null|
 |**2025-01-22**|**Absolute Governance: A Framework for Synchronization and Certification of the Corporate Contractual State**|Antonio Hoffert et.al.|[2501.13974](http://arxiv.org/abs/2501.13974)|null|
-|**2025-01-22**|**Accessible Smart Contracts Verification: Synthesizing Formal Models with Tamed LLMs**|Jan Corazza et.al.|[2501.12972](http://arxiv.org/abs/2501.12972)|null|
+|**2025-01-22**|**Accessible Smart Contracts Verification: Synthesizing Formal Models with Tamed LLMs**|Jan Corazza et.al.|[2501.12972](http://arxiv.org/abs/2501.12972)|**[link](https://github.com/informalsystems/fuzzmo_use_case2)**|
 |**2025-01-21**|**BotDetect: A Decentralized Federated Learning Framework for Detecting Financial Bots on the EVM Blockchains**|Ahmed Mounsf Rafik Bendada et.al.|[2501.12112](http://arxiv.org/abs/2501.12112)|null|
 |**2025-01-21**|**Blockchain Security Risk Assessment in Quantum Era, Migration Strategies and Proactive Defense**|Yaser Baseri et.al.|[2501.11798](http://arxiv.org/abs/2501.11798)|null|
 |**2025-01-21**|**SPID-Chain: A Smart Contract-Enabled, Polar-Coded Interoperable DAG Chain**|Amirhossein Taherpour et.al.|[2501.11794](http://arxiv.org/abs/2501.11794)|null|
@@ -954,24 +954,24 @@ layout: default
 |**2025-05-29**|**Measuring Participant Contributions in Decentralized Federated Learning**|Honoka Anada et.al.|[2505.23246](http://arxiv.org/abs/2505.23246)|null|
 |**2025-05-29**|**FSL-SAGE: Accelerating Federated Split Learning via Smashed Activation Gradient Estimation**|Srijith Nair et.al.|[2505.23182](http://arxiv.org/abs/2505.23182)|**[link](https://github.com/srijith1996/FSL-SAGE)**|
 |**2025-05-28**|**DES-LOC: Desynced Low Communication Adaptive Optimizers for Training Foundation Models**|Alex Iacob et.al.|[2505.22549](http://arxiv.org/abs/2505.22549)|null|
-|**2025-05-28**|**PathFL: Multi-Alignment Federated Learning for Pathology Image Segmentation**|Yuan Zhang et.al.|[2505.22522](http://arxiv.org/abs/2505.22522)|null|
+|**2025-05-28**|**PathFL: Multi-Alignment Federated Learning for Pathology Image Segmentation**|Yuan Zhang et.al.|[2505.22522](http://arxiv.org/abs/2505.22522)|**[link](https://github.com/yuanzhang7/pathfl)**|
 |**2025-05-28**|**Privacy-preserving Prompt Personalization in Federated Learning for Multimodal Large Language Models**|Sizai Hou et.al.|[2505.22447](http://arxiv.org/abs/2505.22447)|null|
 |**2025-05-28**|**Inclusive, Differentially Private Federated Learning for Clinical Data**|Santhosh Parampottupadam et.al.|[2505.22108](http://arxiv.org/abs/2505.22108)|null|
 |**2025-05-28**|**Hybrid Batch Normalisation: Resolving the Dilemma of Batch Normalisation in Federated Learning**|Hongyao Chen et.al.|[2505.21877](http://arxiv.org/abs/2505.21877)|**[link](https://github.com/Hongyao-Chen/HybridBN)**|
-|**2025-05-28**|**CSI-Bench: A Large-Scale In-the-Wild Dataset for Multi-task WiFi Sensing**|Guozhen Zhu et.al.|[2505.21866](http://arxiv.org/abs/2505.21866)|null|
+|**2025-05-28**|**CSI-Bench: A Large-Scale In-the-Wild Dataset for Multi-task WiFi Sensing**|Guozhen Zhu et.al.|[2505.21866](http://arxiv.org/abs/2505.21866)|**[link](https://github.com/Jenny-Zhu/CSI-Bench-Real-WiFi-Sensing-Benchmark)**|
 |**2025-05-29**|**Query, Don't Train: Privacy-Preserving Tabular Prediction from EHR Data via SQL Queries**|Josefa Lia Stoisser et.al.|[2505.21801](http://arxiv.org/abs/2505.21801)|null|
 |**2025-05-27**|**Multimodal Federated Learning: A Survey through the Lens of Different FL Paradigms**|Yuanzhe Peng et.al.|[2505.21792](http://arxiv.org/abs/2505.21792)|null|
 |**2025-05-27**|**FedCostAware: Enabling Cost-Aware Federated Learning on the Cloud**|Aditya Sinha et.al.|[2505.21727](http://arxiv.org/abs/2505.21727)|null|
 |**2025-05-27**|**Privacy-Preserving Chest X-ray Report Generation via Multimodal Federated Learning with ViT and GPT-2**|Md. Zahid Hossain et.al.|[2505.21715](http://arxiv.org/abs/2505.21715)|null|
 |**2025-05-27**|**DeCAF: Decentralized Consensus-And-Factorization for Low-Rank Adaptation of Foundation Models**|Nastaran Saadati et.al.|[2505.21382](http://arxiv.org/abs/2505.21382)|null|
-|**2025-05-27**|**Addressing Data Quality Decompensation in Federated Learning via Dynamic Client Selection**|Qinjun Fei et.al.|[2505.21219](http://arxiv.org/abs/2505.21219)|null|
+|**2025-05-27**|**Addressing Data Quality Decompensation in Federated Learning via Dynamic Client Selection**|Qinjun Fei et.al.|[2505.21219](http://arxiv.org/abs/2505.21219)|**[link](https://github.com/ari-dasci/s-sbro-fl)**|
 |**2025-05-27**|**SHE-LoRA: Selective Homomorphic Encryption for Federated Tuning with Heterogeneous LoRA**|Jianmin Liu et.al.|[2505.21051](http://arxiv.org/abs/2505.21051)|null|
 |**2025-05-27**|**Federated Instrumental Variable Analysis via Federated Generalized Method of Moments**|Geetika et.al.|[2505.21012](http://arxiv.org/abs/2505.21012)|null|
 |**2025-05-27**|**Unified Alignment Protocol: Making Sense of the Unlabeled Data in New Domains**|Sabbir Ahmed et.al.|[2505.21010](http://arxiv.org/abs/2505.21010)|null|
 |**2025-05-27**|**A Hitchhiker's Guide to Privacy-Preserving Cryptocurrencies: A Survey on Anonymity, Confidentiality, and Auditability**|Matteo Nardelli et.al.|[2505.21008](http://arxiv.org/abs/2505.21008)|null|
 |**2025-05-27**|**Assessing the Use of Face Swapping Methods as Face Anonymizers in Videos**|Mustafa İzzet Muştu et.al.|[2505.20985](http://arxiv.org/abs/2505.20985)|null|
 |**2025-05-27**|**Label Leakage in Federated Inertial-based Human Activity Recognition**|Marius Bock et.al.|[2505.20924](http://arxiv.org/abs/2505.20924)|**[link](https://github.com/mariusbock/leakage_har)**|
-|**2025-05-27**|**Voronoi-grid-based Pareto Front Learning and Its Application to Collaborative Federated Learning**|Mengmeng Chen et.al.|[2505.20648](http://arxiv.org/abs/2505.20648)|null|
+|**2025-05-27**|**Voronoi-grid-based Pareto Front Learning and Its Application to Collaborative Federated Learning**|Mengmeng Chen et.al.|[2505.20648](http://arxiv.org/abs/2505.20648)|**[link](https://github.com/buptcmm/phnhvvs)**|
 |**2025-05-26**|**Privacy-Preserving Peer-to-Peer Energy Trading via Hybrid Secure Computations**|Junhong Liu et.al.|[2505.20577](http://arxiv.org/abs/2505.20577)|null|
 |**2025-05-26**|**Ontology- and LLM-based Data Harmonization for Federated Learning in Healthcare**|Natallia Kokash et.al.|[2505.20020](http://arxiv.org/abs/2505.20020)|null|
 |**2025-05-27**|**Generalized and Personalized Federated Learning with Foundation Models via Orthogonal Transformations**|Eun Gyung Kong et.al.|[2505.19888](http://arxiv.org/abs/2505.19888)|null|
@@ -1181,7 +1181,7 @@ layout: default
 |**2025-04-22**|**Collaborative Split Federated Learning with Parallel Training and Aggregation**|Yiannis Papageorgiou et.al.|[2504.15724](http://arxiv.org/abs/2504.15724)|null|
 |**2025-04-22**|**Trusted Compute Units: A Framework for Chained Verifiable Computations**|Fernando Castillo et.al.|[2504.15717](http://arxiv.org/abs/2504.15717)|null|
 |**2025-04-22**|**TrojanDam: Detection-Free Backdoor Defense in Federated Learning through Proactive Model Robustification utilizing OOD Data**|Yanbo Dai et.al.|[2504.15674](http://arxiv.org/abs/2504.15674)|null|
-|**2025-04-22**|**On the Price of Differential Privacy for Hierarchical Clustering**|Chengyuan Deng et.al.|[2504.15580](http://arxiv.org/abs/2504.15580)|null|
+|**2025-04-22**|**On the Price of Differential Privacy for Hierarchical Clustering**|Chengyuan Deng et.al.|[2504.15580](http://arxiv.org/abs/2504.15580)|**[link](https://github.com/margarita-aicyd/dp-hc)**|
 |**2025-04-22**|**Towards Resilience and Autonomy-based Approaches for Adolescents Online Safety**|Jinkyung Park et.al.|[2504.15533](http://arxiv.org/abs/2504.15533)|null|
 |**2025-04-21**|**Values in the Wild: Discovering and Analyzing Values in Real-World Language Model Interactions**|Saffron Huang et.al.|[2504.15236](http://arxiv.org/abs/2504.15236)|null|
 |**2025-04-21**|**Federated Latent Factor Model for Bias-Aware Recommendation with Privacy-Preserving**|Junxiang Gao et.al.|[2504.15090](http://arxiv.org/abs/2504.15090)|null|
