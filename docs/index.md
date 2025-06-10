@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Combating Reentrancy Bugs on Sharded Blockchains**|Roman Kashitsyn et.al.|[2506.05932](http://arxiv.org/abs/2506.05932)|null|
+|**2025-06-06**|**Properties of UTxO Ledgers and Programs Implemented on Them**|Polina Vinogradova et.al.|[2506.05832](http://arxiv.org/abs/2506.05832)|null|
 |**2025-06-04**|**Solsmith: Solidity Random Program Generator for Compiler Testing**|Lantian Li et.al.|[2506.03909](http://arxiv.org/abs/2506.03909)|null|
 |**2025-06-04**|**Automated Mechanism to Support Trade Transactions in Smart Contracts with Upgrade and Repair**|Christian Gang Liu et.al.|[2506.03877](http://arxiv.org/abs/2506.03877)|null|
 |**2025-06-06**|**A Preference-Driven Methodology for High-Quality Solidity Code Generation**|Zhiyuan Peng et.al.|[2506.03006](http://arxiv.org/abs/2506.03006)|null|
@@ -659,6 +661,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Hybrid Stabilization Protocol for Cross-Chain Digital Assets Using Adaptor Signatures and AI-Driven Arbitrage**|Shengwei You et.al.|[2506.05708](http://arxiv.org/abs/2506.05708)|null|
 |**2025-05-30**|**Singularity Protocol for Cross Chain AMM without Intermediate Tokens or Bridges**|Sumit Vohra et.al.|[2505.24337](http://arxiv.org/abs/2505.24337)|null|
 |**2025-05-30**|**Supporting Long-term Transactions in Smart Contracts Generated from Business Process Model and Notation (BPMN) Models**|Christian Gang Liu et.al.|[2505.24309](http://arxiv.org/abs/2505.24309)|null|
 |**2025-05-14**|**FLUXLAYER: High-Performance Design for Cross-chain Fragmented Liquidity**|Xin Lao et.al.|[2505.09423](http://arxiv.org/abs/2505.09423)|null|
@@ -907,7 +910,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-05**|**Big Bird: Privacy Budget Management for W3C's Privacy-Preserving Attribution API**|Pierre Tholoniat et.al.|[2506.05290](http://arxiv.org/abs/2506.05290)|null|
+|**2025-06-06**|**Distribution-Level AirComp for Wireless Federated Learning under Data Scarcity and Heterogeneity**|Jun-Pyo Hong et.al.|[2506.06090](http://arxiv.org/abs/2506.06090)|null|
+|**2025-06-06**|**Minoritised Ethnic People's Security and Privacy Concerns and Responses towards Essential Online Services**|Aunam Quyoum et.al.|[2506.06062](http://arxiv.org/abs/2506.06062)|null|
+|**2025-06-06**|**Simple Yet Effective: Extracting Private Data Across Clients in Federated Fine-Tuning of Large Language Models**|Yingqi Hu et.al.|[2506.06060](http://arxiv.org/abs/2506.06060)|null|
+|**2025-06-06**|**QualitEye: Public and Privacy-preserving Gaze Data Quality Verification**|Mayar Elfares et.al.|[2506.05908](http://arxiv.org/abs/2506.05908)|null|
+|**2025-06-06**|**Multi-Modal Multi-Task Federated Foundation Models for Next-Generation Extended Reality Systems: Towards Privacy-Preserving Distributed Intelligence in AR/VR/MR**|Fardis Nadimi et.al.|[2506.05683](http://arxiv.org/abs/2506.05683)|null|
+|**2025-06-06**|**FedShield-LLM: A Secure and Scalable Federated Fine-Tuned Large Language Model**|Md Jueal Mia et.al.|[2506.05640](http://arxiv.org/abs/2506.05640)|null|
+|**2025-06-05**|**Breaking Anonymity at Scale: Re-identifying the Trajectories of 100K Real Users in Japan**|Abhishek Kumar Mishra et.al.|[2506.05611](http://arxiv.org/abs/2506.05611)|null|
+|**2025-06-05**|**Network Hexagons Under Attack: Secure Crowdsourcing of Geo-Referenced Data**|Okemawo Obadofin et.al.|[2506.05601](http://arxiv.org/abs/2506.05601)|null|
+|**2025-06-05**|**Ravan: Multi-Head Low-Rank Adaptation for Federated Fine-Tuning**|Arian Raje et.al.|[2506.05568](http://arxiv.org/abs/2506.05568)|null|
+|**2025-06-05**|**Big Bird: Privacy Budget Management for W3C's Privacy-Preserving Attribution API**|Pierre Tholoniat et.al.|[2506.05290](http://arxiv.org/abs/2506.05290)|**[link](https://github.com/columbia/pdslib)**|
 |**2025-06-05**|**Federated Isolation Forest for Efficient Anomaly Detection on Edge IoT Systems**|Pavle Vasiljevic et.al.|[2506.05138](http://arxiv.org/abs/2506.05138)|null|
 |**2025-06-05**|**PixCell: A generative foundation model for digital histopathology images**|Srikar Yellapragada et.al.|[2506.05127](http://arxiv.org/abs/2506.05127)|null|
 |**2025-06-05**|**Evaluating the Impact of Privacy-Preserving Federated Learning on CAN Intrusion Detection**|Gabriele Digregorio et.al.|[2506.04978](http://arxiv.org/abs/2506.04978)|null|
