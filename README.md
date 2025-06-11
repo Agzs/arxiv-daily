@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**Detecting State Manipulation Vulnerabilities in Smart Contracts Using LLM and Static Analysis**|Hao Wu et.al.|[2506.08561](http://arxiv.org/abs/2506.08561)|null|
 |**2025-06-09**|**Exposing Hidden Backdoors in NFT Smart Contracts: A Static Security Analysis of Rug Pull Patterns**|Chetan Pathade et.al.|[2506.07974](http://arxiv.org/abs/2506.07974)|null|
 |**2025-06-09**|**Human Side of Smart Contract Fuzzing: An Empirical Study**|Guanming Qiao et.al.|[2506.07389](http://arxiv.org/abs/2506.07389)|null|
 |**2025-06-07**|**Ai-Driven Vulnerability Analysis in Smart Contracts: Trends, Challenges and Future Directions**|Mesut Ozdag et.al.|[2506.06735](http://arxiv.org/abs/2506.06735)|null|
@@ -925,6 +926,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**A Privacy-Preserving Federated Learning Framework for Generalizable CBCT to Synthetic CT Translation in Head and Neck**|Ciro Benito Raggio et.al.|[2506.08654](http://arxiv.org/abs/2506.08654)|null|
+|**2025-06-10**|**ABC-FHE : A Resource-Efficient Accelerator Enabling Bootstrappable Parameters for Client-Side Fully Homomorphic Encryption**|Sungwoong Yune et.al.|[2506.08461](http://arxiv.org/abs/2506.08461)|null|
+|**2025-06-10**|**Boosting Gradient Leakage Attacks: Data Reconstruction in Realistic FL Settings**|Mingyuan Fan et.al.|[2506.08435](http://arxiv.org/abs/2506.08435)|null|
+|**2025-06-10**|**HASFL: Heterogeneity-aware Split Federated Learning over Edge Computing Systems**|Zheng Lin et.al.|[2506.08426](http://arxiv.org/abs/2506.08426)|null|
+|**2025-06-09**|**FedGA-Tree: Federated Decision Tree using Genetic Algorithm**|Anh V Nguyen et.al.|[2506.08176](http://arxiv.org/abs/2506.08176)|null|
+|**2025-06-09**|**Federated Learning on Stochastic Neural Networks**|Jingqiao Tang et.al.|[2506.08169](http://arxiv.org/abs/2506.08169)|null|
+|**2025-06-09**|**UniVarFL: Uniformity and Variance Regularized Federated Learning for Heterogeneous Data**|Sunny Gupta et.al.|[2506.08167](http://arxiv.org/abs/2506.08167)|null|
 |**2025-06-09**|**Realistic Urban Traffic Generator using Decentralized Federated Learning for the SUMO simulator**|Alberto Bazán-Guillén et.al.|[2506.07980](http://arxiv.org/abs/2506.07980)|null|
 |**2025-06-09**|**Understanding the Error Sensitivity of Privacy-Aware Computing**|Matías Mazzanti et.al.|[2506.07957](http://arxiv.org/abs/2506.07957)|null|
 |**2025-06-09**|**Secure Distributed Learning for CAVs: Defending Against Gradient Leakage with Leveled Homomorphic Encryption**|Muhammad Ali Najjar et.al.|[2506.07894](http://arxiv.org/abs/2506.07894)|null|
