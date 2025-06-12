@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**ASTAGEN: Empirical Evaluation of Automated SATD Taxonomy Generation with LLMs**|Sota Nakashima et.al.|[2506.09601](http://arxiv.org/abs/2506.09601)|null|
 |**2025-06-11**|**Detecting State Manipulation Vulnerabilities in Smart Contracts Using LLM and Static Analysis**|Hao Wu et.al.|[2506.08561](http://arxiv.org/abs/2506.08561)|null|
 |**2025-06-09**|**Exposing Hidden Backdoors in NFT Smart Contracts: A Static Security Analysis of Rug Pull Patterns**|Chetan Pathade et.al.|[2506.07974](http://arxiv.org/abs/2506.07974)|null|
 |**2025-06-09**|**Human Side of Smart Contract Fuzzing: An Empirical Study**|Guanming Qiao et.al.|[2506.07389](http://arxiv.org/abs/2506.07389)|null|
@@ -750,6 +751,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**On the Performance of Cloud-based ARM SVE for Zero-Knowledge Proving Systems**|Dumitrel Loghin et.al.|[2506.09505](http://arxiv.org/abs/2506.09505)|null|
 |**2025-05-29**|**Confidential Guardian: Cryptographically Prohibiting the Abuse of Model Abstention**|Stephan Rabanser et.al.|[2505.23968](http://arxiv.org/abs/2505.23968)|**[link](https://github.com/cleverhans-lab/confidential-guardian)**|
 |**2025-05-26**|**Engineering Trustworthy Machine-Learning Operations with Zero-Knowledge Proofs**|Filippo Scaramuzza et.al.|[2505.20136](http://arxiv.org/abs/2505.20136)|null|
 |**2025-05-28**|**A Novel Zero-Trust Identity Framework for Agentic AI: Decentralized Authentication and Fine-Grained Access Control**|Ken Huang et.al.|[2505.19301](http://arxiv.org/abs/2505.19301)|null|
@@ -914,6 +916,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Private Aggregation for Byzantine-Resilient Heterogeneous Federated Learning**|Maximilian Egger et.al.|[2506.09870](http://arxiv.org/abs/2506.09870)|null|
+|**2025-06-11**|**EmoNet-Voice: A Fine-Grained, Expert-Verified Benchmark for Speech Emotion Detection**|Christoph Schuhmann et.al.|[2506.09827](http://arxiv.org/abs/2506.09827)|null|
+|**2025-06-11**|**Weighted Loss Methods for Robust Federated Learning under Data Heterogeneity**|Johan Erbani et.al.|[2506.09824](http://arxiv.org/abs/2506.09824)|null|
+|**2025-06-11**|**Devil's Hand: Data Poisoning Attacks to Locally Private Graph Learning Protocols**|Longzhu He et.al.|[2506.09803](http://arxiv.org/abs/2506.09803)|null|
+|**2025-06-11**|**Load-Aware Training Scheduling for Model Circulation-based Decentralized Federated Learning**|Haruki Kainuma et.al.|[2506.09769](http://arxiv.org/abs/2506.09769)|null|
+|**2025-06-11**|**Knockoffs Inference under Privacy Constraints**|Zhanrui Cai et.al.|[2506.09690](http://arxiv.org/abs/2506.09690)|null|
+|**2025-06-11**|**Wavelet Scattering Transform and Fourier Representation for Offline Detection of Malicious Clients in Federated Learning**|Alessandro Licciardi et.al.|[2506.09674](http://arxiv.org/abs/2506.09674)|null|
+|**2025-06-11**|**SyncFed: Time-Aware Federated Learning through Explicit Timestamping and Synchronization**|Baran Can Gül et.al.|[2506.09660](http://arxiv.org/abs/2506.09660)|null|
+|**2025-06-11**|**FedVLMBench: Benchmarking Federated Fine-Tuning of Vision-Language Models**|Weiying Zheng et.al.|[2506.09638](http://arxiv.org/abs/2506.09638)|null|
+|**2025-06-11**|**A Survey on the Role of Artificial Intelligence and Machine Learning in 6G-V2X Applications**|Donglin Wang et.al.|[2506.09512](http://arxiv.org/abs/2506.09512)|null|
 |**2025-06-10**|**A Privacy-Preserving Federated Learning Framework for Generalizable CBCT to Synthetic CT Translation in Head and Neck**|Ciro Benito Raggio et.al.|[2506.08654](http://arxiv.org/abs/2506.08654)|null|
 |**2025-06-10**|**ABC-FHE : A Resource-Efficient Accelerator Enabling Bootstrappable Parameters for Client-Side Fully Homomorphic Encryption**|Sungwoong Yune et.al.|[2506.08461](http://arxiv.org/abs/2506.08461)|null|
 |**2025-06-10**|**Boosting Gradient Leakage Attacks: Data Reconstruction in Realistic FL Settings**|Mingyuan Fan et.al.|[2506.08435](http://arxiv.org/abs/2506.08435)|null|
