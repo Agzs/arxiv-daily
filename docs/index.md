@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-10**|**Detecting State Manipulation Vulnerabilities in Smart Contracts Using LLM and Static Analysis**|Hao Wu et.al.|[2506.08561](http://arxiv.org/abs/2506.08561)|null|
+|**2025-06-11**|**Detecting State Manipulation Vulnerabilities in Smart Contracts Using LLM and Static Analysis**|Hao Wu et.al.|[2506.08561](http://arxiv.org/abs/2506.08561)|null|
 |**2025-06-09**|**Exposing Hidden Backdoors in NFT Smart Contracts: A Static Security Analysis of Rug Pull Patterns**|Chetan Pathade et.al.|[2506.07974](http://arxiv.org/abs/2506.07974)|null|
 |**2025-06-09**|**Human Side of Smart Contract Fuzzing: An Empirical Study**|Guanming Qiao et.al.|[2506.07389](http://arxiv.org/abs/2506.07389)|null|
 |**2025-06-07**|**Ai-Driven Vulnerability Analysis in Smart Contracts: Trends, Challenges and Future Directions**|Mesut Ozdag et.al.|[2506.06735](http://arxiv.org/abs/2506.06735)|null|
