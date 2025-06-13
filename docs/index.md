@@ -916,6 +916,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Commitment Schemes for Multi-Party Computation**|Ioan Ionescu et.al.|[2506.10721](http://arxiv.org/abs/2506.10721)|null|
+|**2025-06-12**|**Graph-based Gossiping for Communication Efficiency in Decentralized Federated Learning**|Huong Nguyen et.al.|[2506.10607](http://arxiv.org/abs/2506.10607)|null|
+|**2025-06-12**|**Federated Learning within Global Energy Budget over Heterogeneous Edge Accelerators**|Roopkatha Banerjee et.al.|[2506.10413](http://arxiv.org/abs/2506.10413)|null|
+|**2025-06-12**|**FicGCN: Unveiling the Homomorphic Encryption Efficiency from Irregular Graph Convolutional Networks**|Zhaoxuan Kan et.al.|[2506.10399](http://arxiv.org/abs/2506.10399)|null|
+|**2025-06-12**|**AI-Based Software Vulnerability Detection: A Systematic Literature Review**|Samiha Shimmi et.al.|[2506.10280](http://arxiv.org/abs/2506.10280)|null|
+|**2025-06-11**|**A new type of federated clustering: A non-model-sharing approach**|Yuji Kawamata et.al.|[2506.10244](http://arxiv.org/abs/2506.10244)|null|
+|**2025-06-11**|**Intelligent Travel Activity Monitoring: Generalized Distributed Acoustic Sensing Approaches**|Ruikang Zhong et.al.|[2506.10237](http://arxiv.org/abs/2506.10237)|null|
+|**2025-06-11**|**FedMLAC: Mutual Learning Driven Heterogeneous Federated Audio Classification**|Jun Bai et.al.|[2506.10207](http://arxiv.org/abs/2506.10207)|null|
 |**2025-06-11**|**Private Aggregation for Byzantine-Resilient Heterogeneous Federated Learning**|Maximilian Egger et.al.|[2506.09870](http://arxiv.org/abs/2506.09870)|null|
 |**2025-06-11**|**EmoNet-Voice: A Fine-Grained, Expert-Verified Benchmark for Speech Emotion Detection**|Christoph Schuhmann et.al.|[2506.09827](http://arxiv.org/abs/2506.09827)|null|
 |**2025-06-12**|**A Weighted Loss Approach to Robust Federated Learning under Data Heterogeneity**|Johan Erbani et.al.|[2506.09824](http://arxiv.org/abs/2506.09824)|null|
