@@ -916,6 +916,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**SecONNds: Secure Outsourced Neural Network Inference on ImageNet**|Shashank Balla et.al.|[2506.11586](http://arxiv.org/abs/2506.11586)|null|
+|**2025-06-13**|**Byzantine Outside, Curious Inside: Reconstructing Data Through Malicious Updates**|Kai Yue et.al.|[2506.11413](http://arxiv.org/abs/2506.11413)|null|
 |**2025-06-12**|**Commitment Schemes for Multi-Party Computation**|Ioan Ionescu et.al.|[2506.10721](http://arxiv.org/abs/2506.10721)|null|
 |**2025-06-12**|**Graph-based Gossiping for Communication Efficiency in Decentralized Federated Learning**|Huong Nguyen et.al.|[2506.10607](http://arxiv.org/abs/2506.10607)|null|
 |**2025-06-12**|**Federated Learning within Global Energy Budget over Heterogeneous Edge Accelerators**|Roopkatha Banerjee et.al.|[2506.10413](http://arxiv.org/abs/2506.10413)|null|
