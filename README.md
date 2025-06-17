@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-15**|**Automated Risk Management Mechanisms in DeFi Lending Protocols: A Crosschain Comparative Analysis of Aave and Compound**|Erum Iftikhar et.al.|[2506.12855](http://arxiv.org/abs/2506.12855)|**[link](https://github.com/ErumIftikhar/DefiLending_Data_Code)**|
+|**2025-06-15**|**IDOL: Improved Different Optimization Levels Testing for Solidity Compilers**|Lantian Li et.al.|[2506.12760](http://arxiv.org/abs/2506.12760)|null|
 |**2025-06-11**|**ASTAGEN: Empirical Evaluation of Automated SATD Taxonomy Generation with LLMs**|Sota Nakashima et.al.|[2506.09601](http://arxiv.org/abs/2506.09601)|null|
 |**2025-06-11**|**Detecting State Manipulation Vulnerabilities in Smart Contracts Using LLM and Static Analysis**|Hao Wu et.al.|[2506.08561](http://arxiv.org/abs/2506.08561)|null|
 |**2025-06-09**|**Exposing Hidden Backdoors in NFT Smart Contracts: A Static Security Analysis of Rug Pull Patterns**|Chetan Pathade et.al.|[2506.07974](http://arxiv.org/abs/2506.07974)|null|
@@ -674,6 +676,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-15**|**Automated Risk Management Mechanisms in DeFi Lending Protocols: A Crosschain Comparative Analysis of Aave and Compound**|Erum Iftikhar et.al.|[2506.12855](http://arxiv.org/abs/2506.12855)|**[link](https://github.com/ErumIftikhar/DefiLending_Data_Code)**|
 |**2025-06-06**|**Hybrid Stabilization Protocol for Cross-Chain Digital Assets Using Adaptor Signatures and AI-Driven Arbitrage**|Shengwei You et.al.|[2506.05708](http://arxiv.org/abs/2506.05708)|null|
 |**2025-05-30**|**Singularity Protocol for Cross Chain AMM without Intermediate Tokens or Bridges**|Sumit Vohra et.al.|[2505.24337](http://arxiv.org/abs/2505.24337)|null|
 |**2025-05-30**|**Supporting Long-term Transactions in Smart Contracts Generated from Business Process Model and Notation (BPMN) Models**|Christian Gang Liu et.al.|[2505.24309](http://arxiv.org/abs/2505.24309)|null|
@@ -761,6 +764,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**On Immutable Memory Systems for Artificial Agents: A Blockchain-Indexed Automata-Theoretic Framework Using ECDH-Keyed Merkle Chains**|Craig Steven Wright et.al.|[2506.13246](http://arxiv.org/abs/2506.13246)|null|
 |**2025-06-11**|**On the Performance of Cloud-based ARM SVE for Zero-Knowledge Proving Systems**|Dumitrel Loghin et.al.|[2506.09505](http://arxiv.org/abs/2506.09505)|null|
 |**2025-05-29**|**Confidential Guardian: Cryptographically Prohibiting the Abuse of Model Abstention**|Stephan Rabanser et.al.|[2505.23968](http://arxiv.org/abs/2505.23968)|**[link](https://github.com/cleverhans-lab/confidential-guardian)**|
 |**2025-05-26**|**Engineering Trustworthy Machine-Learning Operations with Zero-Knowledge Proofs**|Filippo Scaramuzza et.al.|[2505.20136](http://arxiv.org/abs/2505.20136)|null|
@@ -928,6 +932,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**EBS-CFL: Efficient and Byzantine-robust Secure Clustered Federated Learning**|Zhiqiang Li et.al.|[2506.13612](http://arxiv.org/abs/2506.13612)|null|
+|**2025-06-16**|**Perfect Privacy for Discriminator-Based Byzantine-Resilient Federated Learning**|Yue Xia et.al.|[2506.13561](http://arxiv.org/abs/2506.13561)|null|
+|**2025-06-16**|**From Promise to Peril: Rethinking Cybersecurity Red and Blue Teaming in the Age of LLMs**|Alsharif Abuadbba et.al.|[2506.13434](http://arxiv.org/abs/2506.13434)|null|
+|**2025-06-16**|**On Immutable Memory Systems for Artificial Agents: A Blockchain-Indexed Automata-Theoretic Framework Using ECDH-Keyed Merkle Chains**|Craig Steven Wright et.al.|[2506.13246](http://arxiv.org/abs/2506.13246)|null|
+|**2025-06-15**|**Cut Tracing with E-Graphs for Boolean FHE Circuit Synthesis**|Julien de Castelnau et.al.|[2506.12883](http://arxiv.org/abs/2506.12883)|null|
+|**2025-06-15**|**Privacy-Preserving Federated Learning against Malicious Clients Based on Verifiable Functional Encryption**|Nina Cai et.al.|[2506.12846](http://arxiv.org/abs/2506.12846)|null|
+|**2025-06-15**|**Leveraging MIMIC Datasets for Better Digital Health: A Review on Open Problems, Progress Highlights, and Future Promises**|Afifa Khaled et.al.|[2506.12808](http://arxiv.org/abs/2506.12808)|null|
+|**2025-06-15**|**Bidirectional Biometric Authentication Using Transciphering and (T)FHE**|Joon Soo Yoo et.al.|[2506.12802](http://arxiv.org/abs/2506.12802)|null|
+|**2025-06-15**|**AFBS:Buffer Gradient Selection in Semi-asynchronous Federated Learning**|Chaoyi Lu et.al.|[2506.12754](http://arxiv.org/abs/2506.12754)|null|
+|**2025-06-15**|**Free Privacy Protection for Wireless Federated Learning: Enjoy It or Suffer from It?**|Weicai Li et.al.|[2506.12749](http://arxiv.org/abs/2506.12749)|null|
 |**2025-06-13**|**SecONNds: Secure Outsourced Neural Network Inference on ImageNet**|Shashank Balla et.al.|[2506.11586](http://arxiv.org/abs/2506.11586)|null|
 |**2025-06-13**|**Byzantine Outside, Curious Inside: Reconstructing Data Through Malicious Updates**|Kai Yue et.al.|[2506.11413](http://arxiv.org/abs/2506.11413)|null|
 |**2025-06-12**|**Commitment Schemes for Multi-Party Computation**|Ioan Ionescu et.al.|[2506.10721](http://arxiv.org/abs/2506.10721)|null|
