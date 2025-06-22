@@ -935,10 +935,10 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-18**|**Federated Learning for MRI-based BrainAGE: a multicenter study on post-stroke functional outcome prediction**|Vincent Roca et.al.|[2506.15626](http://arxiv.org/abs/2506.15626)|null|
-|**2025-06-18**|**FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation**|Haolong Jin et.al.|[2506.15365](http://arxiv.org/abs/2506.15365)|null|
+|**2025-06-18**|**FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation**|Haolong Jin et.al.|[2506.15365](http://arxiv.org/abs/2506.15365)|**[link](https://github.com/f1onae/fedwsidd)**|
 |**2025-06-18**|**SecFwT: Efficient Privacy-Preserving Fine-Tuning of Large Language Models Using Forward-Only Passes**|Jinglong Luo et.al.|[2506.15307](http://arxiv.org/abs/2506.15307)|null|
 |**2025-06-18**|**Centroid Approximation for Byzantine-Tolerant Federated Learning**|Mélanie Cambus et.al.|[2506.15264](http://arxiv.org/abs/2506.15264)|null|
-|**2025-06-18**|**Privacy-Preserving Chest X-ray Classification in Latent Space with Homomorphically Encrypted Neural Inference**|Jonghun Kim et.al.|[2506.15258](http://arxiv.org/abs/2506.15258)|null|
+|**2025-06-18**|**Privacy-Preserving Chest X-ray Classification in Latent Space with Homomorphically Encrypted Neural Inference**|Jonghun Kim et.al.|[2506.15258](http://arxiv.org/abs/2506.15258)|**[link](https://github.com/jongdory/latent-he)**|
 |**2025-06-18**|**Accessible Gesture-Driven Augmented Reality Interaction System**|Yikan Wang et.al.|[2506.15189](http://arxiv.org/abs/2506.15189)|null|
 |**2025-06-18**|**ImprovDML: Improved Trade-off in Private Byzantine-Resilient Distributed Machine Learning**|Bing Liu et.al.|[2506.15181](http://arxiv.org/abs/2506.15181)|null|
 |**2025-06-18**|**PDLRecover: Privacy-preserving Decentralized Model Recovery with Machine Unlearning**|Xiangman Li et.al.|[2506.15112](http://arxiv.org/abs/2506.15112)|null|
