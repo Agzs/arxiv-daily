@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-19**|**Automated Energy Billing with Blockchain and the Prophet Forecasting Model: A Holistic Approach**|Ajesh Thangaraj Nadar et.al.|[2506.16649](http://arxiv.org/abs/2506.16649)|null|
+|**2025-06-18**|**ETrace:Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis**|Chenyang Peng et.al.|[2506.15790](http://arxiv.org/abs/2506.15790)|null|
 |**2025-06-17**|**Optimistic MEV in Ethereum Layer 2s: Why Blockspace Is Always in Demand**|Ozan Solmaz et.al.|[2506.14768](http://arxiv.org/abs/2506.14768)|null|
 |**2025-06-17**|**Smart contracts and reaction-function games**|Jens Gudmundsson et.al.|[2506.14413](http://arxiv.org/abs/2506.14413)|null|
 |**2025-06-15**|**Automated Risk Management Mechanisms in DeFi Lending Protocols: A Crosschain Comparative Analysis of Aave and Compound**|Erum Iftikhar et.al.|[2506.12855](http://arxiv.org/abs/2506.12855)|**[link](https://github.com/ErumIftikhar/DefiLending_Data_Code)**|
@@ -756,6 +758,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**Zero-Knowledge Proof-of-Location Protocols for Vehicle Subsidies and Taxation Compliance**|Dan Bogdanov et.al.|[2506.16812](http://arxiv.org/abs/2506.16812)|null|
+|**2025-06-19**|**Emission Impossible: privacy-preserving carbon emissions claims**|Jessica Man et.al.|[2506.16347](http://arxiv.org/abs/2506.16347)|null|
 |**2025-06-16**|**On Immutable Memory Systems for Artificial Agents: A Blockchain-Indexed Automata-Theoretic Framework Using ECDH-Keyed Merkle Chains**|Craig Steven Wright et.al.|[2506.13246](http://arxiv.org/abs/2506.13246)|null|
 |**2025-06-11**|**On the Performance of Cloud-based ARM SVE for Zero-Knowledge Proving Systems**|Dumitrel Loghin et.al.|[2506.09505](http://arxiv.org/abs/2506.09505)|**[link](https://github.com/okx/goldilocks)**|
 |**2025-05-29**|**Confidential Guardian: Cryptographically Prohibiting the Abuse of Model Abstention**|Stephan Rabanser et.al.|[2505.23968](http://arxiv.org/abs/2505.23968)|**[link](https://github.com/cleverhans-lab/confidential-guardian)**|
@@ -922,6 +926,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**Client Selection Strategies for Federated Semantic Communications in Heterogeneous IoT Networks**|Samer Lahoud et.al.|[2506.17063](http://arxiv.org/abs/2506.17063)|null|
+|**2025-06-20**|**A Novel Approach to Differential Privacy with Alpha Divergence**|Yifeng Liu et.al.|[2506.17012](http://arxiv.org/abs/2506.17012)|null|
+|**2025-06-20**|**Tracker Installations Are Not Created Equal: Understanding Tracker Configuration of Form Data Collection**|Julia B. Kieserman et.al.|[2506.16891](http://arxiv.org/abs/2506.16891)|null|
+|**2025-06-20**|**FedFitTech: A Baseline in Federated Learning for Fitness Tracking**|Zeyneddin Oz et.al.|[2506.16840](http://arxiv.org/abs/2506.16840)|null|
+|**2025-06-20**|**Zero-Knowledge Proof-of-Location Protocols for Vehicle Subsidies and Taxation Compliance**|Dan Bogdanov et.al.|[2506.16812](http://arxiv.org/abs/2506.16812)|null|
+|**2025-06-20**|**Incentivizing High-quality Participation From Federated Learning Agents**|Jinlong Pang et.al.|[2506.16731](http://arxiv.org/abs/2506.16731)|null|
+|**2025-06-20**|**TriCon-SF: A Triple-Shuffle and Contribution-Aware Serial Federated Learning Framework for Heterogeneous Healthcare Data**|Yuping Yan et.al.|[2506.16723](http://arxiv.org/abs/2506.16723)|null|
+|**2025-06-19**|**Latent Noise Injection for Private and Statistically Aligned Synthetic Data Generation**|Rex Shen et.al.|[2506.16636](http://arxiv.org/abs/2506.16636)|null|
+|**2025-06-19**|**FLAME: Towards Federated Fine-Tuning Large Language Models Through Adaptive SMoE**|Khiem Le et.al.|[2506.16600](http://arxiv.org/abs/2506.16600)|null|
+|**2025-06-19**|**SafeTriage: Facial Video De-identification for Privacy-Preserving Stroke Triage**|Tongan Cai et.al.|[2506.16578](http://arxiv.org/abs/2506.16578)|null|
 |**2025-06-19**|**Federated Learning for MRI-based BrainAGE: a multicenter study on post-stroke functional outcome prediction**|Vincent Roca et.al.|[2506.15626](http://arxiv.org/abs/2506.15626)|null|
 |**2025-06-18**|**FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation**|Haolong Jin et.al.|[2506.15365](http://arxiv.org/abs/2506.15365)|**[link](https://github.com/f1onae/fedwsidd)**|
 |**2025-06-18**|**SecFwT: Efficient Privacy-Preserving Fine-Tuning of Large Language Models Using Forward-Only Passes**|Jinglong Luo et.al.|[2506.15307](http://arxiv.org/abs/2506.15307)|null|
