@@ -938,7 +938,7 @@ layout: default
 |**2025-06-17**|**A Comprehensive Survey on Underwater Acoustic Target Positioning and Tracking: Progress, Challenges, and Perspectives**|Zhong Yang et.al.|[2506.14165](http://arxiv.org/abs/2506.14165)|null|
 |**2025-06-17**|**Acoustic scattering AI for non-invasive object classifications: A case study on hair assessment**|Long-Vu Hoang et.al.|[2506.14148](http://arxiv.org/abs/2506.14148)|null|
 |**2025-06-16**|**DeSPITE: Exploring Contrastive Deep Skeleton-Pointcloud-IMU-Text Embeddings for Advanced Point Cloud Human Activity Understanding**|Thomas Kreutz et.al.|[2506.13897](http://arxiv.org/abs/2506.13897)|null|
-|**2025-06-16**|**EBS-CFL: Efficient and Byzantine-robust Secure Clustered Federated Learning**|Zhiqiang Li et.al.|[2506.13612](http://arxiv.org/abs/2506.13612)|null|
+|**2025-06-16**|**EBS-CFL: Efficient and Byzantine-robust Secure Clustered Federated Learning**|Zhiqiang Li et.al.|[2506.13612](http://arxiv.org/abs/2506.13612)|**[link](https://github.com/lee-va/ebs-cfl)**|
 |**2025-06-16**|**Perfect Privacy for Discriminator-Based Byzantine-Resilient Federated Learning**|Yue Xia et.al.|[2506.13561](http://arxiv.org/abs/2506.13561)|null|
 |**2025-06-16**|**From Promise to Peril: Rethinking Cybersecurity Red and Blue Teaming in the Age of LLMs**|Alsharif Abuadbba et.al.|[2506.13434](http://arxiv.org/abs/2506.13434)|null|
 |**2025-06-16**|**On Immutable Memory Systems for Artificial Agents: A Blockchain-Indexed Automata-Theoretic Framework Using ECDH-Keyed Merkle Chains**|Craig Steven Wright et.al.|[2506.13246](http://arxiv.org/abs/2506.13246)|null|
@@ -948,7 +948,7 @@ layout: default
 |**2025-06-15**|**Bidirectional Biometric Authentication Using Transciphering and (T)FHE**|Joon Soo Yoo et.al.|[2506.12802](http://arxiv.org/abs/2506.12802)|null|
 |**2025-06-15**|**AFBS:Buffer Gradient Selection in Semi-asynchronous Federated Learning**|Chaoyi Lu et.al.|[2506.12754](http://arxiv.org/abs/2506.12754)|null|
 |**2025-06-15**|**Free Privacy Protection for Wireless Federated Learning: Enjoy It or Suffer from It?**|Weicai Li et.al.|[2506.12749](http://arxiv.org/abs/2506.12749)|null|
-|**2025-06-13**|**SecONNds: Secure Outsourced Neural Network Inference on ImageNet**|Shashank Balla et.al.|[2506.11586](http://arxiv.org/abs/2506.11586)|null|
+|**2025-06-13**|**SecONNds: Secure Outsourced Neural Network Inference on ImageNet**|Shashank Balla et.al.|[2506.11586](http://arxiv.org/abs/2506.11586)|**[link](https://github.com/seconnds/seconnds_1_25)**|
 |**2025-06-13**|**Byzantine Outside, Curious Inside: Reconstructing Data Through Malicious Updates**|Kai Yue et.al.|[2506.11413](http://arxiv.org/abs/2506.11413)|null|
 |**2025-06-12**|**Commitment Schemes for Multi-Party Computation**|Ioan Ionescu et.al.|[2506.10721](http://arxiv.org/abs/2506.10721)|null|
 |**2025-06-12**|**Graph-based Gossiping for Communication Efficiency in Decentralized Federated Learning**|Huong Nguyen et.al.|[2506.10607](http://arxiv.org/abs/2506.10607)|null|
@@ -1001,7 +1001,7 @@ layout: default
 |**2025-06-05**|**Hiding in Plain Sight: Query Obfuscation via Random Multilingual Searches**|Anton Firc et.al.|[2506.04963](http://arxiv.org/abs/2506.04963)|null|
 |**2025-06-05**|**A Private Smart Wallet with Probabilistic Compliance**|Andrea Rizzini et.al.|[2506.04853](http://arxiv.org/abs/2506.04853)|null|
 |**2025-06-05**|**Urania: Differentially Private Insights into AI Use**|Daogao Liu et.al.|[2506.04681](http://arxiv.org/abs/2506.04681)|null|
-|**2025-06-05**|**FedAPM: Federated Learning via ADMM with Partial Model Personalization**|Shengkun Zhu et.al.|[2506.04672](http://arxiv.org/abs/2506.04672)|null|
+|**2025-06-05**|**FedAPM: Federated Learning via ADMM with Partial Model Personalization**|Shengkun Zhu et.al.|[2506.04672](http://arxiv.org/abs/2506.04672)|**[link](https://github.com/whu-totemdb/FedAPM)**|
 |**2025-06-05**|**Federated Learning Assisted Edge Caching Scheme Based on Lightweight Architecture DDPM**|Xun Li et.al.|[2506.04593](http://arxiv.org/abs/2506.04593)|**[link](https://github.com/qiongwu86/federated-learning-assisted-edge-caching-scheme-based-on-lightweight-architecture-ddpm)**|
 |**2025-06-05**|**Communication Efficient Adaptive Model-Driven Quantum Federated Learning**|Dev Gurung et.al.|[2506.04548](http://arxiv.org/abs/2506.04548)|null|
 |**2025-06-04**|**Model Splitting Enhanced Communication-Efficient Federated Learning for CSI Feedback**|Yanjie Dong et.al.|[2506.04113](http://arxiv.org/abs/2506.04113)|null|
@@ -2582,7 +2582,7 @@ layout: default
 |**2024-08-06**|**Optimizing NOMA Transmissions to Advance Federated Learning in Vehicular Networks**|Ziru Chen et.al.|[2408.03446](http://arxiv.org/abs/2408.03446)|null|
 |**2024-08-06**|**Masked Random Noise for Communication Efficient Federaetd Learning**|Shiwei Li et.al.|[2408.03220](http://arxiv.org/abs/2408.03220)|**[link](https://github.com/Leopold1423/fedmrn-mm24)**|
 |**2024-08-06**|**FedBAT: Communication-Efficient Federated Learning via Learnable Binarization**|Shiwei Li et.al.|[2408.03215](http://arxiv.org/abs/2408.03215)|**[link](https://github.com/Leopold1423/fedbat-icml24)**|
-|**2024-08-06**|**Personalizing Federated Instrument Segmentation with Visual Trait Priors in Robotic Surgery**|Jialang Xu et.al.|[2408.03208](http://arxiv.org/abs/2408.03208)|null|
+|**2024-08-06**|**Personalizing Federated Instrument Segmentation with Visual Trait Priors in Robotic Surgery**|Jialang Xu et.al.|[2408.03208](http://arxiv.org/abs/2408.03208)|**[link](https://github.com/wzjialang/pfedsis)**|
 |**2024-08-06**|**Federated Learning Architectures: A Performance Evaluation with Crop Yield Prediction Application**|Anwesha Mukherjee et.al.|[2408.02998](http://arxiv.org/abs/2408.02998)|null|
 |**2024-08-06**|**HARMONIC: Harnessing LLMs for Tabular Data Synthesis and Privacy Protection**|Yuxin Wang et.al.|[2408.02927](http://arxiv.org/abs/2408.02927)|null|
 |**2024-08-05**|**Mitigating Malicious Attacks in Federated Learning via Confidence-aware Defense**|Qilei Li et.al.|[2408.02813](http://arxiv.org/abs/2408.02813)|null|
