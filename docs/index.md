@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction**|Jiachi Chen et.al.|[2506.18795](http://arxiv.org/abs/2506.18795)|null|
+|**2025-06-23**|**Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection**|Lei Yu et.al.|[2506.18245](http://arxiv.org/abs/2506.18245)|null|
+|**2025-06-20**|**A Smart Contract-based Non-Transferable Signature Verification System using Nominative Signatures**|Hinata Nishino et.al.|[2506.17504](http://arxiv.org/abs/2506.17504)|null|
 |**2025-06-19**|**Automated Energy Billing with Blockchain and the Prophet Forecasting Model: A Holistic Approach**|Ajesh Thangaraj Nadar et.al.|[2506.16649](http://arxiv.org/abs/2506.16649)|null|
 |**2025-06-18**|**ETrace:Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis**|Chenyang Peng et.al.|[2506.15790](http://arxiv.org/abs/2506.15790)|null|
 |**2025-06-17**|**Optimistic MEV in Ethereum Layer 2s: Why Blockspace Is Always in Demand**|Ozan Solmaz et.al.|[2506.14768](http://arxiv.org/abs/2506.14768)|null|
@@ -926,6 +929,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**PicoSAM2: Low-Latency Segmentation In-Sensor for Edge Vision Applications**|Pietro Bonazzi et.al.|[2506.18807](http://arxiv.org/abs/2506.18807)|null|
+|**2025-06-23**|**Shift Happens: Mixture of Experts based Continual Adaptation in Federated Learning**|Rahul Atul Bhope et.al.|[2506.18789](http://arxiv.org/abs/2506.18789)|null|
+|**2025-06-23**|**Towards Group Fairness with Multiple Sensitive Attributes in Federated Foundation Models**|Yuning Yang et.al.|[2506.18732](http://arxiv.org/abs/2506.18732)|null|
+|**2025-06-23**|**Federated Loss Exploration for Improved Convergence on Non-IID Data**|Christian Internò et.al.|[2506.18640](http://arxiv.org/abs/2506.18640)|null|
+|**2025-06-23**|**Federated Learning from Molecules to Processes: A Perspective**|Jan G. Rittig et.al.|[2506.18525](http://arxiv.org/abs/2506.18525)|null|
+|**2025-06-23**|**Edge Association Strategies for Synthetic Data Empowered Hierarchical Federated Learning with Non-IID Data**|Jer Shyuan Ng et.al.|[2506.18259](http://arxiv.org/abs/2506.18259)|null|
+|**2025-06-22**|**HE-LRM: Encrypted Deep Learning Recommendation Models using Fully Homomorphic Encryption**|Karthik Garimella et.al.|[2506.18150](http://arxiv.org/abs/2506.18150)|null|
+|**2025-06-22**|**Federated Learning-Based Data Collaboration Method for Enhancing Edge Cloud AI System Security Using Large Language Models**|Huaiying Luo et.al.|[2506.18087](http://arxiv.org/abs/2506.18087)|null|
+|**2025-06-22**|**Mechanistic Interpretability in the Presence of Architectural Obfuscation**|Marcos Florencio et.al.|[2506.18053](http://arxiv.org/abs/2506.18053)|null|
+|**2025-06-22**|**Enabling PSO-Secure Synthetic Data Sharing Using Diversity-Aware Diffusion Models**|Mischa Dombrowski et.al.|[2506.17975](http://arxiv.org/abs/2506.17975)|null|
 |**2025-06-20**|**Client Selection Strategies for Federated Semantic Communications in Heterogeneous IoT Networks**|Samer Lahoud et.al.|[2506.17063](http://arxiv.org/abs/2506.17063)|null|
 |**2025-06-20**|**A Novel Approach to Differential Privacy with Alpha Divergence**|Yifeng Liu et.al.|[2506.17012](http://arxiv.org/abs/2506.17012)|null|
 |**2025-06-20**|**Tracker Installations Are Not Created Equal: Understanding Tracker Configuration of Form Data Collection**|Julia B. Kieserman et.al.|[2506.16891](http://arxiv.org/abs/2506.16891)|null|
