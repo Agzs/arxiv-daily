@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -929,7 +929,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-23**|**PicoSAM2: Low-Latency Segmentation In-Sensor for Edge Vision Applications**|Pietro Bonazzi et.al.|[2506.18807](http://arxiv.org/abs/2506.18807)|null|
+|**2025-06-24**|**PicoSAM2: Low-Latency Segmentation In-Sensor for Edge Vision Applications**|Pietro Bonazzi et.al.|[2506.18807](http://arxiv.org/abs/2506.18807)|null|
 |**2025-06-23**|**Shift Happens: Mixture of Experts based Continual Adaptation in Federated Learning**|Rahul Atul Bhope et.al.|[2506.18789](http://arxiv.org/abs/2506.18789)|null|
 |**2025-06-23**|**Towards Group Fairness with Multiple Sensitive Attributes in Federated Foundation Models**|Yuning Yang et.al.|[2506.18732](http://arxiv.org/abs/2506.18732)|null|
 |**2025-06-23**|**Federated Loss Exploration for Improved Convergence on Non-IID Data**|Christian Internò et.al.|[2506.18640](http://arxiv.org/abs/2506.18640)|null|
