@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Decompiling Smart Contracts with a Large Language Model**|Isaac David et.al.|[2506.19624](http://arxiv.org/abs/2506.19624)|null|
+|**2025-06-24**|**PhishingHook: Catching Phishing Ethereum Smart Contracts leveraging EVM Opcodes**|Pasquale De Rosa et.al.|[2506.19480](http://arxiv.org/abs/2506.19480)|null|
+|**2025-06-24**|**Yotta: A Large-Scale Trustless Data Trading Scheme for Blockchain System**|Xiang Liu et.al.|[2506.19368](http://arxiv.org/abs/2506.19368)|null|
+|**2025-06-23**|**Dataset of Yul Contracts to Support Solidity Compiler Research**|Krzysztof Fonal et.al.|[2506.19153](http://arxiv.org/abs/2506.19153)|null|
 |**2025-06-23**|**FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction**|Jiachi Chen et.al.|[2506.18795](http://arxiv.org/abs/2506.18795)|null|
 |**2025-06-23**|**Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection**|Lei Yu et.al.|[2506.18245](http://arxiv.org/abs/2506.18245)|null|
 |**2025-06-20**|**A Smart Contract-based Non-Transferable Signature Verification System using Nominative Signatures**|Hinata Nishino et.al.|[2506.17504](http://arxiv.org/abs/2506.17504)|null|
@@ -929,6 +933,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**LLM-Driven Medical Document Analysis: Enhancing Trustworthy Pathology and Differential Diagnosis**|Lei Kang et.al.|[2506.19702](http://arxiv.org/abs/2506.19702)|null|
+|**2025-06-24**|**Recalling The Forgotten Class Memberships: Unlearned Models Can Be Noisy Labelers to Leak Privacy**|Zhihao Sui et.al.|[2506.19486](http://arxiv.org/abs/2506.19486)|null|
+|**2025-06-24**|**Neural Collapse based Deep Supervised Federated Learning for Signal Detection in OFDM Systems**|Kaidi Xu et.al.|[2506.19476](http://arxiv.org/abs/2506.19476)|null|
+|**2025-06-24**|**ZK-SERIES: Privacy-Preserving Authentication using Temporal Biometric Data**|Daniel Reijsbergen et.al.|[2506.19393](http://arxiv.org/abs/2506.19393)|null|
+|**2025-06-24**|**SoK: Can Synthetic Images Replace Real Data? A Survey of Utility and Privacy of Synthetic Image Generation**|Yunsung Chung et.al.|[2506.19360](http://arxiv.org/abs/2506.19360)|null|
+|**2025-06-24**|**Trajectory Prediction in Dynamic Object Tracking: A Critical Study**|Zhongping Dong et.al.|[2506.19341](http://arxiv.org/abs/2506.19341)|null|
+|**2025-06-24**|**Network Structures as an Attack Surface: Topology-Based Privacy Leakage in Federated Learning**|Murtaza Rangwala et.al.|[2506.19260](http://arxiv.org/abs/2506.19260)|null|
+|**2025-06-24**|**Behavioral Anomaly Detection in Distributed Systems via Federated Contrastive Learning**|Renzi Meng et.al.|[2506.19246](http://arxiv.org/abs/2506.19246)|null|
+|**2025-06-24**|**Private Model Personalization Revisited**|Conor Snedeker et.al.|[2506.19220](http://arxiv.org/abs/2506.19220)|null|
+|**2025-06-23**|**GradualDiff-Fed: A Federated Learning Specialized Framework for Large Language Model**|Amir Faiyaz et.al.|[2506.19164](http://arxiv.org/abs/2506.19164)|null|
 |**2025-06-24**|**PicoSAM2: Low-Latency Segmentation In-Sensor for Edge Vision Applications**|Pietro Bonazzi et.al.|[2506.18807](http://arxiv.org/abs/2506.18807)|null|
 |**2025-06-23**|**Shift Happens: Mixture of Experts based Continual Adaptation in Federated Learning**|Rahul Atul Bhope et.al.|[2506.18789](http://arxiv.org/abs/2506.18789)|null|
 |**2025-06-23**|**Towards Group Fairness with Multiple Sensitive Attributes in Federated Foundation Models**|Yuning Yang et.al.|[2506.18732](http://arxiv.org/abs/2506.18732)|null|
