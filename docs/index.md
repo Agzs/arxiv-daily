@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Enabling Bitcoin Smart Contracts on the Internet Computer**|Ryan Croote et.al.|[2506.21327](http://arxiv.org/abs/2506.21327)|null|
 |**2025-06-24**|**Decompiling Smart Contracts with a Large Language Model**|Isaac David et.al.|[2506.19624](http://arxiv.org/abs/2506.19624)|null|
 |**2025-06-24**|**PhishingHook: Catching Phishing Ethereum Smart Contracts leveraging EVM Opcodes**|Pasquale De Rosa et.al.|[2506.19480](http://arxiv.org/abs/2506.19480)|null|
 |**2025-06-24**|**Yotta: A Large-Scale Trustless Data Trading Scheme for Blockchain System**|Xiang Liu et.al.|[2506.19368](http://arxiv.org/abs/2506.19368)|null|
@@ -765,6 +766,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Polynomial fingerprinting for trees and formulas**|Mihai Prunescu et.al.|[2506.21114](http://arxiv.org/abs/2506.21114)|null|
+|**2025-06-26**|**ZKPROV: A Zero-Knowledge Approach to Dataset Provenance for Large Language Models**|Mina Namazi et.al.|[2506.20915](http://arxiv.org/abs/2506.20915)|null|
 |**2025-06-24**|**Verifiable Unlearning on Edge**|Mohammad M Maheri et.al.|[2506.20037](http://arxiv.org/abs/2506.20037)|null|
 |**2025-06-20**|**Zero-Knowledge Proof-of-Location Protocols for Vehicle Subsidies and Taxation Compliance**|Dan Bogdanov et.al.|[2506.16812](http://arxiv.org/abs/2506.16812)|null|
 |**2025-06-19**|**Emission Impossible: privacy-preserving carbon emissions claims**|Jessica Man et.al.|[2506.16347](http://arxiv.org/abs/2506.16347)|null|
@@ -934,6 +937,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Balancing Privacy and Utility in Correlated Data: A Study of Bayesian Differential Privacy**|Martin Lange et.al.|[2506.21308](http://arxiv.org/abs/2506.21308)|null|
+|**2025-06-26**|**Personalized Federated Learning via Dual-Prompt Optimization and Cross Fusion**|Yuguang Zhang et.al.|[2506.21144](http://arxiv.org/abs/2506.21144)|null|
+|**2025-06-26**|**FeDa4Fair: Client-Level Federated Datasets for Fairness Evaluation**|Xenia Heilmann et.al.|[2506.21095](http://arxiv.org/abs/2506.21095)|null|
+|**2025-06-26**|**FedDAA: Dynamic Client Clustering for Concept Drift Adaptation in Federated Learning**|Fu Peng et.al.|[2506.21054](http://arxiv.org/abs/2506.21054)|null|
+|**2025-06-26**|**An Information-Theoretic Analysis for Federated Learning under Concept Drift**|Fu Peng et.al.|[2506.21036](http://arxiv.org/abs/2506.21036)|null|
+|**2025-06-26**|**FedSC: Federated Learning with Semantic-Aware Collaboration**|Huan Wang et.al.|[2506.21012](http://arxiv.org/abs/2506.21012)|null|
+|**2025-06-26**|**PrivacyGo: Privacy-Preserving Ad Measurement with Multidimensional Intersection**|Jian Du et.al.|[2506.20981](http://arxiv.org/abs/2506.20981)|null|
+|**2025-06-26**|**SPA: Towards More Stealth and Persistent Backdoor Attacks in Federated Learning**|Chengcheng Zhu et.al.|[2506.20931](http://arxiv.org/abs/2506.20931)|null|
+|**2025-06-26**|**ZKPROV: A Zero-Knowledge Approach to Dataset Provenance for Large Language Models**|Mina Namazi et.al.|[2506.20915](http://arxiv.org/abs/2506.20915)|null|
+|**2025-06-25**|**Empowering Digital Agriculture: A Privacy-Preserving Framework for Data Sharing and Collaborative Research**|Osama Zafar et.al.|[2506.20872](http://arxiv.org/abs/2506.20872)|null|
 |**2025-06-25**|**Hear No Evil: Detecting Gradient Leakage by Malicious Servers in Federated Learning**|Fei Wang et.al.|[2506.20651](http://arxiv.org/abs/2506.20651)|null|
 |**2025-06-25**|**Efficient Federated Learning with Encrypted Data Sharing for Data-Heterogeneous Edge Devices**|Hangyu Li et.al.|[2506.20644](http://arxiv.org/abs/2506.20644)|null|
 |**2025-06-25**|**WallStreetFeds: Client-Specific Tokens as Investment Vehicles in Federated Learning**|Arno Geimer et.al.|[2506.20518](http://arxiv.org/abs/2506.20518)|null|
