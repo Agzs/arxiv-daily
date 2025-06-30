@@ -979,8 +979,8 @@ layout: default
 |**2025-06-22**|**Enabling PSO-Secure Synthetic Data Sharing Using Diversity-Aware Diffusion Models**|Mischa Dombrowski et.al.|[2506.17975](http://arxiv.org/abs/2506.17975)|null|
 |**2025-06-20**|**Client Selection Strategies for Federated Semantic Communications in Heterogeneous IoT Networks**|Samer Lahoud et.al.|[2506.17063](http://arxiv.org/abs/2506.17063)|null|
 |**2025-06-20**|**A Novel Approach to Differential Privacy with Alpha Divergence**|Yifeng Liu et.al.|[2506.17012](http://arxiv.org/abs/2506.17012)|null|
-|**2025-06-20**|**Tracker Installations Are Not Created Equal: Understanding Tracker Configuration of Form Data Collection**|Julia B. Kieserman et.al.|[2506.16891](http://arxiv.org/abs/2506.16891)|null|
-|**2025-06-20**|**FedFitTech: A Baseline in Federated Learning for Fitness Tracking**|Zeyneddin Oz et.al.|[2506.16840](http://arxiv.org/abs/2506.16840)|null|
+|**2025-06-20**|**Tracker Installations Are Not Created Equal: Understanding Tracker Configuration of Form Data Collection**|Julia B. Kieserman et.al.|[2506.16891](http://arxiv.org/abs/2506.16891)|**[link](https://github.com/cybersecurityfordemocracy/trackers-not-equal)**|
+|**2025-06-20**|**FedFitTech: A Baseline in Federated Learning for Fitness Tracking**|Zeyneddin Oz et.al.|[2506.16840](http://arxiv.org/abs/2506.16840)|**[link](https://github.com/adap/flower)**|
 |**2025-06-20**|**Zero-Knowledge Proof-of-Location Protocols for Vehicle Subsidies and Taxation Compliance**|Dan Bogdanov et.al.|[2506.16812](http://arxiv.org/abs/2506.16812)|null|
 |**2025-06-20**|**Incentivizing High-quality Participation From Federated Learning Agents**|Jinlong Pang et.al.|[2506.16731](http://arxiv.org/abs/2506.16731)|null|
 |**2025-06-20**|**TriCon-SF: A Triple-Shuffle and Contribution-Aware Serial Federated Learning Framework for Heterogeneous Healthcare Data**|Yuping Yan et.al.|[2506.16723](http://arxiv.org/abs/2506.16723)|null|
