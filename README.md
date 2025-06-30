@@ -20,6 +20,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Reliability Analysis of Smart Contract Execution Architectures: A Comparative Simulation Study**|Önder Gürcan et.al.|[2506.22180](http://arxiv.org/abs/2506.22180)|null|
+|**2025-06-27**|**Optimal Benchmark Design under Costly Manipulation**|Ángel Hernando-Veciana et.al.|[2506.22142](http://arxiv.org/abs/2506.22142)|null|
+|**2025-06-27**|**Pseudo-Equilibria, or: How to Stop Worrying About Crypto and Just Analyze the Game**|Alexandros Psomas et.al.|[2506.22089](http://arxiv.org/abs/2506.22089)|null|
+|**2025-06-26**|**Monetary Macro Accounting Theory**|Renéee Menéndez et.al.|[2506.21651](http://arxiv.org/abs/2506.21651)|null|
 |**2025-06-27**|**Enabling Bitcoin Smart Contracts on the Internet Computer**|Ryan Croote et.al.|[2506.21327](http://arxiv.org/abs/2506.21327)|null|
 |**2025-06-24**|**Decompiling Smart Contracts with a Large Language Model**|Isaac David et.al.|[2506.19624](http://arxiv.org/abs/2506.19624)|null|
 |**2025-06-24**|**PhishingHook: Catching Phishing Ethereum Smart Contracts leveraging EVM Opcodes**|Pasquale De Rosa et.al.|[2506.19480](http://arxiv.org/abs/2506.19480)|null|
@@ -949,6 +953,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**CLoVE: Personalized Federated Learning through Clustering of Loss Vector Embeddings**|Randeep Bhatia et.al.|[2506.22427](http://arxiv.org/abs/2506.22427)|null|
+|**2025-06-27**|**Sheaf-Based Decentralized Multimodal Learning for Next-Generation Wireless Communication Systems**|Abdulmomen Ghalkha et.al.|[2506.22374](http://arxiv.org/abs/2506.22374)|null|
+|**2025-06-27**|**A Framework for Multi-source Privacy Preserving Epidemic Analysis**|Zihan Guan et.al.|[2506.22342](http://arxiv.org/abs/2506.22342)|null|
+|**2025-06-27**|**dreaMLearning: Data Compression Assisted Machine Learning**|Xiaobo Zhao et.al.|[2506.22190](http://arxiv.org/abs/2506.22190)|null|
+|**2025-06-27**|**INTACT: Compact Storage of Data Streams in Mobile Devices to Unlock User Privacy at the Edge**|Rémy Raes et.al.|[2506.21998](http://arxiv.org/abs/2506.21998)|null|
+|**2025-06-27**|**Improving Convergence for Semi-Federated Learning: An Energy-Efficient Approach by Manipulating Over-the-Air Distortion**|Jingheng Zheng et.al.|[2506.21893](http://arxiv.org/abs/2506.21893)|null|
+|**2025-06-26**|**Federated Item Response Theory Models**|Biying Zhou et.al.|[2506.21744](http://arxiv.org/abs/2506.21744)|null|
+|**2025-06-26**|**Equitable Federated Learning with NCA**|Nick Lemke et.al.|[2506.21735](http://arxiv.org/abs/2506.21735)|null|
 |**2025-06-26**|**Balancing Privacy and Utility in Correlated Data: A Study of Bayesian Differential Privacy**|Martin Lange et.al.|[2506.21308](http://arxiv.org/abs/2506.21308)|null|
 |**2025-06-26**|**Personalized Federated Learning via Dual-Prompt Optimization and Cross Fusion**|Yuguang Zhang et.al.|[2506.21144](http://arxiv.org/abs/2506.21144)|null|
 |**2025-06-26**|**FeDa4Fair: Client-Level Federated Datasets for Fairness Evaluation**|Xenia Heilmann et.al.|[2506.21095](http://arxiv.org/abs/2506.21095)|null|
