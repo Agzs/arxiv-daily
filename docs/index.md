@@ -770,7 +770,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-26**|**Polynomial fingerprinting for trees and formulas**|Mihai Prunescu et.al.|[2506.21114](http://arxiv.org/abs/2506.21114)|null|
+|**2025-06-30**|**On the Unimodular Isomorphism Problem of Convex Lattice Polytopes**|Qiuyue Liu et.al.|[2506.23846](http://arxiv.org/abs/2506.23846)|null|
+|**2025-06-30**|**Polynomial fingerprinting for trees and formulas**|Mihai Prunescu et.al.|[2506.21114](http://arxiv.org/abs/2506.21114)|null|
 |**2025-06-26**|**ZKPROV: A Zero-Knowledge Approach to Dataset Provenance for Large Language Models**|Mina Namazi et.al.|[2506.20915](http://arxiv.org/abs/2506.20915)|null|
 |**2025-06-24**|**Verifiable Unlearning on Edge**|Mohammad M Maheri et.al.|[2506.20037](http://arxiv.org/abs/2506.20037)|null|
 |**2025-06-20**|**Zero-Knowledge Proof-of-Location Protocols for Vehicle Subsidies and Taxation Compliance**|Dan Bogdanov et.al.|[2506.16812](http://arxiv.org/abs/2506.16812)|null|
@@ -941,6 +942,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Differentially Private Synthetic Data Release for Topics API Outputs**|Travis Dick et.al.|[2506.23855](http://arxiv.org/abs/2506.23855)|null|
+|**2025-06-30**|**Proving the Limited Scalability of Centralized Distributed Optimization via a New Lower Bound Construction**|Alexander Tyurin et.al.|[2506.23836](http://arxiv.org/abs/2506.23836)|null|
+|**2025-06-30**|**Spatio-Temporal Representation Decoupling and Enhancement for Federated Instrument Segmentation in Surgical Videos**|Zheng Fang et.al.|[2506.23759](http://arxiv.org/abs/2506.23759)|null|
+|**2025-06-30**|**Asymptotically Optimal Secure Aggregation for Wireless Federated Learning with Multiple Servers**|Zhenhao Huang et.al.|[2506.23680](http://arxiv.org/abs/2506.23680)|null|
+|**2025-06-30**|**Privacy-Preserving Federated Learning Scheme with Mitigating Model Poisoning Attacks: Vulnerabilities and Countermeasures**|Jiahui Wu et.al.|[2506.23622](http://arxiv.org/abs/2506.23622)|null|
+|**2025-06-30**|**SoK: Semantic Privacy in Large Language Models**|Baihe Ma et.al.|[2506.23603](http://arxiv.org/abs/2506.23603)|null|
+|**2025-06-30**|**Detect \& Score: Privacy-Preserving Misbehaviour Detection and Contribution Evaluation in Federated Learning**|Marvin Xhemrishi et.al.|[2506.23583](http://arxiv.org/abs/2506.23583)|null|
+|**2025-06-30**|**Lightweight Temporal Transformer Decomposition for Federated Autonomous Driving**|Tuong Do et.al.|[2506.23523](http://arxiv.org/abs/2506.23523)|null|
+|**2025-06-30**|**FedWSQ: Efficient Federated Learning with Weight Standardization and Distribution-Aware Non-Uniform Quantization**|Seung-Wook Kim et.al.|[2506.23516](http://arxiv.org/abs/2506.23516)|null|
+|**2025-06-29**|**Federated Breast Cancer Detection Enhanced by Synthetic Ultrasound Image Augmentation**|Hongyi Pan et.al.|[2506.23334](http://arxiv.org/abs/2506.23334)|null|
 |**2025-06-27**|**CLoVE: Personalized Federated Learning through Clustering of Loss Vector Embeddings**|Randeep Bhatia et.al.|[2506.22427](http://arxiv.org/abs/2506.22427)|null|
 |**2025-06-27**|**Sheaf-Based Decentralized Multimodal Learning for Next-Generation Wireless Communication Systems**|Abdulmomen Ghalkha et.al.|[2506.22374](http://arxiv.org/abs/2506.22374)|null|
 |**2025-06-27**|**A Framework for Multi-source Privacy Preserving Epidemic Analysis**|Zihan Guan et.al.|[2506.22342](http://arxiv.org/abs/2506.22342)|null|
