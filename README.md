@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-01**|**Decentralised Multi-Manager Fund Framework**|Arman Abgaryan et.al.|[2507.00978](http://arxiv.org/abs/2507.00978)|null|
+|**2025-06-30**|**Intellectual Property Rights and Entrepreneurship in the NFT Ecosystem: Legal Frameworks, Business Models, and Innovation Opportunities**|Pranav Darshan et.al.|[2507.00172](http://arxiv.org/abs/2507.00172)|null|
 |**2025-06-27**|**Reliability Analysis of Smart Contract Execution Architectures: A Comparative Simulation Study**|Önder Gürcan et.al.|[2506.22180](http://arxiv.org/abs/2506.22180)|null|
 |**2025-06-27**|**Optimal Benchmark Design under Costly Manipulation**|Ángel Hernando-Veciana et.al.|[2506.22142](http://arxiv.org/abs/2506.22142)|null|
 |**2025-06-27**|**Pseudo-Equilibria, or: How to Stop Worrying About Crypto and Just Analyze the Game**|Alexandros Psomas et.al.|[2506.22089](http://arxiv.org/abs/2506.22089)|null|
@@ -954,6 +956,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Empowering Manufacturers with Privacy-Preserving AI Tools: A Case Study in Privacy-Preserving Machine Learning to Solve Real-World Problems**|Xiaoyu Ji et.al.|[2507.01808](http://arxiv.org/abs/2507.01808)|null|
+|**2025-07-02**|**Graph Representation-based Model Poisoning on Federated LLMs in CyberEdge Networks**|Hanlin Cai et.al.|[2507.01694](http://arxiv.org/abs/2507.01694)|null|
+|**2025-07-02**|**EGNInfoLeaker: Unveiling the Risks of Public Key Reuse and User Identity Leakage in Blockchain**|Chenyu Li et.al.|[2507.01635](http://arxiv.org/abs/2507.01635)|null|
+|**2025-07-02**|**A Privacy-Preserving Indoor Localization System based on Hierarchical Federated Learning**|Masood Jan et.al.|[2507.01581](http://arxiv.org/abs/2507.01581)|null|
+|**2025-07-02**|**Vision-Aided ISAC in Low-Altitude Economy Networks via De-Diffused Visual Priors**|Yulan Gao et.al.|[2507.01574](http://arxiv.org/abs/2507.01574)|null|
+|**2025-07-02**|**Cybersecurity Issues in Local Energy Markets**|Al Hussein Dabashi et.al.|[2507.01536](http://arxiv.org/abs/2507.01536)|null|
+|**2025-07-02**|**How to Securely Shuffle? A survey about Secure Shufflers for privacy-preserving computations**|Marc Damie et.al.|[2507.01487](http://arxiv.org/abs/2507.01487)|null|
+|**2025-07-02**|**Far From Sight, Far From Mind: Inverse Distance Weighting for Graph Federated Recommendation**|Aymen Rayane Khouas et.al.|[2507.01285](http://arxiv.org/abs/2507.01285)|null|
+|**2025-07-01**|**FlashDP: Private Training Large Language Models with Efficient DP-SGD**|Liangyu Wang et.al.|[2507.01154](http://arxiv.org/abs/2507.01154)|null|
+|**2025-07-01**|**Privacy-Preserving Quantized Federated Learning with Diverse Precision**|Dang Qua Nguyen et.al.|[2507.00920](http://arxiv.org/abs/2507.00920)|null|
 |**2025-06-30**|**Differentially Private Synthetic Data Release for Topics API Outputs**|Travis Dick et.al.|[2506.23855](http://arxiv.org/abs/2506.23855)|null|
 |**2025-06-30**|**Proving the Limited Scalability of Centralized Distributed Optimization via a New Lower Bound Construction**|Alexander Tyurin et.al.|[2506.23836](http://arxiv.org/abs/2506.23836)|null|
 |**2025-06-30**|**Spatio-Temporal Representation Decoupling and Enhancement for Federated Instrument Segmentation in Surgical Videos**|Zheng Fang et.al.|[2506.23759](http://arxiv.org/abs/2506.23759)|null|
