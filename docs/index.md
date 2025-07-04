@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -953,7 +953,7 @@ layout: default
 |**2025-07-02**|**How to Securely Shuffle? A survey about Secure Shufflers for privacy-preserving computations**|Marc Damie et.al.|[2507.01487](http://arxiv.org/abs/2507.01487)|null|
 |**2025-07-02**|**Far From Sight, Far From Mind: Inverse Distance Weighting for Graph Federated Recommendation**|Aymen Rayane Khouas et.al.|[2507.01285](http://arxiv.org/abs/2507.01285)|null|
 |**2025-07-01**|**FlashDP: Private Training Large Language Models with Efficient DP-SGD**|Liangyu Wang et.al.|[2507.01154](http://arxiv.org/abs/2507.01154)|null|
-|**2025-07-01**|**Privacy-Preserving Quantized Federated Learning with Diverse Precision**|Dang Qua Nguyen et.al.|[2507.00920](http://arxiv.org/abs/2507.00920)|null|
+|**2025-07-03**|**Privacy-Preserving Quantized Federated Learning with Diverse Precision**|Dang Qua Nguyen et.al.|[2507.00920](http://arxiv.org/abs/2507.00920)|null|
 |**2025-06-30**|**Differentially Private Synthetic Data Release for Topics API Outputs**|Travis Dick et.al.|[2506.23855](http://arxiv.org/abs/2506.23855)|null|
 |**2025-06-30**|**Proving the Limited Scalability of Centralized Distributed Optimization via a New Lower Bound Construction**|Alexander Tyurin et.al.|[2506.23836](http://arxiv.org/abs/2506.23836)|null|
 |**2025-06-30**|**Spatio-Temporal Representation Decoupling and Enhancement for Federated Instrument Segmentation in Surgical Videos**|Zheng Fang et.al.|[2506.23759](http://arxiv.org/abs/2506.23759)|null|
