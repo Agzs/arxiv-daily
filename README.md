@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Real-Time Monitoring and Transparency in Pizza Production Using IoT and Blockchain**|Azmat Ullah et.al.|[2507.02536](http://arxiv.org/abs/2507.02536)|null|
 |**2025-07-01**|**Decentralised Multi-Manager Fund Framework**|Arman Abgaryan et.al.|[2507.00978](http://arxiv.org/abs/2507.00978)|null|
 |**2025-06-30**|**Intellectual Property Rights and Entrepreneurship in the NFT Ecosystem: Legal Frameworks, Business Models, and Innovation Opportunities**|Pranav Darshan et.al.|[2507.00172](http://arxiv.org/abs/2507.00172)|null|
 |**2025-06-27**|**Reliability Analysis of Smart Contract Execution Architectures: A Comparative Simulation Study**|Önder Gürcan et.al.|[2506.22180](http://arxiv.org/abs/2506.22180)|null|
@@ -694,6 +695,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**A Midsummer Meme's Dream: Investigating Market Manipulations in the Meme Coin Ecosystem**|Alberto Maria Mongardini et.al.|[2507.01963](http://arxiv.org/abs/2507.01963)|null|
 |**2025-06-15**|**Automated Risk Management Mechanisms in DeFi Lending Protocols: A Crosschain Comparative Analysis of Aave and Compound**|Erum Iftikhar et.al.|[2506.12855](http://arxiv.org/abs/2506.12855)|**[link](https://github.com/ErumIftikhar/DefiLending_Data_Code)**|
 |**2025-06-06**|**Hybrid Stabilization Protocol for Cross-Chain Digital Assets Using Adaptor Signatures and AI-Driven Arbitrage**|Shengwei You et.al.|[2506.05708](http://arxiv.org/abs/2506.05708)|null|
 |**2025-05-30**|**Singularity Protocol for Cross Chain AMM without Intermediate Tokens or Bridges**|Sumit Vohra et.al.|[2505.24337](http://arxiv.org/abs/2505.24337)|null|
@@ -956,6 +958,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Fluid Democracy in Federated Data Aggregation**|Aditya Vema Reddy Kesari et.al.|[2507.02710](http://arxiv.org/abs/2507.02710)|null|
+|**2025-07-03**|**Embedding-Based Federated Data Sharing via Differentially Private Conditional VAEs**|Francesco Di Salvo et.al.|[2507.02671](http://arxiv.org/abs/2507.02671)|null|
+|**2025-07-03**|**Privacy-preserving Preselection for Face Identification Based on Packing**|Rundong Xin et.al.|[2507.02414](http://arxiv.org/abs/2507.02414)|null|
+|**2025-07-03**|**S2FGL: Spatial Spectral Federated Graph Learning**|Zihan Tan et.al.|[2507.02409](http://arxiv.org/abs/2507.02409)|null|
+|**2025-07-03**|**VeFIA: An Efficient Inference Auditing Framework for Vertical Federated Collaborative Software**|Chung-ju Huang et.al.|[2507.02376](http://arxiv.org/abs/2507.02376)|null|
+|**2025-07-03**|**Flotilla: A scalable, modular and resilient federated learning framework for heterogeneous resources**|Roopkatha Banerjee et.al.|[2507.02295](http://arxiv.org/abs/2507.02295)|null|
+|**2025-07-02**|**REDUS: Adaptive Resampling for Efficient Deep Learning in Centralized and Federated IoT Networks**|Eyad Gad et.al.|[2507.02021](http://arxiv.org/abs/2507.02021)|null|
 |**2025-07-02**|**Empowering Manufacturers with Privacy-Preserving AI Tools: A Case Study in Privacy-Preserving Machine Learning to Solve Real-World Problems**|Xiaoyu Ji et.al.|[2507.01808](http://arxiv.org/abs/2507.01808)|null|
 |**2025-07-02**|**Graph Representation-based Model Poisoning on Federated LLMs in CyberEdge Networks**|Hanlin Cai et.al.|[2507.01694](http://arxiv.org/abs/2507.01694)|null|
 |**2025-07-02**|**EGNInfoLeaker: Unveiling the Risks of Public Key Reuse and User Identity Leakage in Blockchain**|Chenyu Li et.al.|[2507.01635](http://arxiv.org/abs/2507.01635)|null|
