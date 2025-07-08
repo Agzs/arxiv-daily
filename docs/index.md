@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-06**|**Static Analysis for Detecting Transaction Conflicts in Ethereum Smart Contracts**|Zareh Chahoki Atefeh et.al.|[2507.04357](http://arxiv.org/abs/2507.04357)|null|
+|**2025-07-04**|**Willchain: Decentralized, Privacy-Preserving, Self-Executing, Digital Wills**|Jovonni L. PHarr et.al.|[2507.03694](http://arxiv.org/abs/2507.03694)|null|
+|**2025-07-04**|**Novel Blockchain-based Protocols for Electronic Voting and Auctions**|Zhaorun Lin et.al.|[2507.03258](http://arxiv.org/abs/2507.03258)|null|
 |**2025-07-03**|**Real-Time Monitoring and Transparency in Pizza Production Using IoT and Blockchain**|Azmat Ullah et.al.|[2507.02536](http://arxiv.org/abs/2507.02536)|null|
 |**2025-07-01**|**Decentralised Multi-Manager Fund Framework**|Arman Abgaryan et.al.|[2507.00978](http://arxiv.org/abs/2507.00978)|null|
 |**2025-06-30**|**Intellectual Property Rights and Entrepreneurship in the NFT Ecosystem: Legal Frameworks, Business Models, and Innovation Opportunities**|Pranav Darshan et.al.|[2507.00172](http://arxiv.org/abs/2507.00172)|null|
@@ -946,6 +949,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Cooperative Gradient Coding**|Shudi Weng et.al.|[2507.05230](http://arxiv.org/abs/2507.05230)|null|
+|**2025-07-07**|**Blind Targeting: Personalization under Third-Party Privacy Constraints**|Anya Shchetkina et.al.|[2507.05175](http://arxiv.org/abs/2507.05175)|null|
+|**2025-07-07**|**A Federated Learning-based Lightweight Network with Zero Trust for UAV Authentication**|Hao Zhang et.al.|[2507.05111](http://arxiv.org/abs/2507.05111)|null|
+|**2025-07-07**|**Silent Failures in Stateless Systems: Rethinking Anomaly Detection for Serverless Computing**|Chanh Nguyen et.al.|[2507.04969](http://arxiv.org/abs/2507.04969)|null|
+|**2025-07-07**|**BackFed: An Efficient & Standardized Benchmark Suite for Backdoor Attacks in Federated Learning**|Thinh Dao et.al.|[2507.04903](http://arxiv.org/abs/2507.04903)|null|
+|**2025-07-07**|**Kalman Filter Aided Federated Koopman Learning**|Yutao Chen et.al.|[2507.04808](http://arxiv.org/abs/2507.04808)|null|
+|**2025-07-07**|**FedPall: Prototype-based Adversarial and Collaborative Learning for Federated Learning with Feature Drift**|Yong Zhang et.al.|[2507.04781](http://arxiv.org/abs/2507.04781)|null|
+|**2025-07-07**|**FIDESlib: A Fully-Fledged Open-Source FHE Library for Efficient CKKS on GPUs**|Carlos Agulló-Domingo et.al.|[2507.04775](http://arxiv.org/abs/2507.04775)|null|
+|**2025-07-07**|**CoSteer: Collaborative Decoding-Time Personalization via Local Delta Steering**|Hang Lv et.al.|[2507.04756](http://arxiv.org/abs/2507.04756)|null|
+|**2025-07-07**|**"This Suits You the Best": Query Focused Comparative Explainable Summarization**|Arnav Attri et.al.|[2507.04733](http://arxiv.org/abs/2507.04733)|null|
 |**2025-07-03**|**Fluid Democracy in Federated Data Aggregation**|Aditya Vema Reddy Kesari et.al.|[2507.02710](http://arxiv.org/abs/2507.02710)|null|
 |**2025-07-03**|**Embedding-Based Federated Data Sharing via Differentially Private Conditional VAEs**|Francesco Di Salvo et.al.|[2507.02671](http://arxiv.org/abs/2507.02671)|null|
 |**2025-07-03**|**Privacy-preserving Preselection for Face Identification Based on Packing**|Rundong Xin et.al.|[2507.02414](http://arxiv.org/abs/2507.02414)|null|
