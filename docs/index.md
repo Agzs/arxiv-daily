@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Wrapless: The trustless lending protocol on top of Bitcoin**|Oleksandr Kurbatov et.al.|[2507.06064](http://arxiv.org/abs/2507.06064)|null|
+|**2025-07-08**|**Programmable Governance for Group-Controlled Decentralized Identifiers**|Carlo Segat et.al.|[2507.06001](http://arxiv.org/abs/2507.06001)|null|
+|**2025-07-08**|**AI Agent Smart Contract Exploit Generation**|Arthur Gervais et.al.|[2507.05558](http://arxiv.org/abs/2507.05558)|null|
+|**2025-07-07**|**The Feasibility of MBSs as Decentralized Autonomous Organizations**|Timothy Dombrowski et.al.|[2507.05439](http://arxiv.org/abs/2507.05439)|null|
 |**2025-07-06**|**Static Analysis for Detecting Transaction Conflicts in Ethereum Smart Contracts**|Zareh Chahoki Atefeh et.al.|[2507.04357](http://arxiv.org/abs/2507.04357)|null|
 |**2025-07-04**|**Willchain: Decentralized, Privacy-Preserving, Self-Executing, Digital Wills**|Jovonni L. PHarr et.al.|[2507.03694](http://arxiv.org/abs/2507.03694)|null|
 |**2025-07-04**|**Novel Blockchain-based Protocols for Electronic Voting and Auctions**|Zhaorun Lin et.al.|[2507.03258](http://arxiv.org/abs/2507.03258)|null|
@@ -690,6 +694,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Hedge Funds on a Swamp: Analyzing Patterns, Vulnerabilities, and Defense Measures in Blockchain Bridges [Experiment, Analysis \& Benchmark]**|Poupak Azad et.al.|[2507.06156](http://arxiv.org/abs/2507.06156)|null|
 |**2025-04-16**|**A Midsummer Meme's Dream: Investigating Market Manipulations in the Meme Coin Ecosystem**|Alberto Maria Mongardini et.al.|[2507.01963](http://arxiv.org/abs/2507.01963)|null|
 |**2025-06-15**|**Automated Risk Management Mechanisms in DeFi Lending Protocols: A Crosschain Comparative Analysis of Aave and Compound**|Erum Iftikhar et.al.|[2506.12855](http://arxiv.org/abs/2506.12855)|**[link](https://github.com/ErumIftikhar/DefiLending_Data_Code)**|
 |**2025-06-06**|**Hybrid Stabilization Protocol for Cross-Chain Digital Assets Using Adaptor Signatures and AI-Driven Arbitrage**|Shengwei You et.al.|[2506.05708](http://arxiv.org/abs/2506.05708)|null|
@@ -777,6 +782,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-05**|**zkSDK: Streamlining zero-knowledge proof development through automated trace-driven ZK-backend selection**|William Law et.al.|[2507.05294](http://arxiv.org/abs/2507.05294)|null|
 |**2025-06-30**|**On the Unimodular Isomorphism Problem of Convex Lattice Polytopes**|Qiuyue Liu et.al.|[2506.23846](http://arxiv.org/abs/2506.23846)|null|
 |**2025-06-30**|**Polynomial fingerprinting for trees and formulas**|Mihai Prunescu et.al.|[2506.21114](http://arxiv.org/abs/2506.21114)|null|
 |**2025-06-26**|**ZKPROV: A Zero-Knowledge Approach to Dataset Provenance for Large Language Models**|Mina Namazi et.al.|[2506.20915](http://arxiv.org/abs/2506.20915)|null|
@@ -949,6 +955,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**QuHE: Optimizing Utility-Cost in Quantum Key Distribution and Homomorphic Encryption Enabled Secure Edge Computing Networks**|Liangxin Qian et.al.|[2507.06086](http://arxiv.org/abs/2507.06086)|null|
+|**2025-07-08**|**Efficient Federated Learning with Timely Update Dissemination**|Juncheng Jia et.al.|[2507.06031](http://arxiv.org/abs/2507.06031)|null|
+|**2025-07-08**|**LDP $^3$ : An Extensible and Multi-Threaded Toolkit for Local Differential Privacy Protocols and Post-Processing Methods**|Berkay Kemal Balioglu et.al.|[2507.05872](http://arxiv.org/abs/2507.05872)|null|
+|**2025-07-08**|**Communication-Efficient Module-Wise Federated Learning for Grasp Pose Detection in Cluttered Environments**|Woonsang Kang et.al.|[2507.05861](http://arxiv.org/abs/2507.05861)|null|
+|**2025-07-08**|**Prototype-Guided and Lightweight Adapters for Inherent Interpretation and Generalisation in Federated Learning**|Samuel Ofosu Mensah et.al.|[2507.05852](http://arxiv.org/abs/2507.05852)|null|
+|**2025-07-08**|**Air-FedGA: A Grouping Asynchronous Federated Learning Mechanism Exploiting Over-the-air Computation**|Qianpiao Ma et.al.|[2507.05704](http://arxiv.org/abs/2507.05704)|null|
+|**2025-07-08**|**Efficient Training of Large-Scale AI Models Through Federated Mixture-of-Experts: A System-Level Approach**|Xiaobing Chen et.al.|[2507.05685](http://arxiv.org/abs/2507.05685)|null|
+|**2025-07-08**|**DESIGN: Encrypted GNN Inference via Server-Side Input Graph Pruning**|Kaixiang Zhao et.al.|[2507.05649](http://arxiv.org/abs/2507.05649)|null|
+|**2025-07-07**|**PROTEAN: Federated Intrusion Detection in Non-IID Environments through Prototype-Based Knowledge Sharing**|Sara Chennoufi et.al.|[2507.05524](http://arxiv.org/abs/2507.05524)|null|
+|**2025-07-07**|**pFedMMA: Personalized Federated Fine-Tuning with Multi-Modal Adapter for Vision-Language Models**|Sajjad Ghiasvand et.al.|[2507.05394](http://arxiv.org/abs/2507.05394)|null|
 |**2025-07-07**|**Cooperative Gradient Coding**|Shudi Weng et.al.|[2507.05230](http://arxiv.org/abs/2507.05230)|null|
 |**2025-07-07**|**Blind Targeting: Personalization under Third-Party Privacy Constraints**|Anya Shchetkina et.al.|[2507.05175](http://arxiv.org/abs/2507.05175)|null|
 |**2025-07-07**|**A Federated Learning-based Lightweight Network with Zero Trust for UAV Authentication**|Hao Zhang et.al.|[2507.05111](http://arxiv.org/abs/2507.05111)|null|
