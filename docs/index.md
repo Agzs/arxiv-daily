@@ -7,16 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-08**|**Wrapless: The trustless lending protocol on top of Bitcoin**|Oleksandr Kurbatov et.al.|[2507.06064](http://arxiv.org/abs/2507.06064)|null|
+|**2025-07-09**|**Wrapless: The trustless lending protocol on top of Bitcoin**|Oleksandr Kurbatov et.al.|[2507.06064](http://arxiv.org/abs/2507.06064)|null|
 |**2025-07-08**|**Programmable Governance for Group-Controlled Decentralized Identifiers**|Carlo Segat et.al.|[2507.06001](http://arxiv.org/abs/2507.06001)|null|
-|**2025-07-08**|**AI Agent Smart Contract Exploit Generation**|Arthur Gervais et.al.|[2507.05558](http://arxiv.org/abs/2507.05558)|null|
+|**2025-07-09**|**AI Agent Smart Contract Exploit Generation**|Arthur Gervais et.al.|[2507.05558](http://arxiv.org/abs/2507.05558)|null|
 |**2025-07-07**|**The Feasibility of MBSs as Decentralized Autonomous Organizations**|Timothy Dombrowski et.al.|[2507.05439](http://arxiv.org/abs/2507.05439)|null|
 |**2025-07-06**|**Static Analysis for Detecting Transaction Conflicts in Ethereum Smart Contracts**|Zareh Chahoki Atefeh et.al.|[2507.04357](http://arxiv.org/abs/2507.04357)|null|
 |**2025-07-04**|**Willchain: Decentralized, Privacy-Preserving, Self-Executing, Digital Wills**|Jovonni L. PHarr et.al.|[2507.03694](http://arxiv.org/abs/2507.03694)|null|
