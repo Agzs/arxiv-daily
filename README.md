@@ -792,6 +792,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**ZKTorch: Compiling ML Inference to Zero-Knowledge Proofs via Parallel Proof Accumulation**|Bing-Jyue Chen et.al.|[2507.07031](http://arxiv.org/abs/2507.07031)|null|
 |**2025-07-05**|**zkSDK: Streamlining zero-knowledge proof development through automated trace-driven ZK-backend selection**|William Law et.al.|[2507.05294](http://arxiv.org/abs/2507.05294)|null|
 |**2025-06-30**|**On the Unimodular Isomorphism Problem of Convex Lattice Polytopes**|Qiuyue Liu et.al.|[2506.23846](http://arxiv.org/abs/2506.23846)|null|
 |**2025-06-30**|**Polynomial fingerprinting for trees and formulas**|Mihai Prunescu et.al.|[2506.21114](http://arxiv.org/abs/2506.21114)|null|
@@ -967,6 +968,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-09**|**Non-Asymptotic Analysis of Online Local Private Learning with SGD**|Enze Shi et.al.|[2507.07041](http://arxiv.org/abs/2507.07041)|null|
+|**2025-07-09**|**Federated Learning-based MARL for Strengthening Physical-Layer Security in B5G Networks**|Deemah H. Tashman et.al.|[2507.06997](http://arxiv.org/abs/2507.06997)|null|
+|**2025-07-09**|**Intrinsic Training Signals for Federated Learning Aggregation**|Cosimo Fiorini et.al.|[2507.06813](http://arxiv.org/abs/2507.06813)|null|
+|**2025-07-09**|**Tailoring deep learning for real-time brain-computer interfaces: From offline models to calibration-free online decoding**|Martin Wimpff et.al.|[2507.06779](http://arxiv.org/abs/2507.06779)|null|
+|**2025-07-09**|**Federated Learning Inspired Fuzzy Systems: Decentralized Rule Updating for Privacy and Scalable Decision Making**|Arthur Alexander Lim et.al.|[2507.06652](http://arxiv.org/abs/2507.06652)|null|
+|**2025-07-09**|**Subgraph Counting under Edge Local Differential Privacy Based on Noisy Adjacency Matrix**|Jintao Guo et.al.|[2507.06508](http://arxiv.org/abs/2507.06508)|null|
+|**2025-07-09**|**FedDifRC: Unlocking the Potential of Text-to-Image Diffusion Models in Heterogeneous Federated Learning**|Huan Wang et.al.|[2507.06482](http://arxiv.org/abs/2507.06482)|null|
+|**2025-07-08**|**FedPhD: Federated Pruning with Hierarchical Learning of Diffusion Models**|Qianyu Long et.al.|[2507.06449](http://arxiv.org/abs/2507.06449)|null|
+|**2025-07-08**|**An Architecture for Privacy-Preserving Telemetry Scheme**|Kenneth Odoh et.al.|[2507.06350](http://arxiv.org/abs/2507.06350)|null|
 |**2025-07-08**|**QuHE: Optimizing Utility-Cost in Quantum Key Distribution and Homomorphic Encryption Enabled Secure Edge Computing Networks**|Liangxin Qian et.al.|[2507.06086](http://arxiv.org/abs/2507.06086)|null|
 |**2025-07-08**|**Efficient Federated Learning with Timely Update Dissemination**|Juncheng Jia et.al.|[2507.06031](http://arxiv.org/abs/2507.06031)|null|
 |**2025-07-08**|**LDP $^3$ : An Extensible and Multi-Threaded Toolkit for Local Differential Privacy Protocols and Post-Processing Methods**|Berkay Kemal Balioglu et.al.|[2507.05872](http://arxiv.org/abs/2507.05872)|null|
