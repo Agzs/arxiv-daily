@@ -20,6 +20,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Analysing semantic data storage in Distributed Ledger Technologies for Data Spaces**|Juan Cano-Benito et.al.|[2507.07116](http://arxiv.org/abs/2507.07116)|null|
 |**2025-07-09**|**Wrapless: The trustless lending protocol on top of Bitcoin**|Oleksandr Kurbatov et.al.|[2507.06064](http://arxiv.org/abs/2507.06064)|null|
 |**2025-07-08**|**Programmable Governance for Group-Controlled Decentralized Identifiers**|Carlo Segat et.al.|[2507.06001](http://arxiv.org/abs/2507.06001)|null|
 |**2025-07-09**|**AI Agent Smart Contract Exploit Generation**|Arthur Gervais et.al.|[2507.05558](http://arxiv.org/abs/2507.05558)|null|
@@ -968,6 +969,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**AI Should Sense Better, Not Just Scale Bigger: Adaptive Sensing as a Paradigm Shift**|Eunsu Baek et.al.|[2507.07820](http://arxiv.org/abs/2507.07820)|null|
+|**2025-07-10**|**Distributed and Decentralised Training: Technical Governance Challenges in a Shifting AI Landscape**|Jakub Kryś et.al.|[2507.07765](http://arxiv.org/abs/2507.07765)|null|
+|**2025-07-10**|**RADAR: a Radio-based Analytics for Dynamic Association and Recognition of pseudonyms in VANETs**|Giovanni Gambigliani Zoccoli et.al.|[2507.07732](http://arxiv.org/abs/2507.07732)|null|
+|**2025-07-10**|**Balancing the Past and Present: A Coordinated Replay Framework for Federated Class-Incremental Learning**|Zhuang Qi et.al.|[2507.07712](http://arxiv.org/abs/2507.07712)|null|
+|**2025-07-10**|**Rethinking the Privacy of Text Embeddings: A Reproducibility Study of "Text Embeddings Reveal (Almost) As Much As Text"**|Dominykas Seputis et.al.|[2507.07700](http://arxiv.org/abs/2507.07700)|null|
+|**2025-07-10**|**HLF-FSL. A Decentralized Federated Split Learning Solution for IoT on Hyperledger Fabric**|Carlos Beis Penedo et.al.|[2507.07637](http://arxiv.org/abs/2507.07637)|null|
+|**2025-07-10**|**Sparse Self-Federated Learning for Energy Efficient Cooperative Intelligence in Society 5.0**|Davide Domini et.al.|[2507.07613](http://arxiv.org/abs/2507.07613)|null|
+|**2025-07-10**|**Secure Cooperative Gradient Coding: Optimality, Reliability, and Global Privacy**|Shudi Weng et.al.|[2507.07565](http://arxiv.org/abs/2507.07565)|null|
+|**2025-07-09**|**Optimizing Communication and Device Clustering for Clustered Federated Learning with Differential Privacy**|Dongyu Wei et.al.|[2507.07320](http://arxiv.org/abs/2507.07320)|null|
+|**2025-07-09**|**AdeptHEQ-FL: Adaptive Homomorphic Encryption for Federated Learning of Hybrid Classical-Quantum Models with Dynamic Layer Sparing**|Md Abrar Jahin et.al.|[2507.07316](http://arxiv.org/abs/2507.07316)|null|
 |**2025-07-09**|**Non-Asymptotic Analysis of Online Local Private Learning with SGD**|Enze Shi et.al.|[2507.07041](http://arxiv.org/abs/2507.07041)|null|
 |**2025-07-09**|**Federated Learning-based MARL for Strengthening Physical-Layer Security in B5G Networks**|Deemah H. Tashman et.al.|[2507.06997](http://arxiv.org/abs/2507.06997)|null|
 |**2025-07-09**|**Intrinsic Training Signals for Federated Learning Aggregation**|Cosimo Fiorini et.al.|[2507.06813](http://arxiv.org/abs/2507.06813)|null|
