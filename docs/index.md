@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.13
+## Updated on 2025.07.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -783,7 +783,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-09**|**ZKTorch: Compiling ML Inference to Zero-Knowledge Proofs via Parallel Proof Accumulation**|Bing-Jyue Chen et.al.|[2507.07031](http://arxiv.org/abs/2507.07031)|null|
+|**2025-07-10**|**ZKTorch: Compiling ML Inference to Zero-Knowledge Proofs via Parallel Proof Accumulation**|Bing-Jyue Chen et.al.|[2507.07031](http://arxiv.org/abs/2507.07031)|null|
 |**2025-07-05**|**zkSDK: Streamlining zero-knowledge proof development through automated trace-driven ZK-backend selection**|William Law et.al.|[2507.05294](http://arxiv.org/abs/2507.05294)|null|
 |**2025-06-30**|**On the Unimodular Isomorphism Problem of Convex Lattice Polytopes**|Qiuyue Liu et.al.|[2506.23846](http://arxiv.org/abs/2506.23846)|null|
 |**2025-06-30**|**Polynomial fingerprinting for trees and formulas**|Mihai Prunescu et.al.|[2506.21114](http://arxiv.org/abs/2506.21114)|null|
