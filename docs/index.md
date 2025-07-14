@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**Modeling Wallet-Level Behavioral Shifts Post-FTX Collapse: An XAI-Driven GLM Study on Ethereum Transactions**|Benjamin Gillen et.al.|[2507.08455](http://arxiv.org/abs/2507.08455)|null|
+|**2025-07-11**|**TruChain: A Multi-Layer Architecture for Trusted, Verifiable, and Immutable Open Banking Data**|Aufa Nasywa Rahman et.al.|[2507.08286](http://arxiv.org/abs/2507.08286)|null|
+|**2025-07-11**|**Giving AI Agents Access to Cryptocurrency and Smart Contracts Creates New Vectors of AI Harm**|Bill Marino et.al.|[2507.08249](http://arxiv.org/abs/2507.08249)|null|
 |**2025-07-03**|**Analysing semantic data storage in Distributed Ledger Technologies for Data Spaces**|Juan Cano-Benito et.al.|[2507.07116](http://arxiv.org/abs/2507.07116)|null|
 |**2025-07-09**|**Wrapless: The trustless lending protocol on top of Bitcoin**|Oleksandr Kurbatov et.al.|[2507.06064](http://arxiv.org/abs/2507.06064)|null|
 |**2025-07-08**|**Programmable Governance for Group-Controlled Decentralized Identifiers**|Carlo Segat et.al.|[2507.06001](http://arxiv.org/abs/2507.06001)|null|
@@ -957,6 +960,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**Geo-ORBIT: A Federated Digital Twin Framework for Scene-Adaptive Lane Geometry Detection**|Rei Tamaru et.al.|[2507.08743](http://arxiv.org/abs/2507.08743)|null|
+|**2025-07-11**|**Towards Collaborative Fairness in Federated Learning Under Imbalanced Covariate Shift**|Tianrun Yu et.al.|[2507.08617](http://arxiv.org/abs/2507.08617)|null|
+|**2025-07-11**|**SFedKD: Sequential Federated Learning with Discrepancy-Aware Multi-Teacher Knowledge Distillation**|Haotian Xu et.al.|[2507.08508](http://arxiv.org/abs/2507.08508)|null|
+|**2025-07-10**|**Quantum Federated Learning for Multimodal Data: A Modality-Agnostic Approach**|Atit Pokharel et.al.|[2507.08217](http://arxiv.org/abs/2507.08217)|null|
+|**2025-07-10**|**Emotion Recognition in Older Adults with Quantum Machine Learning and Wearable Sensors**|Md. Saif Hassan Onim et.al.|[2507.08175](http://arxiv.org/abs/2507.08175)|null|
+|**2025-07-10**|**Emotion Detection in Older Adults Using Physiological Signals from Wearable Sensors**|Md. Saif Hassan Onim et.al.|[2507.08167](http://arxiv.org/abs/2507.08167)|null|
 |**2025-07-10**|**AI Should Sense Better, Not Just Scale Bigger: Adaptive Sensing as a Paradigm Shift**|Eunsu Baek et.al.|[2507.07820](http://arxiv.org/abs/2507.07820)|null|
 |**2025-07-10**|**Distributed and Decentralised Training: Technical Governance Challenges in a Shifting AI Landscape**|Jakub Kryś et.al.|[2507.07765](http://arxiv.org/abs/2507.07765)|null|
 |**2025-07-10**|**RADAR: a Radio-based Analytics for Dynamic Association and Recognition of pseudonyms in VANETs**|Giovanni Gambigliani Zoccoli et.al.|[2507.07732](http://arxiv.org/abs/2507.07732)|null|
