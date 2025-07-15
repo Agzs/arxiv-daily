@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**A New Incentive Model For Content Trust**|Lucas Barbosa et.al.|[2507.09972](http://arxiv.org/abs/2507.09972)|null|
+|**2025-07-14**|**Endorsement-Driven Blockchain SSI Framework for Dynamic IoT Ecosystems**|Guntur Dharma Putra et.al.|[2507.09859](http://arxiv.org/abs/2507.09859)|null|
+|**2025-07-13**|**PromptChain: A Decentralized Web3 Architecture for Managing AI Prompts as Digital Assets**|Marc Bara et.al.|[2507.09579](http://arxiv.org/abs/2507.09579)|null|
+|**2025-07-10**|**Central Bank Digital Currencies: A Survey**|Qifeng Tang et.al.|[2507.08880](http://arxiv.org/abs/2507.08880)|null|
 |**2025-07-11**|**Modeling Wallet-Level Behavioral Shifts Post-FTX Collapse: An XAI-Driven GLM Study on Ethereum Transactions**|Benjamin Gillen et.al.|[2507.08455](http://arxiv.org/abs/2507.08455)|null|
 |**2025-07-11**|**TruChain: A Multi-Layer Architecture for Trusted, Verifiable, and Immutable Open Banking Data**|Aufa Nasywa Rahman et.al.|[2507.08286](http://arxiv.org/abs/2507.08286)|null|
 |**2025-07-11**|**Giving AI Agents Access to Cryptocurrency and Smart Contracts Creates New Vectors of AI Harm**|Bill Marino et.al.|[2507.08249](http://arxiv.org/abs/2507.08249)|null|
@@ -786,6 +790,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-13**|**SmartphoneDemocracy: Privacy-Preserving E-Voting on Decentralized Infrastructure using Novel European Identity**|Michał Jóźwik et.al.|[2507.09453](http://arxiv.org/abs/2507.09453)|null|
+|**2025-07-11**|**Quantum-Resilient Privacy Ledger (QRPL): A Sovereign Digital Currency for the Post-Quantum Era**|Serhan W. Bahar et.al.|[2507.09067](http://arxiv.org/abs/2507.09067)|null|
 |**2025-07-10**|**ZKTorch: Compiling ML Inference to Zero-Knowledge Proofs via Parallel Proof Accumulation**|Bing-Jyue Chen et.al.|[2507.07031](http://arxiv.org/abs/2507.07031)|null|
 |**2025-07-05**|**zkSDK: Streamlining zero-knowledge proof development through automated trace-driven ZK-backend selection**|William Law et.al.|[2507.05294](http://arxiv.org/abs/2507.05294)|null|
 |**2025-06-30**|**On the Unimodular Isomorphism Problem of Convex Lattice Polytopes**|Qiuyue Liu et.al.|[2506.23846](http://arxiv.org/abs/2506.23846)|null|
@@ -960,6 +966,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**SynthGuard: Redefining Synthetic Data Generation with a Scalable and Privacy-Preserving Workflow Framework**|Eduardo Brito et.al.|[2507.10489](http://arxiv.org/abs/2507.10489)|null|
+|**2025-07-14**|**Privacy-Preserving Multi-Stage Fall Detection Framework with Semi-supervised Federated Learning and Robotic Vision Confirmation**|Seyed Alireza Rahimi Azghadi et.al.|[2507.10474](http://arxiv.org/abs/2507.10474)|null|
+|**2025-07-14**|**Efficient Federated Learning with Heterogeneous Data and Adaptive Dropout**|Ji Liu et.al.|[2507.10430](http://arxiv.org/abs/2507.10430)|null|
+|**2025-07-14**|**Feature Distillation is the Better Choice for Model-Heterogeneous Federated Learning**|Yichen Li et.al.|[2507.10348](http://arxiv.org/abs/2507.10348)|null|
+|**2025-07-14**|**Convergence of Agnostic Federated Averaging**|Herlock et.al.|[2507.10325](http://arxiv.org/abs/2507.10325)|null|
+|**2025-07-14**|**HASSLE: A Self-Supervised Learning Enhanced Hijacking Attack on Vertical Federated Learning**|Weiyang He et.al.|[2507.10162](http://arxiv.org/abs/2507.10162)|null|
+|**2025-07-14**|**Domain Borders Are There to Be Crossed With Federated Few-Shot Adaptation**|Manuel Röder et.al.|[2507.10160](http://arxiv.org/abs/2507.10160)|null|
+|**2025-07-14**|**MTF-Grasp: A Multi-tier Federated Learning Approach for Robotic Grasping**|Obaidullah Zaland et.al.|[2507.10158](http://arxiv.org/abs/2507.10158)|null|
+|**2025-07-14**|**Differentially Private Federated Low Rank Adaptation Beyond Fixed-Matrix**|Ming Wen et.al.|[2507.09990](http://arxiv.org/abs/2507.09990)|null|
+|**2025-07-14**|**Large Population Models**|Ayush Chopra et.al.|[2507.09901](http://arxiv.org/abs/2507.09901)|null|
 |**2025-07-11**|**Geo-ORBIT: A Federated Digital Twin Framework for Scene-Adaptive Lane Geometry Detection**|Rei Tamaru et.al.|[2507.08743](http://arxiv.org/abs/2507.08743)|null|
 |**2025-07-11**|**Towards Collaborative Fairness in Federated Learning Under Imbalanced Covariate Shift**|Tianrun Yu et.al.|[2507.08617](http://arxiv.org/abs/2507.08617)|null|
 |**2025-07-11**|**SFedKD: Sequential Federated Learning with Discrepancy-Aware Multi-Teacher Knowledge Distillation**|Haotian Xu et.al.|[2507.08508](http://arxiv.org/abs/2507.08508)|null|
