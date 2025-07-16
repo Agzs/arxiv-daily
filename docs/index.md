@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**AI Agent Architecture for Decentralized Trading of Alternative Assets**|Ailiya Borjigin et.al.|[2507.11117](http://arxiv.org/abs/2507.11117)|null|
+|**2025-07-15**|**DVFS: A Dynamic Verifiable Fuzzy Search Service for Encrypted Cloud Data**|Jie Zhang et.al.|[2507.10927](http://arxiv.org/abs/2507.10927)|null|
 |**2025-07-14**|**A New Incentive Model For Content Trust**|Lucas Barbosa et.al.|[2507.09972](http://arxiv.org/abs/2507.09972)|null|
 |**2025-07-14**|**Endorsement-Driven Blockchain SSI Framework for Dynamic IoT Ecosystems**|Guntur Dharma Putra et.al.|[2507.09859](http://arxiv.org/abs/2507.09859)|null|
 |**2025-07-13**|**PromptChain: A Decentralized Web3 Architecture for Managing AI Prompts as Digital Assets**|Marc Bara et.al.|[2507.09579](http://arxiv.org/abs/2507.09579)|null|
@@ -966,6 +968,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**D3FL: Data Distribution and Detrending for Robust Federated Learning in Non-linear Time-series Data**|Harsha Varun Marisetty et.al.|[2507.11471](http://arxiv.org/abs/2507.11471)|null|
+|**2025-07-15**|**FLsim: A Modular and Library-Agnostic Simulation Framework for Federated Learning**|Arnab Mukherjee et.al.|[2507.11430](http://arxiv.org/abs/2507.11430)|null|
+|**2025-07-15**|**A Review of Privacy Metrics for Privacy-Preserving Synthetic Data Generation**|Frederik Marinus Trudslev et.al.|[2507.11324](http://arxiv.org/abs/2507.11324)|null|
+|**2025-07-15**|**Striking the Perfect Balance: Preserving Privacy While Boosting Utility in Collaborative Medical Prediction Platforms**|Shao-Bo Lin et.al.|[2507.11187](http://arxiv.org/abs/2507.11187)|null|
+|**2025-07-15**|**Quantized Rank Reduction: A Communications-Efficient Federated Learning Scheme for Network-Critical Applications**|Dimitrios Kritsiolis et.al.|[2507.11183](http://arxiv.org/abs/2507.11183)|null|
+|**2025-07-15**|**Fault-Free Analog Computing with Imperfect Hardware**|Zhicheng Xu et.al.|[2507.11134](http://arxiv.org/abs/2507.11134)|null|
 |**2025-07-14**|**SynthGuard: Redefining Synthetic Data Generation with a Scalable and Privacy-Preserving Workflow Framework**|Eduardo Brito et.al.|[2507.10489](http://arxiv.org/abs/2507.10489)|null|
 |**2025-07-14**|**Privacy-Preserving Multi-Stage Fall Detection Framework with Semi-supervised Federated Learning and Robotic Vision Confirmation**|Seyed Alireza Rahimi Azghadi et.al.|[2507.10474](http://arxiv.org/abs/2507.10474)|null|
 |**2025-07-15**|**Efficient Federated Learning with Heterogeneous Data and Adaptive Dropout**|Ji Liu et.al.|[2507.10430](http://arxiv.org/abs/2507.10430)|null|
