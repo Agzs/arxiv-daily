@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -971,8 +971,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-16**|**A Bayesian Incentive Mechanism for Poison-Resilient Federated Learning**|Daniel Commey et.al.|[2507.12439](http://arxiv.org/abs/2507.12439)|null|
-|**2025-07-16**|**High-Performance Pipelined NTT Accelerators with Homogeneous Digit-Serial Modulo Arithmetic**|George Alexakis et.al.|[2507.12418](http://arxiv.org/abs/2507.12418)|null|
-|**2025-07-16**|**Site-Level Fine-Tuning with Progressive Layer Freezing: Towards Robust Prediction of Bronchopulmonary Dysplasia from Day-1 Chest Radiographs in Extremely Preterm Infants**|Sybelle Goedicke-Fritz et.al.|[2507.12269](http://arxiv.org/abs/2507.12269)|null|
+|**2025-07-17**|**High-Performance Pipelined NTT Accelerators with Homogeneous Digit-Serial Modulo Arithmetic**|George Alexakis et.al.|[2507.12418](http://arxiv.org/abs/2507.12418)|null|
+|**2025-07-17**|**Site-Level Fine-Tuning with Progressive Layer Freezing: Towards Robust Prediction of Bronchopulmonary Dysplasia from Day-1 Chest Radiographs in Extremely Preterm Infants**|Sybelle Goedicke-Fritz et.al.|[2507.12269](http://arxiv.org/abs/2507.12269)|null|
 |**2025-07-16**|**Self-Adaptive and Robust Federated Spectrum Sensing without Benign Majority for Cellular Networks**|Ngoc Duy Pham et.al.|[2507.12127](http://arxiv.org/abs/2507.12127)|null|
 |**2025-07-16**|**A Privacy-Preserving Framework for Advertising Personalization Incorporating Federated Learning and Differential Privacy**|Xiang Li et.al.|[2507.12098](http://arxiv.org/abs/2507.12098)|null|
 |**2025-07-16**|**Effective Fine-Tuning of Vision Transformers with Low-Rank Adaptation for Privacy-Preserving Image Classification**|Haiwei Lin et.al.|[2507.11943](http://arxiv.org/abs/2507.11943)|null|
