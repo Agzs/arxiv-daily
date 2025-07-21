@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## blockchain
@@ -793,9 +793,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-15**|**ZKP-FedEval: Verifiable and Privacy-Preserving Federated Evaluation using Zero-Knowledge Proofs**|Daniel Commey et.al.|[2507.11649](http://arxiv.org/abs/2507.11649)|null|
+|**2025-07-18**|**ZKP-FedEval: Verifiable and Privacy-Preserving Federated Evaluation using Zero-Knowledge Proofs**|Daniel Commey et.al.|[2507.11649](http://arxiv.org/abs/2507.11649)|null|
 |**2025-07-13**|**SmartphoneDemocracy: Privacy-Preserving E-Voting on Decentralized Infrastructure using Novel European Identity**|Michał Jóźwik et.al.|[2507.09453](http://arxiv.org/abs/2507.09453)|null|
-|**2025-07-11**|**Quantum-Resilient Privacy Ledger (QRPL): A Sovereign Digital Currency for the Post-Quantum Era**|Serhan W. Bahar et.al.|[2507.09067](http://arxiv.org/abs/2507.09067)|null|
+|**2025-07-18**|**Quantum-Resilient Privacy Ledger (QRPL): A Sovereign Digital Currency for the Post-Quantum Era**|Serhan W. Bahar et.al.|[2507.09067](http://arxiv.org/abs/2507.09067)|null|
 |**2025-07-10**|**ZKTorch: Compiling ML Inference to Zero-Knowledge Proofs via Parallel Proof Accumulation**|Bing-Jyue Chen et.al.|[2507.07031](http://arxiv.org/abs/2507.07031)|null|
 |**2025-07-05**|**zkSDK: Streamlining zero-knowledge proof development through automated trace-driven ZK-backend selection**|William Law et.al.|[2507.05294](http://arxiv.org/abs/2507.05294)|null|
 |**2025-06-30**|**On the Unimodular Isomorphism Problem of Convex Lattice Polytopes**|Qiuyue Liu et.al.|[2506.23846](http://arxiv.org/abs/2506.23846)|null|
