@@ -713,6 +713,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**The CryptoNeo Threat Modelling Framework (CNTMF): Securing Neobanks and Fintech in Integrated Blockchain Ecosystems**|Serhan W. Bahar et.al.|[2507.14007](http://arxiv.org/abs/2507.14007)|null|
+|**2025-07-18**|**Improving structure search with hyperspatial optimization and TETRIS seeding**|Daviti Gochitashvili et.al.|[2507.13791](http://arxiv.org/abs/2507.13791)|null|
 |**2025-07-10**|**Hedge Funds on a Swamp: Analyzing Patterns, Vulnerabilities, and Defense Measures in Blockchain Bridges [Experiment, Analysis & Benchmark]**|Poupak Azad et.al.|[2507.06156](http://arxiv.org/abs/2507.06156)|null|
 |**2025-04-16**|**A Midsummer Meme's Dream: Investigating Market Manipulations in the Meme Coin Ecosystem**|Alberto Maria Mongardini et.al.|[2507.01963](http://arxiv.org/abs/2507.01963)|null|
 |**2025-06-15**|**Automated Risk Management Mechanisms in DeFi Lending Protocols: A Crosschain Comparative Analysis of Aave and Compound**|Erum Iftikhar et.al.|[2506.12855](http://arxiv.org/abs/2506.12855)|**[link](https://github.com/ErumIftikhar/DefiLending_Data_Code)**|
@@ -982,6 +984,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Edge Intelligence with Spiking Neural Networks**|Shuiguang Deng et.al.|[2507.14069](http://arxiv.org/abs/2507.14069)|null|
+|**2025-07-18**|**Efficient and Scalable Self-Healing Databases Using Meta-Learning and Dependency-Driven Recovery**|Joydeep Chandra et.al.|[2507.13757](http://arxiv.org/abs/2507.13757)|null|
+|**2025-07-18**|**FedSkipTwin: Digital-Twin-Guided Client Skipping for Communication-Efficient Federated Learning**|Daniel Commey et.al.|[2507.13624](http://arxiv.org/abs/2507.13624)|null|
+|**2025-07-18**|**FuSeFL: Fully Secure and Scalable Cross-Silo Federated Learning**|Sahar Ghoflsaz Ghinani et.al.|[2507.13591](http://arxiv.org/abs/2507.13591)|null|
+|**2025-07-17**|**Sensing and Stopping Interfering Secondary Users: Validation of an Efficient Spectrum Sharing System**|Meles Weldegebriel et.al.|[2507.13554](http://arxiv.org/abs/2507.13554)|null|
 |**2025-07-17**|**A Crowdsensing Intrusion Detection Dataset For Decentralized Federated Learning Models**|Chao Feng et.al.|[2507.13313](http://arxiv.org/abs/2507.13313)|null|
 |**2025-07-17**|**Privacy-Preserving Fusion for Multi-Sensor Systems Under Multiple Packet Dropouts**|Jie Huang et.al.|[2507.13286](http://arxiv.org/abs/2507.13286)|null|
 |**2025-07-17**|**FedGA: A Fair Federated Learning Framework Based on the Gini Coefficient**|ShanBin Liu et.al.|[2507.12983](http://arxiv.org/abs/2507.12983)|null|
