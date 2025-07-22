@@ -20,6 +20,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**GasAgent: A Multi-Agent Framework for Automated Gas Optimization in Smart Contracts**|Jingyi Zheng et.al.|[2507.15761](http://arxiv.org/abs/2507.15761)|null|
+|**2025-07-20**|**Mitigating Financial Frictions in Agriculture: A Framework for Stablecoin Adoption**|Xinyu Li et.al.|[2507.14970](http://arxiv.org/abs/2507.14970)|null|
 |**2025-07-16**|**LLAMA: Multi-Feedback Smart Contract Fuzzing Framework with LLM-Guided Seed Generation**|Keke Gai et.al.|[2507.12084](http://arxiv.org/abs/2507.12084)|null|
 |**2025-07-15**|**AI Agent Architecture for Decentralized Trading of Alternative Assets**|Ailiya Borjigin et.al.|[2507.11117](http://arxiv.org/abs/2507.11117)|null|
 |**2025-07-15**|**DVFS: A Dynamic Verifiable Fuzzy Search Service for Encrypted Cloud Data**|Jie Zhang et.al.|[2507.10927](http://arxiv.org/abs/2507.10927)|null|
@@ -715,7 +717,7 @@
 |---|---|---|---|---|
 |**2025-07-18**|**The CryptoNeo Threat Modelling Framework (CNTMF): Securing Neobanks and Fintech in Integrated Blockchain Ecosystems**|Serhan W. Bahar et.al.|[2507.14007](http://arxiv.org/abs/2507.14007)|null|
 |**2025-07-18**|**Improving structure search with hyperspatial optimization and TETRIS seeding**|Daviti Gochitashvili et.al.|[2507.13791](http://arxiv.org/abs/2507.13791)|null|
-|**2025-07-10**|**Hedge Funds on a Swamp: Analyzing Patterns, Vulnerabilities, and Defense Measures in Blockchain Bridges [Experiment, Analysis & Benchmark]**|Poupak Azad et.al.|[2507.06156](http://arxiv.org/abs/2507.06156)|null|
+|**2025-07-21**|**Hedge Funds on a Swamp: Analyzing Patterns, Vulnerabilities, and Defense Measures in Blockchain Bridges**|Poupak Azad et.al.|[2507.06156](http://arxiv.org/abs/2507.06156)|null|
 |**2025-04-16**|**A Midsummer Meme's Dream: Investigating Market Manipulations in the Meme Coin Ecosystem**|Alberto Maria Mongardini et.al.|[2507.01963](http://arxiv.org/abs/2507.01963)|null|
 |**2025-06-15**|**Automated Risk Management Mechanisms in DeFi Lending Protocols: A Crosschain Comparative Analysis of Aave and Compound**|Erum Iftikhar et.al.|[2506.12855](http://arxiv.org/abs/2506.12855)|**[link](https://github.com/ErumIftikhar/DefiLending_Data_Code)**|
 |**2025-06-06**|**Hybrid Stabilization Protocol for Cross-Chain Digital Assets Using Adaptor Signatures and AI-Driven Arbitrage**|Shengwei You et.al.|[2506.05708](http://arxiv.org/abs/2506.05708)|null|
@@ -805,6 +807,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Quantum-Safe Identity Verification using Relativistic Zero-Knowledge Proof Systems**|Yao Ma et.al.|[2507.14324](http://arxiv.org/abs/2507.14324)|null|
 |**2025-07-18**|**ZKP-FedEval: Verifiable and Privacy-Preserving Federated Evaluation using Zero-Knowledge Proofs**|Daniel Commey et.al.|[2507.11649](http://arxiv.org/abs/2507.11649)|null|
 |**2025-07-13**|**SmartphoneDemocracy: Privacy-Preserving E-Voting on Decentralized Infrastructure using Novel European Identity**|Michał Jóźwik et.al.|[2507.09453](http://arxiv.org/abs/2507.09453)|null|
 |**2025-07-18**|**Quantum-Resilient Privacy Ledger (QRPL): A Sovereign Digital Currency for the Post-Quantum Era**|Serhan W. Bahar et.al.|[2507.09067](http://arxiv.org/abs/2507.09067)|null|
@@ -984,6 +987,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Federated Split Learning with Improved Communication and Storage Efficiency**|Yujia Mu et.al.|[2507.15816](http://arxiv.org/abs/2507.15816)|null|
+|**2025-07-21**|**Fluid Antenna-enabled Near-Field Integrated Sensing, Computing and Semantic Communication for Emerging Applications**|Yinchao Yang et.al.|[2507.15800](http://arxiv.org/abs/2507.15800)|null|
+|**2025-07-21**|**Challenges of Trustworthy Federated Learning: What's Done, Current Trends and Remaining Work**|Nuria Rodríguez-Barroso et.al.|[2507.15796](http://arxiv.org/abs/2507.15796)|null|
+|**2025-07-21**|**Optimal Batch-Size Control for Low-Latency Federated Learning with Device Heterogeneity**|Huiling Yang et.al.|[2507.15601](http://arxiv.org/abs/2507.15601)|null|
+|**2025-07-21**|**FedMultiEmo: Real-Time Emotion Recognition via Multimodal Federated Learning**|Baran Can Gül et.al.|[2507.15470](http://arxiv.org/abs/2507.15470)|null|
+|**2025-07-21**|**Privacy-Preserving Multimodal News Recommendation through Federated Learning**|Mehdi Khalaj et.al.|[2507.15460](http://arxiv.org/abs/2507.15460)|null|
+|**2025-07-21**|**Scaling Decentralized Learning with FLock**|Zehua Cheng et.al.|[2507.15349](http://arxiv.org/abs/2507.15349)|null|
+|**2025-07-21**|**Optimal Transceiver Design in Over-the-Air Federated Distillation**|Zihao Hu et.al.|[2507.15256](http://arxiv.org/abs/2507.15256)|null|
+|**2025-07-21**|**An ML-Driven Participant Selection Technique for Federated Recommendation System in Edge-Cloud Computing**|Jintao Liu et.al.|[2507.15233](http://arxiv.org/abs/2507.15233)|null|
+|**2025-07-21**|**Robust and Differentially Private PCA for non-Gaussian data**|Minwoo Kim et.al.|[2507.15232](http://arxiv.org/abs/2507.15232)|null|
 |**2025-07-18**|**Edge Intelligence with Spiking Neural Networks**|Shuiguang Deng et.al.|[2507.14069](http://arxiv.org/abs/2507.14069)|null|
 |**2025-07-18**|**Efficient and Scalable Self-Healing Databases Using Meta-Learning and Dependency-Driven Recovery**|Joydeep Chandra et.al.|[2507.13757](http://arxiv.org/abs/2507.13757)|null|
 |**2025-07-18**|**FedSkipTwin: Digital-Twin-Guided Client Skipping for Communication-Efficient Federated Learning**|Daniel Commey et.al.|[2507.13624](http://arxiv.org/abs/2507.13624)|null|
