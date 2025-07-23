@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Autonomous Dominant Resource Fairness for Blockchain Ecosystems**|Serdar Metin et.al.|[2507.16350](http://arxiv.org/abs/2507.16350)|null|
+|**2025-07-22**|**From Contracts to Code: Automating Smart Contract Generation with Multi-Level Finite State Machines**|Lambard Maxence et.al.|[2507.16276](http://arxiv.org/abs/2507.16276)|null|
 |**2025-07-21**|**GasAgent: A Multi-Agent Framework for Automated Gas Optimization in Smart Contracts**|Jingyi Zheng et.al.|[2507.15761](http://arxiv.org/abs/2507.15761)|null|
 |**2025-07-20**|**Mitigating Financial Frictions in Agriculture: A Framework for Stablecoin Adoption**|Xinyu Li et.al.|[2507.14970](http://arxiv.org/abs/2507.14970)|null|
 |**2025-07-16**|**LLAMA: Multi-Feedback Smart Contract Fuzzing Framework with LLM-Guided Seed Generation**|Keke Gai et.al.|[2507.12084](http://arxiv.org/abs/2507.12084)|null|
@@ -797,6 +799,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**MTU: The Multifunction Tree Unit in zkSpeed for Accelerating HyperPlonk**|Jianqiao Mo et.al.|[2507.16793](http://arxiv.org/abs/2507.16793)|null|
 |**2025-07-18**|**Quantum-Safe Identity Verification using Relativistic Zero-Knowledge Proof Systems**|Yao Ma et.al.|[2507.14324](http://arxiv.org/abs/2507.14324)|null|
 |**2025-07-18**|**ZKP-FedEval: Verifiable and Privacy-Preserving Federated Evaluation using Zero-Knowledge Proofs**|Daniel Commey et.al.|[2507.11649](http://arxiv.org/abs/2507.11649)|null|
 |**2025-07-13**|**SmartphoneDemocracy: Privacy-Preserving E-Voting on Decentralized Infrastructure using Novel European Identity**|Michał Jóźwik et.al.|[2507.09453](http://arxiv.org/abs/2507.09453)|null|
@@ -975,6 +978,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**MTU: The Multifunction Tree Unit in zkSpeed for Accelerating HyperPlonk**|Jianqiao Mo et.al.|[2507.16793](http://arxiv.org/abs/2507.16793)|null|
+|**2025-07-22**|**Collaborative Inference and Learning between Edge SLMs and Cloud LLMs: A Survey of Algorithms, Execution, and Open Challenges**|Senyao Li et.al.|[2507.16731](http://arxiv.org/abs/2507.16731)|null|
+|**2025-07-22**|**FOGNITE: Federated Learning-Enhanced Fog-Cloud Architecture**|Somayeh Sobati-M et.al.|[2507.16668](http://arxiv.org/abs/2507.16668)|null|
+|**2025-07-22**|**A Comprehensive Data-centric Overview of Federated Graph Learning**|Zhengyu Wu et.al.|[2507.16541](http://arxiv.org/abs/2507.16541)|null|
+|**2025-07-22**|**Ironman: Accelerating Oblivious Transfer Extension for Privacy-Preserving AI with Near-Memory Processing**|Chenqi Lin et.al.|[2507.16391](http://arxiv.org/abs/2507.16391)|null|
+|**2025-07-22**|**DP2Guard: A Lightweight and Byzantine-Robust Privacy-Preserving Federated Learning Scheme for Industrial IoT**|Baofu Han et.al.|[2507.16134](http://arxiv.org/abs/2507.16134)|null|
+|**2025-07-21**|**Improved Semantic Segmentation from Ultra-Low-Resolution RGB Images Applied to Privacy-Preserving Object-Goal Navigation**|Xuying Huang et.al.|[2507.16034](http://arxiv.org/abs/2507.16034)|null|
 |**2025-07-21**|**Federated Split Learning with Improved Communication and Storage Efficiency**|Yujia Mu et.al.|[2507.15816](http://arxiv.org/abs/2507.15816)|null|
 |**2025-07-21**|**Fluid Antenna-enabled Near-Field Integrated Sensing, Computing and Semantic Communication for Emerging Applications**|Yinchao Yang et.al.|[2507.15800](http://arxiv.org/abs/2507.15800)|null|
 |**2025-07-21**|**Challenges of Trustworthy Federated Learning: What's Done, Current Trends and Remaining Work**|Nuria Rodríguez-Barroso et.al.|[2507.15796](http://arxiv.org/abs/2507.15796)|null|
