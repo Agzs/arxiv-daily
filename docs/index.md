@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Resilient Multi-Agent Negotiation for Medical Supply Chains:Integrating LLMs and Blockchain for Transparent Coordination**|Mariam ALMutairi et.al.|[2507.17134](http://arxiv.org/abs/2507.17134)|null|
+|**2025-07-19**|**CASPER: Contrastive Approach for Smart Ponzi Scheme Detecter with More Negative Samples**|Weijia Yang et.al.|[2507.16840](http://arxiv.org/abs/2507.16840)|null|
 |**2025-07-22**|**Autonomous Dominant Resource Fairness for Blockchain Ecosystems**|Serdar Metin et.al.|[2507.16350](http://arxiv.org/abs/2507.16350)|null|
 |**2025-07-22**|**From Contracts to Code: Automating Smart Contract Generation with Multi-Level Finite State Machines**|Lambard Maxence et.al.|[2507.16276](http://arxiv.org/abs/2507.16276)|null|
 |**2025-07-21**|**GasAgent: A Multi-Agent Framework for Automated Gas Optimization in Smart Contracts**|Jingyi Zheng et.al.|[2507.15761](http://arxiv.org/abs/2507.15761)|null|
@@ -799,6 +801,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Towards Trustworthy AI: Secure Deepfake Detection using CNNs and Zero-Knowledge Proofs**|H M Mohaimanul Islam et.al.|[2507.17010](http://arxiv.org/abs/2507.17010)|null|
 |**2025-07-22**|**MTU: The Multifunction Tree Unit in zkSpeed for Accelerating HyperPlonk**|Jianqiao Mo et.al.|[2507.16793](http://arxiv.org/abs/2507.16793)|null|
 |**2025-07-18**|**Quantum-Safe Identity Verification using Relativistic Zero-Knowledge Proof Systems**|Yao Ma et.al.|[2507.14324](http://arxiv.org/abs/2507.14324)|null|
 |**2025-07-18**|**ZKP-FedEval: Verifiable and Privacy-Preserving Federated Evaluation using Zero-Knowledge Proofs**|Daniel Commey et.al.|[2507.11649](http://arxiv.org/abs/2507.11649)|null|
@@ -978,6 +981,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Enhancing Quantum Federated Learning with Fisher Information-Based Optimization**|Amandeep Singh Bhatia et.al.|[2507.17580](http://arxiv.org/abs/2507.17580)|null|
+|**2025-07-23**|**Optimal differentially private kernel learning with random projection**|Bonwoo Lee et.al.|[2507.17544](http://arxiv.org/abs/2507.17544)|null|
+|**2025-07-23**|**Federated Majorize-Minimization: Beyond Parameter Aggregation**|Aymeric Dieuleveut et.al.|[2507.17534](http://arxiv.org/abs/2507.17534)|null|
+|**2025-07-23**|**Decentralized Federated Learning of Probabilistic Generative Classifiers**|Aritz Pérez et.al.|[2507.17285](http://arxiv.org/abs/2507.17285)|null|
+|**2025-07-23**|**Tab-MIA: A Benchmark Dataset for Membership Inference Attacks on Tabular Data in LLMs**|Eyal German et.al.|[2507.17259](http://arxiv.org/abs/2507.17259)|null|
+|**2025-07-23**|**Eco-Friendly AI: Unleashing Data Power for Green Federated Learning**|Mattia Sabella et.al.|[2507.17241](http://arxiv.org/abs/2507.17241)|null|
+|**2025-07-23**|**P3SL: Personalized Privacy-Preserving Split Learning on Heterogeneous Edge Devices**|Wei Fan et.al.|[2507.17228](http://arxiv.org/abs/2507.17228)|null|
+|**2025-07-23**|**Threshold-Protected Searchable Sharing: Privacy Preserving Aggregated-ANN Search for Collaborative RAG**|Ruoyang Rykie Guo et.al.|[2507.17199](http://arxiv.org/abs/2507.17199)|null|
+|**2025-07-23**|**A Privacy-Preserving Data Collection Method for Diversified Statistical Analysis**|Hao Jiang et.al.|[2507.17180](http://arxiv.org/abs/2507.17180)|null|
+|**2025-07-23**|**FedVLM: Scalable Personalized Vision-Language Models through Federated Learning**|Arkajyoti Mitra et.al.|[2507.17088](http://arxiv.org/abs/2507.17088)|null|
 |**2025-07-22**|**MTU: The Multifunction Tree Unit in zkSpeed for Accelerating HyperPlonk**|Jianqiao Mo et.al.|[2507.16793](http://arxiv.org/abs/2507.16793)|null|
 |**2025-07-22**|**Collaborative Inference and Learning between Edge SLMs and Cloud LLMs: A Survey of Algorithms, Execution, and Open Challenges**|Senyao Li et.al.|[2507.16731](http://arxiv.org/abs/2507.16731)|null|
 |**2025-07-22**|**FOGNITE: Federated Learning-Enhanced Fog-Cloud Architecture**|Somayeh Sobati-M et.al.|[2507.16668](http://arxiv.org/abs/2507.16668)|null|
